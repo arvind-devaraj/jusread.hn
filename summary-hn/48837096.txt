@@ -1,0 +1,8 @@
+Most nurses say AI isn't good enough to trust with patient care, survey finds  (13 pts, 2 comments)
+https://news.ycombinator.com/item?id=48837096
+
+The Hacker News discussion revolves around a survey indicating that most nurses believe AI is not reliable enough for patient care. The article highlights concerns from healthcare professionals about the readiness of AI technology to handle critical medical tasks.
+
+In the comments, there is a notable divide in perspectives. One commenter, antondd, questions the expertise of nurses in evaluating AI's capabilities, suggesting that their opinions may not reflect a comprehensive understanding of AI workflows. Another commenter, tim-tday, argues that AI professionals would likely share the nurses' skepticism, implying that trust in AI for patient care is broadly lacking across the field.
+
+Overall, the discussion underscores a significant apprehension among healthcare workers regarding the integration of AI into patient care, emphasizing the need for further dialogue between healthcare professionals and AI developers to address these concerns.

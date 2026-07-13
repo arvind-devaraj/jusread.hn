@@ -1,0 +1,8 @@
+The text in Claude Code’s “Extended Thinking” output  (326 pts, 225 comments)
+https://news.ycombinator.com/item?id=48630535
+
+The Hacker News discussion revolves around a blog post that critiques Claude Code's "Extended Thinking" output, arguing that the reasoning provided by the AI is not authentic but rather a summarized version of its internal processes. The author expresses a desire for more transparency regarding how AI models generate their outputs, suggesting that the summarized reasoning may hinder users' understanding and trust in the technology.
+
+In the comments, there is a mix of agreement and debate. Some users argue that the summarized reasoning is sufficient for practical use, while others emphasize the importance of having access to the full reasoning to measure performance and understand the model's decision-making. A recurring theme is the idea that companies like Anthropic and OpenAI are intentionally obscuring their models' reasoning to protect their intellectual property and maintain a competitive edge, which some view as a necessary business strategy, while others see it as a form of hubris.
+
+Notable insights include the recognition that the summarized reasoning may not accurately reflect the model's internal thought processes, leading to concerns about user dependency on AI without a clear understanding of its workings. Additionally, the discussion touches on broader issues of transparency, competition, and the ethical implications of AI development, highlighting the tension between innovation and the desire for openness in the field.

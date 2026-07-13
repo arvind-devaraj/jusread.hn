@@ -1,0 +1,8 @@
+Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario  (6 pts, 1 comments)
+https://news.ycombinator.com/item?id=48801131
+
+The Hacker News discussion revolves around a Wall Street Journal article that highlights a shift in perspective among Big Tech leaders regarding the potential job losses caused by artificial intelligence (AI). Initially, there was widespread concern that AI would lead to significant job displacement; however, recent statements from tech CEOs suggest a more optimistic view, emphasizing the potential for AI to create new job opportunities instead.
+
+In the comments, users express a mix of skepticism and curiosity about this sudden change in narrative. Some agree that the tech industry's messaging may be influenced by a desire to maintain public support and investor confidence, while others question the feasibility of new job creation in the face of rapid automation. A notable comment by user FrankWilhoit likens the situation to a busker struggling to keep pace with their audience, suggesting that the tech leaders may be reacting to public sentiment rather than presenting a clear vision.
+
+Overall, the discussion reflects a broader debate about the implications of AI on the workforce, with participants weighing the potential benefits against the risks of job displacement.

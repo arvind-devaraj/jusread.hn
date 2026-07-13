@@ -1,0 +1,8 @@
+Ask HN: Add flag for AI-generated articles  (601 pts, 269 comments)
+https://news.ycombinator.com/item?id=48886741
+
+The Hacker News discussion revolves around the proposal to add a feature that allows users to flag articles as AI-generated. The idea is to provide an indicator for those who prefer not to engage with AI-generated content, without affecting the article's ranking. The post raises questions about the adequacy of the current voting system and whether HN should adapt to the rise of generative AI.
+
+In the comments, there is a mix of opinions. Some users argue that flagging AI-generated content could help maintain the quality of discussions, while others believe it could lead to unfair stigmatization of human-written articles that may have used AI tools. Concerns about the reliability of AI detection and the potential for abuse of the flagging system are also discussed. Notably, some commenters express skepticism about HN's ability to enforce guidelines, especially given Y Combinator's investments in AI, which may create a conflict of interest.
+
+Overall, the conversation highlights a tension between maintaining content quality and embracing new technologies, with varying perspectives on how to balance these priorities in the context of a community built on human interaction.

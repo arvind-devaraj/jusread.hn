@@ -1,0 +1,8 @@
+LLMs do not merely reflect the bias of their training, they police it (2025)  (29 pts, 16 comments)
+https://news.ycombinator.com/item?id=48628450
+
+The Hacker News discussion revolves around the assertion that large language models (LLMs) not only reflect biases present in their training data but also actively enforce these biases, potentially leading to misalignment in AI behavior. The original post references a report by Brian Roemmele, which some commenters question due to his perceived lack of expertise.
+
+In the comments, there is a mix of skepticism and agreement regarding the implications of LLMs mimicking human biases. Some users express concern about the potential for LLMs to reinforce misconceptions and conformist behaviors based on the data they are trained on. Others critique the credibility of the original post and its author, suggesting that the discussion lacks a solid foundation in established research.
+
+Notable insights include the idea that LLMs can become increasingly confident in their inaccuracies through repeated interactions, as they adjust their responses to align with perceived user expectations. This highlights a broader concern about the reliability of AI-generated information and the challenges of ensuring accurate and unbiased outputs.

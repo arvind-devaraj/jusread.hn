@@ -1,0 +1,8 @@
+Save Claude Code Tokens with Smart Routing  (11 pts, 3 comments)
+https://news.ycombinator.com/item?id=48780858
+
+The Hacker News discussion revolves around a GitHub project titled "Save Claude Code Tokens with Smart Routing," which aims to optimize the use of Claude AI models by implementing smart routing techniques to reduce costs associated with token usage. The project seeks to enhance efficiency in handling conversations by potentially minimizing the number of tokens processed.
+
+In the comments, users debate the effectiveness of the proposed solution. One commenter, nithiink, raises concerns about prompt caching, highlighting that switching models can invalidate cached conversation contexts, leading to increased costs. Another user, patch_dev, questions the necessity of this approach compared to existing solutions like subagents, which are already widely used. FrancescoMassa counters that their tests indicate subagents and established workflows can be 20-30% more expensive in terms of context and token efficiency, suggesting that the new method may offer significant savings.
+
+Overall, the discussion reflects a mix of skepticism and curiosity about the new routing strategy, with participants weighing its potential advantages against existing methods in the context of cost efficiency and performance.

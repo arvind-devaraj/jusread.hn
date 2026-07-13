@@ -1,0 +1,8 @@
+Ornith-1.0: Self-scaffolding LLMs for agentic coding  (86 pts, 10 comments)
+https://news.ycombinator.com/item?id=48709744
+
+The Hacker News discussion revolves around the release of Ornith-1.0, a self-scaffolding language model (LLM) designed for agentic coding, which aims to enhance the ability of AI agents to solve coding problems by generating and utilizing tools. The original post highlights the model's capabilities and its potential to outperform existing models in specific tasks.
+
+In the comments, users share their experiences benchmarking Ornith against other models, particularly Qwen 3.6 and Qwen 3.5. While some users, like SwellJoe, note that Ornith performs poorly with basic tools but shows improvement when given more advanced capabilities, others express skepticism about its claims, particularly regarding the 9B model's performance compared to the 35B state-of-the-art models. There is a debate about the validity of the performance claims, with some users suggesting that the model's generalist nature may account for its capabilities in specific tasks.
+
+Notable insights include the acknowledgment that while Ornith may not replace established tools like DeepSeek, it could still be a valuable option if it proves to be fast and cost-effective. Additionally, there is a discussion about the model's approach to problem-solving, with some questioning whether it represents a genuine advancement or merely a sophisticated form of prompt optimization. Overall, the conversation reflects a mix of curiosity, skepticism, and a desire for further testing to validate the model's claims.

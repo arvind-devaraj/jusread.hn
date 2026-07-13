@@ -1,0 +1,6 @@
+Show HN: Tarit – Self-host sandbox cloud and hypervisor for AI agents  (6 pts, 0 comments)
+https://news.ycombinator.com/item?id=48829512
+
+The Hacker News discussion revolves around the introduction of Tarit, a self-hosted hypervisor designed specifically for running AI agents and reinforcement learning (RL) environments. Built on the rust-vmm framework, Tarit aims to address limitations found in Firecracker, which is primarily focused on serverless computing and lacks features like live snapshots without pausing VM operations. Tarit includes a basic orchestrator for managing microVMs, creating high-availability clusters, and handling networking and monitoring.
+
+In the comments, users express interest in Tarit's performance benchmarks, noting its impressive speed in acquiring VMs and executing code, with a 99th percentile latency of 35ms. There is a consensus on the potential benefits of self-hosting Tarit on cloud platforms or bare metal, especially for developers working with AI. Some users discuss the implications of using Rust for such projects, highlighting its safety and performance advantages. Overall, the discussion reflects excitement about Tarit’s capabilities and its potential impact on AI development environments.

@@ -1,0 +1,6 @@
+Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL  (39 pts, 7 comments)
+https://news.ycombinator.com/item?id=48875342
+
+The Hacker News discussion revolves around "Sqlsure," a tool designed to perform deterministic semantic checks on SQL queries, whether they are written by humans or AI. The tool inspects queries against predefined schema facts to prevent issues like fan-out double-counting, which can lead to incorrect data in dashboards. It operates offline, does not generate SQL or access data, and executes checks quickly.
+
+In the comments, users express mixed feelings about the tool's utility and the clarity of its documentation. Some, like "tuckwat," find AI-generated content difficult to understand, while the creator, "tejusarora," acknowledges this and expresses a desire to improve the documentation. Another commenter, "onlyrealcuzzo," questions the necessity of the tool, suggesting that the issues it addresses may stem from poor database design rather than a need for additional checks. Overall, there is a consensus on the potential usefulness of Sqlsure, but also a call for clearer examples and better documentation.

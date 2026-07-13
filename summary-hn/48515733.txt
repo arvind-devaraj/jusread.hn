@@ -1,0 +1,8 @@
+KPMG's AI report turns into a demo of AI hallucinations  (55 pts, 10 comments)
+https://news.ycombinator.com/item?id=48515733
+
+The Hacker News discussion revolves around a report from KPMG that highlights the limitations of AI, particularly its tendency to produce "hallucinations" or inaccurate outputs. The post critiques the reliance on expensive consulting firms for AI-generated advice, questioning the value of such services when AI can produce flawed information.
+
+In the comments, there is a consensus that consulting firms like KPMG often serve more as a prestige symbol rather than providers of actionable insights. Many commenters suggest that these firms act as scapegoats for corporate leaders, allowing them to deflect blame if projects fail while taking credit for successes. Some humorously propose that even a less qualified individual, like a homeless person, could serve the same purpose at a fraction of the cost.
+
+Notable insights include the idea that consulting firms facilitate corporate politics by cross-pollinating strategies among CEOs, and that their primary role may be more about managing perceptions and accountability than delivering genuine expertise. Overall, the discussion reflects skepticism about the effectiveness and necessity of traditional consulting in the age of AI.

@@ -1,0 +1,8 @@
+GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance  (370 pts, 151 comments)
+https://news.ycombinator.com/item?id=48789428
+
+The Hacker News discussion revolves around concerns regarding the GPT-5.5 Codex model, specifically a clustering issue where reasoning output tokens tend to group at fixed intervals (spaced 518 tokens apart). This phenomenon appears to correlate with degraded performance in complex tasks, with users noting that it is significantly less prevalent in earlier versions like GPT-5.4 and almost absent in 5.2 and 5.3.
+
+In the comments, users express a mix of frustration and confusion about the model's performance. Some users report that they have shifted away from using GPT-5.5 for reasoning tasks, citing a noticeable decline in effectiveness compared to previous versions and other models like Claude. There is also debate about the technical aspects of the clustering issue, with suggestions that it may be related to batching optimizations or adjustments to reasoning parameters. Additionally, some users speculate that the degradation in performance could be a business decision to cut costs rather than a purely technical issue.
+
+Notable insights include a shared sentiment that the quality of responses has declined, with some users switching back to older models or alternative systems for better reliability. There is also a discussion about the implications of using different harnesses for accessing the models, with some users advocating for the flexibility of OpenAI's offerings compared to competitors like Anthropic. Overall, the conversation highlights a growing concern among users about the reliability and performance of the latest AI models.

@@ -1,0 +1,8 @@
+AskHN:How do you handle skill atrophy from using coding agents?  (34 pts, 42 comments)
+https://news.ycombinator.com/item?id=48554309
+
+The Hacker News discussion revolves around the concern of skill atrophy among developers who increasingly rely on AI coding agents for their work. The original poster expresses that while AI tools enhance efficiency, they worry about losing their coding skills due to reduced practice.
+
+In the comments, there is a mix of opinions. Some users argue that high-level cognitive skills, such as architecture decisions and requirements analysis, remain irreplaceable by AI and should be prioritized to maintain skill relevance. Others believe that skills can become atrophied, particularly if one relies solely on AI for coding tasks, leading to a decline in manual coding abilities. There are also discussions about the importance of prompt engineering and the evolving nature of skills in the tech landscape, with some users sharing personal strategies to retain their coding skills, such as practicing coding challenges or engaging in deeper cognitive tasks with AI.
+
+Notably, some commenters highlight that while certain skills may diminish, they are simultaneously developing new capabilities through their interactions with AI. Others emphasize the need to balance AI usage with hands-on practice to avoid becoming overly reliant on these tools. Overall, the conversation reflects a broader debate about the implications of AI on professional skills and the future of work in tech.

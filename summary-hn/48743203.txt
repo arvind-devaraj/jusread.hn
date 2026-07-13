@@ -1,0 +1,8 @@
+Liquid AI releases a 230M model optimized for phones, Raspberry Pi, and robots  (20 pts, 1 comments)
+https://news.ycombinator.com/item?id=48743203
+
+The Hacker News discussion centers around Liquid AI's release of a new 230 million parameter model, part of their LFM 2.5 series, which is optimized for use on devices like smartphones, Raspberry Pi, and robots. The post highlights the model's efficiency and speed, making it suitable for local inference tasks.
+
+In the comments, user potus_kushner praises the performance of the LFM 2.5 models, particularly the larger 8B-A1B variant, which achieves impressive processing speeds on older hardware. They express a desire for more fine-tuned versions of the model to be available on Hugging Face, indicating that the model may not yet be widely recognized or utilized in the community.
+
+Overall, the discussion emphasizes the potential of Liquid AI's models for efficient local computing and the need for greater visibility and resources to encourage broader adoption and experimentation within the AI community.

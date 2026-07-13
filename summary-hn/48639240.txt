@@ -1,0 +1,8 @@
+VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO  (398 pts, 205 comments)
+https://news.ycombinator.com/item?id=48639240
+
+The Hacker News discussion revolves around the VibeThinker model, a 3 billion parameter AI that reportedly outperforms Opus 4.5 in reasoning tasks, particularly in closed-world scenarios like competitive programming and mathematics. The model is designed for efficiency in specific tasks, focusing on verifiable reasoning rather than general knowledge or creative outputs, such as generating SVG graphics.
+
+In the comments, there is a debate about the model's capabilities and limitations. Some users express skepticism about its performance in generating structured outputs or using external tools, while others highlight its potential as a fast companion model for larger systems. Notably, several commenters share their experiences testing the model, with mixed results on its reasoning abilities and structured output generation. A consensus emerges that while VibeThinker excels in specific reasoning tasks, it lacks broader knowledge and tool-calling capabilities, making it more suitable for bounded problems rather than open-ended tasks.
+
+Overall, the discussion reflects a mix of optimism about the model's specialized reasoning capabilities and caution regarding its limitations in broader applications. Users are intrigued by the potential for compact reasoning modules in AI, but there is recognition that more work is needed to enhance their functionality and versatility.

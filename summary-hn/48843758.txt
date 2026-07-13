@@ -1,0 +1,8 @@
+The true cost of saying "Hi" to an AI agent  (9 pts, 4 comments)
+https://news.ycombinator.com/item?id=48843758
+
+The Hacker News discussion revolves around a blog post titled "The true cost of saying 'Hi' to an AI agent," which explores the complexities and implications of interacting with AI systems. The article suggests that AI responses can be pre-programmed or contextually generated, similar to how a hotel concierge might respond to guests. 
+
+In the comments, there is a consensus that AI agents are often not well-suited for open-ended or indeterminate questions, which may be better handled by chatbots. Some commenters express skepticism about the originality of the blog post, suggesting it may be a rehash of existing ideas aimed at generating engagement or ad revenue. There’s a humorous take on the potential for automating blog content creation for profit, with one commenter joking about using AI to create "blogslop" for visibility and HR benefits.
+
+Overall, the discussion highlights concerns about the effectiveness of AI in conversational contexts and critiques the commercialization of content in the tech space.

@@ -1,0 +1,8 @@
+Comparing Fable and 10 other LLMs on refactoring a LangGraph god node  (47 pts, 20 comments)
+https://news.ycombinator.com/item?id=48761132
+
+The Hacker News discussion revolves around a blog post that compares the performance of Fable and ten other large language models (LLMs) in refactoring a complex LangGraph "god node." The author shares their experiences and findings from this comparison, highlighting the strengths and weaknesses of each model.
+
+In the comments, there is a notable debate about the accessibility of the blog site, with some users reporting it being blocked by the UK's national cyber security center due to its new domain status. This leads to discussions about the nature of such blocks and the implications for new websites. Additionally, several commenters express frustration with Fable's performance, particularly regarding its strict filtering policies that hinder usability. There are mixed opinions on whether these issues stem from government influence or the model's own design choices.
+
+Overall, the discussion reflects a broader concern about the evolving landscape of LLMs, with users weighing the trade-offs between different models like Fable, Opus, and GPT-5.5. Some users suggest that simpler tasks may be better suited for Fable or GPT-5.5, while others express skepticism about Fable's reliability and accessibility, especially outside the U.S.

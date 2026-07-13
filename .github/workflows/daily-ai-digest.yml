@@ -1,0 +1,35 @@
+name: Daily AI digest rebuild
+
+on:
+  schedule:
+    - cron: '30 6 * * *'  # 12:00 IST (IST = UTC+5:30)
+  workflow_dispatch: {}
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests openai python-dotenv
+
+      - name: Rebuild AI digest (fetch + classify, no summarization)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python3 build_ai_site.py
+
+      - name: Prepare deploy folder
+        run: |
+          mkdir -p dist
+          cp ai_index.html dist/index.html
+
+      - name: Deploy to Cloudflare Pages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx wrangler pages deploy dist --project-name ai-epoch --branch master

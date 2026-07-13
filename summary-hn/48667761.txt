@@ -1,0 +1,6 @@
+Exploring the internal representations of Pangram 3.3.2  (34 pts, 5 comments)
+https://news.ycombinator.com/item?id=48667761
+
+The Hacker News discussion revolves around the internal representations of Pangram 3.3.2, a tool designed to distinguish between AI-generated and human-written text. Users are exploring the effectiveness of Pangram's model in recognizing different writing styles and voices, as well as its accuracy in identifying AI-generated content.
+
+Key points of agreement include the model's impressive low false positive rate, with users expressing confidence in its ability to accurately classify text as AI-written. However, there is debate about the need for improvement in Pangram's humanizer dataset, as some believe it currently falls short compared to other models, like GPTZero, which reportedly handles humanized outputs better. Notable insights include discussions on stylometry and the potential for LLMs to identify individual authors based on their unique writing styles, raising questions about privacy and the implications of such technology.

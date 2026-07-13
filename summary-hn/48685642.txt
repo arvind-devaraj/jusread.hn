@@ -1,0 +1,8 @@
+The White House is asking OpenAI to slow roll the release of its new model  (49 pts, 14 comments)
+https://news.ycombinator.com/item?id=48685642
+
+The Hacker News discussion revolves around a TechCrunch article reporting that the White House is urging OpenAI to delay the release of its new AI model due to safety concerns, particularly regarding cybersecurity and potential misuse. This request raises questions about the accessibility of advanced AI technologies for the general public, as many feel that only large companies will benefit from these innovations while smaller developers and individuals are left waiting.
+
+In the comments, there is a debate about the implications of government intervention in AI development. Some users express frustration that the public is subsidizing AI advancements without being able to access them, while others argue that safety should take precedence over immediate availability. There is also a discussion about the competitive landscape, with mentions of other companies like Deepseek and GLM potentially releasing similar models without the same restrictions, which could challenge OpenAI's position.
+
+Notable insights include concerns about crony capitalism and the ethical implications of restricting access to powerful AI technologies. Users highlight the disparity between large corporations and individual developers, suggesting that eligibility for using advanced models should not be based on nationality or company size, but rather on compliance with safety standards.

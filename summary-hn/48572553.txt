@@ -1,0 +1,8 @@
+Launch HN: Adam (YC W25) – Open-Source AI CAD  (215 pts, 96 comments)
+https://news.ycombinator.com/item?id=48572553
+
+The Hacker News discussion revolves around the launch of Adam, an open-source AI CAD platform called CADAM, which aims to revolutionize mechanical design by generating CAD models from natural language prompts and images. The platform utilizes a React app with a Supabase backend and outputs parametric 3D models in OpenSCAD code, allowing users to tweak dimensions interactively. The creators believe that AI will become the primary medium for CAD, similar to its role in software development.
+
+In the comments, there is a mix of enthusiasm and skepticism. Some users appreciate the innovative approach and potential for AI in CAD, while others question its practicality compared to traditional CAD tools. Key points of debate include the effectiveness of natural language prompts for complex geometries, the need for spatial awareness in AI-generated designs, and whether the tool can produce manufacturable models rather than just conceptual ones. Notably, some commenters express concerns about the limitations of current AI capabilities in accurately capturing design intent and tolerances, suggesting that a hybrid approach combining AI with traditional CAD methods may be more effective.
+
+Overall, while there is excitement about the potential of CADAM, many professionals in the field remain cautious, emphasizing the importance of precision and practical application in mechanical design.

@@ -1,0 +1,8 @@
+Why Does Everyone Hate AI?  (89 pts, 147 comments)
+https://news.ycombinator.com/item?id=48672694
+
+The Hacker News discussion revolves around Paul Krugman's article titled "Why Does Everyone Hate AI?" In his piece, Krugman explores the widespread skepticism and negativity surrounding artificial intelligence, particularly in the United States. He references surveys indicating that a significant portion of the population holds unfavorable views of AI, attributing this to fears about job displacement and the potential negative impacts of AI on society.
+
+In the comments, there is a debate about the accuracy of Krugman's assertion that "everyone" hates AI. Some users argue that the Hacker News community, which often showcases a more positive view of AI, is not representative of the general population. Others point out that while many people use AI tools, they may still harbor concerns about the companies behind them and the broader implications of AI technology. Notably, some commenters highlight the cultural divide between those who embrace automation and those who value traditional craftsmanship, suggesting that the push for AI in creative fields is met with resistance from artists and creators who fear losing their livelihoods.
+
+Overall, the discussion reveals a complex landscape of opinions on AI, where users express both appreciation for its utility and deep-seated concerns about its societal impact, particularly regarding creativity, employment, and ethical considerations.

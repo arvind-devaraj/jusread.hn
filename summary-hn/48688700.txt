@@ -1,0 +1,8 @@
+Show HN: Smart model routing directly in Claude, Codex and Cursor  (216 pts, 113 comments)
+https://news.ycombinator.com/item?id=48688700
+
+The Hacker News discussion revolves around a new tool called the Weave Router, designed to optimize the use of various AI coding models (like Claude, Codex, and Cursor) by intelligently routing requests to the most suitable model based on the task at hand. The developers at Weave created this router to reduce costs associated with using more expensive models, especially after a recent update that increased their expenses. The router can switch between cheaper and more advanced models depending on the complexity of the task, and it has reportedly saved the team 40% on token costs without sacrificing quality.
+
+In the comments, users debated the effectiveness of the router, particularly regarding cache misses and the potential for increased costs when switching models mid-execution. Some commenters expressed skepticism about whether the routing would genuinely save money or if it would complicate the process. Others highlighted the importance of cache awareness in the router's design, which aims to mitigate the downsides of switching models. Notable insights included the idea that the router could be particularly beneficial for users who may not optimize their prompts based on the specific model being used, suggesting that it could streamline interactions for less experienced users.
+
+Overall, the discussion reflects a mix of enthusiasm for the potential cost-saving benefits of the Weave Router and caution regarding its practical implementation and efficiency in real-world scenarios.

@@ -1,0 +1,8 @@
+AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share  (8 pts, 4 comments)
+https://news.ycombinator.com/item?id=48824768
+
+The Hacker News discussion revolves around a Wall Street Journal article that reports on major AI companies providing substantial free computing power to startups as a strategy to capture market share. The article highlights how this trend is reminiscent of past practices by cloud service providers like AWS and Google Cloud, which also offered credits to startups.
+
+In the comments, users express skepticism about the novelty of the topic, with some suggesting that this practice has been ongoing for years and questioning why it is being presented as news now. There is a general consensus that the concept of tech giants incentivizing startups with free resources is not new and has been a common strategy in the tech industry. Some commenters also critique the Wall Street Journal for recycling familiar narratives without offering fresh insights.
+
+Overall, the discussion reflects a sense of fatigue regarding the coverage of tech industry trends, with users calling for more original reporting rather than reiterating established ideas.

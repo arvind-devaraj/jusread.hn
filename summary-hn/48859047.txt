@@ -1,0 +1,8 @@
+AI doesn't know how to forgive and cannot forget  (21 pts, 21 comments)
+https://news.ycombinator.com/item?id=48859047
+
+The Hacker News discussion revolves around the blog post titled "AI doesn't know how to forgive and cannot forget," which explores the limitations of current AI models, particularly in their ability to forget information. The author suggests that while AI can retain vast amounts of data, it lacks the human-like capacity for forgiveness and forgetfulness, which could complicate its inference processes.
+
+In the comments, there is a mix of agreement and debate regarding the nature of AI-generated text. Some users express frustration with the "LLM voice," describing it as an "uncanny valley of text" that feels off or unnatural. Others suggest that users can adjust AI writing styles to better fit their preferences, while some argue that the inherent issues with AI writing go beyond stylistic choices. Notably, one commenter reflects on the broader implications of forgetfulness, suggesting that this trait is becoming more prevalent in humanity as well.
+
+Overall, the discussion highlights a shared concern about the limitations of AI in replicating human emotional processes and the challenges of distinguishing AI-generated content from human writing.

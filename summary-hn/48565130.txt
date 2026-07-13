@@ -1,0 +1,8 @@
+Leaked OpenAI financials show $38.5B loss and compute burn  (221 pts, 263 comments)
+https://news.ycombinator.com/item?id=48565130
+
+The Hacker News discussion revolves around leaked financial documents from OpenAI, revealing a staggering projected loss of $38.5 billion for 2025, primarily due to a significant accounting charge related to its transition to a for-profit model. The conversation highlights concerns about the sustainability of OpenAI's business model, which involves high spending on research and development, sales, and marketing, raising questions about its path to profitability.
+
+Key points of debate include whether companies with such massive losses should be allowed to go public, with some commenters arguing that it places undue risk on public investors. Others counter that the market should determine the viability of such investments, citing examples like Uber, which eventually became successful despite initial losses. Notable insights include skepticism about OpenAI's ability to cover its expenses without continuous funding and the implications of its high marketing costs, which some speculate may involve questionable practices.
+
+Overall, the discussion reflects a mix of concern over financial transparency and the long-term viability of OpenAI's business strategy, alongside differing opinions on the responsibilities of companies in the public market.

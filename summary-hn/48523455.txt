@@ -1,0 +1,6 @@
+Ask HN: Which cheap Chinese LLM are you using?  (18 pts, 9 comments)
+https://news.ycombinator.com/item?id=48523455
+
+The Hacker News discussion revolves around the recent emergence of affordable Chinese language models (LLMs), specifically mentioning models like DeepSeek V4 Pro, Mimo V2.5 Pro, MiniMax M3, and GLM 5.2. The original poster seeks insights on which models users are currently employing, their reasons for choice, and the pros and cons of these models.
+
+In the comments, there is a consensus that cost is a significant factor driving the use of these models. Users highlight the affordability and efficiency of DeepSeek V4 Pro, with some comparing its performance to more expensive models like GPT-5.4. However, there are mixed opinions on reliability and performance, with some users noting issues like the models' tendency to miss edge cases or lock up during tasks. Notably, users like jeffyaw have developed custom solutions to optimize their interactions with these models, indicating a trend toward tailoring LLMs for specific applications. Overall, the discussion reflects a growing interest in budget-friendly AI solutions while acknowledging the trade-offs in performance and reliability.

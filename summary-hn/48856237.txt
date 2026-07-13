@@ -1,0 +1,8 @@
+Turn off this Meta setting before someone generates AI images of you  (13 pts, 3 comments)
+https://news.ycombinator.com/item?id=48856237
+
+The Hacker News discussion revolves around a Malwarebytes article warning users to disable a specific Meta setting that could allow others to generate AI images of them. The concern is primarily about privacy and the potential misuse of personal likenesses through AI technology.
+
+In the comments, users express skepticism about Meta's practices, with one commenter questioning the legality of the situation under GDPR regulations and hoping for significant fines against the company. Another commenter is more cynical, suggesting that any fines Meta might face will be minimal and that the company will likely engage in lengthy legal battles that delay accountability. A third commenter finds the entire situation unsettling, questioning the ethics of Meta's approach to AI image generation.
+
+Overall, the discussion highlights a shared unease about privacy implications and the ethical considerations surrounding AI technology, particularly in relation to personal data and corporate responsibility.

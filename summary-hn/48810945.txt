@@ -1,0 +1,8 @@
+How ChatGPT Picks Sources (I Read the Network Traffic, Not the Outputs)  (14 pts, 1 comments)
+https://news.ycombinator.com/item?id=48810945
+
+The post titled "How ChatGPT Picks Sources" discusses the author's analysis of network traffic to understand how ChatGPT selects its sources for generating responses. The author delves into the technical aspects of this process, aiming to shed light on the underlying mechanisms that inform the model's output.
+
+In the comments, there is a notable critique from a user who finds the author's explanation convoluted and lacking clarity, describing it as "the sloppiest of slop." This indicates a divide in understanding, with some readers potentially struggling to grasp the technical details presented.
+
+Overall, the discussion highlights a tension between technical depth and accessibility, with some commenters expressing frustration over the complexity of the information. The post raises questions about transparency in AI models and the importance of clear communication when discussing intricate topics like source selection in machine learning.

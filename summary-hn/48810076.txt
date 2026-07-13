@@ -1,0 +1,6 @@
+XGBoost beat LLMs at finding civilian-harm posts in Ukraine war Telegram data  (6 pts, 0 comments)
+https://news.ycombinator.com/item?id=48810076
+
+The Hacker News discussion revolves around a Bellingcat article that highlights how XGBoost, a machine learning algorithm, outperformed large language models (LLMs) in identifying posts related to civilian harm in Telegram data during the Ukraine war. The article details the methodology used to train the model and its effectiveness in analyzing vast amounts of unstructured data to uncover critical information about civilian casualties.
+
+In the comments, users generally agree on the importance of using AI and machine learning in conflict monitoring and humanitarian efforts. There is a debate about the limitations of LLMs in specific tasks compared to more traditional algorithms like XGBoost, with some commenters emphasizing the need for tailored approaches depending on the data and objectives. Notable insights include discussions on the ethical implications of using AI in sensitive contexts and the potential for these technologies to aid in accountability and transparency in conflict zones.

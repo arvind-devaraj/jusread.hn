@@ -1,0 +1,6 @@
+Show HN: I built a web tool to see and edit what an AI thinks before it answers  (32 pts, 6 comments)
+https://news.ycombinator.com/item?id=48849618
+
+The Hacker News discussion revolves around a new web tool created by the author that allows users to visualize and edit the internal thought processes of AI language models before they generate responses. Inspired by a research paper from Anthropic on "Verbalizable Representations," the tool, called Jacobian Lens (J-lens), enables users to see how the model considers various concepts before settling on a final answer. Users can input prompts and observe the model's internal state, even modifying it to see how responses change.
+
+In the comments, there is agreement on the tool's innovative approach to understanding AI behavior, with some users discussing the technical aspects of the J-lens compared to other methods, like the logit lens. There is curiosity about the potential for further tools that could expose these internal processes more directly and enhance model alignment and bias detection. Notably, some commenters express excitement about the practical applications of this tool, emphasizing its focus on the pre-answer phase of AI thinking as a more effective way to steer outputs than traditional prompts.

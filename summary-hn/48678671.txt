@@ -1,0 +1,8 @@
+Hasbro's TV Contracts Ask Child Voice Actors to Sign Rights Away for AI Use  (39 pts, 7 comments)
+https://news.ycombinator.com/item?id=48678671
+
+The Hacker News discussion revolves around a report that Hasbro's contracts for child voice actors require them to relinquish rights for their voices to be used in AI applications. This raises concerns about the future of voice acting and the potential for AI to replace human actors, especially children, once trained.
+
+Commenters express a consensus that the rise of AI could significantly impact the voice acting industry. Many worry that once AI can generate convincing voices, companies may opt to use these technologies instead of hiring actors, leading to job losses. Some highlight that existing AI models can already produce diverse voices without needing human input, suggesting that the industry may face challenges due to inertia from union contracts and minimum hiring quotas.
+
+Notable insights include a comparison to the music industry, where automation has not completely replaced human musicians, and a humorous analogy about a milk delivery contract that claims ownership of cows. Overall, the discussion reflects anxiety about the implications of AI on creative professions and the potential erosion of individual rights in the face of corporate interests.

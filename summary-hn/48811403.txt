@@ -1,0 +1,8 @@
+Not everything should cost a token: the case for deterministic AI  (22 pts, 18 comments)
+https://news.ycombinator.com/item?id=48811403
+
+The Hacker News discussion revolves around a blog post titled "Not everything should cost a token: the case for deterministic AI," which critiques the tendency to use AI for tasks that could be accomplished more efficiently through traditional programming methods. The author argues that many users, particularly non-technical individuals, are employing AI tools without understanding the underlying processes, leading to inefficient and costly solutions.
+
+In the comments, there is a consensus that while some users may lack technical knowledge, this does not equate to stupidity. Many commenters express concern about the growing number of non-technical individuals using AI agents without grasping their functionality, which can lead to unnecessary token consumption and inefficient workflows. Some highlight the importance of education and implementing guardrails to guide these users. Others point out that even before AI, many manual tasks could have been automated with simple scripts, suggesting a broader issue of ignorance in tech practices.
+
+Notable insights include the recognition that the misuse of AI tools reflects a lack of foundational knowledge in programming and automation. Commenters emphasize the need for better education and awareness in the tech community to prevent inefficient practices and ensure that AI is used effectively. Overall, the discussion underscores the importance of understanding the capabilities and limitations of AI in order to leverage it appropriately.

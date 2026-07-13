@@ -1,0 +1,8 @@
+A way to exclude sensitive files issue still open for OpenAI Codex  (227 pts, 143 comments)
+https://news.ycombinator.com/item?id=48706714
+
+The Hacker News discussion revolves around an unresolved issue regarding OpenAI Codex's ability to exclude sensitive files from access, as highlighted in a GitHub issue. Users express frustration that a year has passed without a solution, with some arguing that it is the user's responsibility to prevent Codex from accessing sensitive files rather than expecting the tool to enforce such restrictions.
+
+Key points of debate include the effectiveness of existing workarounds, such as changing file permissions or running Codex in a container to limit access. Some commenters suggest that a standardized method for excluding files should be developed, while others emphasize that Codex's design inherently allows for unintended access to sensitive data. Notably, there is a consensus that users need to be more aware of file permissions and security practices, as many seem to lack fundamental knowledge about managing sensitive information in coding environments.
+
+Overall, the discussion highlights a significant knowledge gap among users regarding security practices and the limitations of AI tools like Codex, with some commenters advocating for better education and awareness to mitigate risks associated with sensitive data exposure.

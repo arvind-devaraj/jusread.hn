@@ -1,0 +1,8 @@
+Altman: GPT-5.6 is 54% more token efficient on agentic coding  (13 pts, 3 comments)
+https://news.ycombinator.com/item?id=48846407
+
+The Hacker News discussion centers around Sam Altman's announcement that OpenAI's latest AI model, GPT-5.6, is 54% more token efficient when it comes to agentic coding compared to previous models. The original article's title was slightly edited for clarity, leading to some ambiguity about what the efficiency is being compared to—whether it's against other frontier models or specifically GPT-5.5.
+
+In the comments, users express skepticism about the claim, particularly regarding the comparison to GPT-5.5, which is already considered highly efficient. There is a consensus that if OpenAI has indeed improved reasoning capabilities while maintaining efficiency, it would be a significant advancement. One commenter highlights the importance of efficiency in practical usage, noting that many users are deterred by the high token consumption of other models like Claude Max. Another commenter criticizes the marketing language used, seeking clearer comparisons to understand the improvements better.
+
+Overall, the discussion reflects a mix of cautious optimism and skepticism about the advancements in token efficiency and reasoning capabilities in AI models, with users eager for more concrete comparisons and insights.

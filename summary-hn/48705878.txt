@@ -1,0 +1,8 @@
+ACL 1.0: A source-available commercial license for the AI era  (23 pts, 10 comments)
+https://news.ycombinator.com/item?id=48705878
+
+The Hacker News discussion revolves around the introduction of ACL 1.0, a source-available commercial license designed for the AI era. The license aims to address the complexities of software development in a landscape increasingly influenced by AI technologies. The official site emphasizes its "source available" nature, distinguishing it from traditional open-source licenses.
+
+In the comments, there is a debate about the value of the code under this new licensing model. Some users argue that the ability to replicate software behavior through AI diminishes the need for such licenses, while others contend that the unique decisions made by developers still hold significant value. There are also concerns about the implications of AI-generated code and how it can be legally used or licensed, with some commenters questioning the effectiveness of the license in preventing misuse by AI companies.
+
+Notable insights include skepticism about the practicality of the license, with some users suggesting that it may not effectively protect developers' interests or encourage meaningful contributions from the open-source community. Overall, the discussion highlights the tension between traditional software licensing and the evolving role of AI in software development.

@@ -1,0 +1,8 @@
+Show HN: Monogram, AI app with on the fly generation  (9 pts, 3 comments)
+https://news.ycombinator.com/item?id=48835018
+
+The Hacker News discussion revolves around the launch of Monogram, an AI application that generates visual and interactive interfaces on the fly, rather than just providing text-based answers. The creators emphasize that this is an early version and are seeking feedback from users.
+
+In the comments, there is a general enthusiasm for the app, with one user praising the concept and asking about its long-term vision. They inquire whether Monogram aims to become a comprehensive "super app" that handles various tasks like booking cabs or ordering food, and if there are plans to offer it as a service for integration into other applications. The developers respond by highlighting the extensive work put into building the app's infrastructure and express intentions to eventually open it up for other developers to use.
+
+Overall, the discussion showcases excitement about the potential of Monogram while also addressing practical questions about its future capabilities and integration possibilities.

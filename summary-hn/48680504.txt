@@ -1,0 +1,6 @@
+Ask HN: Norway bans AI in elementary schools  (20 pts, 22 comments)
+https://news.ycombinator.com/item?id=48680504
+
+The Hacker News discussion centers around Norway's decision to ban AI in elementary schools, following a previous ban on smartphones. Prime Minister Jonas Gahr Støre argues that AI could hinder children's educational development by causing them to skip essential learning steps.
+
+In the comments, there is a strong consensus that banning AI for young children is a positive move, with many emphasizing the importance of developing critical thinking, empathy, and social skills before introducing such technology. Some commenters express curiosity about the logistics of enforcing the ban, while others suggest that teachers could still use AI to create educational materials without allowing students direct access. Notably, several users argue that relying on AI could stunt children's intellectual growth and that the learning process benefits from grappling with challenges rather than seeking instant answers. Overall, the discussion reflects a cautious approach to integrating AI into education, prioritizing foundational skills over technological convenience.

@@ -1,0 +1,8 @@
+Stop Telling Me to Ask an LLM  (201 pts, 117 comments)
+https://news.ycombinator.com/item?id=48876441
+
+The Hacker News discussion revolves around a blog post titled "Stop Telling Me to Ask an LLM," where the author expresses frustration over being directed to ask a language model (LLM) like Claude for answers, especially after already investing time in research. The post highlights a communication gap where the responder may not recognize the effort the asker has already put in, leading to feelings of being dismissed or undervalued.
+
+In the comments, there is a debate about the appropriateness of directing someone to an LLM as a response to their questions. Many commenters agree that providing context and demonstrating prior effort can lead to more constructive interactions, while others argue that simply saying "ask Claude" can come off as dismissive or lazy. Some express concern that reliance on LLMs may diminish critical thinking and problem-solving skills in professional environments.
+
+Notable insights include the idea that asking a well-structured question can lead to better responses, and that the use of LLMs should complement, not replace, human expertise. There is also a recognition that the dynamics of communication in tech environments are shifting, with LLMs potentially leading to a decline in meaningful discourse and collaboration. Overall, the discussion underscores the importance of effective communication and the balance between leveraging AI tools and maintaining human engagement in problem-solving.

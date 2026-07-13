@@ -1,0 +1,6 @@
+Show HN: LookAway, a Mac break reminder that knows when not to interrupt  (77 pts, 26 comments)
+https://news.ycombinator.com/item?id=48659483
+
+The post introduces LookAway, a break reminder app for macOS designed by indie developer Kushagra. The app aims to help users take breaks without interrupting their workflow, offering features like context awareness that pauses reminders during meetings or while typing. LookAway also includes a free iOS counterpart, LookAway Mirror, which syncs breaks across devices. The app is available for download on various platforms, and Kushagra is seeking feedback on its functionality.
+
+In the comments, users express mixed feelings about the app's pricing model, with some appreciating the lifetime access but others feeling it resembles a subscription. There are discussions about the app's effectiveness in promoting breaks, with some users noting that while it encourages taking breaks, it can also disrupt deep focus. Suggestions for improvements include better detection of focus states and additional wellness reminders. Overall, the conversation highlights the balance between encouraging healthy work habits and maintaining productivity without interruptions.

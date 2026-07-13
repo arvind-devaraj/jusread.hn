@@ -1,0 +1,8 @@
+ZML/LLMD alpha – cross platform LLM server  (15 pts, 3 comments)
+https://news.ycombinator.com/item?id=48829412
+
+The Hacker News discussion revolves around the announcement of ZML/LLMD, a cross-platform server designed for large language models (LLMs). The post highlights the server's capabilities and its potential applications in various environments.
+
+In the comments, users express excitement about the server's performance, particularly in relation to specific hardware setups like the DGX Spark and Strix Halo. There is curiosity about its token debit feature, with one commenter asking for benchmarks on the Spark platform. Overall, the tone is positive, with users congratulating the developers on their work.
+
+Notable insights include the interest in practical performance metrics and the implications of the server's features for developers and researchers working with LLMs. The discussion reflects a broader enthusiasm for advancements in AI infrastructure and tools.

@@ -1,0 +1,8 @@
+AI is code – and can't be prompted into being smarter  (158 pts, 145 comments)
+https://news.ycombinator.com/item?id=48532178
+
+The Hacker News discussion revolves around an article titled "AI is code – and can't be prompted into being smarter," which argues that while AI can be configured for better performance, it fundamentally cannot be made "smarter" through prompting alone. The conversation delves into the complexities of verifying AI behavior versus traditional programming, with participants debating the feasibility and implications of prompt injection vulnerabilities in AI systems.
+
+Key points of agreement include the notion that while traditional programs can be verified against specifications, AI's behavior is less predictable and harder to validate. Some commenters argue that better prompting and context engineering can enhance AI performance, akin to optimizing traditional software. However, there is significant debate about the inherent risks of prompt injection, with some asserting that it poses a unique challenge that cannot be easily mitigated, while others suggest that it is a manageable issue akin to historical software vulnerabilities.
+
+Notable insights include concerns about the ethical implications of using AI without proper safeguards, the potential for AI to be manipulated by malicious prompts, and the broader implications of relying on AI systems in critical applications. The discussion reflects a mix of skepticism about AI's reliability and optimism about its potential when properly managed.

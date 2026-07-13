@@ -1,0 +1,8 @@
+Concentration of power in AI is a risk, by Andy Konwinski  (19 pts, 2 comments)
+https://news.ycombinator.com/item?id=48792463
+
+The Hacker News discussion centers around an article by Andy Konwinski that highlights the risks associated with the concentration of power in artificial intelligence (AI). The author argues that when AI capabilities are controlled by a few entities, it can lead to potential tyranny and manipulation of reality.
+
+In the comments, there is a consensus on the dangers of centralizing power in AI. One commenter draws a parallel to the Second Amendment, suggesting that individuals should have access to their own local AI models to prevent tyranny. Another commenter emphasizes the broader implications of concentrated power, warning that a single entity could alter reality in unprecedented ways through control over AI technologies.
+
+Overall, the discussion underscores the importance of decentralization in AI development to mitigate risks associated with power concentration, reflecting a shared concern about the ethical and societal implications of AI governance.

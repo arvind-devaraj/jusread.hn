@@ -1,0 +1,8 @@
+Anthropic's model naming, extrapolated  (320 pts, 94 comments)
+https://news.ycombinator.com/item?id=48480852
+
+The Hacker News discussion revolves around the naming conventions of Anthropic's AI models, as explored in a blog post by Sam Wilkinson. The post humorously extrapolates potential future model names, drawing inspiration from literary and cinematic themes, such as "saga," "canon," and even "Cinematic Universe." 
+
+In the comments, users engage in a playful debate about possible names, suggesting terms like "Canto," "Epic," and "Libretto," while also referencing cultural works like Lovecraft's Mythos and Iain M. Banks' Culture series. There is a consensus that Anthropic's naming strategy is more effective than that of OpenAI, with many users expressing a desire for creative and thematic names rather than the more technical or bland nomenclature seen in other AI models. Some comments also critique the design choices of the original post, highlighting how distracting elements can hinder reader engagement.
+
+Notable insights include a mix of nostalgia for literary references and a critique of current AI naming conventions, with users expressing hope that future models will adopt more imaginative and meaningful names. The discussion reflects a broader interest in how branding and naming can influence perceptions of AI technology.

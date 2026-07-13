@@ -1,0 +1,8 @@
+The classifiers Anthropic puts in front of Fable are too zealous  (214 pts, 173 comments)
+https://news.ycombinator.com/item?id=48837162
+
+The Hacker News discussion revolves around a blog post criticizing Anthropic's AI model, Fable, for having overly sensitive classifiers that hinder its usability. The author argues that these guardrails, designed to prevent misuse in sensitive areas like cybersecurity and biology, are so strict that they render the model nearly useless for legitimate tasks.
+
+In the comments, users express a mix of frustration and understanding regarding the sensitivity of Fable's classifiers. Some believe that while the strictness is excessive, it is a necessary precaution due to regulatory pressures, particularly from the U.S. government. Others argue that Anthropic should be held accountable for the model's limitations, suggesting that the company may have oversold Fable's capabilities. Notably, users share personal experiences of being blocked from asking even benign questions related to biology or coding, highlighting the model's ineffectiveness in practical applications.
+
+Overall, the discussion reflects a broader concern about the balance between AI safety and functionality, with many commenters advocating for a more nuanced approach that allows for responsible use without stifling innovation.

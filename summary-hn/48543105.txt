@@ -1,0 +1,8 @@
+Show HN: We put voice agent on our website, learned retrieval isn't bottleneck  (24 pts, 8 comments)
+https://news.ycombinator.com/item?id=48543105
+
+The Hacker News discussion centers around a post titled "Show HN: We put voice agent on our website, learned retrieval isn't bottleneck," which highlights the implementation of a voice agent called Founding Agent on a website, powered by Moss's fast retrieval system. The author emphasizes that their retrieval speed is under 10 milliseconds, significantly improving the conversational experience compared to typical systems that take 200-500 milliseconds.
+
+In the comments, users express interest in the technology, with some asking about its effectiveness on dense websites and scalability as content grows. The developer, srimalireddi, reassures that the system works well with dense content and explains the architecture of the voice agent, noting that the retrieval speed and quality are key factors. There is a consensus on the potential of this technology, with users intrigued by its application and performance.
+
+Notable insights include the emphasis on the importance of retrieval speed for a seamless user experience and the potential challenges of scaling as the amount of content increases. Overall, the discussion reflects excitement about advancements in voice technology and its practical applications for websites.

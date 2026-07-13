@@ -1,0 +1,8 @@
+Ask HN: How you manage local long lived research projects and LLM's?  (6 pts, 2 comments)
+https://news.ycombinator.com/item?id=48836288
+
+The Hacker News discussion revolves around how individuals manage long-term research projects and data collection using large language models (LLMs). The original poster shares their experience of using Copilot to organize data for a project on nut-free restaurants in Chicago, inspired by another user's data collection effort. They seek advice on established patterns or structures for effectively utilizing LLMs in similar research endeavors.
+
+In the comments, there is a consensus on the utility of LLMs as tools for data organization and processing. One commenter emphasizes the importance of maintaining raw data integrity while using LLMs to create structured outputs, suggesting that LLMs should serve as an intake layer rather than a database. Another commenter notes that data structures don't need to be perfect unless they are being integrated with external services, highlighting the flexibility in managing data for personal projects.
+
+Overall, the discussion reveals a shared interest in leveraging LLMs for research while also addressing the need for careful data management and structure, with varying opinions on the best practices for integrating these technologies into long-term projects.

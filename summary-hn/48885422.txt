@@ -1,0 +1,6 @@
+Ask HN: How do you use LLMs for private discussions?  (8 pts, 12 comments)
+https://news.ycombinator.com/item?id=48885422
+
+The Hacker News discussion revolves around the challenges of using large language models (LLMs) for private discussions without revealing one's identity. The original poster seeks advice on methods to maintain privacy, such as using Tor, creating random accounts, employing untraceable payment methods, and scrubbing personal information from interactions.
+
+In the comments, users share various strategies for achieving privacy. Some suggest running LLMs on cloud GPU instances, with specific recommendations for services like lambda.ai and coreweave, while others advocate for using local models to avoid data logging entirely. There is a consensus that while using local models is ideal, it may require significant hardware resources. Notably, some commenters emphasize the importance of abstracting sensitive details in prompts to further protect identity, and there are mentions of specific models and tools that can help with privacy concerns. Overall, the discussion highlights a mix of technical solutions and practical considerations for maintaining anonymity when interacting with LLMs.

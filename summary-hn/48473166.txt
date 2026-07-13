@@ -1,0 +1,6 @@
+AWS Bedrock to require sharing data with Anthropic for Mythos and future models  (427 pts, 255 comments)
+https://news.ycombinator.com/item?id=48473166
+
+The Hacker News discussion centers around a recent announcement that AWS Bedrock will require users to share data with Anthropic for its Mythos-class models, including a 30-day retention period for all traffic. This data retention is intended to help Anthropic identify misuse patterns that may not be evident from individual interactions. After 30 days, data will be deleted unless it is needed for safety investigations or legal reasons.
+
+Commenters express concern about the implications of this requirement, particularly for regulated enterprises and government clients, who may find it incompatible with their data privacy policies. There is a debate about whether this move will deter organizations from using Anthropic's models, especially given that AWS previously marketed Bedrock as a solution where data would remain within its security boundary. Some users argue that the retention policy could undermine trust in AWS and Anthropic, while others believe that the demand for advanced AI models may outweigh these concerns. Notably, there are discussions about the potential legal ramifications in the EU and the broader implications for data privacy and security in AI applications.

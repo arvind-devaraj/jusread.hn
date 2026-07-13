@@ -1,0 +1,8 @@
+J-Space: Where Claude silently performs reasoning steps  (8 pts, 4 comments)
+https://news.ycombinator.com/item?id=48825315
+
+The Hacker News discussion revolves around a Twitter post by Anthropic AI announcing their research on "J-Space," a concept where their AI model, Claude, performs reasoning steps in a manner that suggests a form of consciousness. The post has sparked interest and skepticism regarding the implications of this research.
+
+In the comments, there is a mix of reactions. Some users point out that the term "conscious" is heavily used in Anthropic's research paper, with one commenter criticizing it as marketing hype without substantial evidence of actual consciousness in their models. Others question the value of Anthropic's recent research output, suggesting that it lacks depth and originality compared to previous work.
+
+Overall, the discussion highlights a divide between those intrigued by the potential advancements in AI reasoning and those who view the claims as exaggerated or lacking in scientific rigor.

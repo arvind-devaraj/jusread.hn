@@ -1,0 +1,8 @@
+Don't let the LLM speak, just probe it  (44 pts, 3 comments)
+https://news.ycombinator.com/item?id=48498283
+
+The Hacker News discussion revolves around a blog post that introduces a technique for interacting with large language models (LLMs) by probing their hidden states instead of relying on their generated outputs. The author suggests that this method can provide insights into the model's internal workings without the risks associated with letting the model generate text.
+
+In the comments, there is a consensus on the potential of the probing technique, with users discussing alternative approaches. One commenter, aesthesia, proposes that similar results could be achieved through prompting or fine-tuning the model to produce a binary output ("yes" or "no"), which could streamline the process and improve inference speed. Another user, wren6991, adds that logit masking could also be a viable method for achieving this. However, cyanydeez expresses concern about the potential dangers of this probing approach, hinting at the complexities and risks involved in manipulating LLMs at a deeper level.
+
+Overall, the discussion highlights innovative ideas for optimizing LLM interactions while also raising caution about the implications of probing their internal states.

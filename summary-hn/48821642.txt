@@ -1,0 +1,8 @@
+Ask HN: What is your AI harness that lets you switch LLM models easily?  (10 pts, 10 comments)
+https://news.ycombinator.com/item?id=48821642
+
+The Hacker News discussion revolves around the need for a flexible AI harness that allows users to easily switch between different large language models (LLMs) as subscription pricing models evolve. The original poster expresses concern about rising costs associated with LLMs, particularly with the transition from subscription to pay-per-token models, and seeks recommendations for tools that can accommodate various providers.
+
+In the comments, users share their experiences with different AI harnesses. Some, like zloy88, prefer sticking with existing models (e.g., Opus-4.8) due to their efficiency and cost-effectiveness, while others, like ricardobeat, advocate for tools like Crush and OpenCode, which simplify model switching. There is a consensus on the importance of provider-agnostic solutions, as highlighted by PaiDxng, who emphasizes the need for flexibility in switching between models like Claude, GPT, and Gemini. Notable insights include the idea that effective harnesses should focus on workflow and usability rather than just model selection, as mentioned by jarodrh.
+
+Overall, the discussion highlights a growing interest in adaptable AI tools that can mitigate the complexities of managing multiple LLM subscriptions and optimize user experience.

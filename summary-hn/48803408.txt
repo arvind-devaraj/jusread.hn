@@ -1,0 +1,8 @@
+Ask HN: Are there good security benchmarks for LLMs?  (7 pts, 1 comments)
+https://news.ycombinator.com/item?id=48803408
+
+The Hacker News discussion revolves around the search for effective security benchmarks for large language models (LLMs). The original poster expresses their interest in this area and mentions a specific benchmark called "eyeballvull," which they find promising but lacking in widespread support. They invite others to share insights or additional benchmarks related to security-aware software engineering.
+
+In the comments, a key point of agreement is that generic model benchmarks may not be as useful as benchmarks focused on workflows, particularly concerning issues like prompt injections and tool permissions. One commenter emphasizes the importance of understanding the risks associated with model distillation, suggesting that security considerations should be integrated into the development and evaluation of LLMs.
+
+Overall, the discussion highlights a growing interest in establishing robust security benchmarks for LLMs, with a consensus that workflow-oriented approaches may provide more relevant insights than traditional model benchmarks.

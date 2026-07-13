@@ -1,0 +1,6 @@
+Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents  (37 pts, 23 comments)
+https://news.ycombinator.com/item?id=48818098
+
+The Hacker News discussion centers around "Halo," an open-source project designed to provide tamper-evident runtime evidence for AI agents. Created by Brian Kuan, Halo addresses the challenge of auditing AI agents' actions when they access sensitive data. Traditional audit logs can be manipulated by vendors, making them unreliable. Halo records every action an AI agent takes in an append-only log that is hash-chained, allowing for verification of integrity but not completeness.
+
+In the comments, users express interest in the project's potential and discuss its limitations. A key point of debate is the need for an external witness to ensure that logs are not only intact but also complete, as the current system can only prove that nothing was edited. Some commenters suggest that a third-party service or a transparency log could enhance the system's reliability. Others highlight the importance of incentives for timely log publication to ensure accountability. Overall, the discussion reflects a shared interest in improving auditability in AI systems while recognizing the complexities involved in achieving true transparency.

@@ -1,0 +1,8 @@
+Microsoft 365 Copilot adoption is under 4.5%, only 1% use it weekly  (25 pts, 14 comments)
+https://news.ycombinator.com/item?id=48824665
+
+The Hacker News discussion revolves around a report indicating that Microsoft 365 Copilot adoption is under 4.5%, with only 1% of users engaging with it weekly, despite the product being available for three years. The article raises questions about the effectiveness and value of Copilot, especially given the recent price increases.
+
+In the comments, users express a mix of skepticism and frustration regarding the tool's utility. Some argue that Copilot is underwhelming for serious knowledge work, with tasks like summarizing emails or creating presentations seen as trivial. Others highlight specific functionalities they find useful, such as combining Excel spreadsheets or searching for past slides. There is also debate about the validity of the adoption statistics and the potential impact of ongoing layoffs at Microsoft.
+
+Notable insights include a recognition that while Copilot has some helpful features, it often lacks the depth and capability needed for more complex tasks. Users also point out that the tool competes with entertainment products rather than being positioned as a robust AI solution for business needs. Overall, the discussion reflects a general disappointment with Copilot's performance and its perceived value in the workplace.

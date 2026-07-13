@@ -1,0 +1,8 @@
+Ask HN: What are tools you have made for yourself since the advent of AI?  (445 pts, 779 comments)
+https://news.ycombinator.com/item?id=48449187
+
+The Hacker News discussion titled "Ask HN: What are tools you have made for yourself since the advent of AI?" invites users to share personal projects or tools they've developed in response to the rise of AI technologies. The comments reveal a diverse array of custom tools, ranging from personal knowledge management systems and data organization apps to automation tools for various tasks.
+
+A common theme among the comments is the emphasis on building tools that enhance productivity and streamline workflows, often utilizing AI for assistance in coding or data handling. Many users mention creating applications that help manage or analyze data, automate repetitive tasks, or improve personal metrics tracking. Notably, some participants express a preference for minimalistic toolchains and lightweight solutions that can run on less powerful hardware.
+
+Several users highlight the importance of integrating AI into their workflows, whether through summarization of activities, data analysis, or enhancing existing applications. There is also a debate about the effectiveness of AI-generated summaries versus raw data, with some users advocating for pre-aggregated metrics to reduce the cognitive load on AI systems. Overall, the discussion showcases a creative and practical approach to leveraging AI in personal and professional projects, reflecting a broader trend of DIY innovation in the tech community.

@@ -1,0 +1,8 @@
+AgentKits – 60 production-ready AI agent blueprints with guardrails  (39 pts, 2 comments)
+https://news.ycombinator.com/item?id=48692101
+
+The Hacker News discussion centers around AgentKits, a platform offering 60 production-ready AI agent blueprints designed with guardrails for various applications. Users can explore these blueprints to implement AI agents in different contexts, such as marketing.
+
+In the comments, there are two main points of discussion. One user expresses curiosity about the specific data sources needed to effectively utilize the marketing agents for tasks like account reviews. This highlights a potential gap in the information provided by the platform regarding integration and practical application. Another commenter critiques the website's content, noting that it appears to be AI-generated, which raises concerns about the creators' expertise in developing quality agent blueprints.
+
+Overall, the conversation reflects a mix of interest in the potential of the AI agents while also questioning the clarity and quality of the information provided by the creators.

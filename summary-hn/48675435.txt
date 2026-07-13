@@ -1,0 +1,8 @@
+Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion  (381 pts, 173 comments)
+https://news.ycombinator.com/item?id=48675435
+
+The Hacker News discussion centers around the launch of OpenKnowledge, an open-source, AI-first markdown editor designed as an alternative to Notion and Obsidian. The application features a WYSIWYG interface, integrates with AI agents like Claude and Codex, and is available as a MacOS app and a web interface. The developers aimed to create a user-friendly experience for writing and sharing markdown files, addressing limitations they found in existing tools.
+
+In the comments, users express interest in the app's capabilities, particularly its collaborative features and markdown compatibility with existing tools like Obsidian and Notion. There is debate about the migration process from these platforms, with some users noting that while Obsidian files can be easily imported, Notion lacks a direct migration tool. Others raise concerns about the app's current MacOS exclusivity and the need for better support for local LLMs. 
+
+Notable insights include the emphasis on user privacy, as OpenKnowledge allows for fully local file storage and Git-based syncing without vendor lock-in. Users appreciate the potential for a simple, team-oriented knowledge base solution that integrates AI without relying on complex plugins. Overall, the discussion highlights a mix of excitement for the new tool and constructive feedback on its features and compatibility.

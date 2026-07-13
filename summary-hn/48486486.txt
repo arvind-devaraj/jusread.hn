@@ -1,0 +1,8 @@
+OpenAI mulls slashing prices as it competes with Anthropic for users  (135 pts, 142 comments)
+https://news.ycombinator.com/item?id=48486486
+
+The Hacker News discussion revolves around OpenAI's consideration of reducing prices to compete with Anthropic for users, as reported by CNBC. The conversation highlights concerns about OpenAI's profitability and sustainability in a market where both companies are reportedly losing money while trying to capture market share.
+
+Key points of debate include the viability of OpenAI's business model, with some commenters questioning how the company plans to achieve profitability given its current losses. There are discussions about the potential for a "race to the bottom" in pricing, drawing parallels to past market behaviors, such as the Chinese bike wars. Some participants argue that OpenAI's broad target audience may dilute its effectiveness compared to Anthropic's more focused approach on enterprise users.
+
+Notable insights include the idea that while OpenAI and Anthropic are currently competing aggressively on price, this strategy may not be sustainable long-term. There are also speculations about the future of AI companies, with some suggesting that the current landscape could lead to a bubble burst similar to the dot-com era, while others believe AI will become an essential tool for developers, albeit with more realistic expectations.

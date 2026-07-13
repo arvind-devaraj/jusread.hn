@@ -1,0 +1,8 @@
+Claude Fable 5 vs. GPT-5.5: Better Planning, Similar Execution  (20 pts, 9 comments)
+https://news.ycombinator.com/item?id=48517973
+
+The Hacker News discussion centers around a comparison between two AI models, Claude Fable 5 and GPT-5.5, focusing on their capabilities in planning and execution for software development tasks. The post highlights that while both models are effective, Claude Fable 5 shows significant improvements in planning, which is typically a responsibility of senior developers, such as identifying edge cases and considering trade-offs.
+
+In the comments, users generally agree that Fable excels in generating high-level plans that can be translated into coding tasks, enhancing confidence in the development process. Many users have found a complementary approach by using Fable or Opus for planning and GPT for execution, as GPT is perceived to be more consistent and detail-oriented in its output. There is some debate about the effectiveness of each model depending on the type of programming being done, with some users noting that Claude models perform better in frontend development compared to others like Codex.
+
+Notable insights include the recognition that while code generation has reached a satisfactory level, the real advancements lie in the planning capabilities of newer models. Users emphasize the importance of having a structured approach, such as creating a PLAN.md file, to bridge the gap between planning and execution effectively.

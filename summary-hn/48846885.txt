@@ -1,0 +1,8 @@
+LinkedIn and X Are Flooded with AI Spam, Browsing Data Suggests  (14 pts, 0 comments)
+https://news.ycombinator.com/item?id=48846885
+
+The Hacker News discussion revolves around a report highlighting the increasing prevalence of AI-generated spam on platforms like LinkedIn and X (formerly Twitter). The article suggests that browsing data indicates a significant rise in low-quality, automated content being shared, which is cluttering these social media spaces and potentially diminishing user experience.
+
+In the comments, users express a mix of concern and resignation about the situation. Many agree that AI-generated spam is becoming a major issue, with some suggesting that it could lead to a decline in genuine engagement on these platforms. Others debate the effectiveness of current moderation tools and whether they can keep up with the volume of spam. Notably, some commenters share insights on potential solutions, such as improved AI detection systems or community-driven reporting mechanisms.
+
+Overall, the discussion reflects a growing frustration with the impact of AI on social media, alongside a recognition of the challenges in addressing the problem effectively.

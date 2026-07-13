@@ -1,0 +1,8 @@
+Neural Render Proxies for Interactive and Differentiable Lighting  (62 pts, 13 comments)
+https://news.ycombinator.com/item?id=48753160
+
+The Hacker News discussion revolves around a Disney research article titled "Neural Render Proxies for Interactive and Differentiable Lighting." The post highlights advancements in neural rendering techniques that allow for faster and more efficient lighting calculations in computer graphics, potentially enabling real-time applications with minimal loss in fidelity.
+
+In the comments, there is a consensus that while the research showcases impressive technical capabilities, it is primarily seen as a promotional effort for Disney rather than a source of open, accessible tools or code. Users express frustration over the lack of public repositories and the company's tendency to prioritize intellectual property protection. Some commenters note that the neural proxies can significantly speed up rendering processes, but there are concerns about their limitations, such as the need for precomputation and their applicability to only static scenes.
+
+Notable insights include a discussion on the balance between speed and fidelity in neural proxies, with some commenters emphasizing their potential for differentiable relighting and new querying methods. However, others critique the research for not addressing dynamic scenes effectively and for relying on expensive precomputation. Overall, the conversation reflects a mix of admiration for the technical achievements and disappointment over the lack of practical accessibility.

@@ -1,0 +1,6 @@
+OpenAI faked inability to search training data, hid billions of logs, NYT says  (62 pts, 7 comments)
+https://news.ycombinator.com/item?id=48850831
+
+The Hacker News discussion revolves around a New York Times report alleging that OpenAI misrepresented its ability to search its training data and concealed billions of logs related to its data usage. The article highlights concerns from publishers, including the NYT, who are seeking legal penalties against OpenAI for allegedly using paywalled content without permission.
+
+In the comments, there is a consensus that OpenAI's actions could lead to significant backlash from content creators, with some users expressing skepticism about the effectiveness of legal recourse. Many commenters argue that AI companies have previously evaded accountability for similar actions, suggesting a pattern of behavior that may continue unchecked. Notable opinions include calls for severe financial penalties against OpenAI and a desire for stronger enforcement of laws to protect content creators from exploitation. Overall, the discussion reflects a mix of frustration and skepticism regarding the accountability of large tech companies in the face of legal and ethical violations.

@@ -1,0 +1,8 @@
+Ask HN: Am I missing something with AI  (19 pts, 23 comments)
+https://news.ycombinator.com/item?id=48645072
+
+The Hacker News discussion revolves around a user's frustration with AI tools like Claude and ChatGPT, which they feel have not significantly improved their coding experience. The user expresses that while others claim AI has transformed their work, their own interactions have resulted in inaccurate outputs that require extensive corrections, making it feel more efficient to code manually.
+
+In the comments, there is a mix of agreement and differing perspectives. Some users suggest that AI can be useful for foundational work or repetitive tasks, while others emphasize the importance of prompt engineering and the need for detailed inputs to achieve better results. A few commenters argue that the effectiveness of AI tools can vary based on the user's experience and the specific projects they are working on. Notably, some experienced developers share that they have found success with certain models and tools, indicating that the quality of output can depend heavily on the specific AI model used and the user's approach to interacting with it.
+
+Overall, the discussion highlights a divide between those who find AI tools to be beneficial in their workflows and those who feel they are underwhelming or even counterproductive, suggesting that the effectiveness of AI in programming may depend on individual skill levels and the nature of the tasks at hand.

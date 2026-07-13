@@ -1,0 +1,6 @@
+Apertus – Open Foundation Model for Sovereign AI  (534 pts, 183 comments)
+https://news.ycombinator.com/item?id=48622778
+
+The Hacker News discussion revolves around "Apertus," an open foundation model for sovereign AI, which aims to provide a fully open model with accessible weights, data, and training details. The conversation highlights skepticism about the model's effectiveness, with some users expressing disappointment based on previous versions and questioning its adherence to copyright laws. Others argue that the openness of the model contributes positively to scientific progress, even if it may not be as useful as other models.
+
+Key points of debate include the ethical implications of training on unlicensed data, with some commenters advocating for "vegan" models that use licensed or out-of-copyright data. There is also a discussion about the varying quality of different AI models, with some users noting that while Apertus may not be competitive with leading models, it still serves a purpose in specific applications. Notably, there is a broader concern about the trustworthiness of AI companies and the ethical responsibilities of those developing AI technologies, reflecting a divide in public sentiment towards AI and its implications for society.

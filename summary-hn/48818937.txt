@@ -1,0 +1,8 @@
+Automating AI Away  (126 pts, 59 comments)
+https://news.ycombinator.com/item?id=48818937
+
+The Hacker News discussion titled "Automating AI Away" revolves around the idea of using deterministic processes instead of relying on AI, particularly large language models (LLMs), for tasks that require consistency and reliability. The original post emphasizes the importance of identifying areas where deterministic scripts can replace AI-driven solutions to avoid the unpredictability associated with LLMs.
+
+In the comments, there is a consensus on the need to minimize non-determinism in processes, with many users advocating for the use of scripts and structured automation over AI-generated outputs. Some commenters highlight the fragility of AI systems when applied to deterministic tasks, arguing that LLMs should be used to create tools rather than directly handle processes. Others debate the nature of determinism itself, with some asserting that both humans and AI are inherently non-deterministic, while others argue that the focus should be on achieving reliable outcomes regardless of the method used.
+
+Notable insights include the idea that LLMs can be effectively utilized to generate scripts or tools that enhance deterministic processes, rather than replacing them. Several users share personal experiences where they successfully automated tasks by separating data collection from processing, ultimately reducing reliance on AI. The discussion reflects a broader concern about the appropriate application of AI in workflows, advocating for a balanced approach that leverages both deterministic methods and AI capabilities.

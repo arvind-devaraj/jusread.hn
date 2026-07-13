@@ -1,0 +1,8 @@
+AI inference is obviously profitable  (11 pts, 11 comments)
+https://news.ycombinator.com/item?id=48780033
+
+The Hacker News discussion revolves around the profitability of AI inference, as highlighted in the original post. The author argues that AI inference is inherently profitable, but commenters raise concerns about the sustainability of this profitability in a rapidly evolving market.
+
+Key points of debate include the shelf-life of AI models, with some commenters noting that models quickly become outdated, making it challenging to maintain high margins. Others discuss the potential for commoditization, where increased competition could drive prices down, benefiting consumers but harming businesses. There is also a discussion about the coexistence of low-end open weight models and high-end proprietary models, with differing opinions on whether the market will stabilize or lead to a few dominant players.
+
+Notable insights include skepticism about the long-term viability of current business models, with some commenters suggesting that companies like OpenAI and Anthropic may struggle if customers shift to cheaper alternatives. The conversation highlights the tension between current high valuations in the AI industry and the realities of a competitive market that may favor lower-cost solutions.

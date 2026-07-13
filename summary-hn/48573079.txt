@@ -1,0 +1,8 @@
+DeepSeek v4 Pro 1.6T model post-trained by Huawei on 1000 Ascend 910C chips  (22 pts, 2 comments)
+https://news.ycombinator.com/item?id=48573079
+
+The Hacker News discussion revolves around Huawei's announcement of post-training their DeepSeek v4 Pro model, which boasts 1.6 trillion parameters, using 1,000 Ascend 910C chips. The article highlights the lack of benchmarks and comparative performance data against Nvidia hardware, leading to skepticism about the validity of Huawei's claims.
+
+In the comments, there is a debate about the credibility of Huawei's assertions, with one user expressing doubt due to the absence of detailed performance metrics and suggesting that such claims are part of a pattern of unverified statements from Chinese tech companies. Another commenter counters this skepticism by noting that AI workloads are inherently parallel and that China can still produce competitive models despite less efficient hardware, emphasizing that energy consumption is becoming a critical factor as models grow larger.
+
+Overall, the discussion reflects a mix of skepticism about the claims made by Huawei and recognition of China's potential in the AI field, highlighting the complexities of energy efficiency and hardware capabilities in training large AI models.

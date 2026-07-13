@@ -1,0 +1,8 @@
+Knowledge Distillation of Black-Box Large Language Models (2024)  (123 pts, 18 comments)
+https://news.ycombinator.com/item?id=48712420
+
+The Hacker News discussion revolves around a 2024 paper titled "Knowledge Distillation of Black-Box Large Language Models," which explores techniques for transferring knowledge from large language models (LLMs) to smaller models without direct access to the original models. The paper has garnered attention due to its connection to recent allegations from Anthropic regarding Chinese labs allegedly distilling their models.
+
+In the comments, there is a notable debate about the implications of these allegations and the broader context of the AI landscape. Some users express concerns about the competitive dynamics between the U.S. and China in AI development, with calls for programmers to shift away from American AI products in favor of Chinese alternatives. Others discuss the technical challenges of distilling knowledge from large models and question the feasibility of the claims made by Anthropic, suggesting that the required number of queries to the teacher model would be prohibitively high.
+
+Notable insights include skepticism about the credibility of the allegations against Chinese labs, with some commenters arguing that the results in the discussed paper pertain to much smaller models than those used by companies like Anthropic. Additionally, there is a recognition of the complexities involved in black-box distillation techniques and their potential applications in various AI systems. Overall, the discussion reflects a mix of technical analysis and geopolitical commentary within the rapidly evolving AI landscape.

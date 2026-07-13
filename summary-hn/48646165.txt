@@ -1,0 +1,8 @@
+Show HN: peerd – AI agent harness that runs entirely in your browser  (75 pts, 23 comments)
+https://news.ycombinator.com/item?id=48646165
+
+The Hacker News discussion centers around "peerd," an AI agent harness that operates entirely within a web browser as a web extension. The creator emphasizes that peerd is designed to leverage the browser's robust security features and capabilities, avoiding the need for external processes or complex integrations. It supports various workloads, including headless JavaScript tasks and decentralized applications, while maintaining a strong focus on security through sandboxing and strict access controls.
+
+In the comments, there is a mix of technical inquiries and critiques regarding the project's approach. Some users express skepticism about the security measures, questioning how untrusted summaries could pose risks. Others discuss the practicality of using a browser extension versus other methods, with some arguing that it complicates discoverability and usability. The creator acknowledges feedback about documentation verbosity and expresses a willingness to refine it.
+
+Notable insights include the recognition of the browser as a well-tested environment for AI applications, and the potential for peerd to facilitate peer-to-peer interactions without intermediaries. The discussion reflects a broader interest in the evolving landscape of AI agent development and the challenges of balancing security, usability, and functionality.

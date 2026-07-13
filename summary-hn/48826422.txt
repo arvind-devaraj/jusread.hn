@@ -1,0 +1,8 @@
+Show HN: FactIQ – a realtime econ+finance database for AI agents  (7 pts, 2 comments)
+https://news.ycombinator.com/item?id=48826422
+
+The Hacker News discussion centers around the launch of FactIQ, a real-time economics and finance database designed for AI agents to facilitate investment research. The creators aim to streamline the data gathering process by sourcing, cleaning, and standardizing information from SEC filings and macroeconomic releases, allowing AI agents to focus on analysis rather than data preparation. The database currently includes over 25 million series of data and is open-source, with plugins available for AI models like Claude Code and Codex.
+
+In the comments, users express interest in the database's capabilities, particularly regarding the storage of historical data. One user inquires about the availability of point-in-time vintages, to which the creators confirm they store data going back ten years. There is also discussion about pricing, with the founders indicating that while the current offerings will remain free, they are considering a $50/month tier for additional insights and data.
+
+Overall, the conversation highlights enthusiasm for the product's potential to enhance AI-driven investment strategies, while also addressing practical concerns about data access and pricing structures.

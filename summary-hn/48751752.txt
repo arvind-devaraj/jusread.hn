@@ -1,0 +1,6 @@
+ZCode: Claude Code from the Makers of GLM  (278 pts, 15 comments)
+https://news.ycombinator.com/item?id=48751752
+
+The Hacker News discussion revolves around ZCode, a coding platform developed by the creators of GLM, which is currently presented primarily in Chinese. Users are sharing links to the English version of the site and discussing the challenges of navigating the site on mobile devices, particularly the difficulty in finding a language toggle.
+
+The main points of debate include the accessibility of the site for non-Chinese speakers and whether it is reasonable for a Chinese company to prioritize its domestic audience over international users. Some commenters express frustration over the lack of a clear language switch, while others argue that it reflects the company's target market. Notably, there is a discussion about Feishu, a Chinese productivity app linked to ZCode, which some users compare to Slack, highlighting the complexities of international business strategies in tech. Overall, the conversation underscores the challenges of language barriers in tech platforms and the differing expectations of global accessibility.

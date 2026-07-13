@@ -1,0 +1,8 @@
+Free 100M AI tokens for Kimi and MiniMax models  (9 pts, 6 comments)
+https://news.ycombinator.com/item?id=48825545
+
+The Hacker News discussion revolves around a promotion offering 100 million free AI tokens for the Kimi and MiniMax models available on the Inference website. Users are curious about the functionality of these models and the terms of the free token offer.
+
+In the comments, there is a consensus that Kimi K2.6 is particularly useful for simple tasks, while MiniMax is seen as more complex but occasionally beneficial. Some users express uncertainty about the availability of the GLM 5.2 model and whether the free tokens will continue to be offered in the future. Additionally, a user notes the ease of claiming tokens without needing to create an account, simply by obtaining an API key.
+
+Overall, the discussion highlights enthusiasm for the Kimi model, some skepticism about the MiniMax model's complexity, and a general appreciation for the free token offer, despite some criticism of the website's design.

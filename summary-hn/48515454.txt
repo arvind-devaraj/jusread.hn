@@ -1,0 +1,8 @@
+RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8  (292 pts, 108 comments)
+https://news.ycombinator.com/item?id=48515454
+
+The Hacker News discussion revolves around a blog post detailing a setup using an RTX 5080 and RTX 3090 graphics cards to achieve 80 tokens per second (tok/s) with the Qwen 3.6 27B Q8 model. The author shares their experience and results, prompting a variety of responses from the community.
+
+In the comments, there is a notable debate about the practicality and efficiency of running local models versus using cloud-based services. Some users express a desire for more theoretical insights on optimizing performance, while others highlight the benefits of local setups, such as privacy and control over costs. A recurring theme is the comparison of local models to proprietary ones, with discussions on the implications of potential regulations and the evolving landscape of AI model accessibility. 
+
+Several commenters emphasize the trade-offs between local and cloud solutions, with some arguing that local models can be less efficient but offer greater autonomy. There are also insights into the hardware market, with users sharing their experiences and costs associated with building local AI setups. Overall, the conversation reflects a mix of technical curiosity, personal investment in AI technology, and broader concerns about the future of AI model usage and ownership.

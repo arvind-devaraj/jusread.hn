@@ -1,0 +1,8 @@
+Trump admin blocks foreign access to Anthropic's most powerful AI models  (29 pts, 7 comments)
+https://news.ycombinator.com/item?id=48510765
+
+The Hacker News discussion revolves around the Trump administration's decision to block foreign access to Anthropic's most advanced AI models, specifically Mythos and Fable. This move raises concerns about national security and the implications for international collaboration in AI development.
+
+Commenters express a range of opinions, with some finding the decision "completely insane" and questioning its effectiveness. A notable point of debate is the potential long-term consequences, such as a brain drain in the AI sector, as restrictions could drive talent away from companies like Anthropic. There is also concern about the practical implications of the policy, including the inability of foreign employees or customers with foreign employees to access Anthropic's technology.
+
+Overall, the discussion highlights a tension between national security interests and the collaborative nature of AI research, with many commenters skeptical about the efficacy of such restrictive measures.

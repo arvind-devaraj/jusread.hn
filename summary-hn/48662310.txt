@@ -1,0 +1,8 @@
+Ask HN: How much coding should beginners learn in the AI era?  (44 pts, 60 comments)
+https://news.ycombinator.com/item?id=48662310
+
+The Hacker News discussion revolves around the question of how much coding beginners should learn in the context of the increasing prevalence of AI in software development. The original poster is curious about the future value of coding skills in tech jobs over the next 5-10 years.
+
+The comments reflect a consensus that while AI tools can assist in coding, a foundational understanding of programming remains crucial. Many commenters argue that knowing how to code is essential for effectively supervising AI-generated code, debugging, and understanding system behavior. Some emphasize that coding teaches critical problem-solving skills and the ability to communicate effectively with AI. Others suggest that while coding may not be the only valuable skill in the future, the principles and mindset gained from learning to code are invaluable.
+
+Notable insights include the analogy of learning to code being akin to learning math or basic flight skills, where foundational knowledge is necessary even if tools simplify the process. Several commenters also highlight the importance of understanding the limitations of AI and the need for human oversight to ensure quality and correctness in software development. Overall, the discussion underscores the enduring relevance of coding skills, even as AI continues to evolve.

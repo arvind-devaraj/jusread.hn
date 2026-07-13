@@ -1,0 +1,8 @@
+Claude-real-video － any LLM can watch a video  (166 pts, 60 comments)
+https://news.ycombinator.com/item?id=48766005
+
+The Hacker News discussion revolves around a GitHub project called "claude-real-video," created by a user frustrated with existing large language models (LLMs) that do not effectively analyze video content. The tool extracts frames at scene changes, deduplicates them, transcribes audio, and can retain the full soundtrack, allowing LLMs to process video more efficiently.
+
+In the comments, users express a mix of support and skepticism regarding the tool's effectiveness. Some contributors share similar projects and offer to collaborate, while others debate the efficiency of using LLMs for video analysis, with some suggesting that models like Gemini are better suited for this task. There is also discussion about the limitations of LLMs in understanding motion and context from frames alone, with some users advocating for traditional computer vision techniques as more reliable.
+
+Notable insights include concerns about the token costs associated with using LLMs for video analysis and the potential for future models to incorporate video processing capabilities natively. The conversation highlights the ongoing exploration of integrating LLMs with video content and the need for more efficient methods to handle large video files without losing context.

@@ -1,0 +1,8 @@
+GLM-5.2: Built for Long-Horizon Tasks  (32 pts, 2 comments)
+https://news.ycombinator.com/item?id=48558960
+
+The Hacker News discussion centers around the release of GLM-5.2, a model designed for long-horizon tasks, as detailed in the linked blog post. The release is highlighted as a significant update compared to a previous announcement, indicating that it is now officially available for use.
+
+In the comments, users express excitement about the model's potential, particularly regarding its performance benchmarks and real-world applicability. One commenter notes the competitive pricing of GLM-5.2 at $1.4/$4.4 per token, which is significantly lower than the cost of similar models like Opus, making it an attractive option for users. There is a general consensus on the impressive nature of the model, with anticipation for further analysis and testing to validate its capabilities.
+
+Overall, the discussion reflects optimism about GLM-5.2's performance and affordability, with users eager to see how it performs in practical applications.

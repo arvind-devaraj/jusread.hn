@@ -1,0 +1,8 @@
+Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work  (124 pts, 78 comments)
+https://news.ycombinator.com/item?id=48701512
+
+The Hacker News discussion revolves around a new open-source application called Adrafinil, designed to keep MacBooks awake with the lid closed while AI agents are actively working. This addresses a common issue where closing the lid puts the laptop to sleep, interrupting the agents. Adrafinil only prevents sleep when it detects agent activity and re-enables sleep once the task is complete or if the laptop is overheating or low on battery.
+
+In the comments, users express a mix of curiosity and skepticism about the necessity of Adrafinil, with some pointing out existing solutions like Amphetamine and tmux. There’s debate about the thermal implications of running a MacBook with the lid closed, with some users sharing past experiences of overheating. Others appreciate the simplicity and functionality of Adrafinil compared to more complex setups. Notably, some users humorously engage with the naming convention of the app, drawing parallels to other stimulant-related software.
+
+Overall, the discussion highlights a blend of practical needs for keeping laptops awake during AI tasks and the ongoing exploration of existing tools, with a light-hearted tone regarding the app's name and purpose.

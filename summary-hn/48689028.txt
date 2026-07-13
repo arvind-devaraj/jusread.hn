@@ -1,0 +1,8 @@
+Previewing GPT‑5.6 Sol: a next-generation model  (1137 pts, 737 comments)
+https://news.ycombinator.com/item?id=48689028
+
+The Hacker News discussion revolves around the preview of OpenAI's next-generation model, GPT-5.6, referred to as "Sol," along with its pricing structure and naming conventions. The model is priced per million tokens across three tiers: Sol, Terra, and Luna, with some commenters expressing concern about the high costs associated with usage. 
+
+Key points of debate include the appropriateness of the model's naming (Sol, Terra, Luna), with some users criticizing it as lacking creativity. Others discuss the pricing strategy, comparing it to previous models and noting that while Sol's pricing is similar to GPT-5.5, Terra offers a more affordable option. There is also a discussion about the implications of versioning, with some questioning why it is labeled as a minor version change rather than a major one, suggesting that it may be a marketing strategy to manage expectations.
+
+Notable insights include concerns about the affordability of the service, especially in relation to global income disparities, and discussions about the nature of understanding in AI, with some users debating whether current models can truly "understand" tasks or simply simulate understanding based on training data. Overall, the conversation reflects a mix of technical analysis, pricing critique, and philosophical inquiry into the capabilities of AI models.

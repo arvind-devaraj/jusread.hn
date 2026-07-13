@@ -1,0 +1,8 @@
+Ask HN: Do we need a support group for developers alienated by LLMs?  (21 pts, 33 comments)
+https://news.ycombinator.com/item?id=48857085
+
+The Hacker News discussion revolves around a developer's feelings of alienation and trauma due to the rise of large language models (LLMs) in software engineering. The original poster expresses concern about losing their identity as a software engineer and the emotional turmoil stemming from the shift towards machine-generated code, which they feel diminishes the craft of programming.
+
+In the comments, there is a mix of agreement and debate. Many developers resonate with the feelings of loss and confusion, sharing their struggles to adapt to a landscape where LLMs are increasingly integrated into their work. Some commenters argue that while LLMs can enhance productivity, they also lead to a devaluation of the developer's role, reducing them to mere code reviewers. Others counter that LLMs can be beneficial, allowing developers to focus on higher-level problem-solving rather than repetitive tasks.
+
+Notable insights include the idea that the impact of LLMs varies among individuals, with some feeling empowered by the technology while others experience a decline in job satisfaction and pride. The discussion highlights a broader existential concern among developers about their future in a rapidly evolving tech landscape, with some contemplating a shift to entirely different careers.

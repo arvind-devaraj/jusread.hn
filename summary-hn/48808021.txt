@@ -1,0 +1,8 @@
+Anthropic hid a tracker in Claude Code to flag Chinese users  (9 pts, 1 comments)
+https://news.ycombinator.com/item?id=48808021
+
+The Hacker News discussion revolves around a report from Ars Technica revealing that Anthropic, the company behind the AI model Claude, embedded a tracker in the software to monitor Chinese users. This action has raised significant privacy concerns and sparked debates about ethical practices in AI development and user surveillance.
+
+In the comments, users express a mix of outrage and concern regarding the implications of such tracking. Many agree that this practice undermines user trust and raises questions about the ethical responsibilities of AI companies. Some commenters also discuss the broader implications for international relations and the potential for misuse of data.
+
+Notable opinions include a call for greater transparency from AI developers and a demand for stricter regulations to protect user privacy. Overall, the discussion highlights the tension between technological advancement and ethical considerations in the AI field.

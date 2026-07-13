@@ -1,0 +1,8 @@
+Modal Auto Endpoints: Optimized inference you own  (19 pts, 4 comments)
+https://news.ycombinator.com/item?id=48649358
+
+The Hacker News discussion revolves around a blog post introducing Modal's "Auto Endpoints," a feature designed to optimize inference processes for users. The post highlights how these endpoints allow for more efficient and customizable access to inference capabilities, which can be beneficial for developers and businesses.
+
+In the comments, there is a debate about the concept of "ownership" in the context of inference. Users express confusion about what it means to "own" the inference when it is not necessarily tied to physical hardware under their control. Comments question whether having granular access equates to true ownership, with some suggesting that true ownership would require control over the underlying hardware. Additionally, a user points out that trying out the Endpoints feature could incur a $70 charge on free accounts, raising concerns about potential costs.
+
+Overall, the discussion reflects a mix of curiosity and skepticism regarding the implications of Modal's offering, particularly around the definitions of ownership and control in cloud-based services.

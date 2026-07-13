@@ -1,0 +1,8 @@
+New York Times says OpenAI hid evidence in ChatGPT copyright trial  (23 pts, 1 comments)
+https://news.ycombinator.com/item?id=48853227
+
+The Hacker News discussion revolves around a report from the New York Times alleging that OpenAI concealed evidence during a copyright trial involving ChatGPT. The article highlights concerns about transparency and accountability in AI development, particularly regarding how OpenAI handles copyright issues related to the data used to train its models.
+
+In the comments, users express a mix of skepticism and concern about OpenAI's practices. Some commenters emphasize the importance of ethical standards in AI development, while others debate the implications of copyright law in the context of AI-generated content. There is a general consensus that the situation raises significant questions about the responsibilities of AI companies in disclosing information relevant to legal proceedings.
+
+Notably, some commenters suggest that this incident could have broader implications for the AI industry, potentially influencing public trust and regulatory scrutiny. Overall, the discussion reflects a growing awareness of the ethical and legal challenges posed by AI technologies.

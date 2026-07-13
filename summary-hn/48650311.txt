@@ -1,0 +1,8 @@
+Anthropic updates their terms to verify age or identity  (196 pts, 177 comments)
+https://news.ycombinator.com/item?id=48650311
+
+The Hacker News discussion revolves around Anthropic's recent update to their terms of service, which now requires users to verify their age or identity. This policy, effective from July 8, 2026, has sparked significant concern among commenters regarding privacy and the implications of increased surveillance.
+
+The main points of debate include the potential for misuse of personal data, with many users expressing fears that such verification processes could lead to government overreach and a slippery slope towards a surveillance state. Some commenters argue that requiring identity verification for online services is a necessary step for safety, while others believe it infringes on civil liberties and privacy rights. Notably, comparisons are drawn between this policy and surveillance systems in other countries, particularly China, with some suggesting that the U.S. is moving towards similar practices.
+
+Several commenters highlight the risks of dependency on AI technologies and the potential for a "skill drain" in programming and other fields, as reliance on AI tools may diminish critical thinking and problem-solving abilities. Overall, the discussion reflects a deep concern about the balance between safety, privacy, and the ethical implications of AI and surveillance in society.

@@ -1,0 +1,8 @@
+Launch HN: Parsewise (YC P25) – Reason Across Documents with an API  (56 pts, 54 comments)
+https://news.ycombinator.com/item?id=48746752
+
+The post introduces Parsewise, a startup that offers an API for transforming unstructured data into schema-compliant formats while retaining data lineage across multiple documents. Founders Greg and Max emphasize the platform's ability to handle complex data extraction tasks, such as reasoning across various document types (e.g., insurance policies, emails) and providing traceable outputs. They highlight their experience in data transformation and analysis, aiming to simplify the ETL process for tech teams while involving business experts for validation.
+
+In the comments, there is a mix of curiosity and skepticism regarding Parsewise's unique value proposition compared to existing solutions in the "Intelligent Document Processing" market. Some users question the scalability and cost-effectiveness of Parsewise, while others express interest in its potential applications, particularly in regulated industries. Notably, discussions touch on the ethical implications of the founders' previous work at Palantir, with some commenters urging a more critical view of the technology's societal impact.
+
+Overall, the conversation reflects a blend of enthusiasm for Parsewise's innovative approach and caution about its practical applications and ethical considerations, with several users suggesting improvements and expressing interest in specific use cases.

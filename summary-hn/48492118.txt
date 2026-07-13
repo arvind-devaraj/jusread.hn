@@ -1,0 +1,8 @@
+Ask HN: How do you get into a flow state when using AI to code?  (98 pts, 124 comments)
+https://news.ycombinator.com/item?id=48492118
+
+The Hacker News discussion revolves around the challenges of achieving a flow state while coding with AI tools, particularly slower agents like Claude. The original poster expresses frustration at losing the ability to work deeply due to the interruptions caused by waiting for AI responses and seeks advice on maintaining focus.
+
+In the comments, there is a consensus that the nature of AI coding—characterized by waiting for replies—disrupts the flow state traditionally associated with deep work. Some users suggest strategies like multitasking across multiple prompts or using techniques from mindfulness to manage waiting periods. Others argue that the reliance on AI can lead to a feeling of being less in control, akin to managing an underperforming team member. Notably, some participants find that using AI has actually improved their workflow by allowing them to focus on higher-level tasks rather than mundane details.
+
+Overall, the discussion highlights a tension between the potential benefits of AI in coding and the drawbacks of its current limitations, with various users sharing personal strategies to adapt to this new coding landscape.

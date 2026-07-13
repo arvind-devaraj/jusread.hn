@@ -1,0 +1,8 @@
+State Attorneys General Are Investigating OpenAI  (65 pts, 5 comments)
+https://news.ycombinator.com/item?id=48522675
+
+The Hacker News discussion centers around a New York Times article reporting that state attorneys general are investigating OpenAI, likely due to concerns about user data handling and safety features in their AI products. 
+
+In the comments, users point out a potential typo in the article's subtitle and discuss the evolution of ChatGPT's responses, particularly regarding its handling of sensitive topics like suicidal thoughts. One commenter notes that the AI has improved by incorporating standard safety features, such as providing contact information for real human support, which were not present in earlier versions.
+
+Overall, the discussion reflects a mix of technical observations about AI safety measures and a critical view of how OpenAI manages user data and responds to sensitive inquiries. The comments highlight a growing awareness and scrutiny of AI functionalities and their implications for user safety.

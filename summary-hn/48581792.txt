@@ -1,0 +1,6 @@
+Show HN: Run Agent Skills with mistral.rs v0.8.10: /v1/skills support and more  (20 pts, 2 comments)
+https://news.ycombinator.com/item?id=48581792
+
+The Hacker News discussion centers around the release of version 0.8.10 of mistral.rs, a tool that now supports OpenAI-compatible Agent Skills through a new /v1/skills endpoint. This feature allows users to utilize local open models for tasks that were previously restricted to closed models, addressing the growing need for private, local intelligence. The post emphasizes ease of integration with existing codebases and includes support for file handling, along with prebuilt binaries for various platforms.
+
+In the comments, there is a debate about the implications of OpenAI compatibility. One user questions whether this compatibility is merely a transitional phase or if it will become the standard for local model tools. Another commenter expresses confusion over the claim that skills were "locked to closed models," noting that skills are essentially markdown prompts and questioning the validity of that assertion. Overall, the discussion highlights excitement for the new features while also probing the broader implications of compatibility with OpenAI's API.

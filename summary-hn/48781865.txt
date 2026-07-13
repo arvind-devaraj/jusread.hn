@@ -1,0 +1,6 @@
+CueBench for Developers is live: score how well you drive coding agents  (9 pts, 4 comments)
+https://news.ycombinator.com/item?id=48781865
+
+The Hacker News discussion centers around the launch of CueBench, a tool designed to evaluate how effectively developers interact with coding agents like Claude Code and Codex. CueBench scores sessions based on human factors such as delegation, task description, and error verification, providing a deterministic score from 0 to 100 based on measurable signals rather than subjective interpretations.
+
+In the comments, users express a mix of excitement and skepticism. Some, like DillonMehta, highlight the tool's potential to benchmark human performance in driving coding agents, emphasizing its objective scoring system. Others, such as drdexebtjl, voice concerns that the tool could be misused to justify layoffs by quantifying developer contributions. Overall, while there is enthusiasm for testing the tool, there are also apprehensions about its implications for the workforce.

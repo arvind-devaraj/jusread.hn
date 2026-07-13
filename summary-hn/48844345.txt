@@ -1,0 +1,8 @@
+Ask HN: I hate coding agents. Is this skill issue?  (14 pts, 12 comments)
+https://news.ycombinator.com/item?id=48844345
+
+The Hacker News discussion revolves around a user's frustration with coding agents (AI tools that assist in programming). The user expresses concerns about losing deep focus due to constant interruptions from waiting for AI prompts, feeling disconnected from their projects, and relying heavily on AI for coding tasks, which leads to a lack of understanding of the codebase. They also mention that while AI can handle about 80% of the work, it often makes incorrect assumptions that complicate the remaining 20%.
+
+In the comments, several users share similar experiences, highlighting the challenges of balancing speed and understanding when using AI tools. Some argue that while coding agents can increase productivity, they also introduce anxiety and a lack of ownership over the code. Others suggest that thorough design and architecture are essential to mitigate issues caused by AI-generated code. Notably, some users prefer traditional coding methods over using agents, finding them more effective despite the potential for greater productivity with AI.
+
+Overall, the discussion reflects a broader debate about the effectiveness and implications of using AI in coding, with many participants advocating for a careful approach that maintains a strong understanding of the code while leveraging AI's capabilities.

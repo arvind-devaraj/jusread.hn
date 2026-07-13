@@ -1,0 +1,8 @@
+AI 2040  (6 pts, 2 comments)
+https://news.ycombinator.com/item?id=48849528
+
+The Hacker News discussion revolves around the website "AI 2040," which presumably presents predictions or visions for the future of artificial intelligence by the year 2040. The post has sparked a conversation about the credibility of long-term predictions in the field of AI.
+
+In the comments, there is a consensus that the timelines for AI advancements have become increasingly ambitious, with one commenter, platinumrad, expressing skepticism about the reliability of such predictions, suggesting that they lost credibility several timelines ago. Another commenter, ChrisArchitect, references an earlier discussion, indicating that this skepticism is not new and has been a recurring theme in conversations about AI forecasts.
+
+Overall, the discussion highlights a general wariness towards long-term predictions in AI, with participants questioning the feasibility and accuracy of projecting advancements so far into the future.

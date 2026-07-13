@@ -1,0 +1,8 @@
+Anthropic restoring access to Claude Fable 5 and Mythos 5 from tomorrow  (58 pts, 9 comments)
+https://news.ycombinator.com/item?id=48740805
+
+The Hacker News discussion revolves around Anthropic's announcement that they will be restoring access to their AI models, Claude Fable 5 and Mythos 5, starting tomorrow. The post links to a tweet from Anthropic AI, generating interest and commentary among users.
+
+In the comments, there is a notable debate about the prevalence of bot-generated replies on social media platforms, particularly X (formerly Twitter). One user observes that X has a higher volume of inauthentic responses compared to other platforms like bsky, attributing this to the larger user base and the motivations of its owner, Elon Musk. Others speculate about potential behind-the-scenes dealings or influences, suggesting that there may be more to the situation than meets the eye.
+
+Overall, the discussion highlights concerns about the integrity of online discourse, the impact of platform ownership on user interactions, and the ongoing fascination with AI technologies like those developed by Anthropic.

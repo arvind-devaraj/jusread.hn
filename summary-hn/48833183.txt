@@ -1,0 +1,8 @@
+Show HN: Kastor – Terraform-style specs for AI agents  (33 pts, 17 comments)
+https://news.ycombinator.com/item?id=48833183
+
+The Hacker News discussion revolves around Kastor, a project introduced by a user named "weirdguy." Kastor is a Go CLI and declarative language designed to manage AI agents, aiming to centralize agent definitions that are often scattered across various frameworks and settings. The current proof of concept includes features like agent and tool file management, HCL parsing, and code generation, with future plans to implement more comprehensive functionalities.
+
+In the comments, there is a mix of support and skepticism regarding the viability of standardizing AI agents, with some users expressing concerns that the concept of an "agent" is still evolving and may not be stable enough for standardization. "weirdguy" acknowledges this uncertainty but emphasizes the goal of establishing a source-of-truth layer for agent specifications. There is also a discussion about whether Kastor should be integrated with Terraform, with "weirdguy" explaining that while a Terraform provider could be a future direction, Kastor's dual approach of compiling specs into code and managing remote agents makes it distinct from traditional Terraform use.
+
+Overall, the conversation highlights both the innovative potential of Kastor in organizing AI agent specifications and the challenges posed by the rapidly changing landscape of AI agent definitions.

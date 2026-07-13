@@ -1,0 +1,8 @@
+Mechanistic interpretability researchers applying causality theory to LLMs  (99 pts, 68 comments)
+https://news.ycombinator.com/item?id=48883090
+
+The Hacker News discussion revolves around an article on mechanistic interpretability researchers applying causality theory to large language models (LLMs). The post highlights efforts to understand whether the "knowledge" encoded in neural networks corresponds to reasoning-like concepts, using experiments to analyze model behavior, such as how they handle time calculations.
+
+In the comments, there is significant debate about whether LLMs can truly "reason" or if their outputs are merely sophisticated token predictions. Some commenters argue that while LLMs show signs of reasoning, this may be an anthropomorphic interpretation of their processes. Others emphasize that understanding the causal mechanisms behind LLM outputs is crucial, regardless of whether one labels it as reasoning.
+
+Notable insights include the distinction between "phenomenal reasoning" (requiring consciousness) and "functional reasoning" (logical transformations), with some commenters suggesting that LLMs may exhibit the latter without possessing true understanding. The discussion reflects a broader skepticism about the capabilities of LLMs, with some asserting that their complexity makes them akin to "black boxes" that resist straightforward interpretation.

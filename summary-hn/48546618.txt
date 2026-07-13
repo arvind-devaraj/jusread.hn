@@ -1,0 +1,8 @@
+Anthropic pauses credit change for Claude Code  (36 pts, 12 comments)
+https://news.ycombinator.com/item?id=48546618
+
+The Hacker News discussion centers around Anthropic's decision to pause a planned change regarding credit usage for their Claude Code services, specifically the Claude Agent SDK and related applications. An email from Anthropic clarified that users will continue to operate under their existing subscription terms without any immediate changes to credit limits or usage.
+
+In the comments, users express a mix of confusion and skepticism about the company's communication. Some appreciate the clarity of the message, while others question the implications of the pause, suggesting it may indicate future changes or a failure to meet deadlines. There is a prevailing concern that the company might eventually impose new charges, with some commenters speculating that the delay could be linked to business strategies, such as preparing for an IPO.
+
+Notable opinions include a sense of relief from some users who are glad to maintain their current subscription terms, while others remain cynical about the company's intentions, fearing that changes are inevitable. Overall, the discussion reflects a blend of cautious optimism and skepticism regarding Anthropic's future plans.

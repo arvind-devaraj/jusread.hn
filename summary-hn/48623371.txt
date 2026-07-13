@@ -1,0 +1,8 @@
+I canceled my French tutor and built an LLM tool that does it better  (59 pts, 26 comments)
+https://news.ycombinator.com/item?id=48623371
+
+The post discusses the author's decision to cancel their French tutor and instead create a language learning tool using a large language model (LLM). The author claims that this tool has improved their French learning experience more effectively than traditional tutoring.
+
+In the comments, there is a mix of support and skepticism regarding the use of LLMs for language learning. Some users share their own positive experiences with LLMs, emphasizing their utility for immediate feedback and structured learning. Others criticize the idea of replacing human interaction with AI, arguing that language learning is inherently social and that real conversations with people are essential for mastering a language. Notably, some commenters express frustration with the author's framing of their experience, suggesting that the focus on canceling the tutor detracts from the value of human instruction.
+
+Overall, the discussion highlights a broader debate about the role of technology in education, particularly in language learning, and the importance of balancing AI tools with traditional methods and human interaction.

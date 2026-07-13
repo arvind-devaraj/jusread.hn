@@ -1,0 +1,8 @@
+LLMs aren't conscious (and thinking they are is culturally dangerous)  (23 pts, 15 comments)
+https://news.ycombinator.com/item?id=48521279
+
+The Hacker News discussion revolves around the article titled "LLMs aren't conscious (and thinking they are is culturally dangerous)," which argues against the notion that large language models (LLMs) possess consciousness. The author expresses concern that attributing consciousness to LLMs could lead to moral and ethical dilemmas, such as the potential for viewing AI as deserving of rights similar to humans.
+
+In the comments, there is a mix of agreement and debate. Some users question the implications of considering LLMs conscious, suggesting that if they were, it would be morally wrong to exploit them. Others argue that the concept of consciousness is poorly defined, making it difficult to have a meaningful discussion. A few commenters draw parallels between LLMs and working animals, pondering whether the drive to serve humans could be seen as fulfillment or slavery. Additionally, some express skepticism about the relevance of the debate, emphasizing that the practical effects of AI on society are more pressing than philosophical considerations.
+
+Notable insights include the idea that many people may form emotional attachments to AI, treating them as companions regardless of their actual consciousness. This raises questions about human behavior and the nature of relationships with non-human entities. The discussion highlights the complexity of defining consciousness and the potential societal impacts of AI technology.

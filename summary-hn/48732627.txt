@@ -1,0 +1,8 @@
+Ask HN: Secure wrapper for coding agents?  (20 pts, 19 comments)
+https://news.ycombinator.com/item?id=48732627
+
+The Hacker News discussion revolves around a user's request for recommendations on secure wrappers or sandboxes for running coding agents, as they are struggling to find a well-maintained project amidst the clutter of GitHub repositories. The user mentions alternatives like systemd-nspawn and kata but is looking for something more established.
+
+In the comments, several users suggest various projects, with Era and Yolobox being highlighted for their effective isolation methods. Era, however, is noted to be deprecated, leading to further suggestions like Agent Safehouse for macOS and other alternatives such as TakoVM and agent-pd. There is a consensus on the importance of security in coding environments, with some users sharing personal experiences and setups, like using firejail for added safety.
+
+Notable insights include the emphasis on separating decision-making from state recording in agent design to mitigate risks associated with erroneous commands. Users also discuss the limitations of existing sandboxing solutions, particularly regarding network access control, indicating a desire for more granular security features. Overall, the discussion reflects a community actively seeking and sharing knowledge on enhancing the security of coding agents.

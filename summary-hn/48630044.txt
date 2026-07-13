@@ -1,0 +1,8 @@
+The Coming Enshittification of AI  (30 pts, 24 comments)
+https://news.ycombinator.com/item?id=48630044
+
+The post titled "The Coming Enshittification of AI" discusses the potential decline in quality and user experience of AI technologies as they become increasingly monetized through advertising, similar to trends seen in social media and search engines. The author warns that as companies seek to maximize profits, the integrity and utility of AI services may diminish, leading to a situation where users are inundated with ads and promotional content disguised as genuine interactions.
+
+In the comments, there is a mix of agreement and skepticism regarding the inevitability of this "enshittification." Some users argue that the competitive landscape of AI, with numerous alternatives available, may prevent a decline in quality, while others express concern that even paid services could succumb to the pressures of monetization. Notably, some commenters emphasize the importance of local LLMs (large language models) as a potential solution to avoid ad-driven degradation, while others point out that users may not fully understand or utilize open-source options.
+
+Overall, the discussion highlights a tension between the desire for innovative AI solutions and the fear that profit motives will compromise their effectiveness and user experience. Many participants share a sense of unease about the future of AI, reflecting broader concerns about the commercialization of technology.

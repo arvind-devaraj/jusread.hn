@@ -1,0 +1,8 @@
+Show HN: Foreman, a self-hosted LLM gateway for cost aware model routing  (15 pts, 14 comments)
+https://news.ycombinator.com/item?id=48835063
+
+The Hacker News discussion centers around "Foreman," a self-hosted gateway for managing large language models (LLMs) with a focus on cost-aware model routing. The project aims to provide users with the ability to select and assign specific models for various tasks, distinguishing itself from other solutions like Sakana Fugu, which operates more like a black box.
+
+In the comments, there is a notable debate about the name "Foreman," which some users feel is too generic or already associated with existing software, such as the provisioning tool and the George Foreman grill. The creator, AndrewLiu96, acknowledges these concerns and expresses a lighthearted appreciation for the grill as a naming inspiration. Additionally, there are discussions about code quality, with some users suggesting that the code may be "sloppy," while others defend it and invite constructive feedback.
+
+Overall, the conversation highlights both the excitement around the tool's potential and the challenges of naming and branding in a crowded software landscape. Users also express interest in similar projects, indicating a broader interest in cost-effective LLM management solutions.

@@ -1,0 +1,8 @@
+Claude: Elevated errors across many models [resolved]  (189 pts, 160 comments)
+https://news.ycombinator.com/item?id=48558766
+
+The Hacker News discussion revolves around a recent incident involving Claude, an AI model, which experienced elevated errors across various models. The issue has since been resolved, but users expressed frustration over how these errors disrupted long-running sessions and rendered them unusable. 
+
+In the comments, there is a consensus that while Claude has a retry mechanism, it often fails to function as expected, leading to dissatisfaction among users. Many commenters shared their experiences with Claude's performance, noting that it can be buggy and slow, particularly in terminal environments like Windows and tmux. Some users compared Claude unfavorably to other models, such as OpenAI's offerings, citing stability and reliability as significant concerns. 
+
+Notable insights include a debate over the claim that "coding is solved," with some users arguing that while AI can assist in coding, it doesn't eliminate the complexities of software engineering. There’s also a recognition of the rapid scaling challenges faced by AI companies like Anthropic, which may contribute to the bugs and reliability issues. Overall, the discussion highlights a mix of frustration with current performance and a cautious optimism about the potential of AI in coding.

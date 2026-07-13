@@ -1,0 +1,8 @@
+Words Are a Byproduct of Consciousness. For LLMs, It's Backwards  (94 pts, 198 comments)
+https://news.ycombinator.com/item?id=48733062
+
+The Hacker News discussion revolves around the idea presented in the post that words are a byproduct of consciousness, contrasting this with how large language models (LLMs) operate. The author argues that for humans, thoughts precede words, while LLMs generate words from underlying vectors without true understanding or consciousness.
+
+In the comments, there is significant debate about the nature of thought and language. Some users agree that humans often think in concepts before verbalizing them, while others argue that language can influence thought processes. The discussion also touches on the cognitive abilities of LLMs compared to humans, with some commenters suggesting that LLMs could eventually surpass human capabilities if integrated with physical experiences and world models.
+
+Notable insights include reflections on the nature of consciousness and communication, with some participants citing examples from neuroscience and meditation practices. The conversation highlights the complexity of human cognition, the role of language in shaping thought, and the ongoing exploration of what constitutes consciousness, both in humans and artificial intelligence.

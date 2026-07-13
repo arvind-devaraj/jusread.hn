@@ -1,0 +1,8 @@
+Ask HN: What was the last task where only a frontier model could do it?  (24 pts, 31 comments)
+https://news.ycombinator.com/item?id=48863171
+
+The Hacker News discussion revolves around the effectiveness of frontier AI models compared to open-weight models that are six months behind. The original poster seeks examples of specific tasks where only a frontier model succeeded while an open model failed, or vice versa, encouraging participants to share their experiences using a structured template.
+
+In the comments, there is a general consensus that frontier models, such as GPT-5.6 and Fable, outperform older models in complex tasks, particularly in areas requiring sustained reasoning and intricate problem-solving. Users share various experiences, including disassembling old games and debugging code, highlighting that while older models can handle simpler tasks, they often fall short in more demanding scenarios. Notably, some commenters argue that the newer models provide significant value despite their higher costs, especially for tasks requiring high reliability and autonomy.
+
+Overall, the discussion underscores a divide between those who believe that open models are sufficient for many tasks and those who advocate for the superior capabilities of frontier models, particularly in complex or nuanced applications.

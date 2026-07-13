@@ -1,0 +1,8 @@
+Google Should Open Source Gemini. All of It  (7 pts, 1 comments)
+https://news.ycombinator.com/item?id=48849533
+
+The Hacker News discussion revolves around a blog post advocating for Google to open source its AI model, Gemini. The author argues that making Gemini open source would foster innovation, improve transparency, and allow the community to enhance the model's capabilities.
+
+In the comments, there is a notable dissenting opinion from a user named verdverm, who expresses dissatisfaction with Gemini's performance, particularly in coding tasks, and mentions that it has become less user-friendly. They suggest that other models, particularly those developed in China, are outperforming Gemini and imply that open sourcing it may not attract users.
+
+Overall, the discussion highlights a divide between those who see the potential benefits of open sourcing Gemini and those who question its current effectiveness and relevance in comparison to competing models.

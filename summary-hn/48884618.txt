@@ -1,0 +1,8 @@
+Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels  (35 pts, 4 comments)
+https://news.ycombinator.com/item?id=48884618
+
+The Hacker News discussion centers around a post titled "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels," which introduces a new approach to improve the efficiency of training large language models using sparse attention mechanisms. The post likely highlights advancements in model training that could enable handling larger datasets more effectively.
+
+In the comments, there is some debate about the originality of the work, with one user questioning whether it is truly the first of its kind and referencing a related implementation of sparse attention from a previous paper. Another user expresses interest in the Minimax M3 model, comparing it to other models like Deepseek V4 and GLM 5.2, and seeking insights on its performance. A user who has experimented with Minimax M3 shares their positive experience, noting it as a significant improvement over its predecessor, M2.7, particularly for simpler tasks.
+
+Overall, the discussion reflects a mix of skepticism regarding claims of novelty, curiosity about the performance of new models, and a recognition of the advancements in model training techniques that could enhance the capabilities of AI systems.

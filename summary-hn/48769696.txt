@@ -1,0 +1,8 @@
+AI is 'not smart' so what's next in artificial intelligence?  (44 pts, 75 comments)
+https://news.ycombinator.com/item?id=48769696
+
+The Hacker News discussion revolves around the limitations of current artificial intelligence (AI), particularly large language models (LLMs), and what the future may hold for the field. The article referenced in the title suggests that AI is "not smart" in the traditional sense, prompting users to explore the distinctions between AI and human intelligence, as well as the potential for an "AI winter," a period of reduced funding and interest in AI research.
+
+In the comments, there is a significant debate about the nature of intelligence, with some arguing that LLMs excel at inference and generating content based on extensive data, while others contend that they lack true understanding or learning capabilities. Some users express skepticism about the sustainability of AI hype, drawing parallels to past tech trends like VR and blockchain, while others remain optimistic about AI's integration into various markets, particularly in China. A notable point of contention is whether AI can genuinely "learn" or if it merely simulates learning through pre-existing data.
+
+Overall, the discussion highlights a divide between those who see AI as a transformative technology with lasting potential and those who view it as a passing trend that may face backlash due to regulatory concerns and public perception. The conversation reflects ongoing uncertainties about the definitions and implications of intelligence in both machines and humans.

@@ -1,0 +1,8 @@
+Faster embeddings: how we rebuilt the ONNX path in Manticore  (80 pts, 12 comments)
+https://news.ycombinator.com/item?id=48770477
+
+The Hacker News discussion revolves around a blog post detailing how Manticore improved the speed of ONNX (Open Neural Network Exchange) embeddings. The post highlights the challenges and solutions in optimizing ONNX for faster inference on CPUs, particularly in the context of embedding models.
+
+In the comments, there is a consensus on the effectiveness of ONNX for achieving speed gains, especially on CPUs. However, users debate the limitations of current models, such as the all-MiniLM-L12-v2, and express a need for more robust alternatives. There is also discussion about the importance of CPU-specific optimizations, with several commenters advocating for the use of OpenVINO, which can significantly enhance inference speed by leveraging Intel's hardware capabilities. Some users argue about the benefits of batching versus single inference, with differing opinions on the efficiency of each approach.
+
+Notable insights include the recognition of AVX512 and Intel AMX as powerful tools for optimizing performance, as well as a caution against using spinlocks in parallel programming due to their potential drawbacks. Overall, the discussion reflects a deep interest in enhancing AI model performance on CPUs and the technical nuances involved in achieving that.

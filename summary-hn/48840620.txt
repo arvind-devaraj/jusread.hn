@@ -1,0 +1,8 @@
+What's slowing down the AI buildout  (78 pts, 184 comments)
+https://news.ycombinator.com/item?id=48840620
+
+The Hacker News discussion revolves around the challenges hindering the expansion of AI infrastructure, particularly focusing on the availability and delivery of electricity. The original post argues that the growth of AI is fundamentally limited by energy supply, emphasizing the need for efficient delivery of power rather than just the source of energy (gas, nuclear, solar, etc.).
+
+In the comments, there is significant debate about the political and economic factors affecting renewable energy adoption in the U.S. Some users argue that current policies are influenced by corruption and regulatory capture, while others point out that the political landscape is complex and bipartisan. There is also discussion about the role of nuclear energy versus renewables, with some advocating for more nuclear investment due to its potential for high output and low emissions, while others highlight the environmental impacts of both energy sources.
+
+Notable insights include the recognition that the demand for AI capacity must also grow alongside supply, and that the current energy infrastructure may not be sufficient to support the anticipated expansion of AI technologies. Additionally, there is a consensus that while renewable energy has economic advantages, the regulatory environment and political will are significant barriers to its widespread adoption.

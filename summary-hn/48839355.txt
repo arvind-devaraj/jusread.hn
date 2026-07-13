@@ -1,0 +1,8 @@
+MIRA: Multiplayer Interactive World Models Trained on Rocket League  (97 pts, 30 comments)
+https://news.ycombinator.com/item?id=48839355
+
+The Hacker News discussion revolves around MIRA, a multiplayer interactive world model trained on 10,000 hours of Rocket League data. The model, developed by a collaboration between General Intuition, Kyutai, and Epic Games, features a 5 billion parameter neural network that simulates the game without relying on traditional graphics or physics engines. Users can play a demo that showcases the model's capabilities, which runs at 20 frames per second on a single GPU.
+
+In the comments, there is a mix of excitement and curiosity about the model's performance, particularly regarding its ability to recover from out-of-distribution scenarios, which is a unique feature compared to other models. Some users express interest in the model's learning process and whether it truly understands deeper game mechanics or simply excels at the training data distribution. There are also discussions about the potential for future applications in robotics and the desire for more transparency, such as open-sourcing the model weights.
+
+Notable insights include the model's impressive auto-recovery behavior and its ability to simulate realistic gameplay, even outperforming some users. However, some players noted that the model occasionally ignored inputs, leading to a less responsive experience. Overall, the discussion highlights both the innovative aspects of MIRA and the ongoing interest in understanding and improving AI models in gaming and other fields.

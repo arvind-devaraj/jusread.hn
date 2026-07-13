@@ -1,0 +1,8 @@
+Tell HN: OpenAI has started putting ads on paid programs  (115 pts, 64 comments)
+https://news.ycombinator.com/item?id=48673194
+
+The Hacker News discussion centers around a user's experience with OpenAI's paid program, where they began seeing ads despite paying a monthly fee. The user expressed frustration over the irrelevance of the ads, which appeared during conversations about mobile games, leading them to cancel their subscription. 
+
+In the comments, there is a mix of agreement and debate regarding the introduction of ads in paid plans. Many users find the ads intrusive and poorly targeted, with some suggesting that this trend is indicative of a broader "ad culture" that prioritizes profit over user experience. Others point out that ads have been a known part of the lower-tier subscription plans, and some believe that ads are an inevitable aspect of monetizing services, especially as OpenAI prepares for an IPO. Notably, there are concerns about the potential for further "enshittification" of services, where user experience deteriorates as companies seek to maximize revenue through advertising.
+
+Overall, the discussion highlights a growing discomfort with the commercialization of AI services and the implications for user experience, privacy, and the future of subscription models in tech.

@@ -1,0 +1,8 @@
+When I reject AI code even if it works  (237 pts, 167 comments)
+https://news.ycombinator.com/item?id=48614631
+
+The Hacker News discussion revolves around the author's stance on rejecting AI-generated code, even if it functions correctly. The author emphasizes the importance of understanding and controlling the code one ships, arguing that reliance on AI can lead to unforeseen issues and a lack of accountability. 
+
+In the comments, there is a mix of agreement and debate. Some users support the author's perspective, highlighting the need for developers to be able to explain and troubleshoot the code they deploy. Others argue that AI can be a useful tool, especially for simpler tasks, and that risk tolerance should dictate how much one relies on AI-generated solutions. A notable concern raised is the potential for AI to produce complex and poorly designed code, which could lead to technical debt and long-term maintenance issues.
+
+Several commenters express skepticism about the quality of AI-generated code, pointing out that it may lack the thoughtful design and modularity that experienced developers would prioritize. There are also discussions about the implications of AI on the software development landscape, with some fearing that reliance on AI could lead to a decline in coding standards and an increase in "spaghetti code." Overall, the conversation reflects a broader tension between leveraging AI for efficiency and maintaining high-quality software engineering practices.

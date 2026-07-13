@@ -1,0 +1,8 @@
+Petition against Meta's employee training data collection for ML models  (78 pts, 77 comments)
+https://news.ycombinator.com/item?id=48623721
+
+The Hacker News discussion centers around a petition against Meta's collection of employee training data for machine learning models. The petition raises concerns about privacy and surveillance, prompting a debate about the ethical implications of working for a company like Meta, which is known for its controversial practices.
+
+In the comments, there is a split between those who express sympathy for Meta employees facing increased surveillance and those who argue that these employees are complicit in enabling a harmful system. Some commenters highlight the historical effectiveness of collective actions like petitions and protests, while others are skeptical about their impact in today's corporate environment. There is also a discussion about workers' rights, with some asserting that all workers deserve basic rights regardless of their employer's ethics, while others question the moral standing of those who work for a company that profits from surveillance.
+
+Notable insights include the idea that if Meta employees can be forced to accept invasive practices, it sets a precedent that could affect workers across the tech industry. Additionally, some commenters suggest that the petition might be a low-stakes first step in a larger pressure campaign, while others emphasize the need for more substantial actions like unionizing to effect real change. Overall, the conversation reflects a complex interplay of ethics, worker rights, and corporate power dynamics.

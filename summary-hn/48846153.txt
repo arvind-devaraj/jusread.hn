@@ -1,0 +1,8 @@
+Ollama raises $65M, grows to nearly 9M users  (8 pts, 7 comments)
+https://news.ycombinator.com/item?id=48846153
+
+The Hacker News discussion centers around a TechCrunch article announcing that Ollama, an open-source AI developer tool, has raised $65 million and grown to nearly 9 million users. The comments reflect a mix of enthusiasm and concern regarding Ollama's practices and compliance with open-source licensing.
+
+Many users express excitement about Ollama's growth and its utility for running local AI models, with some highlighting its importance for privacy. However, a significant point of debate arises from a mention in the article about Ollama's failure to include the required MIT license notice for the llama.cpp code it uses. This raises questions about the enforcement of open-source licensing and whether legal action could be taken against Ollama. Some commenters express disappointment over this oversight, with one stating they would seek alternatives for local model testing due to this issue.
+
+Overall, the discussion showcases a blend of support for Ollama's capabilities and skepticism about its adherence to open-source principles, highlighting the complexities of licensing in the tech community.

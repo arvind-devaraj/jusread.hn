@@ -1,0 +1,8 @@
+Agentic coding notes  (178 pts, 82 comments)
+https://news.ycombinator.com/item?id=48782671
+
+The Hacker News discussion revolves around a blog post titled "Agentic coding notes," which explores the implications of using AI tools like Fable for coding tasks. The author discusses the potential benefits and challenges of integrating AI into the coding process, particularly focusing on how these tools can change the dynamics of software development.
+
+In the comments, there is a mix of skepticism and enthusiasm regarding the use of AI in coding. Some users express concerns about the economic implications of AI, suggesting that subscription models may not be sustainable and could lead to higher costs for users. Others debate the effectiveness of different AI models, with some praising Fable's capabilities while others find it lacking compared to previous iterations. A notable point of contention is the value of anecdotal experiences versus data-driven insights, with some commenters arguing that personal experiences can provide valuable context, while others dismiss them as noise.
+
+Overall, the discussion highlights a broader conversation about the evolving role of AI in software development, the economic realities of AI services, and the subjective nature of user experiences with these technologies.

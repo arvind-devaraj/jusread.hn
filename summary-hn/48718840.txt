@@ -1,0 +1,8 @@
+Tidal AI Policy  (308 pts, 313 comments)
+https://news.ycombinator.com/item?id=48718840
+
+The Hacker News discussion revolves around Tidal's new AI policy, which allows AI-generated music on its platform but emphasizes the need for labeling such content and not monetizing it. Users express mixed feelings about the implications of this policy, with some supporting the idea of tagging AI-generated music to maintain content integrity, while others criticize Tidal for not compensating creators of AI music.
+
+Key points of debate include the potential flooding of the platform with low-quality AI-generated content, the ethical considerations of monetization, and the impact on human artists. Some commenters argue that AI music could dilute the quality of offerings, making it harder for listeners to find genuinely good music. Others highlight that AI-generated music can serve specific needs, like background noise for work, and that not all AI music is inherently bad.
+
+Notable insights include concerns about the long-term effects of AI on the music industry, with some users suggesting that Tidal's approach may need to evolve as the landscape changes. There’s also a broader discussion about the challenges of distinguishing between valuable AI-generated content and "slop," as well as the moral implications of monetizing AI music while potentially harming human artists.

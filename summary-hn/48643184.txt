@@ -1,0 +1,8 @@
+The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A" (2023)  (25 pts, 46 comments)
+https://news.ycombinator.com/item?id=48643184
+
+The Hacker News discussion revolves around a paper titled "The Reversal Curse: LLMs trained on 'A is B' fail to learn 'B is A'," which examines the limitations of large language models (LLMs) in understanding the inverse relationships of statements. The paper suggests that while LLMs can recognize relationships like "A is B," they struggle to infer "B is A," highlighting a potential flaw in their reasoning capabilities.
+
+In the comments, there is a debate about whether this limitation is significant or if it impacts real-world applications. Some users argue that the issue isn't critical, as it doesn't lead to identifiable faults in model reasoning. Others emphasize the importance of context in understanding relationships, suggesting that LLMs may not effectively generalize these patterns without additional information. Notably, some commenters challenge the premise of the paper, arguing that the failure to recognize inverses may stem from the models' reliance on statistical patterns rather than true understanding.
+
+Overall, the discussion reflects a mix of skepticism about the implications of the "reversal curse" and a recognition of the complexities involved in language and logic that LLMs must navigate. There is also a call for more nuanced approaches to training models to better handle such relational dynamics.

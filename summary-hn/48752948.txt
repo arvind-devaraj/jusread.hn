@@ -1,0 +1,8 @@
+Show HN: CLI that helps AI agents avoid vulnerable dependencies  (26 pts, 5 comments)
+https://news.ycombinator.com/item?id=48752948
+
+The Hacker News discussion centers around a new command-line interface (CLI) tool called "deptrust," which helps AI coding agents avoid using outdated or vulnerable package dependencies. The tool checks package versions across various package registries and directly queries public APIs to identify known vulnerabilities, allowing AI agents to verify the safety of dependencies before installation.
+
+In the comments, users express interest in integrating deptrust with AI coding tools like Claude and Codex. One user mentions adding a hook for these tools, while another compares deptrust to an existing tool called Aikido safe chain, noting that deptrust operates differently by querying advisory information directly rather than wrapping executables. Additionally, a user points out that Codacy has offered similar functionality for a while, highlighting the growing interest in tools that enhance dependency safety in AI-assisted coding.
+
+Overall, the discussion reflects a shared concern about the security of dependencies in AI-generated code and a desire for tools that can seamlessly integrate into existing workflows to mitigate risks.

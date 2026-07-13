@@ -1,10 +1,7 @@
 import math
-import time
 import requests
-from concurrent.futures import ThreadPoolExecutor
 
-URL = "https://hn.algolia.com/api/v1/search_by_date"
-HITS_PER_PAGE = 1000  # max allowed, minimizes number of requests
+from hn_fetch import get_past_month_hn_posts
 
 OLLAMA_EMBED_URL = "http://localhost:11434/api/embed"
 EMBED_MODEL = "embeddinggemma"
@@ -57,64 +54,28 @@ def get_tech_probabilities(session, titles):
         probabilities.append(1 / (1 + math.exp(sim_non_tech - sim_tech)))  # sigmoid of the sim gap
     return probabilities
 
-def _fetch_page(session, one_week_ago, page):
-    params = {
-        'tags': 'story',
-        'numericFilters': f'created_at_i>{one_week_ago}',
-        'page': page,
-        'hitsPerPage': HITS_PER_PAGE
-    }
-    response = session.get(URL, params=params)
-    if response.status_code != 200:
-        print(f"Error fetching data: {response.status_code}")
-        return None
-    return response.json()
+def main():
+    with requests.Session() as session:
+        all_posts = get_past_month_hn_posts(session)
+    print(f"Retrieved {len(all_posts)} posts from the last month.")
 
-def get_past_week_hn_posts():
-    # Calculate Unix timestamp for exactly 7 days ago
-    seconds_in_a_week = 7 * 24 * 60 * 60
-    one_week_ago = int(time.time()) - seconds_in_a_week
+    # Classify tech-relatedness for posts with more than 5 upvotes
+    popular_posts = [post for post in all_posts if post.get('points', 0) > 5]
 
     with requests.Session() as session:
-        first = _fetch_page(session, one_week_ago, 0)
-        if not first:
-            return []
+        titles = [post.get('title', '') for post in popular_posts]
+        probabilities = get_tech_probabilities(session, titles)
 
-        posts = first.get('hits', [])
-        nb_pages = first.get('nbPages', 1)
+    tech_posts = [
+        (post, probability) for post, probability in zip(popular_posts, probabilities)
+        if probability >= 0.6
+    ]
 
-        if nb_pages <= 1:
-            return posts
+    for post, probability in tech_posts:
+        print(f"- [{post.get('points')}pts] [{probability:.2f} tech] {post.get('title')} by {post.get('author')}")
 
-        # Remaining pages don't depend on each other, so fetch them concurrently
-        with ThreadPoolExecutor(max_workers=8) as executor:
-            results = executor.map(
-                lambda p: _fetch_page(session, one_week_ago, p),
-                range(1, nb_pages)
-            )
-            for data in results:
-                if data:
-                    posts.extend(data.get('hits', []))
+    print(f"\nTotal posts: {len(tech_posts)}")
 
-    return posts
 
-# Execute and view results
-all_posts = get_past_week_hn_posts()
-print(f"Retrieved {len(all_posts)} posts from the last week.")
-
-# Classify tech-relatedness for posts with more than 5 upvotes
-popular_posts = [post for post in all_posts if post.get('points', 0) > 5]
-
-with requests.Session() as session:
-    titles = [post.get('title', '') for post in popular_posts]
-    probabilities = get_tech_probabilities(session, titles)
-
-tech_posts = [
-    (post, probability) for post, probability in zip(popular_posts, probabilities)
-    if probability >= 0.6
-]
-
-for post, probability in tech_posts:
-    print(f"- [{post.get('points')}pts] [{probability:.2f} tech] {post.get('title')} by {post.get('author')}")
-
-print(f"\nTotal posts: {len(tech_posts)}")
+if __name__ == "__main__":
+    main()

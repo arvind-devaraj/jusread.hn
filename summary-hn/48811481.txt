@@ -1,0 +1,6 @@
+Proton now using 100% Chinese LLM's – drops European and US  (16 pts, 0 comments)
+https://news.ycombinator.com/item?id=48811481
+
+The Hacker News discussion revolves around Proton's decision to exclusively use Chinese large language models (LLMs), abandoning their previous reliance on European and US models. This shift raises concerns about data privacy, security, and the implications of relying on technology from a country with different regulatory standards.
+
+In the comments, users express a mix of skepticism and acceptance. Some agree that using Chinese LLMs could enhance performance and cost-effectiveness, while others worry about potential risks related to data sovereignty and the ethical implications of supporting Chinese technology. Notable opinions include calls for transparency in how these models are trained and the need for companies to prioritize user privacy regardless of the source of their technology. Overall, the discussion highlights the tension between technological advancement and ethical considerations in the tech industry.

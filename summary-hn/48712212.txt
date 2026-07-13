@@ -1,0 +1,8 @@
+Why frontier LLMs can't read the hard documents without experts involved  (27 pts, 12 comments)
+https://news.ycombinator.com/item?id=48712212
+
+The Hacker News discussion revolves around the limitations of frontier large language models (LLMs) in accurately performing optical character recognition (OCR) tasks, particularly in extracting text from documents. The article highlights that these models struggle to surpass a 76% accuracy benchmark, referred to as the "wall," while specialized models like Nanonets achieve higher accuracy rates (85.9%).
+
+In the comments, users discuss the challenges of measuring OCR accuracy beyond character-level benchmarks, emphasizing the importance of business-specific accuracy and the need for models to extract structured data from documents. There is a consensus that while LLMs have improved significantly in recent years, they still require human oversight for complex tasks. Some users share their experiences with different models, noting that the effectiveness of OCR can vary based on the prompts used and the quality of the input documents.
+
+Notably, the conversation touches on the evolution of intelligent document processing (IDP) from simple text extraction to more complex tasks like data interpretation and mapping across documents. There is also a critique of the IDP market's transparency and the dominance of larger corporations, with some participants advocating for smaller vendors to gain visibility. Overall, the discussion reflects a mix of optimism about advancements in OCR technology and skepticism about the current limitations and market dynamics.

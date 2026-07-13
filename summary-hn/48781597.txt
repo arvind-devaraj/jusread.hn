@@ -1,0 +1,8 @@
+Soatok's Informal Guide to Threat Models  (126 pts, 48 comments)
+https://news.ycombinator.com/item?id=48781597
+
+The Hacker News discussion revolves around Soatok's blog post titled "Soatok's Informal Guide to Threat Models," which explores the concept of threat modeling in cybersecurity. The post emphasizes the importance of defining assumptions about adversaries and assets to create effective security strategies. It also touches on the implications of quantum computing for cryptography, particularly the concept of "Q-Day," when quantum computers could potentially break current encryption methods.
+
+In the comments, users express a mix of agreement and debate regarding the author's views on hybrid cryptographic schemes and the urgency of preparing for quantum threats. Some commenters appreciate the guide's clarity and humor, while others critique the author's perceived bias towards certain technologies, particularly Signal's end-to-end encryption. Notably, there are discussions about the risks associated with centralization in communication services and the potential for quantum computing to disrupt current security paradigms.
+
+Overall, the conversation highlights the complexities of threat modeling, the evolving landscape of cybersecurity, and differing opinions on the best approaches to secure communication in light of emerging technologies.

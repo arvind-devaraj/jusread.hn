@@ -1,0 +1,8 @@
+Show HN: CLI tool for detecting non-exact code duplication with embedding models  (91 pts, 52 comments)
+https://news.ycombinator.com/item?id=48762038
+
+The Hacker News discussion revolves around a new CLI tool called Slopo, designed to detect non-exact code duplication using embedding models. The creator, rkochanowski, explains that Slopo identifies similar code snippets that are often overlooked by traditional tools, focusing on semantic similarities rather than just copy-paste instances. The tool ranks similar code based on their distance within the codebase, aiming to help developers identify potential refactoring opportunities.
+
+In the comments, users express interest in the tool's capabilities, particularly its potential applications in various programming languages, including PHP and Elixir. There is a debate about the granularity of code analysis, with some users suggesting the need for more detailed detection of smaller code units, such as conditional branches. Others discuss the importance of maintaining code quality and the balance between duplication and abstraction. Notably, rkochanowski emphasizes that Slopo's goal is not to deduplicate code but to highlight similarities that may warrant attention, which can lead to better maintainability and testability.
+
+Overall, the discussion showcases enthusiasm for Slopo as a pragmatic tool for code analysis, with users sharing insights on its potential improvements and applications in real-world coding scenarios.

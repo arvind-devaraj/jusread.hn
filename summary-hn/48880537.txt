@@ -1,0 +1,8 @@
+Anthropic found a hidden space where Claude puzzles over concepts  (14 pts, 5 comments)
+https://news.ycombinator.com/item?id=48880537
+
+The Hacker News discussion revolves around an article from Technology Review that explores Anthropic's discovery of a "hidden space" in their language model, Claude, where it appears to engage with and puzzle over concepts. The article suggests that this hidden space allows the model to process and understand information in a novel way.
+
+In the comments, users debate the effectiveness of the analogies used to describe the model's architecture, with one user humorously suggesting that a stack of pancakes might be just as fitting as the proposed stack of books. There is skepticism regarding the significance of the findings, with some commenters feeling that the examples provided are trivial and do not convincingly demonstrate the existence of a hidden space. Others recommend the original Anthropic writeup as a more substantial read.
+
+Notable insights include a critique of the article's clarity and relevance, as well as a general sense of curiosity about the implications of the hidden space concept in understanding language models. Overall, the discussion reflects a mix of humor, skepticism, and a desire for deeper exploration of the topic.

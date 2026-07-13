@@ -1,0 +1,8 @@
+AI coding is a nightmare. Am I the only one experiencing this?  (63 pts, 50 comments)
+https://news.ycombinator.com/item?id=48770319
+
+The Hacker News discussion revolves around a user's frustrations with AI coding assistants, highlighting issues such as the tendency to create duplicate functions, bloated codebases, a lack of holistic awareness of the code, and poor logical reasoning. The user expresses that AI often prefers adding new code rather than modifying existing code, leading to a proliferation of "dead code" and broken logic in the system.
+
+In the comments, there is a mix of agreement and debate. Some users share similar experiences with AI coding tools, emphasizing the need for better management of context and planning before implementation. Others suggest that the effectiveness of AI coding depends on the specific models used and how they are instructed. Notably, some commenters advocate for a more hands-on approach, treating AI as a tool rather than a fully autonomous coder, while others criticize the corporate pressure to adopt AI tools without adequate oversight.
+
+Overall, the discussion reveals a consensus on the challenges posed by AI coding assistants, with insights suggesting that careful management and a structured approach can mitigate some of these issues. There is also a recognition that while AI can enhance productivity, it requires experienced developers to guide its use effectively.

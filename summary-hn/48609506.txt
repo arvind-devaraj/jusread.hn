@@ -1,0 +1,8 @@
+US Scientist John Jumper to Leave Google DeepMind for Anthropic  (77 pts, 10 comments)
+https://news.ycombinator.com/item?id=48609506
+
+The Hacker News discussion centers around the news that John Jumper, a prominent scientist at Google DeepMind, is leaving the company to join Anthropic. This departure follows another significant exit, that of Shazeer, raising concerns about talent retention at DeepMind.
+
+In the comments, users express a mix of agreement and debate regarding the implications of these departures. Some suggest that DeepMind may be losing its top talent due to internal obstacles that hinder their potential, while others speculate that these scientists might not be aligned with the current direction of the company. There is also discussion about the challenges of managing large teams in cutting-edge research environments, with some commenters arguing that the belief in a select group of experts being necessary for success is a form of gatekeeping.
+
+Notable insights include the idea that the departures could reflect broader issues within Google, likening the company to IBM's decline in the past, and the acknowledgment that while these scientists are highly skilled, their talents may not be fully utilized within the current structure of DeepMind. Overall, the conversation reflects a mix of concern for the future of DeepMind and skepticism about the reasons behind these high-profile exits.

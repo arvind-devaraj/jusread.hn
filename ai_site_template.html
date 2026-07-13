@@ -1,0 +1,548 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HN AI/LLM Digest</title>
+</head>
+<body>
+
+<style>
+  :root {
+    --bg: #faf7f1;
+    --surface: #ffffff;
+    --ink: #241f1a;
+    --ink-soft: #6b6153;
+    --border: #e6ddc9;
+    --accent: #c65d1e;
+    --accent-soft: #f3e3cf;
+    --track: #ece2cc;
+    --font-display: Georgia, "Iowan Old Style", "Times New Roman", serif;
+    --font-body: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16130f;
+      --surface: #201b14;
+      --ink: #f1ead9;
+      --ink-soft: #ab9d84;
+      --border: #392f22;
+      --accent: #e2874a;
+      --accent-soft: #40301f;
+      --track: #2c2419;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #16130f;
+    --surface: #201b14;
+    --ink: #f1ead9;
+    --ink-soft: #ab9d84;
+    --border: #392f22;
+    --accent: #e2874a;
+    --accent-soft: #40301f;
+    --track: #2c2419;
+  }
+  :root[data-theme="light"] {
+    --bg: #faf7f1;
+    --surface: #ffffff;
+    --ink: #241f1a;
+    --ink-soft: #6b6153;
+    --border: #e6ddc9;
+    --accent: #c65d1e;
+    --accent-soft: #f3e3cf;
+    --track: #ece2cc;
+  }
+
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--font-body);
+  }
+  body {
+    padding: 2.5rem 1.25rem 5rem;
+  }
+  .page {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .header {
+    max-width: 720px;
+  }
+  .layout {
+    display: grid;
+    grid-template-columns: minmax(0, 720px) 560px;
+    gap: 2.5rem;
+    align-items: start;
+  }
+  .main-col {
+    min-width: 0;
+  }
+
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 600;
+  }
+  h1 {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 5vw, 2.75rem);
+    margin: 0.35rem 0 0.6rem;
+    text-wrap: balance;
+    font-weight: 500;
+  }
+  .stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    color: var(--ink-soft);
+    font-size: 0.92rem;
+    padding-bottom: 1.6rem;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 1.4rem;
+  }
+  .stats strong {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    color: var(--ink);
+    font-weight: 600;
+  }
+
+  .toolbar {
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    padding: 0.75rem 0;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    align-items: center;
+    z-index: 5;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 0.25rem;
+  }
+  #search {
+    flex: 1 1 180px;
+    min-width: 140px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    color: var(--ink);
+    padding: 0.5rem 0.7rem;
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+  }
+  #search:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+  .sort-group {
+    display: flex;
+    gap: 0.35rem;
+  }
+  .sort-btn {
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--ink-soft);
+    border-radius: 7px;
+    padding: 0.45rem 0.65rem;
+    cursor: pointer;
+    letter-spacing: 0.02em;
+  }
+  .sort-btn:hover { color: var(--ink); }
+  .sort-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .sort-btn[aria-pressed="true"] {
+    background: var(--accent-soft);
+    border-color: var(--accent);
+    color: var(--ink);
+  }
+  .sort-btn .arrow { opacity: 0.6; margin-left: 0.15rem; }
+
+  #count-line {
+    color: var(--ink-soft);
+    font-size: 0.82rem;
+    margin: 0.6rem 0 0.9rem;
+    font-family: var(--font-mono);
+  }
+
+  .row {
+    display: grid;
+    grid-template-columns: 3.4rem 1fr 5.4rem 8.5rem;
+    gap: 0.9rem;
+    align-items: start;
+    padding: 0.85rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .row:last-child { border-bottom: none; }
+
+  .points {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+    font-size: 1.05rem;
+    text-align: right;
+    padding-top: 0.1rem;
+  }
+  .points span {
+    display: block;
+    font-size: 0.62rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+  }
+
+  .content a.title-link {
+    color: var(--ink);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.98rem;
+    line-height: 1.35;
+  }
+  .content a.title-link:hover { color: var(--accent); }
+  .content a.title-link:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+  .meta {
+    margin-top: 0.3rem;
+    font-size: 0.78rem;
+    color: var(--ink-soft);
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    font-family: var(--font-mono);
+  }
+  .meta a {
+    color: var(--ink-soft);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--border);
+  }
+  .meta a:hover { color: var(--accent); border-color: var(--accent); }
+
+  .summary-col {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding-top: 0.1rem;
+  }
+  .summary-toggle {
+    display: inline-block;
+    background: var(--accent);
+    border: 1px solid var(--accent);
+    border-radius: 7px;
+    padding: 0.45rem 0.8rem;
+    color: #fff;
+    font-family: var(--font-mono);
+    font-size: 0.76rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .summary-toggle:hover { opacity: 0.85; }
+  .summary-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .summary-toggle.active {
+    background: var(--accent-soft);
+    color: var(--accent);
+  }
+
+  .side-col {
+    position: sticky;
+    top: 1rem;
+  }
+  .summary-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.75rem 2rem;
+    max-height: calc(100vh - 2rem);
+    overflow-y: auto;
+  }
+  .summary-card-empty {
+    color: var(--ink-soft);
+    font-size: 1rem;
+    font-family: var(--font-mono);
+    text-align: center;
+    padding: 1.5rem 0;
+  }
+  .summary-card-title {
+    font-family: var(--font-display);
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin: 0 0 1.1rem;
+    line-height: 1.35;
+  }
+  .summary-card-body {
+    font-size: 1.08rem;
+    line-height: 1.75;
+    color: var(--ink);
+  }
+  .summary-card-body p { margin: 0 0 1rem; }
+  .summary-card-body p:last-child { margin-bottom: 0; }
+  .summary-card-link {
+    display: inline-block;
+    margin-top: 1.2rem;
+    font-family: var(--font-mono);
+    font-size: 0.88rem;
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--accent);
+  }
+
+  @media (max-width: 900px) {
+    .layout { grid-template-columns: 1fr; }
+    .side-col { position: static; }
+    .summary-card { max-height: none; }
+  }
+
+  .ai {
+    text-align: right;
+  }
+  .ai-pct {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--ink-soft);
+  }
+  .ai-bar-track {
+    margin-top: 0.35rem;
+    height: 5px;
+    border-radius: 3px;
+    background: var(--track);
+    overflow: hidden;
+  }
+  .ai-bar-fill {
+    height: 100%;
+    background: var(--accent);
+    border-radius: 3px;
+  }
+
+  #empty {
+    display: none;
+    text-align: center;
+    color: var(--ink-soft);
+    padding: 3rem 0;
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+  }
+
+  @media (max-width: 480px) {
+    .row { grid-template-columns: 2.6rem 1fr 3.6rem; gap: 0.6rem; }
+    .summary-col { grid-column: 1 / -1; justify-content: flex-start; margin-top: 0.5rem; }
+  }
+</style>
+
+<div class="page">
+  <div class="header">
+    <div class="eyebrow">Hacker News &middot; past 30 days</div>
+    <h1>AI / LLM Digest</h1>
+    <div class="stats">
+      <div><strong id="stat-count">__STAT_COUNT__</strong> posts</div>
+      <div><strong>__STAT_POINTS__</strong> combined points</div>
+      <div><strong>__STAT_AVG_AI__</strong> avg. AI confidence</div>
+      <div>filtered &ge; __STAT_THRESHOLD__ AI probability</div>
+    </div>
+
+    <div class="toolbar">
+      <input id="search" type="text" placeholder="Filter by title or author&hellip;" aria-label="Filter posts" />
+      <div class="sort-group" role="group" aria-label="Filter by date">
+        <button class="sort-btn date-btn" data-range="all" aria-pressed="true">All time</button>
+        <button class="sort-btn date-btn" data-range="1" aria-pressed="false">Last 24h</button>
+        <button class="sort-btn date-btn" data-range="7" aria-pressed="false">Last week</button>
+        <button class="sort-btn date-btn" data-range="30" aria-pressed="false">Last month</button>
+      </div>
+      <div class="sort-group" role="group" aria-label="Sort posts">
+        <button class="sort-btn" data-key="points" aria-pressed="true">Points <span class="arrow">&#8595;</span></button>
+        <button class="sort-btn" data-key="num_comments" aria-pressed="false">Comments</button>
+        <button class="sort-btn" data-key="probability" aria-pressed="false">AI %</button>
+      </div>
+    </div>
+    <div id="count-line"></div>
+  </div>
+
+  <div class="layout">
+    <div class="main-col">
+      <div id="list"></div>
+      <div id="empty">No posts match &ldquo;<span id="empty-term"></span>&rdquo;</div>
+    </div>
+
+    <div class="side-col">
+      <div class="summary-card">
+        <div id="summary-card-empty" class="summary-card-empty">Click &ldquo;Show summary&rdquo; on a post to see it here.</div>
+        <div id="summary-card-content" hidden>
+          <div id="summary-card-title" class="summary-card-title"></div>
+          <div id="summary-card-body" class="summary-card-body"></div>
+          <a id="summary-card-link" class="summary-card-link" target="_blank" rel="noopener noreferrer">View on Hacker News &rarr;</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const DATA = __DATA__;
+
+  const listEl = document.getElementById("list");
+  const countLine = document.getElementById("count-line");
+  const emptyEl = document.getElementById("empty");
+  const emptyTerm = document.getElementById("empty-term");
+  const searchEl = document.getElementById("search");
+  const sortBtns = Array.from(document.querySelectorAll(".sort-btn:not(.date-btn)"));
+  const dateBtns = Array.from(document.querySelectorAll(".date-btn"));
+
+  let sortKey = "points";
+  let query = "";
+  let dateRange = "all";
+
+  function domainOf(url) {
+    if (!url) return null;
+    try {
+      return new URL(url).hostname.replace(/^www\./, "");
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function timeAgo(iso) {
+    const then = new Date(iso).getTime();
+    const now = Date.now();
+    const hrs = Math.max(1, Math.round((now - then) / 3.6e6));
+    if (hrs < 24) return hrs + "h ago";
+    return Math.round(hrs / 24) + "d ago";
+  }
+
+  function render() {
+    const q = query.trim().toLowerCase();
+    const cutoff = dateRange === "all" ? null : Date.now() - Number(dateRange) * 24 * 3.6e6;
+    let rows = DATA.filter(r =>
+      (!q || r.title.toLowerCase().includes(q) || (r.author || "").toLowerCase().includes(q)) &&
+      (cutoff === null || new Date(r.created_at).getTime() >= cutoff)
+    );
+    rows = rows.slice().sort((a, b) => b[sortKey] - a[sortKey]);
+
+    countLine.textContent = (q || cutoff !== null)
+      ? `Showing ${rows.length} of ${DATA.length} posts`
+      : `Showing all ${rows.length} posts`;
+
+    emptyEl.style.display = rows.length ? "none" : "block";
+    emptyTerm.textContent = q;
+
+    listEl.innerHTML = rows.map(r => {
+      const domain = domainOf(r.url);
+      const pct = Math.round(r.probability * 100);
+      const href = r.url || r.hn_link;
+      return `
+        <div class="row">
+          <div class="points">${r.points}<span>pts</span></div>
+          <div class="content">
+            <a class="title-link" href="${href}" target="_blank" rel="noopener noreferrer">${escapeHtml(r.title)}</a>
+            <div class="meta">
+              ${domain ? `<span>${escapeHtml(domain)}</span>` : ""}
+              <span>by ${escapeHtml(r.author || "")}</span>
+              <span>${timeAgo(r.created_at)}</span>
+              <a href="${r.hn_link}" target="_blank" rel="noopener noreferrer">${r.num_comments} comments</a>
+            </div>
+          </div>
+          <div class="ai">
+            <div class="ai-pct">${pct}%</div>
+            <div class="ai-bar-track"><div class="ai-bar-fill" style="width:${pct}%"></div></div>
+          </div>
+          <div class="summary-col">
+            ${r.summary ? `<button class="summary-toggle" type="button" data-hn-link="${escapeHtml(r.hn_link)}">Show summary</button>` : ""}
+          </div>
+        </div>`;
+    }).join("");
+
+    applyDefaultSummarySelection();
+  }
+
+  function escapeHtml(s) {
+    return s.replace(/[&<>"']/g, c => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+    }[c]));
+  }
+
+  function renderSummary(text) {
+    return text
+      .split(/\n\s*\n/)
+      .map(p => `<p>${escapeHtml(p.trim())}</p>`)
+      .join("");
+  }
+
+  const summaryEmptyEl = document.getElementById("summary-card-empty");
+  const summaryContentEl = document.getElementById("summary-card-content");
+  const summaryTitleEl = document.getElementById("summary-card-title");
+  const summaryBodyEl = document.getElementById("summary-card-body");
+  const summaryLinkEl = document.getElementById("summary-card-link");
+  let selectedHnLink = null;
+
+  function displaySummary(hnLink, btn) {
+    const post = DATA.find(d => d.hn_link === hnLink);
+    if (!post || !post.summary) return;
+
+    summaryTitleEl.textContent = post.title;
+    summaryBodyEl.innerHTML = renderSummary(post.summary);
+    summaryLinkEl.href = post.hn_link;
+    summaryEmptyEl.hidden = true;
+    summaryContentEl.hidden = false;
+
+    document.querySelectorAll(".summary-toggle.active").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+  }
+
+  // Keep the panel showing a summary whenever one is available: the
+  // user's manually selected post if it's still in view, otherwise the
+  // first post (in current sort/filter order) that has a summary.
+  function applyDefaultSummarySelection() {
+    const btns = Array.from(listEl.querySelectorAll(".summary-toggle"));
+    if (!btns.length) {
+      summaryEmptyEl.hidden = false;
+      summaryContentEl.hidden = true;
+      return;
+    }
+    const target = btns.find(b => b.dataset.hnLink === selectedHnLink) || btns[0];
+    selectedHnLink = target.dataset.hnLink;
+    displaySummary(selectedHnLink, target);
+  }
+
+  sortBtns.forEach(btn => {
+    btn.addEventListener("click", () => {
+      sortKey = btn.dataset.key;
+      sortBtns.forEach(b => b.setAttribute("aria-pressed", b === btn ? "true" : "false"));
+      render();
+    });
+  });
+
+  dateBtns.forEach(btn => {
+    btn.addEventListener("click", () => {
+      dateRange = btn.dataset.range;
+      dateBtns.forEach(b => b.setAttribute("aria-pressed", b === btn ? "true" : "false"));
+      render();
+    });
+  });
+
+  searchEl.addEventListener("input", () => {
+    query = searchEl.value;
+    render();
+  });
+
+  listEl.addEventListener("click", (e) => {
+    const btn = e.target.closest(".summary-toggle");
+    if (!btn) return;
+    selectedHnLink = btn.dataset.hnLink;
+    displaySummary(selectedHnLink, btn);
+    summaryContentEl.closest(".summary-card").scrollIntoView({ behavior: "smooth", block: "nearest" });
+  });
+
+  render();
+</script>
+
+</body>
+</html>

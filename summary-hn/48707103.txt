@@ -1,0 +1,8 @@
+Google limits Meta's use of its Gemini AI models  (162 pts, 72 comments)
+https://news.ycombinator.com/item?id=48707103
+
+The Hacker News discussion revolves around a CNBC article reporting that Google has limited Meta's access to its Gemini AI models, primarily due to capacity constraints rather than outright restrictions on capabilities. This situation has sparked a debate about Meta's reliance on Google's models instead of its own, particularly given Meta's investment in AI and data centers.
+
+In the comments, users express varying opinions on Meta's AI strategy, with some suggesting that Meta's latest model, Spark Muse, is not available for external use, indicating a potential lack of competitive edge. Others highlight that Google's Gemini models may be more cost-effective for certain applications, such as image moderation on social media. There is also a discussion about the limitations of cloud services, with several commenters criticizing the marketing of "unlimited" resources and the reality of capacity constraints faced by large clients.
+
+Notable insights include skepticism about Meta's ability to effectively utilize its own AI resources and the implications of relying on external models. Some commenters argue that the limitations imposed by Google could reflect broader issues in the AI landscape, where demand often exceeds supply, leading to potential challenges for companies like Meta in scaling their AI capabilities.

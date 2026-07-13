@@ -1,6 +1,6 @@
 # jusread.hn
 
-A single-script tool that builds a "tech-only" Hacker News feed: it pulls the last 7 days of HN stories, filters to posts with more than 5 points, then uses local embeddings to classify each title as tech-related or not.
+A tool that builds a "tech-only" Hacker News feed: it pulls the last 30 days of HN stories, filters to posts with more than 5 points, then uses local embeddings to classify each title as tech-related or not.
 
 ## Running
 
@@ -14,7 +14,7 @@ Requirements:
 
 ## How it works
 
-1. **Fetch** — queries the Algolia HN Search API (`search_by_date`, tag `story`) for everything created in the last 7 days. Page 0 is fetched first to learn the total page count, then remaining pages are fetched concurrently (8 workers) since pages are independent.
+1. **Fetch** — queries the Algolia HN Search API (`search_by_date`, tag `story`) for everything created in the last 30 days. Since the Algolia endpoint caps total retrievable results at ~1000 per query (page 1+ comes back empty even when far more posts match), the 30-day window is split into per-day queries fetched concurrently (8 workers) and merged, rather than one query with page-based pagination.
 
 2. **Classify** — instead of a trained classifier, this uses zero-shot embedding similarity:
    - Two hardcoded lists of example headlines (`TECH_SEED_TEXTS` / `NON_TECH_SEED_TEXTS`) represent each class.

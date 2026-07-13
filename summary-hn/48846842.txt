@@ -1,0 +1,8 @@
+The next era of AI is about infrastructure, not just models  (55 pts, 19 comments)
+https://news.ycombinator.com/item?id=48846842
+
+The Hacker News discussion revolves around a blog post from Mozilla that argues the next phase of AI development will focus on infrastructure rather than just models. The author, who is part of Mozilla, emphasizes the need for open alternatives to the increasingly centralized AI landscape dominated by major players, likening the current situation to the early browser wars against Internet Explorer.
+
+In the comments, there is a debate about Mozilla's financial health and strategic direction, with some users questioning why the organization is venturing into AI given its reliance on Google for funding. Others point out that Mozilla generates significant revenue and that diversifying income sources is a rational move. There is also a discussion about the importance of AI gateways for enterprises, with several commenters advocating for the use of such tools to enhance flexibility and resilience in AI deployments.
+
+Notable insights include a call for Mozilla to focus on its core mission while exploring AI, and a recognition that while models may become commoditized, the infrastructure supporting them will be crucial for future development. Some commenters express skepticism about Mozilla's ability to compete effectively in the AI space, given its current resources and focus on Firefox.

@@ -1,0 +1,8 @@
+How to Passive-Aggressively Shame People Who Use LLMs Selfishly  (33 pts, 20 comments)
+https://news.ycombinator.com/item?id=48653746
+
+The Hacker News discussion revolves around a blog post titled "How to Passive-Aggressively Shame People Who Use LLMs Selfishly," which critiques the careless use of large language models (LLMs) in professional settings. The author suggests that some individuals exploit LLMs to save time at the expense of others, leading to a decline in quality and accountability in communication.
+
+In the comments, there is a mix of agreement and debate regarding the effectiveness of shaming as a tactic. Some users express frustration with the decline of proper writing standards and the perceived lack of effort from younger generations, while others argue that shaming is counterproductive and that intent is often misjudged. Notably, some commenters advocate for a more constructive approach, emphasizing positive reinforcement and accountability rather than criticism.
+
+Overall, the discussion highlights a tension between the utility of LLMs and the ethical implications of their use, with participants sharing various strategies for encouraging better practices while navigating the complexities of human and AI interactions.

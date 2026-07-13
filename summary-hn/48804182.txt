@@ -1,0 +1,8 @@
+Show HN: Scan your AI agents for dangerous capabilities  (43 pts, 19 comments)
+https://news.ycombinator.com/item?id=48804182
+
+The Hacker News discussion centers around an open-source toolkit called MakerChecker, designed to help developers scan their AI agents for dangerous capabilities in their code. The tool can analyze Python, JavaScript, and TypeScript code, flagging potential risks and suggesting fixes. It operates offline but can also integrate with a language model for deeper code analysis.
+
+In the comments, there is a debate about the necessity of such a toolkit versus relying on traditional operating system security measures. Some users argue that existing OS features, like user permissions and security modules (e.g., SELinux), can effectively manage AI agent risks without additional frameworks. Others counter that these OS-level controls do not adequately address application-specific logic and the complexities of AI interactions, such as API calls with potentially harmful parameters. Notably, some commenters appreciate the toolkit's ability to run in sandboxed environments, where OS primitives may be limited, highlighting its relevance for modern cloud-based applications.
+
+Overall, the discussion reflects a mix of support for the MakerChecker tool and skepticism about the need for additional layers of security, emphasizing the ongoing challenge of balancing safety and functionality in AI development.

@@ -1,0 +1,8 @@
+Meta pulls new AI image feature after days of backlash  (57 pts, 20 comments)
+https://news.ycombinator.com/item?id=48867233
+
+The Hacker News discussion revolves around Meta's decision to pull a new AI image feature from Instagram after facing significant backlash. The feature allowed users to tag others' handles to generate images based on them, which raised privacy and ethical concerns among users and critics.
+
+In the comments, there is a consensus that Meta often seems out of touch with user sentiment, with many attributing this to a lack of dissenting voices within the company, particularly under Mark Zuckerberg's leadership. Some commenters speculate that Meta may reintroduce the feature quietly once public attention wanes, while others express skepticism about Zuckerberg's intentions and the company's overall direction, particularly regarding its investments in the metaverse and AI technologies. Notably, there is a recurring theme of distrust towards Meta's practices, with some users labeling Zuckerberg as "creepy" and suggesting that the company prioritizes profit over user welfare.
+
+Overall, the discussion highlights a broader concern about the ethical implications of AI and data usage, as well as the challenges of balancing innovation with user privacy and trust.

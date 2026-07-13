@@ -1,0 +1,8 @@
+Finding Optimal Tokenizers  (29 pts, 2 comments)
+https://news.ycombinator.com/item?id=48494716
+
+The Hacker News discussion revolves around a blog post titled "Finding Optimal Tokenizers," which explores the use of integer programming to develop mathematically optimal tokenization methods for natural language processing. The author suggests that while this approach may be computationally intensive, it yields precise results that can significantly enhance tokenization efficiency.
+
+In the comments, users express interest in the proposed methods, with one commenter, fxtentacle, highlighting the potential slowness of the integer programming approach but emphasizing its accuracy. They also mention a simpler method involving greedy merging of character tokens to reduce entropy variance. Another commenter, jararap, shares insights from their own research, which frames tokenization as a vertex cover problem and discusses their algorithm, GreedTOK, which offers a polynomial-time solution for larger vocabularies.
+
+Overall, the discussion reflects a shared enthusiasm for exploring innovative tokenization strategies, with varying opinions on the balance between computational complexity and the quality of results. The insights from both commenters suggest a broader interest in optimizing tokenization techniques for large datasets.

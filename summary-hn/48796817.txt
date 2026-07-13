@@ -1,0 +1,8 @@
+New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]  (178 pts, 111 comments)
+https://news.ycombinator.com/item?id=48796817
+
+The Hacker News discussion centers around a study that reports a new AI tutor achieving an effect size of 0.71-1.30 standard deviations in a Dartmouth course, indicating significant improvements in student learning outcomes. The study raises questions about the effectiveness of AI in education, particularly in comparison to traditional methods like textbooks.
+
+In the comments, there is a mix of optimism and skepticism. Some users express excitement about the high adoption rates of the AI tutor, noting that it engaged 90% of students voluntarily, compared to only 10-15% for textbook reading. However, concerns are raised about selection bias, as students who engage more with the AI may already be more motivated or higher-performing. Others debate the potential effectiveness of AI in grading subjective subjects versus objective ones, with some arguing that the novelty of AI might wear off over time.
+
+Notable insights include the recognition that while AI can enhance learning, its integration into educational systems faces challenges, such as resistance from educators due to past negative experiences with technology. There is also a discussion about the importance of motivation in learning and the need for further research to understand the broader applicability of AI tutoring beyond elite institutions like Dartmouth.

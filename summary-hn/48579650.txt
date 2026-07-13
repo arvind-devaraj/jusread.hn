@@ -1,0 +1,8 @@
+Midjourney Medical  (1377 pts, 864 comments)
+https://news.ycombinator.com/item?id=48579650
+
+The Hacker News discussion revolves around a post about "Midjourney Medical," which introduces a concept of conducting a billion full-body scans monthly for health monitoring. The post includes links to a blog and a video detailing the initiative.
+
+In the comments, users express skepticism about the feasibility and utility of such widespread scanning. Key points of debate include the potential for false positives leading to unnecessary medical interventions, the ethical implications of frequent scanning, and whether such technology would primarily benefit the wealthy. Some commenters argue that more data could improve early disease detection, while others caution against the psychological and financial burdens of overdiagnosis. Notably, there are contrasting views on the role of AI in interpreting scan results and the potential for generating large datasets to enhance medical imaging.
+
+Overall, the discussion highlights a divide between those who see promise in advanced health monitoring technologies and those who are concerned about the implications of frequent, potentially unnecessary medical scans.

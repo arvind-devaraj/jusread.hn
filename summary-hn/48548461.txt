@@ -1,0 +1,8 @@
+Meta CTO Andrew Bosworth Admits the Company's AI Reorg Was 'Atrocious'  (23 pts, 9 comments)
+https://news.ycombinator.com/item?id=48548461
+
+The Hacker News discussion revolves around an article detailing Meta's CTO Andrew Bosworth's admission that the company's recent reorganization focused on AI was poorly executed, describing it as "atrocious." The article highlights employee unrest and dissatisfaction within Meta regarding the direction of its AI initiatives.
+
+In the comments, users express a mix of skepticism and concern about Meta's financial commitment to AI, with several noting that the company is currently spending billions without clear returns. There is a consensus that many AI companies are in a similar situation, burning cash in hopes of future gains, but doubts linger about how long this can continue. Some commenters reflect on Meta's past failures, suggesting that the company may eventually abandon its AI ambitions, similar to its retreat from the metaverse.
+
+Notably, one commenter points out the existing toxic culture at Meta prior to the reorganization, questioning whether the changes will truly improve the work environment. Overall, the discussion captures a sense of frustration and uncertainty about Meta's strategy and the broader AI landscape.

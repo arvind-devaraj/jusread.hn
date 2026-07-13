@@ -1,0 +1,8 @@
+It blocked us at 'hello ' Anthropic Fable 5 refusing innocuous prompts  (31 pts, 7 comments)
+https://news.ycombinator.com/item?id=48486370
+
+The Hacker News discussion revolves around the recent release of Anthropic's AI model, Fable 5, which has been reported to refuse seemingly innocuous prompts, such as "hello" and requests for explanations of complex social issues. Users have expressed frustration over the model's overly cautious response system, which appears to block a wide range of prompts due to its safety classifiers.
+
+In the comments, there is a consensus that the model's refusal to engage with certain prompts may stem from a misclassification issue rather than intentional design. Some users are skeptical about the company's claims of prioritizing safety, fearing that this could lead to a loss of trust if the situation does not improve. Others express concern about the broader implications of AI alignment and the effectiveness of the underlying philosophies guiding these technologies, suggesting that the current approach may not be sustainable.
+
+Notably, one user critiques the philosophy of effective altruism, arguing that it can lead to justifications for greed under the guise of altruism. Overall, the discussion highlights a mix of frustration, skepticism, and philosophical debate regarding the future of AI safety and alignment.

@@ -1,0 +1,8 @@
+Ask HN: Why is not using AI considered a form of arrogance?  (6 pts, 15 comments)
+https://news.ycombinator.com/item?id=48837332
+
+The Hacker News discussion revolves around the perception that not using AI can be seen as a form of arrogance. The original post suggests that those who refuse AI may have an inflated sense of self-worth. 
+
+In the comments, there is a mix of opinions. Some users argue that refusing AI is a personal choice rather than arrogance, with individuals weighing the pros and cons based on their experiences. Others highlight ideological reasons for avoiding AI, such as concerns about copyright issues or the reliability of AI outputs. A few commenters express frustration with the notion that older generations or those with negative experiences should feel pressured to adopt AI, emphasizing that fear and skepticism are valid responses to new technology.
+
+Notable insights include the idea that some programmers may be unaware of AI's advancements, mistaking ignorance for arrogance. Additionally, several commenters emphasize the importance of maintaining personal agency and quality in their work, suggesting that reliance on AI can diminish creativity and satisfaction in tasks like coding. Overall, the discussion reflects a nuanced view of AI adoption, balancing personal choice, skepticism, and the evolving landscape of technology.

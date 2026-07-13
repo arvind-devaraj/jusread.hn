@@ -1,0 +1,8 @@
+Antirez on X: I believe what Anthropic is doing is *deeply* wrong  (46 pts, 5 comments)
+https://news.ycombinator.com/item?id=48484606
+
+The Hacker News discussion centers around a tweet by Antirez expressing strong disapproval of Anthropic's approach to AI development, which he believes is fundamentally misguided. The conversation reflects a broader debate about the ethical implications of AI and the responsibilities of companies in this space.
+
+In the comments, users reference past opinions from Antirez, including his critique of Facebook, suggesting a pattern of his skepticism towards major tech companies. Some commenters share links to related discussions on other platforms, indicating a wider interest in the topic. Notably, one user humorously suggests sending a book titled "Careless People" to Anthropic, implying a critique of their practices.
+
+Overall, the discussion highlights a divide in opinions on AI ethics, with Antirez's stance resonating with those concerned about the potential negative impacts of AI development, while others seem to seek a more nuanced understanding of the issues at hand.

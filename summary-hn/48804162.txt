@@ -1,0 +1,8 @@
+Show HN: PDF reflow in the browser with local AI model  (6 pts, 4 comments)
+https://news.ycombinator.com/item?id=48804162
+
+The Hacker News discussion revolves around a new web application called PDF Reflow, which allows users to reflow PDF documents directly in their browser using a local AI model. The app utilizes a YOLO detector to analyze PDF page images, identifying and extracting text, images, and other elements to create a more accessible HTML format while retaining the ability to select and search text.
+
+In the comments, users express appreciation for the app's functionality, noting that it runs entirely in the browser and improves upon earlier heuristic-based versions that struggled with certain PDFs. There is a discussion about the AI model used, with one commenter mentioning that they haven't fine-tuned it yet but are using a pre-existing model from Hugging Face. Another user shares their experience using the app on Android, highlighting some inconsistencies with footnote placement, indicating that while the app is generally effective, there are still edge cases to address.
+
+Overall, the conversation reflects a positive reception of the PDF Reflow tool, with users eager to see further improvements and refinements in its performance.

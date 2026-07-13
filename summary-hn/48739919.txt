@@ -1,0 +1,8 @@
+TabFM: A zero-shot foundation model for tabular data  (97 pts, 14 comments)
+https://news.ycombinator.com/item?id=48739919
+
+The Hacker News discussion centers around Google's introduction of TabFM, a zero-shot foundation model designed for tabular data. The post highlights the model's potential impact on the field, especially following the recent acquisition of Prior Labs by SAP, which has been influential in Bayesian prediction for tabular data.
+
+In the comments, there is a mix of admiration for TabFM's capabilities and skepticism regarding its benchmarking practices. Some users express concerns that the benchmarks provided are insufficient, particularly criticizing the reliance on ELO scores without a comprehensive comparison to established models like tuned XGBoost. Others point out that while TabFM may show promise, the lack of transparency in its results raises questions about its true performance. There is also a discussion about the misconception that more data always leads to better models, with suggestions for alternative approaches to data handling.
+
+Notable insights include the idea that the effectiveness of models like TabFM may not be fully captured by current metrics, and the importance of clear benchmarking to validate claims of superiority. Overall, the conversation reflects a cautious optimism about the advancements in tabular data modeling while emphasizing the need for rigorous evaluation standards.

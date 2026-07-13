@@ -1,0 +1,8 @@
+Ask HN: Anthropic banned me from using Claude Code and I don't know what to do  (82 pts, 94 comments)
+https://news.ycombinator.com/item?id=48641160
+
+The Hacker News discussion revolves around a user who was banned from using Anthropic's Claude Code after a brief period of usage, likely due to VPN use and credit card issues. Despite attempts to contact support, the user received a generic response about a policy violation and is seeking advice on how to regain access to their account.
+
+In the comments, many users share similar experiences of being banned, often without clear explanations. Some suggest creating new accounts or switching to competitors like OpenAI Codex or other AI models, while others express skepticism about the ethics of the AI industry as a whole. There is a debate about whether switching providers is a practical solution or a capitulation to corporate control. Notably, some commenters highlight the challenges of navigating automated bans and the potential for false positives in detection systems.
+
+Overall, the discussion reflects frustration with opaque policies and the difficulties users face in accessing AI tools, alongside a broader critique of the industry's practices and the potential for users to seek alternatives.

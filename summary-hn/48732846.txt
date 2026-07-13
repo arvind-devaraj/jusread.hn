@@ -1,0 +1,6 @@
+Beware, Claude Code deletes >30 day old transcripts. Anthropic won't fix it  (30 pts, 37 comments)
+https://news.ycombinator.com/item?id=48732846
+
+The Hacker News discussion revolves around a significant issue with Claude Code, an AI tool developed by Anthropic, which automatically deletes transcripts older than 30 days without user notification. Many users express frustration over this feature, arguing that it leads to the irreversible loss of valuable work and intellectual property. The post highlights that while there is a configuration option to adjust the retention period, many users are unaware of it, and the default setting can lead to unexpected data loss.
+
+In the comments, there is a mix of agreement and debate. Some users suggest workarounds, such as using hooks or external tools to document changes and back up sessions, while others criticize Anthropic for not making the retention policy clearer during onboarding. Notably, some commenters argue that the deletion policy is a usability issue rather than a malicious intent, while others view it as a breach of user trust. The discussion underscores the importance of user awareness regarding data retention settings and the need for clearer communication from developers about such features.

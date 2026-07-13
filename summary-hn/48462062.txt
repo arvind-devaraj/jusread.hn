@@ -1,0 +1,8 @@
+Can LLMs Beat Classical Hyperparameter Optimization Algorithms?  (120 pts, 20 comments)
+https://news.ycombinator.com/item?id=48462062
+
+The Hacker News discussion revolves around a paper titled "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?" which explores the effectiveness of combining large language models (LLMs) with classical hyperparameter optimization (HPO) methods. The paper suggests that a hybrid approach, referred to as "Centaur," which integrates both LLMs and classical algorithms, yields better results than using either method alone.
+
+In the comments, there is a mix of agreement and skepticism regarding the paper's findings. Some users highlight the potential of hybrid methods, noting that they can outperform classical optimizers in specific scenarios, particularly when objective function evaluations are costly. Others, however, criticize the paper's methodology, arguing that the way the hybrid model is evaluated may give it an unfair advantage and that the LLM's contribution appears marginal compared to traditional methods. Notably, the author of the paper engages in the discussion, sharing ongoing results that continue to support the hybrid approach's superiority.
+
+Overall, the conversation reflects a broader interest in the intersection of AI and optimization, with participants sharing insights from their own research and experiences, while also questioning the robustness of the findings presented in the paper.

@@ -1,0 +1,8 @@
+Is there a name for the type of comments agents add where they leak the prompt?  (18 pts, 8 comments)
+https://news.ycombinator.com/item?id=48522763
+
+The Hacker News discussion revolves around the issue of AI-generated comments in code that reveal the prompts given to the AI, which the original poster finds unnecessary and annoying. They provide an example where an AI modifies a function to include default parameters and adds a comment that reflects the prompt rather than providing timeless context. The poster expresses frustration over these comments and seeks a better way to articulate why they are problematic during code reviews.
+
+In the comments, users generally agree that such comments are redundant and detract from the quality of the code. Some suggest that these comments make it clear that they were not written by a human, while others emphasize the importance of maintaining code that stands on its own without referencing past prompts or changes. There is also a discussion about the potential benefits of leaving these comments for future AI code generation, though many still prefer concise, relevant comments.
+
+Notable insights include suggestions for naming these types of comments, such as "reasoning comments" or "echo prompts," and the idea that they reflect a failure of the AI to produce clean, human-like documentation. Overall, the conversation highlights a tension between leveraging AI for coding assistance and maintaining high standards for code readability and professionalism.

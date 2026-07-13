@@ -1,0 +1,8 @@
+Making a vintage LLM from scratch  (104 pts, 29 comments)
+https://news.ycombinator.com/item?id=48487829
+
+The Hacker News discussion revolves around a user, croqaz, who is creating a small-scale language model (LLM) called "tiny Llama 340M" from scratch. The post details the steps, challenges, and costs involved in this endeavor, emphasizing the potential of smaller models to produce reasonable outputs even on less powerful hardware. Croqaz shares their journey of experimenting with various tiny models and highlights the importance of dataset quality in training effective LLMs.
+
+In the comments, there is a general agreement on the value of developing smaller, more efficient models, with users discussing their own projects and experiences. Some express skepticism about the quality of datasets used in training, while others emphasize the learning process involved in building models from scratch. Notably, there is a debate about the balance between using existing frameworks and writing code from the ground up for educational purposes. Users also share insights on the evolving landscape of LLMs, with some advocating for models that are deliberately narrow and historically constrained.
+
+Overall, the discussion showcases a community of enthusiasts exploring the intricacies of LLM development, sharing knowledge, and encouraging each other in their respective projects.

@@ -1,0 +1,8 @@
+Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models  (55 pts, 9 comments)
+https://news.ycombinator.com/item?id=48639434
+
+The Hacker News discussion revolves around the release of Ultralytics YOLO26, a new version of the YOLO (You Only Look Once) series of real-time object detection models. The title suggests a shift in naming conventions, as commenters note that the versioning has transitioned from a sequential number system to a year-based system, which explains the jump from YOLO13 to YOLO26.
+
+In the comments, there is a mix of humor and skepticism. Some users joke about future versions like "YOLO XP" and "YOLO vista," while others express confusion about the sudden attention on YOLO26, suggesting that other models, such as RF-DETR, still hold the state-of-the-art status. A notable critique comes from a user who questions the paper's claim of having the best accuracy-latency trade-off, pointing out that it only includes one DETR model in its comparisons, despite acknowledging other models that outperform it.
+
+Overall, the discussion highlights a blend of excitement for the advancements in YOLO technology, alongside critical perspectives on the claims made in the paper and the competitive landscape of object detection models.

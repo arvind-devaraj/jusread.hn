@@ -1,0 +1,8 @@
+Show HN: FableCut – A browser video editor AI agents can drive (zero deps)  (98 pts, 61 comments)
+https://news.ycombinator.com/item?id=48845422
+
+The Hacker News discussion revolves around "FableCut," a browser-based video editor that utilizes AI agents for editing tasks without requiring additional dependencies. The creator, Ronak Parmar, shares the project on GitHub, inviting feedback and suggestions for improvements.
+
+In the comments, users express interest in potential integrations, such as with Remotion and Mediabunny, and discuss the implications of the project's name, which some find tacky due to its association with an unrelated product. There is a consensus on the innovative approach of using JSON for project management and the ability for AI agents to interact with the editing process. Several commenters suggest that a demo video would enhance understanding of the tool's capabilities, which Ronak acknowledges and promises to work on.
+
+Notable insights include the recognition of the tool's potential for simplifying video editing workflows and the excitement around the live editing capabilities where both AI and humans can collaborate. Some users also raise concerns about the naming conventions in tech projects, highlighting the risks of potential IP conflicts. Overall, the discussion reflects a mix of enthusiasm for the tool's functionality and caution regarding its branding and integration possibilities.

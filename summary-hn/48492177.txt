@@ -1,0 +1,8 @@
+MTG Bench: Testing how well LLMs can play Magic  (68 pts, 34 comments)
+https://news.ycombinator.com/item?id=48492177
+
+The Hacker News discussion revolves around a project called "MTG Bench," which tests how well large language models (LLMs) can play Magic: The Gathering (MTG). The author chose not to use a traditional rules engine for the simulation, opting instead to allow the LLMs to play in a more human-like manner. This approach sparked interest in the potential of LLMs to reason through gaming decisions and engage with complex game mechanics.
+
+In the comments, users express a mix of enthusiasm and skepticism about the project's methodology. Some appreciate the novelty of the benchmark, while others argue that without opponents, the gameplay lacks depth and excitement. There are discussions about the challenges of implementing a rules engine, with some suggesting that it could enhance the experience by allowing for more complex interactions. Additionally, there are concerns about the scoring system used to evaluate the LLMs' performance, with some commenters suggesting that it may not accurately reflect the quality of play.
+
+Notable insights include the recognition of MTG's complexity, with one commenter highlighting its Turing-completeness, indicating that it can simulate any computation. Others point out that while LLMs may follow the rules effectively, they may not always make the most strategic decisions. Overall, the discussion reflects a broader interest in how LLMs can be applied to gaming and the potential for future benchmarks in this area.

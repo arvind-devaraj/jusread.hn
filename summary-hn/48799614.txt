@@ -1,0 +1,8 @@
+GPT-5.6 Sol Ultra will be in Codex  (413 pts, 383 comments)
+https://news.ycombinator.com/item?id=48799614
+
+The Hacker News discussion revolves around the announcement of GPT-5.6 Sol Ultra being integrated into Codex, with a focus on OpenAI's reported advancements in reducing inference costs by half. The conversation explores potential techniques for achieving these cost reductions, including caching strategies and the implications of such optimizations for various use cases.
+
+Commenters express a mix of skepticism and curiosity regarding the feasibility and effectiveness of caching similar queries or answers. Some argue that while caching could be beneficial for common queries, it may not significantly impact the long-tail queries that dominate user interactions. Others speculate on the technical aspects of caching mechanisms, with references to Automatic Prefix Caching (APC) and its relevance to long-context queries.
+
+Notably, the discussion also touches on broader themes, such as the competitive landscape of AI development, the implications of government involvement in AI, and the ethical considerations surrounding the use of AI technologies. Some participants express concern about the motivations of AI companies and the potential for collaboration versus competition in the industry, highlighting a divide between optimism and cynicism regarding the future of AI and its governance.

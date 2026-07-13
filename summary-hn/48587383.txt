@@ -1,0 +1,8 @@
+GLM-5.2 is probably the most powerful text-only open weights LLM  (28 pts, 4 comments)
+https://news.ycombinator.com/item?id=48587383
+
+The Hacker News discussion revolves around the release of GLM-5.2, which is being hailed as a highly powerful text-only open weights language model. The original post highlights its performance and significance in the landscape of open-source AI models.
+
+In the comments, users express curiosity about the model's performance consistency, with one commenter speculating that repeated attempts at certain benchmarks might yield better results. There is also a discussion about the lack of attention given to other strong models like Minimax M3, which outperforms the previously leading Deepseek V4 Pro but hasn't received as much media coverage. Another user points out that hype cycles often overlook capable contenders, citing Xiaomi's MiMo-V2.5 Pro as an example.
+
+Overall, the conversation reflects a mix of excitement about GLM-5.2's capabilities while also critiquing the uneven media attention given to various models in the AI space.

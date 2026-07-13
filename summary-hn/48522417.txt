@@ -1,0 +1,8 @@
+Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU  (36 pts, 7 comments)
+https://news.ycombinator.com/item?id=48522417
+
+The Hacker News discussion revolves around a project called ScreenMind, which allows users to run a vision model on every screenshot locally using a 4GB GPU. The creator emphasizes that the tool operates entirely on-device, ensuring that no data is sent to the cloud, addressing privacy concerns associated with similar applications.
+
+In the comments, there is a consensus that the backlash against Microsoft's cloud-based screen-aware AI, Recall, stemmed from privacy issues rather than the concept itself. Users express appreciation for ScreenMind's local, opt-in approach, which alleviates fears about data security. One commenter shares their positive experience with a similar app, Rewind, highlighting the value of local data processing. Additionally, there is a discussion about the limitations of certain AI models, with the creator explaining how they optimized their approach by using narrow tasks and structured prompts to achieve better results.
+
+Overall, the conversation underscores the importance of privacy in AI applications and the potential for local processing to enhance user trust and functionality.

@@ -1,0 +1,8 @@
+Don’t use AI to write things that you present as your own work  (108 pts, 77 comments)
+https://news.ycombinator.com/item?id=48615776
+
+The Hacker News discussion revolves around a blog post that argues against using AI to write content that is presented as one's own work. The author contends that using AI without disclosure is dishonest, and even with disclosure, it undermines trust in the writer's authenticity. The post emphasizes the risks to one's reputation and brand when relying on AI for writing.
+
+In the comments, there is a lively debate about the implications of AI in writing. Some users agree with the author's stance, asserting that AI-generated content lacks genuine human insight and effort. Others argue that the expectation of complete authenticity is unrealistic in an era where AI is ubiquitous, suggesting that critical engagement with content is more important than its origin. Notably, some commenters express frustration with the perceived laziness of both content creators and consumers, while others highlight the potential for AI to assist rather than replace human creativity.
+
+Overall, the discussion reflects a broader concern about trust, authenticity, and the evolving role of AI in creative fields, with varying opinions on how to navigate these challenges.

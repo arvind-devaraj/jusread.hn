@@ -1,0 +1,8 @@
+Gemma 4 on Cerebras - The Fastest Inference Is Now Multimodal  (24 pts, 8 comments)
+https://news.ycombinator.com/item?id=48729020
+
+The Hacker News discussion revolves around the announcement of Gemma 4, a multimodal AI model developed by Cerebras, which boasts impressive inference speeds of 1800 tokens per second. The post highlights the model's capabilities and its potential applications in various fields.
+
+In the comments, users express excitement about the speed of Gemma 4, with many agreeing that faster processing is beneficial for productivity, especially in coding and AI applications. However, there is debate about the practical value of a smaller, cloud-hosted model like Gemma 4. Some commenters suggest potential use cases such as fancy autocomplete in IDEs, text autocorrect on phones, and OCR for handwritten text. Others question whether they would be willing to pay for such a service, emphasizing that while speed is desirable, the need for a fast Gemma may not be compelling enough for everyone.
+
+Notable insights include the recognition that speed can significantly enhance user experience in AI applications, and the acknowledgment that while local solutions are preferred, cloud options like Gemma 4 can still be valuable for users lacking the necessary hardware.

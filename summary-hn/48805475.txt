@@ -1,0 +1,8 @@
+Show HN: Agent Draw: An agent draws while you talk, built on TLDraw  (53 pts, 15 comments)
+https://news.ycombinator.com/item?id=48805475
+
+The Hacker News discussion revolves around a project called "Agent Draw," which allows an AI agent to draw on a shared canvas while a user presents. This tool was developed as an extension of a game called 2draw, where players guess each other's drawings. The creators are exploring how AI can assist in visual presentations, particularly in educational contexts.
+
+In the comments, users express enthusiasm for the concept, highlighting its potential applications in education and visual thinking. Many agree that while the tool is innovative, it requires improvements in speed, accuracy, and design to enhance user experience. Some commenters share their own experiences with similar tools and suggest features like live transcription and personalized diagramming to make the AI more effective.
+
+Notable insights include the idea that such tools could revolutionize how people interact with AI in real-time, particularly in collaborative and educational settings. Users also emphasize the importance of refining the technology to better meet specific use cases, indicating a strong interest in the future development of AI-assisted drawing tools.

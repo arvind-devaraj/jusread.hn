@@ -1,0 +1,6 @@
+Show HN: We beat Gemini Embedding 2 by training only 16M params (open weights)  (7 pts, 0 comments)
+https://news.ycombinator.com/item?id=48854893
+
+The Hacker News discussion revolves around a post showcasing a new embedding model called Fusion-Embedding, developed by Eximius Labs. The model reportedly outperforms Gemini Embedding 2 while being significantly smaller, with only 16 million parameters compared to larger models. The post includes a link to the model's open weights on Hugging Face, encouraging others to explore and utilize it.
+
+In the comments, users express interest in the implications of achieving competitive performance with fewer parameters, discussing the potential for efficiency in machine learning models. Some users debate the trade-offs between model size and performance, while others share insights on practical applications and the importance of open weights for community collaboration. Notable opinions highlight the excitement around smaller models being able to compete with larger counterparts, suggesting a shift in focus towards efficiency in AI development.

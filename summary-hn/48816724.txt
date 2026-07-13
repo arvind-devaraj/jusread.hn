@@ -1,0 +1,8 @@
+Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)  (37 pts, 10 comments)
+https://news.ycombinator.com/item?id=48816724
+
+The Hacker News discussion revolves around a tool called Frugon, designed to help users analyze their costs associated with using large language models (LLMs) like OpenAI's. The creator developed Frugon after noticing a significant increase in their token usage, leading to high expenses. The tool allows users to read their OpenAI logs locally, assess costs per task, and compare potential savings by switching to cheaper models. It emphasizes quality alongside cost, using a command to judge the output of different models without compromising user data.
+
+In the comments, there is a debate about the tool's focus on cost versus the importance of model quality and effectiveness. Some users argue that prioritizing cost alone is insufficient, as it may not lead to the best outcomes. The creator acknowledges this perspective but insists that Frugon incorporates quality considerations through its routing recommendations based on established quality tiers.
+
+Notable insights include the recognition that while cost is a critical factor, the ultimate goal should be achieving the best outcomes for specific tasks. Users appreciate the tool's clean design and meaningful name, while also expressing curiosity about its evaluation methods for determining output quality. Overall, the discussion highlights the balance between cost efficiency and model performance in the context of AI usage.

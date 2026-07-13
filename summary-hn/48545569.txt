@@ -1,0 +1,8 @@
+LLMs Will Replace 8-Track Duplication Engineers  (50 pts, 13 comments)
+https://news.ycombinator.com/item?id=48545569
+
+The Hacker News discussion revolves around the assertion that large language models (LLMs) could potentially replace 8-track duplication engineers by automating the problem of distributing audio tracks across multiple programs on a tape. The original post highlights the challenges of this task, which involves mathematical calculations to ensure each program plays for the same length of tape.
+
+In the comments, there is a debate about the capabilities of LLMs, particularly regarding their ability to perform mathematical tasks. Some users argue that LLMs are not suited for math because they are fundamentally next-token predictors and cannot execute code directly. Others counter that LLMs can generate code to perform calculations and have shown impressive performance on math benchmarks, suggesting they can effectively solve mathematical problems when combined with external tools.
+
+Notable insights include the comparison of LLMs to human tool use, where both can delegate tasks they are not good at to other systems. Additionally, some commenters reflect on the historical context of the 8-track format, with one user sharing an interesting tidbit about the origin of a jeans brand name related to a Rolling Stones album. Overall, the discussion highlights both skepticism and optimism about the role of LLMs in specialized tasks like audio duplication.

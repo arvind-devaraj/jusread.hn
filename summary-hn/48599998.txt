@@ -1,0 +1,8 @@
+Munich 1991: The Roots of the Current AI Boom  (230 pts, 96 comments)
+https://news.ycombinator.com/item?id=48599998
+
+The Hacker News discussion revolves around an article titled "Munich 1991: The Roots of the Current AI Boom," which explores the historical contributions to AI, particularly focusing on Jürgen Schmidhuber's claims about his foundational role in the development of deep learning techniques. The article highlights the significance of early work in neural networks and backpropagation, with Schmidhuber asserting that his contributions are often overlooked.
+
+In the comments, there is significant debate regarding the attribution of credit for advancements in AI. Some users argue that while Schmidhuber made important contributions, figures like Geoffrey Hinton, Yann LeCun, and others have played more pivotal roles in the modern AI landscape. Others point out that Schmidhuber's frequent claims of being the "root" of current AI advancements may be overstated, with critiques of his tendency to demand citations for his earlier work. The discussion also touches on broader themes about the relationship between academia and private research labs, with some commenters defending academic contributions while others criticize the inefficiencies and perceived irrelevance of academic research in practical applications.
+
+Notable insights include the recognition that scientific progress often builds on a complex web of prior work, making it difficult to pinpoint singular contributions. Additionally, there is a consensus that while academia has its flaws, it remains a crucial foundation for advancements in technology, and the interplay between academic research and private sector innovation is essential for future breakthroughs.

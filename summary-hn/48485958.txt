@@ -1,0 +1,8 @@
+Anthropic walks back policy that could have 'sabotaged' researchers using Claude  (71 pts, 37 comments)
+https://news.ycombinator.com/item?id=48485958
+
+The Hacker News discussion revolves around Anthropic's recent decision to retract a controversial policy that limited the capabilities of their AI model, Claude, in the context of frontier research. The policy was criticized for potentially sabotaging researchers by altering their prompts and outputs, which many users viewed as a form of malware. The article highlights concerns about the lack of transparency and the implications of such a policy on the trustworthiness of AI models.
+
+In the comments, users express a mix of skepticism and concern regarding Anthropic's motivations and the ethical implications of their actions. Some argue that the company's approach reflects a misguided belief in their moral responsibility to prevent misuse of AI, while others see it as a self-serving tactic to maintain competitive advantage. There is a notable debate about the reliability of AI models from different countries, with some suggesting that Chinese labs may be more trustworthy due to their transparency.
+
+Overall, the discussion reveals a deep mistrust of Anthropic's intentions, with many commenters advocating for open models as a more sustainable solution. The conversation underscores the tension between safety measures in AI development and the potential for those measures to stifle innovation and competition.

@@ -1,0 +1,8 @@
+Medical diagnosis AIs can be tricked into telling whose data trained them  (24 pts, 1 comments)
+https://news.ycombinator.com/item?id=48662546
+
+The Hacker News discussion centers around an article that reports on a study revealing that medical diagnosis AIs can be manipulated to identify whose data was used in their training. The original article claims that this vulnerability presents a significant risk, suggesting a "near-perfect attack success" rate.
+
+In the comments, there is a notable disagreement regarding the implications of the study. One commenter, Legend2440, links to the original research paper and argues that the article misrepresents the findings. They clarify that while the attack can identify training data with high confidence for a small percentage of cases (between 0.001% and 10%), it is not broadly applicable and thus not a major concern. They emphasize that the attack requires prior knowledge of the data, which limits its practicality.
+
+Overall, the discussion highlights a divide between those who see the findings as a serious threat to data privacy in AI and those who believe the risks are overstated and not immediately actionable.

@@ -1,0 +1,8 @@
+Show HN: Morph Reflexes – Multi-head classifiers for agent traces  (20 pts, 2 comments)
+https://news.ycombinator.com/item?id=48739038
+
+The Hacker News discussion centers around a project called Morph Reflexes, which aims to improve the efficiency of monitoring and analyzing the behavior of production agents (like AI systems) by using a multi-head classifier approach. The creator explains that traditional methods using large language models (LLMs) for every interaction are too slow and costly at scale. Reflexes utilizes a custom inference engine that allows for rapid classification of agent behavior by reusing computation across multiple tasks, achieving sub-30ms inference times.
+
+In the comments, users express positive feedback about Morph's products, with one user highlighting their satisfaction with Morph Apply and expressing hope for the company's growth. There is no significant debate, but the creator invites feedback from those running agents in production regarding what metrics they wish they could track over time.
+
+Overall, the discussion emphasizes the need for scalable solutions in monitoring agent behavior and the innovative approach taken by Morph Reflexes to address this challenge efficiently.

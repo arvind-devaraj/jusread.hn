@@ -1,0 +1,8 @@
+How do you use Vim in the era of AI?  (28 pts, 60 comments)
+https://news.ycombinator.com/item?id=48859439
+
+The Hacker News discussion revolves around the relevance of Vim in the context of increasing reliance on AI for coding tasks. The original poster, a heavy Vim user, questions whether it still makes sense to use Vim as they find themselves looking at code less frequently due to AI assistance.
+
+In the comments, there is a mix of opinions. Some users argue that understanding and reviewing code remains crucial, even with AI tools, emphasizing that writing code manually fosters a better mental model and quality output. Others express skepticism about relying on AI for code generation without thorough review, likening it to trusting automated systems in critical fields like healthcare. Notably, many users have adapted their Vim workflows to incorporate AI, using it for navigation and code review rather than for writing code from scratch. Some have even developed custom setups that integrate AI tools with Vim, enhancing their productivity.
+
+Overall, the discussion highlights a transition in coding practices, where traditional tools like Vim are being adapted to coexist with AI, while still emphasizing the importance of human oversight and understanding in software development.

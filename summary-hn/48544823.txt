@@ -1,0 +1,8 @@
+Show HN: Veterinarian turned founder, AI lawn diagnosis  (78 pts, 60 comments)
+https://news.ycombinator.com/item?id=48544823
+
+The Hacker News discussion revolves around a new AI tool for diagnosing lawn problems, created by a veterinarian named Andrew. Frustrated by his own lawn care challenges and the lack of tailored solutions, he developed a platform where users can upload lawn pictures and receive localized diagnoses along with actionable steps in just 15 seconds. The service is free, monetized through affiliate sales and by selling leads to lawn care companies.
+
+In the comments, there is a mix of support and skepticism. Some users express concern about the environmental impact of traditional lawns and suggest including eco-friendly alternatives or landscaping options. Others emphasize the need for the tool to cater to diverse user goals, such as low maintenance or biodiversity. Notably, Andrew acknowledges these insights and considers integrating more options for users. There are also discussions about the platform's differentiation from generic AI chatbots, with suggestions for improving user experience and expanding the service's capabilities.
+
+Overall, the conversation highlights a blend of enthusiasm for innovative solutions in lawn care and critical reflections on the broader implications of maintaining traditional lawns versus exploring more sustainable practices.

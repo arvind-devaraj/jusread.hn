@@ -1,0 +1,8 @@
+Claude: Elevated Error Rates for Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6  (34 pts, 38 comments)
+https://news.ycombinator.com/item?id=48624153
+
+The Hacker News discussion revolves around elevated error rates and performance issues with Claude's Opus models (4.8, 4.7, 4.6) and Sonnet 4.6, as reported on their status page. Users are experiencing server-side errors, particularly a 529 Overloaded error, which has led to frustrations and speculation about the underlying causes.
+
+In the comments, there is a mix of agreement on the issues being faced, with many users sharing their experiences of degraded performance and expressing concerns about the reliability of Claude compared to other models like GLM and Codex. Some users argue that while open-source models are improving, they still struggle with long tasks due to poor sampling algorithms. Others highlight the inefficiency of Claude in terms of token usage, suggesting that it may not be the best option for all tasks.
+
+Notable insights include a user's frustration over the lack of transparency from Claude regarding performance issues, with calls for better communication about service reliability. Additionally, there is speculation that the current problems may be linked to preparations for a new model release, indicating a potential connection between service outages and ongoing development efforts. Overall, the discussion reflects a community grappling with the challenges of relying on AI models while navigating service reliability and performance concerns.

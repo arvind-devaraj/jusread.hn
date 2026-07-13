@@ -1,0 +1,8 @@
+OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B  (223 pts, 373 comments)
+https://news.ycombinator.com/item?id=48550465
+
+The Hacker News discussion revolves around a report detailing OpenAI's financials, revealing that the company's losses surged nearly eightfold in 2025, with expenditures reaching $34 billion. Despite a significant increase in revenue from $3.7 billion to $13.07 billion, the operating losses also grew, raising concerns about the sustainability of OpenAI's business model as it approaches an IPO.
+
+In the comments, there is a mix of skepticism and cautious optimism. Some users argue that the financial figures indicate a perilous situation, suggesting that OpenAI's future profitability is uncertain and dependent on continued investor support. Others counter that while the losses are substantial, they are not unprecedented in tech startups, citing examples like Amazon and Uber, which took years to become profitable. Notably, some commenters express concern about the potential for "socialized losses," where retail investors bear the brunt of any failures while executives remain wealthy.
+
+Overall, the discussion highlights a broader debate about the viability of OpenAI's business strategy in a competitive landscape, the implications of its financial trajectory, and the potential risks for investors as the company prepares for its public offering.

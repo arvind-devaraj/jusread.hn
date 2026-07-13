@@ -1,0 +1,6 @@
+Ask HN: What tools are you using for AI-assisted code review?  (26 pts, 31 comments)
+https://news.ycombinator.com/item?id=48587808
+
+The Hacker News discussion revolves around a user's inquiry about tools for AI-assisted code review, as their team is exploring options in a crowded market. The user seeks recommendations and insights on the effectiveness of various tools, including their applications beyond code review, such as incident response or branch management.
+
+In the comments, several tools are mentioned, with GitHub Copilot and Claude Code being the most frequently cited. Users appreciate these tools for their ability to catch issues that might be overlooked in manual reviews. However, there is a debate about the potential over-reliance on AI tools, with some commenters suggesting that manual reviews should precede AI assistance to avoid false confidence in the results. Additionally, some users have developed their own solutions, emphasizing the importance of customization and user experience. Notably, there is a trend toward self-hosted and open-source solutions, reflecting a desire for control over the tools used in the development process. Overall, the discussion highlights a mix of enthusiasm for AI tools and caution regarding their limitations.

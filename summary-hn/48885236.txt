@@ -1,0 +1,8 @@
+I trained a 113M-parameter earthquake LLM from absolute scratch  (12 pts, 3 comments)
+https://news.ycombinator.com/item?id=48885236
+
+The Hacker News discussion revolves around a project called nanoGPT-Seis, where a geophysics researcher has developed a 113M-parameter earthquake-focused language model (LLM) from scratch. The primary goal of this initiative is to demystify the pretraining process of LLMs for students and researchers, providing a detailed, step-by-step implementation rather than relying on high-level frameworks like Hugging Face.
+
+In the comments, there is a consensus on the educational value of the project, with users appreciating the effort to clarify the complexities of LLM training. However, a key point of debate arises regarding the model's current utility in practical applications, such as earthquake preparedness or response. The creator acknowledges that while the model has learned from seismology literature, it is not yet capable of providing actionable insights without further development, specifically through supervised fine-tuning.
+
+Notably, the creator emphasizes that establishing the foundational infrastructure is crucial for future enhancements, indicating a roadmap that includes scaling the model and refining its capabilities to eventually serve as a useful tool in real-world earthquake scenarios.

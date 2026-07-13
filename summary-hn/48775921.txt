@@ -1,0 +1,8 @@
+Jamesob's guide to running SOTA LLMs locally  (409 pts, 183 comments)
+https://news.ycombinator.com/item?id=48775921
+
+The Hacker News discussion revolves around Jamesob's guide for running state-of-the-art (SOTA) large language models (LLMs) locally, as outlined in his GitHub repository. The conversation highlights various hardware options for running these models, focusing on the balance between cost, performance, and memory requirements.
+
+Commenters express differing opinions on the feasibility and practicality of local LLM setups. Some users advocate for high-end GPU configurations, like dual RTX 3090s, citing their superior memory bandwidth and performance for running models efficiently. Others point out the advantages of using Apple’s M-series chips, which offer decent performance in a more compact form. A recurring theme is the trade-off between the initial investment in hardware and the long-term benefits of running models locally, such as data privacy and reduced operational costs. 
+
+Notable insights include the realization that local LLMs can be significantly more useful than initially perceived, as they eliminate concerns about data sharing and token limits. However, there are warnings about the high costs associated with building a capable local setup, with some users suggesting that cloud solutions may still be more economical for many applications. Overall, the discussion reflects a mix of enthusiasm for local AI capabilities and caution regarding the financial implications of such investments.

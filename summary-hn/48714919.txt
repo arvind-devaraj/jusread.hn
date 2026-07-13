@@ -1,0 +1,8 @@
+Some Simple Economics of AGI  (25 pts, 7 comments)
+https://news.ycombinator.com/item?id=48714919
+
+The Hacker News discussion revolves around a paper titled "Some Simple Economics of AGI," which explores the economic implications of artificial general intelligence (AGI). The paper suggests that current AI technologies can significantly enhance productivity by allowing humans to define intent and supervise AI outputs, potentially transforming business operations.
+
+In the comments, there is a mix of skepticism and critique regarding the paper's optimistic view. Some users, like BobbyTables2, argue that the notion of humans merely supervising AI without the need for deep expertise is unrealistic, comparing it to the absurdity of becoming an Olympic coach through passive learning. Others, such as delusional, express distrust in the author's credibility due to their background in cryptocurrency. Meanwhile, cadamsdotcom highlights the potential for AI to create its own verification processes, suggesting a more advanced application of AI in production.
+
+Overall, the discussion reflects a broader debate about the feasibility and implications of AGI, with some commenters emphasizing the limitations of current AI capabilities compared to the idealized vision presented in the paper.

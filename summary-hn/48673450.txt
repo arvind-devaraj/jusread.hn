@@ -1,0 +1,8 @@
+Model Training as Code  (183 pts, 24 comments)
+https://news.ycombinator.com/item?id=48673450
+
+The Hacker News discussion revolves around a blog post titled "Model Training as Code," which introduces a new workflow engine called Savanna designed to simplify the increasingly complex process of model training. The post highlights the need for better organizational tools to manage training pipelines and configurations, especially as distributed training becomes more common among teams.
+
+In the comments, there is a mix of curiosity and skepticism regarding the significance of the Savanna engine compared to existing solutions like Airflow. Some users argue that while Savanna may address specific edge cases, it ultimately serves as a marketing tool rather than a groundbreaking innovation. Others emphasize the importance of a shared culture of experimentation within organizations to truly enhance model training processes.
+
+Notable insights include the idea that the future of model training may involve building on a few foundational models, with individual organizations customizing them through their own training and feedback. Additionally, there is a recognition that the complexity of model training is not just a technical challenge but also an organizational one, requiring a cultural shift alongside technological advancements.

@@ -1,0 +1,8 @@
+AI agents are not your "coworkers"  (7 pts, 2 comments)
+https://news.ycombinator.com/item?id=48778958
+
+The Hacker News discussion revolves around the concept of AI agents being labeled as "coworkers" and the implications of this terminology. The original post argues that while AI can assist with tasks like scheduling, referring to them as coworkers may create a false sense of equality and could be perceived as threatening to human employees.
+
+In the comments, there is a general agreement that AI agents can function alongside human coworkers, but the way they are presented—especially when given names and personalities—can evoke different feelings among employees. One commenter highlights that this anthropomorphism may lead to fears of job replacement, while another suggests that AI should be viewed more as a tool rather than a colleague.
+
+Notable insights include the idea that the responsibility lies with AI developers to manage how these agents are perceived, balancing functionality with the potential emotional impact on human workers. Overall, the discussion emphasizes the need for careful consideration in how AI is integrated into the workplace.

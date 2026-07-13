@@ -1,0 +1,8 @@
+Karp: Anthropic/OpenAI are stealing customer IP and their tokens have low value  (20 pts, 23 comments)
+https://news.ycombinator.com/item?id=48760296
+
+The Hacker News discussion revolves around a tweet by Karp, which accuses AI companies like Anthropic and OpenAI of stealing customer intellectual property (IP) and suggests that their tokens hold low value. Karp's comments have sparked a mix of agreement and criticism among users.
+
+Many commenters express skepticism about Karp's motives, with some suggesting that his comments stem from envy or competition. Others point out that the business model of AI companies has always involved using customer data, a common practice in the SaaS industry. Some users argue that while companies may claim not to use customer data for training, the potential for misuse remains a concern. There is also debate about the inherent value of tokens and whether AI companies should extract more value from their services rather than offering them through APIs.
+
+Notable insights include the acknowledgment that companies should be cautious about uploading sensitive data to AI services, as this could lead to data mining. Additionally, some commenters question why companies continue to pay for these services if they are unhappy, suggesting that the utility of the AI tools may create a dependency despite concerns over data privacy. Overall, the discussion highlights the complexities and ethical considerations surrounding AI data usage and business practices.

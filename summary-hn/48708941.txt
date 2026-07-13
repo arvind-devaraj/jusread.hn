@@ -1,0 +1,8 @@
+I used Claude Code to get a second opinion on my MRI  (565 pts, 713 comments)
+https://news.ycombinator.com/item?id=48708941
+
+The post discusses the author's experience using Claude Code, an AI tool, to analyze their MRI results and seek a second opinion. The author expresses mixed feelings about the effectiveness of AI in interpreting complex medical images, particularly MRIs, which are inherently three-dimensional and may not be accurately represented in two-dimensional formats.
+
+In the comments, there is significant debate about the reliability of AI for medical image analysis. Many users agree that while AI can identify obvious features in images, it lacks the nuanced understanding required for detailed radiological assessments. Some commenters share personal experiences, noting that AI tools can be helpful for simpler cases, like X-rays, but caution against relying on them for more complex imaging like MRIs. Additionally, discussions arise about the limitations of ultrasound in orthopedic assessments and the importance of human expertise in interpreting medical images.
+
+Notable insights include the recognition that AI's capabilities in image analysis are still developing and that it should not replace professional medical opinions. The conversation highlights the need for clear communication in medical reports, especially regarding the limitations of different imaging techniques, as misunderstandings can lead to confusion for patients. Overall, the discussion underscores the importance of human expertise in medical diagnostics, even as AI continues to evolve.

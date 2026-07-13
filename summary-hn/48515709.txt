@@ -1,0 +1,8 @@
+GLM-5.2 is now available with 1M-context support  (18 pts, 2 comments)
+https://news.ycombinator.com/item?id=48515709
+
+The Hacker News discussion revolves around the release of GLM-5.2, which now supports a context length of 1 million tokens. This update is significant as it positions the model as a competitive alternative to other advanced, closed-weight models that have recently become inaccessible.
+
+In the comments, there is a consensus on the importance of open-weight models in the AI landscape, especially in light of recent restrictions on some leading models. One commenter highlights the ambition of GLM-5.2 to compete with these closed systems and expresses hope that smaller versions of the model will eventually be able to run on consumer-grade GPUs, making advanced AI more accessible to individuals. Another comment notes that the model is already available for coding purposes, indicating its practical application.
+
+Overall, the discussion reflects a strong belief in the necessity of open-source AI development, emphasizing the need for tools that allow users to build and innovate without being constrained by proprietary systems.

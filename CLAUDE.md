@@ -22,7 +22,7 @@ There is no build step, lint config, or test suite in this repo currently.
 
 The script is a linear pipeline with two independent phases:
 
-1. **Fetch (`get_past_week_hn_posts`)** — queries the Algolia HN Search API (`search_by_date`, tag `story`) for everything created in the last 7 days. Page 0 is fetched first to learn `nbPages`, then remaining pages are fetched concurrently via a `ThreadPoolExecutor` (max 8 workers) since pages are independent.
+1. **Fetch (`get_past_month_hn_posts` in `hn_fetch.py`)** — queries the Algolia HN Search API (`search_by_date`, tag `story`) for everything created in the last 30 days. The Algolia endpoint caps total retrievable results at ~1000 per query regardless of `nbHits` (page 1+ comes back empty even when `nbHits` is far larger), so a single 30-day query would silently truncate to the newest ~1000 stories. To avoid that, the fetch splits the 30-day window into per-day queries and fetches them concurrently via a `ThreadPoolExecutor` (max 8 workers), merging results.
 
 2. **Classify (`get_tech_probabilities`)** — instead of a trained classifier, this uses zero-shot embedding similarity:
    - `TECH_SEED_TEXTS` / `NON_TECH_SEED_TEXTS` are hand-written example headlines representing each class.

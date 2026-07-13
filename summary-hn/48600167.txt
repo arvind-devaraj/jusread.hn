@@ -1,0 +1,8 @@
+GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2  (585 pts, 292 comments)
+https://news.ycombinator.com/item?id=48600167
+
+The Hacker News discussion revolves around a post comparing the hallucination rates of various large language models (LLMs), specifically highlighting that GPT-5.5 reportedly hallucinates three times more than the MIT-licensed GLM-5.2. The term "hallucination" refers to instances where a model generates incorrect or fabricated information instead of acknowledging uncertainty.
+
+In the comments, there is significant debate about the implications of hallucination rates and the nature of knowledge in LLMs. Some users argue that the high hallucination rates of models like GPT-5.5 indicate a fundamental flaw in their design, while others suggest that hallucination rates are context-dependent and influenced by the types of questions posed. There is also discussion about the challenges of evaluating model performance, with some commenters emphasizing that the metrics used may obscure the severity of issues.
+
+Notable insights include concerns about the reliability of LLM-generated code, with some users expressing skepticism about the long-term maintainability of software developed with LLM assistance. Others argue that while LLMs can produce seemingly functional code, they may introduce subtle errors that compound over time. Overall, the conversation reflects a mix of optimism about the potential of LLMs and caution regarding their limitations and the risks of over-reliance on them in critical applications.

@@ -1,0 +1,8 @@
+Apple reveals new AI architecture built around Google Gemini models  (738 pts, 558 comments)
+https://news.ycombinator.com/item?id=48450142
+
+The Hacker News discussion revolves around Apple's recent announcement of a new AI architecture that utilizes Google Gemini models. The conversation explores the specifics of how Apple is integrating these models into their systems, including questions about whether they are fine-tuning, pre-training, or using Gemini models directly. Users are curious about the distinctions between Apple's Foundation Models and the Gemini-powered models, especially in terms of on-device versus cloud-hosted implementations.
+
+Key points of debate include concerns about the reliability of Gemini models, with several commenters noting that the public version of Gemini often provides inaccurate answers, which could negatively impact Apple's AI offerings. There is also discussion about the implications of Apple's reliance on Google for cloud computing and the privacy measures in place, particularly in light of EU regulations that may require Apple to allow third-party AI access to user data.
+
+Notable insights include skepticism about the effectiveness of Gemini in its current form, with some users expressing a preference for other AI models due to perceived shortcomings in Gemini's performance. Additionally, there is a consensus that while Apple aims to maintain user privacy, the integration of third-party services poses challenges and raises questions about trust and data security.

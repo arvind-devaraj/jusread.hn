@@ -1,0 +1,8 @@
+Instead of banning AI, I made a classroom contract with my students  (95 pts, 91 comments)
+https://news.ycombinator.com/item?id=48775499
+
+The Hacker News discussion revolves around an article that describes a teacher's innovative approach to integrating AI into the classroom by creating a contract with students instead of outright banning AI tools. The teacher acknowledges the reality of AI's presence in education and the workforce, aiming to foster a collaborative and trust-based learning environment.
+
+In the comments, there is a mix of agreement and debate regarding the effectiveness of this approach. Some users advocate for modernizing education to include AI, emphasizing the need for students to learn how to use these tools responsibly. Others express concerns about the potential for students to misuse AI, arguing that traditional methods of assessment and learning should not be abandoned. Notably, some commenters highlight the importance of foundational knowledge and critical thinking, suggesting that reliance on AI could hinder deeper understanding.
+
+Overall, the discussion reflects a broader conversation about the role of AI in education, with insights on balancing technological integration with the need for genuine learning and skill development. Moderation in AI usage is a recurring theme, with some arguing for a structured approach to teaching AI as a tool while others caution against its potential to undermine traditional learning processes.

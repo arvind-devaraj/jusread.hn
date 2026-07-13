@@ -1,0 +1,8 @@
+25% long-form social media posts appear AI-generated  (7 pts, 1 comments)
+https://news.ycombinator.com/item?id=48880101
+
+The Hacker News discussion revolves around a report stating that 25% of long-form social media posts are believed to be AI-generated, particularly on platforms like LinkedIn. The article raises concerns about the increasing prevalence of AI-generated content and its potential impact on the quality of online discourse.
+
+In the comments, there is a consensus that the rise of AI-generated content could lead to a "dead internet," where genuine human-generated content becomes scarce. A notable critique is directed at AI detection tools, with commenters expressing skepticism about their reliability and suggesting that many articles discussing these tools seem to promote them rather than provide objective analysis. One commenter specifically points out that many discussions on this topic feel like advertisements for the detection services, undermining their credibility.
+
+Overall, the discussion highlights a growing unease about the authenticity of online content and the challenges in distinguishing between human and AI-generated writing, as well as skepticism towards the tools designed to detect such content.

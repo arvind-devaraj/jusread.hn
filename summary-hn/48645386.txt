@@ -1,0 +1,8 @@
+Elevated error rate across multiple models  (213 pts, 271 comments)
+https://news.ycombinator.com/item?id=48645386
+
+The Hacker News discussion revolves around a reported elevated error rate affecting multiple models of the Claude AI, with users experiencing various API errors, including "500 Internal Server Error" and "529 Overloaded." The status page indicates ongoing server-side issues, prompting users to share their experiences and frustrations.
+
+In the comments, there is a consensus that while Claude's uptime metrics appear high (e.g., 99.27% for Claude Code), the timing of outages is critical. Many users express that downtime often occurs during working hours, which significantly impacts productivity. Some commenters debate the relevance of uptime statistics, arguing that a tool's effectiveness should be measured by its reliability during peak usage times rather than overall uptime.
+
+Notable insights include concerns about dependency on AI tools, with some users reflecting on their ability to code without AI assistance and questioning whether modern developers can efficiently work offline. Others highlight the irony of productivity claims when frequent outages disrupt workflows. Overall, the discussion underscores the challenges of relying on AI tools in professional settings and the need for improved reliability.

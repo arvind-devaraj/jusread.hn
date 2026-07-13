@@ -1,0 +1,8 @@
+Show HN: Kontext – Move an AI chat's full context to another AI in one click  (8 pts, 2 comments)
+https://news.ycombinator.com/item?id=48778955
+
+The Hacker News discussion centers around a project called Kontext, which allows users to transfer the full context of an AI chat to another AI with a single click. The GitHub link provided leads to the project's repository, suggesting it is an open-source tool aimed at enhancing the usability of AI interactions.
+
+In the comments, there is a consensus on the importance of utilizing advanced AI models like Codex and Claude, with one user suggesting that these models could better handle local files and data using JSON tools. Another commenter inquires about the architecture of Kontext and the trade-offs made during its development, indicating a curiosity about the technical decisions behind the tool.
+
+Overall, the discussion highlights a shared interest in improving AI context management and raises questions about the underlying technology and design choices that make Kontext effective.

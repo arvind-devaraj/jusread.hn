@@ -1,0 +1,6 @@
+IEEE Rolls Out Large Language Models Training Course  (100 pts, 19 comments)
+https://news.ycombinator.com/item?id=48742703
+
+The Hacker News discussion centers around a new training course on large language models (LLMs) offered by IEEE, priced at $240 for five hours of content. Commenters express skepticism about the course's value, questioning whether it justifies the cost given the availability of free, high-quality educational resources from institutions like Stanford and other platforms.
+
+The main points of debate include the effectiveness and necessity of formal training in LLMs versus self-directed learning using free resources and AI tools. Some users argue that understanding the underlying mechanics of LLMs is crucial for reliable application, while others contend that the rapid evolution of AI tools makes specialized knowledge less relevant. Notably, there is a divide between those who believe that formal education is essential to keep up with advancements and those who feel that accessibility and practical usage of AI tools negate the need for deep technical understanding. Overall, the discussion highlights a tension between traditional educational approaches and the evolving landscape of AI learning.

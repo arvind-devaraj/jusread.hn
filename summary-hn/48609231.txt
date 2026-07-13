@@ -1,0 +1,8 @@
+Show HN: We post-trained a model that pen tests instead of refusing  (93 pts, 40 comments)
+https://news.ycombinator.com/item?id=48609231
+
+The Hacker News discussion revolves around a new AI tool developed by ArgusRed that has been post-trained to perform penetration testing (pen testing) on software systems, unlike existing models from companies like Anthropic and OpenAI, which refuse to engage in offensive tasks. The tool offers two modes: a security scan that audits code for vulnerabilities and a pen test mode that actively attempts to exploit vulnerabilities in a controlled environment. The developers argue that small and medium enterprises (SMEs) need access to such tools to identify vulnerabilities, as current offerings are primarily gated for larger enterprises.
+
+In the comments, there is a mix of agreement and skepticism regarding the tool's safety and accessibility. Some users express concern about the potential for bad actors to misuse such technology, while others argue that restricting access may leave a significant portion of the market underserved. There is also debate about the effectiveness of commercial interests in preventing misuse and whether the tool's gated access is a responsible choice. Notably, some commenters highlight that if a small team can post-train an open model for offensive tasks, so can malicious actors, suggesting that the barriers to misuse may be temporary.
+
+Overall, the discussion underscores the tension between the need for robust cybersecurity tools for SMEs and the ethical implications of making such powerful technologies accessible, with many participants questioning the feasibility of effectively gatekeeping offensive AI tools.

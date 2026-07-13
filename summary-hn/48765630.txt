@@ -1,0 +1,8 @@
+Claude's AskUserQuestion: "No response after 60s – continued without an answer"  (65 pts, 65 comments)
+https://news.ycombinator.com/item?id=48765630
+
+The Hacker News discussion revolves around a GitHub issue regarding Claude's "AskUserQuestion" feature, which prompts users for input after 60 seconds of inactivity. Many users express frustration that this feature is enabled by default without an option to turn it off, leading to interruptions during sessions. The core of the debate centers on whether this behavior should be opt-in rather than opt-out, with some users arguing that it disrupts workflow and can lead to wasted time if the agent pauses for user input.
+
+Commenters are divided on the utility of the feature. Some appreciate the ability for the AI to continue working without waiting for user input, arguing that it enhances productivity, especially for users who trust the AI's decision-making capabilities. Others feel that the default setting undermines user control and can lead to significant issues if the AI makes incorrect assumptions. Notably, some users suggest that the feature may be driven by business incentives to increase token usage, while others emphasize the importance of user autonomy and the need for clearer configuration options.
+
+Overall, the discussion highlights a tension between user preferences for control versus the desire for seamless automation in AI interactions, with many calling for better customization options to suit different workflows.

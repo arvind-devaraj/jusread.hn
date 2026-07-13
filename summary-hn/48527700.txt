@@ -1,0 +1,8 @@
+Not everyone is using AI for everything  (512 pts, 539 comments)
+https://news.ycombinator.com/item?id=48527700
+
+The Hacker News discussion revolves around the idea that not all companies or individuals are effectively utilizing AI, particularly large language models (LLMs), in their workflows. The original post highlights a trend where businesses are pressured to integrate AI into systems even when it may not enhance performance or efficiency, leading to slower and more costly solutions.
+
+In the comments, there is a consensus that many organizations are adopting AI out of a fear of being left behind, despite it sometimes being unnecessary. Some commenters share experiences of being asked to implement AI features that complicate systems rather than improve them. Others express concern about the potential for over-reliance on AI, which could lead to a loss of fundamental programming skills and understanding. Notably, there are discussions about the balance between using AI to assist in building deterministic systems versus relying on it for tasks that could be done more efficiently with traditional programming methods.
+
+Overall, the conversation reflects a critical view of the current AI adoption trend, emphasizing the need for a more thoughtful approach to integrating AI technologies rather than a blind rush to implement them.

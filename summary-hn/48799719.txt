@@ -1,0 +1,8 @@
+Show HN: An unmetered LLM API–$6/month, no token tracking, no limits  (12 pts, 13 comments)
+https://news.ycombinator.com/item?id=48799719
+
+The Hacker News discussion revolves around a new unmetered LLM API service called Yolo Auto, which offers unlimited access to a smaller model (Qwen3.6-35B-A3B) for $6/month. The service is designed for high-volume tasks, allowing users to offload repetitive work without worrying about token limits or data retention. The post highlights the service's specifications, including a free tier and a community of around 100 active users engaged in various projects.
+
+In the comments, users discuss the financial viability of the service, with one commenter calculating the potential costs and necessary customer base for breakeven. The service's operator clarifies that they are currently operating at a loss but are enjoying the experience. There is also debate about the requirement for users to have existing accounts from major platforms like Google or Discord, which some find problematic due to concerns about corporate control. One user shares their frustration with the account creation process, leading to a humorous exchange with the service operator.
+
+Overall, the discussion reflects a mix of enthusiasm for the service's potential and skepticism about its long-term sustainability and user accessibility.

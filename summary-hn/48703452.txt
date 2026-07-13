@@ -1,0 +1,8 @@
+The best response to AI slop and online noise is from Robin Williams  (405 pts, 225 comments)
+https://news.ycombinator.com/item?id=48703452
+
+The Hacker News discussion revolves around a blog post that references a monologue by Robin Williams, emphasizing the importance of human experience in the face of AI advancements, particularly large language models (LLMs). The post argues that while LLMs can generate content, they lack genuine experiences and understanding, which raises concerns about their impact on human creativity and competence.
+
+In the comments, there is a debate about the seriousness with which people regard AI. Some users express skepticism about the perceived threat of LLMs, arguing that many still rely on their own skills and decision-making. Others counter that LLMs are indeed being taken seriously, with examples of people using them in personal and professional contexts, sometimes with negative consequences. A recurring theme is the distinction between human creativity and AI-generated content, with many commenters asserting that LLMs can mimic but not replicate the depth of human experience.
+
+Notable insights include the recognition that LLMs, while powerful, are ultimately tools that require human input and mastery. Some commenters draw parallels between AI and themes from science fiction, highlighting the philosophical implications of machines that can produce human-like language without true understanding. Overall, the discussion reflects a mix of skepticism, concern, and philosophical inquiry regarding the role of AI in society.

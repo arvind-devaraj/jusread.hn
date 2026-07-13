@@ -1,0 +1,8 @@
+Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]  (35 pts, 3 comments)
+https://news.ycombinator.com/item?id=48710350
+
+The Hacker News discussion revolves around a 1968 paper titled "Computer-Aided Language Development in Nonspeaking Children," which explores the use of technology to assist nonverbal children in developing communication skills. The post links to the paper and invites discussion on its relevance today.
+
+In the comments, users express enthusiasm about the potential of modern AI, particularly large language models (LLMs), to enhance communication for nonspeaking children. One commenter shares their personal experience creating a tool called tejutalks.com, which utilizes AI to help nonverbal children communicate more effectively. They report positive outcomes from its use with several children over three months. Another user suggests that this tool could be featured as a "Show HN," indicating interest in promoting innovative projects within the community.
+
+Overall, the discussion highlights a growing interest in leveraging AI for communication assistance, with personal anecdotes underscoring the practical benefits of such technologies in real-world applications.

@@ -1,0 +1,8 @@
+The Normalization of Deviance in AI  (21 pts, 3 comments)
+https://news.ycombinator.com/item?id=48499790
+
+The Hacker News discussion centers around the concept of "Normalization of Deviance" in the context of artificial intelligence (AI). The original post argues that as AI technology evolves, there is a tendency to accept increasingly risky practices as standard, which can lead to significant correctness and security issues. The author suggests that rather than mitigating these risks, the industry has merely found new ways to incorporate them into existing systems.
+
+In the comments, there is a consensus on the concern that the risks associated with AI have not been adequately addressed. User Terr_ expresses worry that the industry has only identified more areas to apply risky practices without actually improving safety or correctness. Meanwhile, cyanydeez highlights that this normalization has been ongoing for a decade, indicating a long-standing issue in the field. The link shared by dwattttt to a comic illustrates the absurdity of accepting deviant practices, reinforcing the discussion's critical tone.
+
+Overall, the discussion reflects a growing unease about the trajectory of AI development, emphasizing the need for a more rigorous approach to safety and ethical standards in the face of evolving technology.

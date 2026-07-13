@@ -1,0 +1,8 @@
+An independent evaluation of TabFM, Google's tabular foundation model  (25 pts, 1 comments)
+https://news.ycombinator.com/item?id=48805514
+
+The post discusses an independent evaluation of TabFM, Google's tabular foundation model, highlighting its performance and capabilities in handling tabular data compared to existing models. The author provides insights into the model's architecture, training methodology, and results, emphasizing its potential applications in various fields.
+
+In the comments, a user inquires about the availability of results for TabPFN, indicating a desire for a broader comparison beyond just XGBoost, which suggests that readers are interested in understanding how TabFM stacks up against other models in the same category. This reflects a common interest in comprehensive benchmarking within the machine learning community.
+
+Notably, the discussion underscores the importance of transparency in model evaluation and the need for more comparative analyses to fully assess the effectiveness of new models like TabFM. Overall, the conversation highlights both enthusiasm for advancements in tabular data modeling and a call for more detailed performance metrics.
