@@ -1,0 +1,8 @@
+Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem  (261 pts, 183 comments)
+https://news.ycombinator.com/item?id=47557166
+
+The Hacker News discussion revolves around the recent resolution of Donald Knuth's "Claude Cycles" problem, which has been fully solved using large language models (LLMs). The post highlights the intersection of human intelligence, AI, and proof assistants in tackling complex problems, suggesting a significant advancement in AI capabilities.
+
+In the comments, there is a mix of excitement and skepticism about the implications of AI advancements. Some users express awe at the potential of AI, while others voice concerns about job displacement and the future of work. A recurring theme is the idea of "centaur" collaboration, where humans and AI work together to achieve superior results, contrasting with fears that AI will render many jobs obsolete. Notable insights include discussions on the evolving job market, the necessity of adapting to technological changes, and the ethical considerations of AI's impact on employment.
+
+Overall, the conversation reflects a blend of optimism about technological progress and apprehension regarding its societal consequences, particularly in terms of job security and the nature of work in the future.

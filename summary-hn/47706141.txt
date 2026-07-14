@@ -1,0 +1,8 @@
+Research-Driven Agents: When an agent reads before it codes  (214 pts, 54 comments)
+https://news.ycombinator.com/item?id=47706141
+
+The Hacker News discussion revolves around a blog post titled "Research-Driven Agents: When an agent reads before it codes," which highlights the advantages of coding agents that conduct literature reviews before writing code. The post suggests that these agents can discover optimizations that purely code-focused agents might overlook. One example shared is an implementation that allows an agent to autonomously read research papers and run experiments, enhancing its coding capabilities.
+
+In the comments, there is a consensus on the value of incorporating a research phase into coding workflows, with several users sharing their experiences and techniques. Some commenters emphasize the importance of planning and self-reflection in coding agents, while others discuss the challenges of ensuring agents do not produce misleading results. A notable point of debate arises around the effectiveness of different formats for feeding research papers to language models, with users discussing the merits of reStructuredText versus Markdown.
+
+Overall, the discussion underscores a growing recognition of the importance of research in coding processes, with many contributors sharing insights on optimizing agent performance through structured workflows and collaborative strategies.

@@ -1,0 +1,8 @@
+Agent-to-agent pair programming  (135 pts, 59 comments)
+https://news.ycombinator.com/item?id=47538190
+
+The Hacker News discussion revolves around the concept of "agent-to-agent pair programming," where two AI models, such as Claude and Codex, collaborate to improve coding tasks. The original post by Axel Delafosse explores how leveraging multiple AI agents can enhance code quality through iterative reviews and feedback loops.
+
+In the comments, users share their experiences with different AI models, noting that while Claude excels in creative generation, Codex is better at identifying errors. Many participants agree on the effectiveness of using a combination of models for code review, with some mentioning the importance of structured planning and review processes. However, there is a call for more systematic research to validate the benefits of multi-agent setups, as much of the current evidence is anecdotal.
+
+Notable insights include the observation that when both AI agents identify the same issue in a pull request, it leads to a 100% fix rate, highlighting the potential for improved accuracy through collaboration. Some users also express concerns about the sustainability and cost of using AI services, suggesting that companies may adjust compute resources rather than prices to manage expenses. Overall, the discussion emphasizes the promising yet still evolving nature of AI collaboration in programming tasks.

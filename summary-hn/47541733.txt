@@ -1,0 +1,8 @@
+TinyLoRA – Learning to Reason in 13 Parameters  (234 pts, 44 comments)
+https://news.ycombinator.com/item?id=47541733
+
+The Hacker News discussion revolves around the paper "TinyLoRA – Learning to Reason in 13 Parameters," which proposes a method for enhancing reasoning capabilities in large language models using a minimal number of parameters. The paper suggests that significant reasoning improvements can be achieved with just 13 parameters, raising questions about the efficiency and potential of such a low-dimensional approach.
+
+In the comments, there is a mix of skepticism and intrigue. Some users express doubt about the feasibility and implications of achieving reasoning with so few parameters, comparing it to oversimplified notions in computing history, like the belief that 640KB of RAM would suffice. Others highlight that while the results may stem from fine-tuning on a specific benchmark (GSM8K), the idea that reasoning capabilities are latent within models is compelling. There is also discussion about the cost-effectiveness of training models and the potential for continuous adaptation rather than traditional training methods.
+
+Notable insights include the suggestion that if reasoning can be unlocked with minimal parameters, it could shift the focus from extensive training to more efficient steering of existing models. This implies a significant reduction in the resources needed for model adaptation, emphasizing the importance of having a good reward signal for effective learning.

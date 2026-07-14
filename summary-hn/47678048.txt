@@ -1,0 +1,8 @@
+Show HN: I built a database for AI agents  (12 pts, 10 comments)
+https://news.ycombinator.com/item?id=47678048
+
+The Hacker News discussion centers around a project called Dinobase, a database designed specifically for AI agents. The creator, who recently left PostHog, developed Dinobase to enhance the interaction between SQL and AI agents, demonstrating that SQL provides superior accuracy and efficiency compared to traditional API calls. The MVP includes 101 connectors for various data sources, uses DuckDB as the query engine, and features an annotation layer for schema documentation.
+
+In the comments, users seek clarification on the benchmarks used to evaluate Dinobase, with suggestions for more detailed breakdowns by question type to validate the impressive results. There is a consensus that SQL excels in handling complex queries, particularly multi-hop joins, where LLMs often struggle. Concerns about schema drift and how the system manages changes in data structure were also raised, with the creator acknowledging the need for improvements in handling such scenarios.
+
+Overall, the discussion highlights excitement about the potential of Dinobase while also emphasizing the importance of rigorous benchmarking and addressing practical challenges in real-world applications.

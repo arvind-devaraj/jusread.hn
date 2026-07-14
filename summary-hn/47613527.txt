@@ -1,0 +1,6 @@
+Show HN: Skales – I built a desktop AI agent a 6-year-old can use  (12 pts, 6 comments)
+https://news.ycombinator.com/item?id=47613527
+
+The Hacker News discussion centers around a project called Skales, developed by a solo developer from Vienna. Skales is a local-first AI desktop agent compatible with Windows, macOS, and Linux, designed to be user-friendly enough for a child to use. The latest version, v9.0.0, introduces features like Agent Skills, autonomous coding, multi-agent teams, and support for over 15 providers, including offline capabilities with Ollama. The software is free for personal use and requires no complex setup, making it accessible for users of all ages.
+
+In the comments, there is a general sense of enthusiasm and positivity towards the project, with users expressing that it is a "great" and "really useful" tool. However, the comments are largely minimal and lack in-depth discussion or debate, focusing instead on brief affirmations of the project's value. Overall, the reception appears to be favorable, highlighting the potential of Skales as an educational tool for young users interested in coding.

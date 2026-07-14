@@ -1,0 +1,8 @@
+Ask HN: Do you trust AI agents with API keys / private keys?  (17 pts, 33 comments)
+https://news.ycombinator.com/item?id=47736831
+
+The Hacker News discussion revolves around the question of whether it's safe to share API keys and private keys with AI agents, particularly through methods like .env files. The original poster seeks advice on tools or mechanisms to safeguard these secrets from potential exploits or leaks.
+
+In the comments, there is a strong consensus that sharing sensitive information directly with AI agents poses significant risks. Many participants advocate for using secure storage solutions like keyrings or secret management services, while others propose creating a "safe agent execution layer" that enforces policies on what agents can access. Notably, some users suggest using tools like mitmproxy to obfuscate secrets during communication, ensuring that the AI never sees the actual values. There is also a discussion about the challenges of managing credentials across different environments and the need for robust auditing and access controls.
+
+Overall, the conversation highlights a cautious approach to handling sensitive data with AI agents, emphasizing the importance of security measures and the potential for innovative solutions to mitigate risks.

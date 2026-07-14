@@ -1,0 +1,8 @@
+Automatic Textbook Formalization  (44 pts, 18 comments)
+https://news.ycombinator.com/item?id=47631648
+
+The Hacker News discussion revolves around "Automatic Textbook Formalization," a project by Facebook Research that aims to enhance AI-assisted mathematical research through formal proofs. The GitHub link provided leads to the project, which likely involves using large language models (LLMs) to automate the formalization of mathematical texts.
+
+In the comments, there is a mix of agreement and debate regarding the implications of using LLMs in this context. Some users express excitement about the potential for AI to assist in mathematical research, while others raise concerns about the ethical implications of training models on customer data and the risks associated with copyright violations. A notable point of contention is the effectiveness of additional training data, with some arguing that the benefits are diminishing and that companies like Anthropic face significant risks if they misuse customer data.
+
+Several commenters also discuss various proof assistants, such as Lean and Metamath, sharing their experiences and preferences. There is a consensus on the importance of formal proofs in mathematics, with some users expressing a desire for more user-friendly and efficient tools for formal verification. Overall, the discussion highlights both the promise and challenges of integrating AI into mathematical research and the ongoing evolution of formal proof systems.

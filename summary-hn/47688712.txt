@@ -1,0 +1,8 @@
+Ask HN: Should AI credits be refunded on mistakes?  (21 pts, 23 comments)
+https://news.ycombinator.com/item?id=47688712
+
+The Hacker News discussion centers around whether AI service providers should refund users for credits spent on mistakes made by AI models, specifically in the context of using tools like Claude. The original poster expresses frustration at having to pay for AI-generated errors, especially when they take extra steps to verify outputs.
+
+In the comments, there is a mix of opinions. Many users argue against refunds, stating that mistakes are inherent in both human and machine outputs, and that users should be aware of the limitations of AI. Some highlight the difficulty in defining what constitutes a "mistake," suggesting that subjectivity complicates any potential refund system. Others propose that AI companies should improve their systems to minimize errors rather than offer refunds.
+
+Notable insights include the idea that users should take responsibility for verifying AI outputs, and that the focus should be on enhancing the accuracy of AI models rather than compensating for errors. There is also a suggestion that better feedback mechanisms could be more effective than refunds in addressing user concerns about AI reliability.

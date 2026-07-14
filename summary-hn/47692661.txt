@@ -1,0 +1,8 @@
+Show HN: TUI-use: Let AI agents control interactive terminal programs  (52 pts, 37 comments)
+https://news.ycombinator.com/item?id=47692661
+
+The Hacker News discussion centers around a project called TUI-use, which allows AI agents to control interactive terminal programs (TUIs). The project aims to enhance the interaction between AI models and terminal applications, potentially improving workflows for users who rely on command-line tools.
+
+In the comments, there is a mix of enthusiasm and skepticism. Some users appreciate the novelty of the project and its potential utility, particularly for specific use cases in scientific programming. However, many commenters argue that existing tools like tmux already provide similar functionalities, questioning the necessity of TUI-use. They emphasize that leveraging established command-line interfaces (CLIs) and tools could be more efficient than introducing a new layer.
+
+Notable insights include the recognition that while TUI-use might offer unique features, many users already effectively utilize tmux and other existing solutions for similar tasks. There is also a discussion about the limitations of current AI models in handling interactive sessions, with some users suggesting that the interaction model could be improved to avoid inefficiencies like polling. Overall, the conversation reflects a broader debate about innovation versus leveraging existing technologies in the realm of AI and terminal interactions.

@@ -1,0 +1,8 @@
+Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs  (16 pts, 5 comments)
+https://news.ycombinator.com/item?id=47696558
+
+The Hacker News discussion revolves around a paper titled "Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs," which explores how fine-tuning large language models (LLMs) can lead to the reproduction of copyrighted text. The implications of this phenomenon raise questions about copyright law and the potential legal ramifications for LLM developers.
+
+In the comments, users express a mix of skepticism and concern regarding the legal landscape. Some believe that the financial power of major companies will influence legal outcomes, potentially allowing them to circumvent copyright issues. Others emphasize the need for equitable legal protections that extend beyond just large LLMs to ensure fairness for all developers. There is also recognition of the complexity of the issue, with one commenter noting that it may seem straightforward but becomes complicated when considering various edge cases.
+
+Notably, there is a suggestion that if LLMs can reproduce text, it could be beneficial to include attributions to the original authors, which would help clarify the source of the information. Overall, the discussion highlights the tension between technological advancements in LLMs and the existing frameworks of copyright law.

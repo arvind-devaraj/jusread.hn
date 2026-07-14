@@ -1,0 +1,8 @@
+Google's 200M-parameter time-series foundation model with 16k context  (327 pts, 109 comments)
+https://news.ycombinator.com/item?id=47583045
+
+The Hacker News discussion revolves around Google's release of a new time-series foundation model, which features 200 million parameters and a context length of 16,000 tokens. The model aims to enhance machine learning applications in time series forecasting, a field that many commenters express finding challenging.
+
+In the comments, users share links to related models and resources, highlighting other time-series models like TabPFN and discussing the accessibility of training this new model compared to larger language models (LLMs). There is a debate about the model's capabilities, particularly regarding its ability to predict diverse phenomena like egg prices or inflation, with some users emphasizing that the model decomposes time series data into trends and seasonal patterns rather than making direct predictions.
+
+Notable insights include skepticism about the generalizability of a single model for various time series tasks and the challenges of communicating the limitations of machine learning models to stakeholders. Some commenters also touch on the unpredictability of certain markets, like Bitcoin, and the implications of using these models for forecasting in volatile contexts. Overall, the discussion reflects a mix of curiosity, skepticism, and a desire for practical applications in the realm of time series forecasting.

@@ -1,0 +1,8 @@
+CAIveat Emptor: What You Tell AI Can and Will Be Used Against You  (10 pts, 8 comments)
+https://news.ycombinator.com/item?id=47452014
+
+The Hacker News discussion revolves around the article titled "CAIveat Emptor: What You Tell AI Can and Will Be Used Against You," which highlights the risks associated with sharing sensitive information with AI systems. The central theme is the caution users should exercise when interacting with AI, as their inputs could be used in ways they might not anticipate.
+
+In the comments, there is a consensus on the importance of being mindful about the information shared with AI. Users express varying levels of concern, with some feeling more threatened by social media algorithms than AI. Others emphasize the need to treat AI as a third-party service rather than a personal notebook, advocating for the avoidance of sensitive data in prompts. There is also a discussion about the effectiveness of ad blockers and the varying experiences of users regarding ads on the article's page.
+
+Notable insights include a recognition of the broader implications of AI, such as its potential to eliminate jobs and contribute to surveillance, as mentioned by one commenter. Additionally, there is curiosity about how local AI models might mitigate some of these risks, particularly in professional contexts like law. Overall, the discussion reflects a blend of caution, skepticism, and a desire for more informed usage of AI technologies.

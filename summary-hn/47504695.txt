@@ -1,0 +1,8 @@
+Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon  (221 pts, 66 comments)
+https://news.ycombinator.com/item?id=47504695
+
+The Hacker News discussion revolves around Hypura, a storage-tier-aware inference scheduler designed for large language models (LLMs) on Apple Silicon. The project aims to optimize the use of memory and storage by efficiently managing how tensor weights are loaded from NVMe storage into RAM and GPU memory, thereby enhancing inference speed.
+
+In the comments, there is some debate about the project's claims, particularly regarding the mention of a "1T parameter model," which some users find unsupported by the repository's content. Others discuss the performance implications of using memory-mapped files (mmap) and express skepticism about the project's speed compared to existing solutions like Ollama and llama.cpp. A notable point of contention is the potential stress on NVMe drives during inference, with some users arguing that the architecture should not cause wear on the SSDs since it primarily involves read operations.
+
+Overall, the discussion highlights a mix of enthusiasm for the innovative approach of Hypura and skepticism about its practical performance and claims. Users express a desire for better support and performance from existing LLM hosting solutions while acknowledging the unique features that Hypura brings to the table.

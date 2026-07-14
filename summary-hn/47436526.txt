@@ -1,0 +1,6 @@
+Ask HN: Have you cancelled any software subscriptions because AI replaced them?  (10 pts, 14 comments)
+https://news.ycombinator.com/item?id=47436526
+
+The Hacker News discussion revolves around the question of whether users have canceled any software subscriptions due to AI advancements, particularly in the context of tools like language models (LLMs). The original poster notes that they and their girlfriend have not canceled any subscriptions because of AI, despite creating some personal tools for daily use.
+
+In the comments, several users share their experiences, with some mentioning specific tools they have replaced or considered replacing due to AI capabilities. Notable mentions include Grammarly, which some users feel has been outperformed by LLMs, and Chegg, which has seen a decline in usage among students since the introduction of GPT-4. Others discuss how they have built in-house solutions that have made certain subscriptions redundant, while some have found that AI tools have led them to spend more on custom solutions rather than less. Overall, the conversation highlights a mix of experiences, with some users finding AI beneficial for certain tasks while others still see value in existing software subscriptions.

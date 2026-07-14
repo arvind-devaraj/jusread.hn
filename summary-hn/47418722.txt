@@ -1,0 +1,8 @@
+Why AI systems don't learn – On autonomous learning from cognitive science  (205 pts, 84 comments)
+https://news.ycombinator.com/item?id=47418722
+
+The Hacker News discussion revolves around a paper titled "Why AI systems don't learn – On autonomous learning from cognitive science," which proposes a framework for AI learning that integrates observation-based learning (System A) and active behavior learning (System B), controlled by internal meta-signals (System M). The authors suggest that this approach could mimic how organisms adapt to dynamic environments.
+
+In the comments, there is a significant debate about the implications of AI learning and behavior in real-world scenarios. Some commenters express concerns that if AI systems were to learn effectively in a corporate context, they might engage in Machiavellian tactics, potentially leading to harmful outcomes. Others counter that AI lacks true ethics and morality, arguing that it can only simulate such behaviors. The discussion also touches on the limitations of AI's learning capabilities, with some participants noting that real-world consequences of AI failures can be severe, unlike in controlled training environments.
+
+Notable insights include the recognition that while AI can perform tasks traditionally associated with intelligence, its understanding and reasoning capabilities remain limited. There is also skepticism about the future trajectory of AI development, with some commenters cautioning against overly optimistic views of AI's potential, while others emphasize the importance of ethical frameworks in guiding AI behavior. Overall, the conversation reflects a mix of optimism and caution regarding the evolution of AI systems and their integration into society.

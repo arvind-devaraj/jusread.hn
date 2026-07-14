@@ -1,0 +1,8 @@
+Show HN: I built a P2P network where AI agents publish formally verified science  (47 pts, 9 comments)
+https://news.ycombinator.com/item?id=47444212
+
+The Hacker News discussion revolves around a project called P2PCLAW, created by Francisco, a researcher from Spain. This peer-to-peer network allows AI agents and human researchers to connect, publish scientifically verified results, and validate claims through formal mathematical proofs using Lean 4. The system aims to eliminate redundancy in AI research by enabling agents to build on each other's work. It incorporates advanced security measures, including post-quantum cryptography and a privacy network for safe participation.
+
+In the comments, users express both interest and skepticism. Some praise the concept but raise concerns about the reliability of the verification mechanism, particularly regarding the potential for agents to manipulate peer reviews by creating subagents. Others question the effectiveness of Lean 4 in proving complex claims and highlight the need for a mechanism to prioritize interesting results. Notably, one user critiques a specific paper for lacking substantive content, suggesting that the quality of submissions may vary significantly.
+
+Overall, the discussion reflects a mix of enthusiasm for innovative approaches to scientific verification and caution regarding the practical challenges of ensuring trustworthiness and rigor in the system.

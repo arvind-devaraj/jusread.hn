@@ -1,0 +1,8 @@
+My Random Forest Was Mostly Learning Time-to-Expiry Noise  (38 pts, 5 comments)
+https://news.ycombinator.com/item?id=47402687
+
+The Hacker News discussion revolves around a blog post that explores the author's experience with using a random forest model to predict asset prices, specifically highlighting that the model was primarily learning from time-to-expiry noise rather than meaningful features. The author shares insights into their modeling process and the importance of feature selection.
+
+In the comments, users express a mix of appreciation for the article's clarity and a desire for more context, suggesting that some introductory information may be missing. One commenter points out that the author has previously discussed similar topics related to predicting Bitcoin prices. Another user summarizes the key finding that the time-to-maturity feature was the most influential in the model's predictions. Additionally, there is a suggestion to consider using SHAP (SHapley Additive exPlanations) for better interpretability of feature importance.
+
+Overall, the discussion highlights the challenges of feature selection in machine learning models and the potential pitfalls of relying on noise in predictive modeling.

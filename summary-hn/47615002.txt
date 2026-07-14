@@ -1,0 +1,8 @@
+Qwen3.6-Plus: Towards real world agents  (596 pts, 211 comments)
+https://news.ycombinator.com/item?id=47615002
+
+The Hacker News discussion revolves around the release of Qwen3.6-Plus, a new model from Qwen that aims to enhance real-world applications of AI agents. The blog post highlights the model's capabilities but has drawn criticism for benchmarking against an older version (Opus 4.5) instead of the more recent Opus 4.6, leading to concerns about transparency and accuracy in performance comparisons.
+
+In the comments, users express a mix of skepticism and frustration regarding Qwen's decision to keep its largest models closed-source, contrasting it with their previous open-weight models. Some commenters argue that this shift may be a strategic move to maintain a competitive edge, while others emphasize the importance of open-source access for ethical reasons, given the data used for training these models. There is also a debate about the market demand for less advanced models, with some asserting that cost-effective options are valuable for specific applications, while others believe users primarily seek top-tier performance.
+
+Notable insights include the recognition that Qwen's transition to closed-source models may alienate some users who valued the company's commitment to open access. Additionally, there is a growing sentiment that as the understanding of AI applications evolves, the demand for diverse model capabilities—beyond just the best performance—may increase, particularly in automated workflows and cost-sensitive environments.

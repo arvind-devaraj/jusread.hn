@@ -1,0 +1,8 @@
+Show HN: Apfel – The free AI already on your Mac  (743 pts, 153 comments)
+https://news.ycombinator.com/item?id=47624645
+
+The Hacker News discussion revolves around "Apfel," a free AI tool available for Mac users, particularly those with Apple Silicon and macOS 26 (Tahoe) or newer. The tool is designed to handle various tasks, including parsing log files and executing shell scripts, but it has limitations such as a 4,000-token context window and a cautious approach to providing information, which some users appreciate as it may enhance trust in AI responses.
+
+In the comments, users express a mix of enthusiasm and skepticism. Some praise the tool's capabilities for small tasks and its integration with macOS, while others highlight its limitations, particularly in conversational contexts and language support. There are discussions about using Apfel in conjunction with more powerful models like Claude to optimize token usage. Notably, users also share insights about the potential of Apple's AI models and the importance of using reliable tools for specific tasks.
+
+Overall, the conversation reflects a community exploring the practical applications and limitations of Apfel, with a focus on its utility for developers and the broader implications of AI integration in everyday tasks.

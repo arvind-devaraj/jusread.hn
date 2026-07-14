@@ -1,0 +1,8 @@
+Thoughts on LLMs – Psychological Complications  (11 pts, 15 comments)
+https://news.ycombinator.com/item?id=47510657
+
+The Hacker News discussion revolves around the psychological implications of large language models (LLMs) and how they are perceived and framed in society. The original post critiques the anthropomorphizing of LLMs, arguing that they lack true understanding or concepts, and suggests that referring to them as "document generators" might mitigate misconceptions about their capabilities.
+
+In the comments, there is a debate about the nature of LLMs, particularly regarding their training and evaluation. Some users argue that LLMs are designed to be convincing rather than correct, while others point out that they are indeed evaluated on correctness benchmarks. There is also a discussion about the framing of LLMs as conversational agents, with some suggesting that this leads to misguided expectations and interpretations of their behavior.
+
+Notable insights include the idea that the way LLMs are presented can significantly influence public perception and trust. Some commenters propose that a more technical or less human-like framing could help avoid the pitfalls of anthropomorphism. Additionally, there is a recognition that as robotics and AI become more integrated into daily life, the focus may shift from the "realness" of AI emotions to their practical interactions with humans.

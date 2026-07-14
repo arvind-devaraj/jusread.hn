@@ -1,0 +1,6 @@
+Show HN: Kelet – Root Cause Analysis agent for your LLM apps  (47 pts, 24 comments)
+https://news.ycombinator.com/item?id=47767606
+
+The Hacker News discussion revolves around Kelet, a tool designed for root cause analysis (RCA) specifically for AI applications using large language models (LLMs). The creator, who has extensive experience building AI agents, highlights the challenge of diagnosing failures in these systems, which often provide incorrect answers without crashing. Kelet automates the investigation process by analyzing user feedback and session data to identify patterns and suggest fixes, streamlining what is typically a tedious manual analysis.
+
+In the comments, users express curiosity about how Kelet differentiates itself from other telemetry and analysis platforms, with the creator clarifying that while other tools require manual analysis, Kelet automates this process. There are discussions about the limitations of the tool, particularly regarding its ability to address issues beyond prompt-related problems, such as tool selection and retrieval ranking. Some users find the clustering approach promising, noting that it can reveal patterns in failures that appear random when viewed individually. Overall, there is a mix of enthusiasm for the tool's potential and skepticism about its effectiveness in more complex scenarios.

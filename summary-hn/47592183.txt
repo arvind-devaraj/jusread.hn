@@ -1,0 +1,8 @@
+Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology  (12 pts, 21 comments)
+https://news.ycombinator.com/item?id=47592183
+
+The Hacker News discussion revolves around a new CAPTCHA system called Cerno, which is designed to challenge AI reasoning rather than human biology. The CAPTCHA involves drawing a path through a maze, but many users report significant difficulties in completing it, particularly on mobile devices and trackpads.
+
+The main points of agreement among commenters are the frustration and challenges posed by the CAPTCHA's design. Many users find it nearly impossible to solve, often receiving rejection messages even after what they believe to be correct attempts. There are concerns about accessibility, as users with different dexterity levels, including those using assistive devices, struggle to complete the task. Some commenters humorously question whether the CAPTCHA is a joke due to its impracticality.
+
+Notable insights include a consensus that while the concept of targeting AI reasoning is interesting, the execution may not be user-friendly. Many commenters express that the CAPTCHA could alienate users, particularly those with disabilities, highlighting a common issue with CAPTCHA systems in general.

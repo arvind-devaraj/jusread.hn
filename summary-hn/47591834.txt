@@ -1,0 +1,8 @@
+Do LLMs Break the Sapir-Whorf Hypothesis?  (15 pts, 7 comments)
+https://news.ycombinator.com/item?id=47591834
+
+The Hacker News discussion revolves around a post that explores whether large language models (LLMs) challenge the Sapir-Whorf hypothesis, which suggests that the structure of a language affects its speakers' worldview and cognition. The author, who inadvertently published the article prematurely, highlights the structural changes in representation space within LLMs and their implications for understanding language and meaning.
+
+In the comments, users express fascination with the linguistic aspects of the article, with some noting the significance of certain layers in LLMs that show tight clustering, which may enhance performance. There is a debate about whether LLMs can solve complex problems more effectively when described in different languages, with suggestions for further benchmarking. Additionally, one commenter points out that humans typically learn languages in isolation, which may lead to a stronger coupling of meaning and language compared to LLMs trained on multiple languages simultaneously.
+
+Overall, the discussion reflects a mix of appreciation for the empirical insights gained from studying LLMs and curiosity about their implications for understanding human cognition and language.

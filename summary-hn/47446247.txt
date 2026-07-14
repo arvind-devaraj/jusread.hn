@@ -1,0 +1,8 @@
+Tell HN: If working with agents means this, robots, please take my job  (13 pts, 14 comments)
+https://news.ycombinator.com/item?id=47446247
+
+The Hacker News discussion revolves around a user's frustration with the overwhelming demands of working alongside AI tools like Claude, which has drastically increased their productivity but also led to significant mental fatigue. The user expresses concern that their role has shifted to merely approving or rejecting AI-generated ideas, rendering their specialized skills less relevant. They also highlight the challenges faced by non-developers who are now required to engage with developer tools, contributing to a heavy mental load without adequate support from leadership.
+
+In the comments, there is a mix of agreement and skepticism. Some users share similar experiences of "agent fatigue" and the cognitive exhaustion that comes from managing AI outputs. Others question the validity of claims about productivity increases, suggesting that such claims require substantial evidence. A notable perspective is that AI is commoditizing skilled labor, akin to how CNC machines transformed machining, potentially leading to job obsolescence for many workers.
+
+Overall, the discussion highlights the tension between the benefits of AI in enhancing productivity and the mental strain it imposes on employees, raising concerns about the future of work and the sustainability of such rapid technological integration.

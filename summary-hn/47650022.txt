@@ -1,0 +1,8 @@
+Banray.eu: Raising awareness of the terrible idea that is always-on AI glasses  (37 pts, 17 comments)
+https://news.ycombinator.com/item?id=47650022
+
+The Hacker News discussion centers around a project called Banray.eu, which aims to raise awareness about the potential dangers of always-on AI glasses, particularly concerning privacy and data collection. The original post links to a blog that elaborates on these concerns.
+
+In the comments, there is a debate about the implications of facial recognition technology and data privacy. Some users express discomfort with the idea of AI glasses that could continuously collect data, while others argue that data collection is already prevalent in existing technologies like smartphones and laptops. A significant point of contention is whether the focus should be on building trust with tech companies or implementing stricter regulations to protect privacy. Some commenters highlight the risks of data breaches and the lack of accountability from corporations, while others question the real-world harm caused by such incidents.
+
+Notable insights include the acknowledgment of varying perspectives on facial recognition, particularly from individuals with conditions like prosopagnosia, and the recognition that while technology can enhance life, it should not come at the expense of privacy and social safety. The discussion reflects a broader concern about the balance between technological advancement and ethical considerations in data usage.

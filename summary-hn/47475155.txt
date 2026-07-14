@@ -1,0 +1,8 @@
+Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence  (51 pts, 28 comments)
+https://news.ycombinator.com/item?id=47475155
+
+The Hacker News discussion revolves around a paper titled "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence," which explores the phenomenon of language models (LLMs) returning null or empty outputs when prompted with certain queries. The paper suggests that this behavior may be due to the models' internal configurations and processing layers rather than solely the models' architectures or weights.
+
+In the comments, there is a mix of skepticism and curiosity. Some users, like bob1029 and frde_me, discuss the potential for pre-processing layers and classifiers that could influence output quality and behavior. Others, such as NiloCK and barrkel, critique the paper's findings as overly complex or trivial, arguing that the observed results are not surprising given the nature of LLMs. There is also a debate about the clarity and significance of the paper's language, with some commenters labeling it as unnecessarily jargon-heavy or "woo."
+
+Notable insights include the recognition that LLMs may have built-in mechanisms to handle prompts that lead to empty outputs, and the acknowledgment that the paper's findings may not contribute significantly to the understanding of LLM behavior. Overall, the discussion highlights a tension between the novelty of the research and the perceived simplicity of its conclusions.

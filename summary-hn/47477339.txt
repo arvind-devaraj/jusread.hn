@@ -1,0 +1,8 @@
+Show HN: Revise – An AI Editor for Documents  (85 pts, 75 comments)
+https://news.ycombinator.com/item?id=47477339
+
+The Hacker News discussion revolves around the launch of "Revise," an AI-powered document editor developed over the past ten months. The creator, who has been deeply involved in the coding process, emphasizes that Revise is a standalone application designed to improve the user experience of integrating AI tools into word processing, as opposed to the cumbersome copy-paste methods currently in use.
+
+In the comments, users express mixed feelings about the product. Some praise its potential, particularly for collaborative work, while others raise concerns about subscription costs and the web-based nature of the tool. A notable debate emerges around the merits of subscription models versus free alternatives, with some users expressing a desire for lightweight, non-subscription word processors. The creator defends the subscription model and highlights the free features of Revise, including LLM-powered spellchecking, but faces criticism for perceived dismissiveness toward user feedback.
+
+Overall, the discussion reveals a tension between innovation in document editing and user preferences for pricing and software structure, with some users seeking alternatives that align more closely with their needs for simplicity and offline functionality.

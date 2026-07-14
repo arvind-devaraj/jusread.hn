@@ -1,0 +1,8 @@
+I used AI. It worked. I hated it  (57 pts, 128 comments)
+https://news.ycombinator.com/item?id=47646277
+
+The post titled "I used AI. It worked. I hated it" discusses the author's frustrating experience using AI tools for coding. While the AI produced functional code, the process of approving each change was tedious and unproductive, leading to a dislike of the overall experience. The author expresses that the expectation of AI handling tasks without explicit instructions often leads to unexpected and sometimes problematic outputs.
+
+In the comments, there is a lively debate about the effectiveness of AI in coding. Many users agree that the step-by-step approval process can be cumbersome, with some suggesting that reviewing larger chunks of code is more efficient. Others highlight the importance of providing clear instructions to the AI to mitigate issues, while some express skepticism about the AI's reliability, noting that it can introduce errors or make poor architectural decisions. Notably, a few commenters reflect on the broader implications of using AI in software development, likening the current experience to a grieving process as developers navigate the challenges and limitations of AI tools.
+
+Overall, the discussion reveals a mix of frustration and cautious optimism regarding AI in coding, with many users recognizing the potential benefits while also acknowledging significant drawbacks that can hinder productivity.

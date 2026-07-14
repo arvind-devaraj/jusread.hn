@@ -1,0 +1,8 @@
+Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B  (298 pts, 38 comments)
+https://news.ycombinator.com/item?id=47652007
+
+The Hacker News discussion revolves around a project called "Real-time AI" that utilizes an M3 Pro chip with Gemma E2B to process audio and video inputs and produce voice outputs. The project showcases impressive real-time capabilities, prompting users to consider its potential applications, particularly in creating more effective voice assistants compared to existing options like Siri.
+
+In the comments, users express enthusiasm for the project, with many sharing their frustrations about current voice assistants' limitations and the desire for more capable, hands-free solutions. There is a consensus that while the technology is advancing, major tech companies often hinder its usability by prioritizing advertising and control over user experience. Some users also discuss the potential for local models to handle multiple languages and the need for offline functionality, with one user noting a workaround for a connectivity issue.
+
+Notable insights include the recognition of the rapid advancements in local AI models, which are now capable of performing tasks that previously required more powerful, cloud-based systems. Additionally, users highlight the importance of user-friendly interfaces and the desire for tools that genuinely enhance productivity without unnecessary barriers.

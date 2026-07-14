@@ -1,0 +1,6 @@
+Ask HN: what’s your favorite line in your Claude/agents.md files?  (15 pts, 11 comments)
+https://news.ycombinator.com/item?id=47465415
+
+The Hacker News discussion revolves around a user asking for tips on maintaining software using Claude/agents.md files, specifically sharing their favorite lines or rules that enhance clarity and organization in software development. The original poster emphasizes the importance of creating detailed plans for tasks, including analysis, specifications, and testing strategies, and insists on user approval before proceeding with any changes.
+
+In the comments, there is a mix of agreement and skepticism. Some users, like trio8453, argue that the original poster's advice seems basic and already inherent in the system, while others, like ravila4, share their own specific rules that reflect their unique usage patterns, such as avoiding backward compatibility without explicit approval. Notably, muzani introduces a humorous yet insightful perspective on defensive programming, suggesting that their approach stems from a history of infrastructure issues, which has led to thorough coding practices. Overall, the discussion highlights varying philosophies on software development, from strict adherence to plans to more flexible, experience-based approaches.

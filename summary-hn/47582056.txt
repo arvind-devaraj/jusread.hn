@@ -1,0 +1,8 @@
+Mr. Chatterbox is a Victorian-era ethically trained model  (93 pts, 53 comments)
+https://news.ycombinator.com/item?id=47582056
+
+The Hacker News discussion revolves around a project called "Mr. Chatterbox," which is a language model trained on Victorian-era texts. The author describes the model as "ethically trained," meaning it was developed using data that complies with copyright laws. However, users in the comments express skepticism about the model's coherence and effectiveness, noting that its responses often lack factual accuracy and relevance.
+
+Key points of debate include the model's parameter count (340 million) and its training data volume, with some commenters suggesting that it may not be sufficient for generating coherent language. Others argue that the model's outputs resemble earlier text generation methods, lacking meaningful semantics despite having proper syntax. There is also a discussion about the implications of copyright on AI training data, with differing views on whether the current copyright system benefits individual creators or corporations.
+
+Notable insights include a critique of the term "ethical" as overly simplistic, and a suggestion that the model's limitations may stem from its training constraints. Some commenters humorously speculate about the potential for a Victorian chatbot to reflect outdated ethical views, while others express disappointment in the model's overall performance, viewing it as a fun but ultimately flawed project.

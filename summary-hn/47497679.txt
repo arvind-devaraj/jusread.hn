@@ -1,0 +1,8 @@
+I created my first AI-assisted pull request  (90 pts, 77 comments)
+https://news.ycombinator.com/item?id=47497679
+
+The post discusses the author's experience of creating their first AI-assisted pull request, expressing feelings of imposter syndrome and questioning the value of using AI in coding. They reflect on the challenges of managing AI tools compared to managing people, noting that while they enjoy fostering growth in others, AI lacks the same relational dynamics.
+
+In the comments, there is a debate about the role of software engineers versus programmers, with some arguing that being a great programmer is about writing quality code, while others suggest that effective software engineering is about delivering results. The discussion also touches on the impact of management styles and the importance of outcomes over the process of software development. Notably, some commenters draw analogies between programming and cooking, emphasizing that the end product matters more than the methods used to create it.
+
+Overall, the conversation reveals a mix of skepticism and acceptance regarding AI's role in programming, alongside a deeper exploration of the nature of work in tech and the evolving relationship between tools and creativity.

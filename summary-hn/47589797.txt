@@ -1,0 +1,6 @@
+Show HN: PhAIL – Real-robot benchmark for AI models  (21 pts, 8 comments)
+https://news.ycombinator.com/item?id=47589797
+
+The Hacker News discussion centers around PhAIL, a benchmarking platform for evaluating AI models in real-world robotic tasks, specifically bin-to-bin order picking in warehouses. The creator, who has a background in search ranking at Google, developed PhAIL to provide transparent performance metrics for various Vision-Language-Action (VLA) models, using a consistent setup with a Franka FR3 robot. The results show that the best AI model achieved 64 units per hour (UPH), compared to 330 UPH for human teleoperation and over 1,300 UPH for manual human operation.
+
+In the comments, users express enthusiasm for the benchmark and inquire about future model additions, with plans to include NVIDIA's DreamZero. There is a consensus on the importance of real-world performance metrics, as opposed to simulation benchmarks, and several commenters appreciate the transparency of the data provided, including video and telemetry of each run. Notable insights include the acknowledgment of the significant gap between AI and human performance in robotic tasks, highlighting the ongoing challenges in the industry. Overall, the discussion reflects a strong interest in advancing the evaluation of robotic AI capabilities.

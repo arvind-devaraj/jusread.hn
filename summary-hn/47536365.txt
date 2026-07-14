@@ -1,0 +1,6 @@
+Ask HN: How do you deal with obvious AI assistant usage in interviews  (10 pts, 20 comments)
+https://news.ycombinator.com/item?id=47536365
+
+The Hacker News discussion revolves around a user's experience interviewing candidates for a Senior Release Engineer position, where they observed a significant number of candidates seemingly relying on AI assistants during the interviews. The user noted that candidates appeared to be reading from prompts and provided immediate, well-structured answers, leading them to reject these candidates outright. They sought advice on how others handle this situation.
+
+In the comments, there is a mix of opinions on the use of AI in interviews. Some commenters suggest explicitly stating whether AI usage is allowed at the beginning of the interview, while others argue that using AI should be acceptable as it is just another tool, similar to calculators or search engines. A few commenters propose asking unconventional questions to gauge candidates' genuine responses, while others emphasize the importance of assessing critical thinking and problem-solving skills over rote recall. Notably, some argue that AI can enhance a candidate's abilities rather than detract from them, suggesting that the focus should be on how candidates validate their solutions rather than the tools they use to generate them.

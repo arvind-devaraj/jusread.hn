@@ -1,0 +1,8 @@
+Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer  (145 pts, 26 comments)
+https://news.ycombinator.com/item?id=47518568
+
+The Hacker News discussion revolves around a project titled "Paper Tape Is All You Need," which showcases the training of a Transformer model on a 1976 PDP-11 minicomputer. The project highlights the capabilities of older hardware in executing modern machine learning techniques, emphasizing how much could have been achieved with limited resources if the right ideas had been in place earlier.
+
+In the comments, users express fascination with the technical challenges of running a Transformer on such constrained hardware, with discussions about the reliability and maintenance of PDP-11 machines. There is a consensus that while modern advancements in AI have been driven by increased computational power and data availability, the underlying concepts of machine learning could have been explored much earlier. Some commenters reflect on the historical context of computing, noting that hardware was not the primary bottleneck; rather, it was the lack of innovative ideas that delayed progress.
+
+Notable insights include the acknowledgment that simpler models could have been trained on older systems and that the evolution of AI has often been more about theoretical advancements than hardware capabilities. The discussion also touches on the nostalgia for older computing systems and the ongoing relevance of their architecture in today's tech landscape.

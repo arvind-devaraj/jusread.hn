@@ -1,0 +1,8 @@
+AMD AI director says Claude Code is becoming dumber and lazier since update  (54 pts, 18 comments)
+https://news.ycombinator.com/item?id=47696210
+
+The Hacker News discussion revolves around comments made by an AMD AI director regarding the performance decline of Claude Code, an AI coding assistant developed by Anthropic. The director noted that since a recent update, users have observed that Claude Code is producing lower-quality outputs, described as becoming "dumber and lazier."
+
+In the comments, users largely agree that the AI's performance has deteriorated, with many sharing personal experiences of incomplete or sloppy work from Claude Code. Some commenters suggest that this decline may be due to a shift in the subscription model, which has limited the AI's processing capabilities. There is a consensus that as AI models scale up, they tend to lose nuance and become less effective, leading to frustrations among users who rely on them for coding tasks. 
+
+Notable insights include the idea that users are increasingly turning to alternative tools due to Claude Code's inconsistencies and reduced quality. Some commenters express skepticism about the sustainability of the current model and speculate on the potential for a higher-tier subscription to address these issues. Overall, the discussion highlights a growing dissatisfaction with the AI's performance and raises questions about the future of AI coding assistants.

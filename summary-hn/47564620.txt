@@ -1,0 +1,8 @@
+Show HN: Pglens – 27 read-only PostgreSQL tools for AI agents via MCP  (13 pts, 9 comments)
+https://news.ycombinator.com/item?id=47564620
+
+The Hacker News discussion revolves around "Pglens," a set of 27 read-only PostgreSQL tools designed to assist AI agents in interacting with databases more effectively. The tools aim to provide context and reduce guesswork by offering features like `column_values`, which shows distinct values with counts, and `find_join_path`, which helps identify join conditions through foreign key relationships.
+
+Commenters generally agree that focusing on read-only access is a smart architectural choice, as it prevents potential issues where agents might inadvertently modify data. There are discussions about the need for features like custom schema white-listing to keep the context clean and avoid exposing internal tables. The tools are designed to auto-discover database structures without requiring configuration, and they include safeguards to limit query complexity and ensure that agents operate within a controlled environment.
+
+Notable insights include the recognition of common pitfalls in AI database interactions, such as incorrect casing in queries, and the emphasis on providing a structured approach to querying that minimizes errors. Overall, the conversation highlights the importance of designing tools that enhance the reliability and efficiency of AI agents when working with databases.

@@ -1,0 +1,8 @@
+Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build  (161 pts, 105 comments)
+https://news.ycombinator.com/item?id=47499672
+
+The Hacker News discussion revolves around a project called ProofShot, which allows AI coding agents to visually verify the user interface (UI) they build by interacting with a browser, capturing screenshots, videos, and logs. The creator, jberthom, highlights that while AI agents can write code, they lack the ability to see the results in the browser, which can lead to issues going unnoticed. ProofShot aims to bridge this gap by providing a simple command-line interface that records the agent's interactions and bundles the output for easy review.
+
+In the comments, there is a mix of support and skepticism. Some users appreciate the tool's functionality and its open-source nature, while others question its necessity compared to existing solutions like Playwright, which can also capture screenshots and logs. A notable point of debate is whether ProofShot offers significant advantages over Playwright or if it merely repackages existing capabilities. Additionally, there are discussions about the potential for expanding the tool to support desktop and mobile applications, with many users expressing interest in enhancing AI agents' ability to detect UI issues.
+
+Overall, the conversation reflects a broader interest in improving AI-assisted development tools, with some commenters emphasizing the need for better visual verification capabilities to reduce guesswork in coding and debugging.

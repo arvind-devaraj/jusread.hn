@@ -1,0 +1,8 @@
+Show HN: We're building an AI hedge fund  (16 pts, 34 comments)
+https://news.ycombinator.com/item?id=47631929
+
+The Hacker News discussion revolves around a project called Rallies, which aims to build an AI hedge fund utilizing large language models (LLMs) for stock market investments. The founder shares that they are experimenting with LLMs to evaluate their capabilities in making investment decisions, claiming initial results are promising. They emphasize that their approach differs from traditional quantitative funds by eliminating human involvement and focusing on longer-term research-driven strategies.
+
+In the comments, there is a mix of curiosity and skepticism. Some users question the feasibility of applying LLMs to cryptocurrency trading and express doubts about LLMs outperforming passive investment strategies. Others inquire about the project's differentiation from existing quant funds and the specifics of the data being used for trading. Notably, there are concerns about the transparency of the results, especially since the AI is responsible for both trading and reporting outcomes.
+
+Overall, the discussion highlights the innovative potential of AI in finance while also addressing significant skepticism regarding its effectiveness and the challenges of relying on LLMs for decision-making in uncertain markets.

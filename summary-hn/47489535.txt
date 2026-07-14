@@ -1,0 +1,8 @@
+Generators in Lone Lisp  (63 pts, 11 comments)
+https://news.ycombinator.com/item?id=47489535
+
+The Hacker News discussion revolves around an article titled "Generators in Lone Lisp," which explores the implementation of generators (or semi-coroutines) in a new Lisp dialect called Lone Lisp. The author, Matheus Moreira, discusses the characteristics of these generators, including their classification as asymmetric, stackful, and delimited, and mentions plans for future improvements, such as better exception handling.
+
+In the comments, users engage in a technical discussion about the nature of continuations and the potential for enhancing Lone Lisp's capabilities. There is a consensus on the article's clarity and the interesting aspects of Lone Lisp, with some users expressing curiosity about its design goals, particularly in relation to creating a Lisp user space for Linux. Notably, there are suggestions for improving the website's usability and references to other resources on related topics, such as delimited continuations and async generators in JavaScript.
+
+Overall, the discussion highlights the excitement around Lone Lisp's development, the technical intricacies of its generator implementation, and the community's interest in expanding its functionality.

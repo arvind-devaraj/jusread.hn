@@ -1,0 +1,8 @@
+Show HN: Plain – The full-stack Python framework designed for humans and agents  (97 pts, 51 comments)
+https://news.ycombinator.com/item?id=47768750
+
+The Hacker News discussion centers around "Plain," a new full-stack Python framework that is a fork of Django, designed to be more streamlined and user-friendly for both humans and AI agents. The project aims to reduce complexity and improve usability by focusing on a more opinionated and typed approach, supporting only PostgreSQL as its database.
+
+In the comments, there is a mix of skepticism and interest. Some users criticize Plain as merely an arbitrary modification of Django, questioning the necessity of its changes and whether it truly offers advantages over existing frameworks. Others express enthusiasm for the idea of a lighter, more efficient framework that could facilitate quicker code review and development, particularly in the context of using AI for coding. Notably, there is debate about whether creating a new framework specifically for AI agents is beneficial or counterproductive, with some arguing that it complicates the coding process for agents that are already familiar with established frameworks like Django.
+
+Overall, while some commenters appreciate the potential of Plain to address perceived shortcomings in Django, others remain cautious, emphasizing the importance of innovation and the risks of creating frameworks that may not align with the capabilities of AI tools.

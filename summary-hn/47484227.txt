@@ -1,0 +1,8 @@
+Intuitions for Tranformer Circuits  (67 pts, 5 comments)
+https://news.ycombinator.com/item?id=47484227
+
+The Hacker News discussion revolves around a blog post titled "Intuitions for Transformer Circuits," which explores the analogy between transformer circuits in AI models and electrical circuits. The author emphasizes the complexity of transformer circuits and how they represent a technology that, despite their widespread use, is not fully understood from first principles.
+
+In the comments, there is a debate about the claim that transformers are unique in being man-made technologies that we don't fully understand. Some commenters, like jopolous, argue that many everyday inventions, such as bicycles and anesthetics, also lack complete understanding from first principles. Others, like doctoboggan, suggest that most inventions historically have been developed through trial and error rather than from a foundational understanding. Additionally, willis936 points out that many computing concepts require original thought, while jareklupinski highlights that modern semiconductor technology emerged from innovative ideas rather than strict principles.
+
+Overall, the discussion reflects a mix of agreement on the complexity of transformer circuits and differing opinions on the nature of invention and understanding in technology.

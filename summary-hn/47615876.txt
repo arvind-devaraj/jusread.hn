@@ -1,0 +1,8 @@
+The case for zero-error horizons in trustworthy LLMs  (79 pts, 116 comments)
+https://news.ycombinator.com/item?id=47615876
+
+The Hacker News discussion revolves around a paper titled "The case for zero-error horizons in trustworthy LLMs," which evaluates the capabilities of large language models (LLMs) like GPT-5.2. The paper suggests that LLMs struggle with certain tasks, particularly counting and reasoning, when not allowed to use specific tools or reasoning tokens. This raises questions about the reliability of LLMs in performing tasks that require precise understanding and manipulation of language.
+
+In the comments, there is a debate about the fundamental capabilities of LLMs and their limitations. Some users argue that the paper's findings are surprising only to those unfamiliar with LLMs, while others express skepticism about the paper's methodology, particularly its lack of reasoning tokens. A notable point of contention is the comparison between LLMs and human cognitive processes, with some commenters suggesting that LLMs operate more like intuitive (System 1) thinkers rather than analytical (System 2) thinkers. This leads to discussions about the nature of counting and reasoning in both humans and machines, with some asserting that LLMs fundamentally lack the ability to count, while others argue that counting is a learned skill.
+
+Overall, the discussion highlights the complexities of evaluating LLM performance and the ongoing debate about their capabilities compared to human cognition, emphasizing the need for careful interpretation of research findings in this rapidly evolving field.

@@ -1,0 +1,8 @@
+Testing suggests Google's AI Overviews tell millions lies per hour  (15 pts, 6 comments)
+https://news.ycombinator.com/item?id=47678393
+
+The Hacker News discussion revolves around an article from Ars Technica that reports on testing suggesting Google's AI Overview feature produces incorrect information approximately 10% of the time. The article raises concerns about the reliability of AI-generated answers, particularly in critical situations.
+
+In the comments, users express a mix of skepticism and support for the AI Overview. Some, like acidtechno303, argue that while the model has flaws, it often provides accurate answers for straightforward questions and is generally more reliable than human journalists. Others, like SockThief, caution that even a small error rate can have significant consequences, especially when users trust the AI's responses without further verification. A notable personal anecdote from iainctduncan highlights the potential dangers of relying on the AI, as a miscalculation could have led to serious harm to a pet.
+
+Overall, the discussion reflects a broader debate about the balance between convenience and accuracy in AI-generated information, with users weighing the benefits of quick answers against the risks of misinformation.

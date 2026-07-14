@@ -1,0 +1,8 @@
+Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent  (65 pts, 17 comments)
+https://news.ycombinator.com/item?id=47580910
+
+The Hacker News discussion centers around a project where the user, virpo, transformed a sketch made with their child into a 3D-printed pegboard using an AI agent (Codex) to streamline the design process. Instead of manually creating the design in CAD software, virpo uploaded a photo of the sketch and provided basic dimensions, resulting in a quick and efficient creation of the pegboard. The project not only serves as a fun toy for their child but also highlights the potential of AI in simplifying creative processes.
+
+In the comments, users express admiration for the project and discuss the broader implications of using AI in parenting and creativity. Many agree that this approach allows for more time spent on iteration and play rather than tedious design work. There is also a lively exchange about 3D printers, with recommendations for models like the Bambu P2S and discussions about their reliability and ease of use. Notably, virpo reflects on how this technology is becoming a normal part of childhood today, contrasting it with their own experiences growing up.
+
+Overall, the discussion showcases a blend of creativity, technology, and parenting, with a shared enthusiasm for the innovative use of AI in everyday projects.

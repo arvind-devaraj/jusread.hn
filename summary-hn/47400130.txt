@@ -1,0 +1,8 @@
+Which jobs are most vulnerable to AI?  (20 pts, 27 comments)
+https://news.ycombinator.com/item?id=47400130
+
+The Hacker News discussion revolves around an article from the Washington Post that explores which jobs are most vulnerable to AI and automation. The article includes an interactive chart that allows users to search by occupation and assess the potential impact of AI on various jobs.
+
+In the comments, there is a debate about the extent to which AI can replace human roles, particularly in jobs that require human judgment, such as surgery. Some commenters argue that jobs with clear, rule-based tasks are more susceptible to automation, while others express skepticism about AI's ability to perform complex tasks effectively. There are also concerns about the potential for perverse incentives in industries like healthcare, where AI might be pushed to replace human workers despite the risks involved.
+
+Notable insights include the idea that jobs requiring deep knowledge and human judgment, such as software engineering and surgery, may evolve rather than disappear entirely. Additionally, the discussion touches on the adaptability of workers to AI displacement, emphasizing that factors like age, savings, and transferable skills will influence how individuals cope with job changes. Overall, the conversation reflects a mix of optimism and caution regarding the future of work in an AI-driven landscape.

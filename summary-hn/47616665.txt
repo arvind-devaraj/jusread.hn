@@ -1,0 +1,8 @@
+Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI  (54 pts, 6 comments)
+https://news.ycombinator.com/item?id=47616665
+
+The Hacker News discussion revolves around a Gizmodo article revealing that a group advocating for age verification requirements for AI technologies is backed by OpenAI. This connection raises concerns about the motivations behind the push for such regulations, suggesting that it may serve OpenAI's interests rather than genuinely protecting users.
+
+In the comments, users express skepticism about OpenAI's intentions, with some suggesting that the company's CEO may be seeking personal financial gain. Others point out that OpenAI's affiliation with Microsoft could be influencing its stance, as Microsoft has previously promoted parental controls. There is a general consensus that this situation reflects broader issues of corporate influence in legislation, with some commenters labeling OpenAI as an "evil company" engaging in self-serving practices.
+
+Overall, the discussion highlights a distrust of corporate motives in regulatory matters, particularly in the tech industry, and raises questions about the implications of such lobbying efforts on competition and innovation.

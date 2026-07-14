@@ -1,0 +1,8 @@
+Closed Source AI = Neofeudalism  (38 pts, 18 comments)
+https://news.ycombinator.com/item?id=47584304
+
+The Hacker News discussion revolves around a blog post titled "Closed Source AI = Neofeudalism" by George Hotz, which critiques the implications of closed-source artificial intelligence systems. The post argues that the control of AI by a few corporations leads to a form of neofeudalism, where access to intelligence and technology is restricted, creating a divide between the powerful and the powerless.
+
+In the comments, there is a mix of skepticism and support for the post. Some users express doubt about the substance of the arguments presented, suggesting that the blog may be more of a rant than a well-reasoned critique. Others highlight the challenges of both open and closed-source AI, noting that while open-source models may propagate certain biases, closed-source systems are controlled by a few wealthy entities, raising concerns about accountability and transparency.
+
+Notably, some commenters emphasize the importance of diverse information sources and the risks of relying on AI for news, while others point out the geopolitical implications of AI development in the U.S. versus China. Overall, the discussion reflects a broader concern about the future of AI governance and its societal impacts.

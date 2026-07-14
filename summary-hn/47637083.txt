@@ -1,0 +1,8 @@
+Ask HN: Learning resources for building AI agents?  (13 pts, 13 comments)
+https://news.ycombinator.com/item?id=47637083
+
+The Hacker News discussion revolves around a user seeking recommendations for learning resources related to building AI agents. They mention having explored various materials, including books and online courses, and are interested in how others are approaching their learning in this rapidly evolving field.
+
+In the comments, there is a consensus that practical experience is crucial. Several users suggest starting with minimal frameworks, like the OpenAI Agents SDK, and emphasize the importance of hands-on building rather than getting bogged down in theoretical resources. Some recommend specific tools and frameworks, such as mastra.ai and pi.dev, which they believe can facilitate the learning process. There is also a discussion about the challenges of finding collaborative teams to work with and the need for more engagement from experts in the community to support learners.
+
+Notably, some commenters express frustration with the lack of responses to learning inquiries on platforms like Hacker News, suggesting that while there is curiosity about new technologies, experts may hesitate to engage in these discussions. Overall, the conversation highlights a strong preference for practical, hands-on approaches to learning about AI agents.

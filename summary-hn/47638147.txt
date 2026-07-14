@@ -1,0 +1,8 @@
+Show HN: Pluck – Copy any UI from any website, paste it into AI coding tools  (20 pts, 16 comments)
+https://news.ycombinator.com/item?id=47638147
+
+The Hacker News discussion centers around "Pluck," a free Chrome extension developed by a user named bring-shrubbery. This tool allows users to click on any UI component from any website and copy it as a structured prompt for AI coding tools like Claude and Figma. It operates entirely within the browser and is designed to streamline the process of prototyping by extracting useful information from web pages without cluttering the user's desktop with screenshots.
+
+The main points of debate in the comments revolve around concerns of copyright infringement, with several users expressing that the tool could facilitate plagiarism. While bring-shrubbery acknowledges these concerns, he argues that similar tools, like screenshot functions, also raise copyright issues. Another point of discussion is the tool's functionality; some users question whether it offers significant advantages over existing methods of copying HTML or screenshots. Bring-shrubbery defends Pluck by highlighting its ability to filter out unnecessary data and provide structured information, which can be particularly useful for rapid prototyping.
+
+Notable insights include the suggestion that the tool could be open-sourced in the future, and a user expressed interest in a similar feature for WordPress themes. Overall, while there is enthusiasm for the tool's potential, concerns about copyright and its pricing model also dominate the conversation.

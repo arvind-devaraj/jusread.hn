@@ -1,0 +1,8 @@
+OpenAI says its new model GPT-2 is too dangerous to release (2019)  (395 pts, 120 comments)
+https://news.ycombinator.com/item?id=47684326
+
+The Hacker News discussion revolves around OpenAI's decision in 2019 to withhold the release of its GPT-2 model, citing concerns about its potential misuse for generating misleading content. The article highlights the tension between the perceived dangers of AI-generated text and the company's motivations, including public relations strategies and competitive pressures.
+
+In the comments, users debate the validity of OpenAI's fears, with some arguing that the concerns about flooding the internet with low-quality content were justified, while others suggest that the model was overhyped and not as dangerous as claimed. There is a consensus that the proliferation of AI-generated "slop" has become a significant issue, echoing OpenAI's original warnings. Notably, some commenters criticize OpenAI for prioritizing profit over safety, suggesting that their reluctance to release the model was more about controlling access than genuine concern for public safety.
+
+Overall, the discussion reflects a mix of nostalgia for the early days of AI development and a recognition of the ongoing challenges posed by AI-generated content, with varying opinions on OpenAI's motivations and the implications of their decisions.

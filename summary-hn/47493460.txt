@@ -1,0 +1,8 @@
+Autoresearch on an old research idea  (428 pts, 95 comments)
+https://news.ycombinator.com/item?id=47493460
+
+The Hacker News discussion revolves around a blog post titled "Autoresearch on an old research idea," which explores the concept of using automated research methods, particularly leveraging large language models (LLMs), to discover bugs and optimize processes in machine learning projects. The author claims that their approach successfully identified unknown bugs and improved optimization, raising questions about the effectiveness and practicality of such methods.
+
+In the comments, there is a mix of agreement and skepticism regarding the utility of autoresearch. Some users, like love2read, affirm that the approach yielded positive results, while others, such as trcf23 and datsci_est_2015, argue that the gains were primarily due to fixing existing bugs and using existing tools like Optuna for hyperparameter tuning. A recurring theme is the cost of experimentation, with several commenters noting that running numerous tests can be prohibitively expensive, especially for smaller companies. 
+
+Notable insights include the idea that while LLMs can facilitate exploration and generate ideas, their effectiveness may be limited without proper guidance and methodology. Users like buzarchitect emphasize that the value of LLMs lies not just in their raw output but in the structured processes surrounding their use. Additionally, there is a discussion about the balance between automation and human oversight, with some advocating for a tiered approach to experimentation to mitigate risks. Overall, the conversation highlights both the potential and limitations of using autoresearch in machine learning.

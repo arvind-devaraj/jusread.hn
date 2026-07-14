@@ -1,0 +1,8 @@
+Show HN: Agent Kernel – Three Markdown files that make any AI agent stateful  (44 pts, 19 comments)
+https://news.ycombinator.com/item?id=47486287
+
+The Hacker News discussion revolves around "Agent Kernel," a project that utilizes three Markdown files to create stateful AI agents. The project aims to enhance the memory and context management of AI agents by using a simple file-based approach instead of more complex solutions like vector databases.
+
+In the comments, there is a mix of support and skepticism regarding the effectiveness of this method. Some users appreciate the simplicity of using text files and Git for tracking agent history, while others express concerns about scalability and reliability. A recurring theme is the challenge of managing memory and ensuring that agents remember relevant information without becoming bogged down by unnecessary details or "traumatic" past experiences. Several commenters suggest alternative methods, such as integrating vector databases or using structured logging to improve memory management.
+
+Notable insights include the recognition that while statefulness can be beneficial for compliance and tracking, it can also complicate interactions between agents. Users emphasize the importance of balancing what the agent remembers with human oversight to determine what is truly significant. Overall, the discussion highlights the ongoing exploration of effective strategies for managing AI agent memory and context.

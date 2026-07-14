@@ -1,0 +1,8 @@
+We're running out of benchmarks to upper bound AI capabilities  (15 pts, 10 comments)
+https://news.ycombinator.com/item?id=47723146
+
+The Hacker News discussion revolves around the challenges of establishing effective benchmarks to evaluate the capabilities of AI, particularly large language models (LLMs). The original post argues that as AI technology advances, existing benchmarks may no longer adequately measure performance, leading to a potential lack of understanding of AI's true capabilities.
+
+In the comments, there is a consensus that while new benchmarks are necessary, creating them is complicated. Some users suggest that current models struggle when overloaded with context, while others emphasize the need for benchmarks that differentiate between continuous learning and long-context extrapolation. A notable point of contention arises around the effectiveness of existing benchmarks, with some commenters arguing that many LLMs perform poorly on specific tests, like the ARC-AGI-3, indicating that these benchmarks may be reaching saturation.
+
+Overall, the discussion highlights the complexity of AI evaluation, the need for innovative benchmarks, and the competitive nature of sharing effective evaluation methods, as they can provide a market advantage. There is also a playful debate about using video games as benchmarks, suggesting that a true AGI should excel in such tasks.

@@ -1,0 +1,8 @@
+Anthropic Races to Contain Leak of Code Behind Claude AI Agent  (22 pts, 8 comments)
+https://news.ycombinator.com/item?id=47601315
+
+The Hacker News discussion revolves around a recent incident where Anthropic is attempting to manage a leak of code related to their Claude AI agent. The situation has prompted the company to issue copyright takedown requests, raising questions about the legality and implications of AI-generated content.
+
+In the comments, users debate the legality of Anthropic's actions, particularly concerning copyright and the DMCA. Some argue that if AI output is deemed uncopyrightable, Anthropic could be violating the DMCA, while others note that the U.S. Supreme Court has not definitively ruled on the copyright status of AI-generated works. There is also discussion about the potential challenges Anthropic might face in enforcing copyright across different jurisdictions.
+
+Notably, some commenters express skepticism about the effectiveness of Anthropic's damage control efforts, suggesting that once the code is leaked, it cannot be fully contained. Overall, the conversation reflects a mix of legal analysis and concerns about the broader implications of AI and copyright law.

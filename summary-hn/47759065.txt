@@ -1,0 +1,8 @@
+Tell HN: I regret every single time I use AI  (11 pts, 6 comments)
+https://news.ycombinator.com/item?id=47759065
+
+The Hacker News discussion revolves around a user's regret over using AI for coding tasks, specifically citing a frustrating experience with the AI tool Claude 4.6. The user feels that AI often makes incorrect assumptions and produces verbose, unhelpful refactors, leading to a preference for manual coding. They emphasize the importance of maintaining focus during refactoring and suggest using AI primarily as a research tool rather than integrating it directly into the codebase. The user also advocates for rigorous testing of AI-generated code to catch potential errors.
+
+In the comments, there is a mix of experiences with AI in coding. Some users, like PaulHoule, share positive experiences where AI helped them code effectively, although they acknowledge that bugs can still arise. Others express anxiety about the overwhelming nature of AI tools and their impact on productivity. A few commenters highlight strategies for using AI more effectively, such as isolating context and iterating with different AI agents to ensure better outcomes.
+
+Notable insights include the recognition that while AI can accelerate learning and coding, it may also introduce inefficiencies and errors if not used carefully. The discussion reflects a broader ambivalence towards AI in programming, with users weighing its potential benefits against the challenges it presents.

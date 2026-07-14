@@ -1,0 +1,8 @@
+Apple Can Create Smaller On-Device AI Models from Google's Gemini  (28 pts, 9 comments)
+https://news.ycombinator.com/item?id=47520438
+
+The Hacker News discussion revolves around Apple's potential ability to create smaller on-device AI models using Google's Gemini technology. The article suggests that Apple could tailor these models based on the hardware capabilities of different iPhone models, which could enhance differentiation between regular and Pro versions, as well as across model generations.
+
+In the comments, users largely agree on the idea of Apple leveraging varying AI model sizes to promote hardware upgrades. Some envision Apple marketing these capabilities during keynotes, emphasizing performance improvements with each new iPhone iteration. There is also speculation about how these models could enhance Siri's functionality over time. A few comments humorously suggest different personality traits for various model tiers, while others debate whether a single model should serve all applications or if customized models for each app would be more effective.
+
+Overall, the discussion highlights excitement about the potential advancements in on-device AI and how Apple might strategically use this technology to drive consumer interest and upgrades.

@@ -1,0 +1,8 @@
+Show HN: I ran a language model on a PS2  (46 pts, 11 comments)
+https://news.ycombinator.com/item?id=47470405
+
+The Hacker News discussion revolves around a project where the author successfully ran a language model on a PlayStation 2 (PS2) by creatively managing its limited 32 MB of RAM. The author utilized a method of streaming model weights from CD-ROM during inference, allowing for larger models to run despite the hardware constraints. They developed a custom quantized format, a tokenizer pipeline, and a tailored model architecture specifically for this purpose.
+
+In the comments, users express interest in the CD-ROM streaming technique, noting its similarity to modern edge inference methods. There is curiosity about the latency and potential for using faster storage options like the PS2's HDD or USB ports, although limitations in speed and hardware capabilities are acknowledged. Some commenters also discuss the challenges of developing for the PS2 and the lack of accessible SDKs, with one expressing hope for open-source resources to facilitate development.
+
+Overall, the discussion highlights the ingenuity of running advanced models on outdated hardware, the technical challenges involved, and the community's interest in retro computing and development.

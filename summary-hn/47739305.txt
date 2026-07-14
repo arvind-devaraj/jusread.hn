@@ -1,0 +1,6 @@
+Tell HN: OpenAI silently removed Study Mode from ChatGPT  (189 pts, 78 comments)
+https://news.ycombinator.com/item?id=47739305
+
+The Hacker News discussion centers around the recent removal of the "Study Mode" feature from ChatGPT by OpenAI, with the original poster expressing hope for its return due to its usefulness. Many commenters delve into the nature of the feature, suggesting that it was essentially a system prompt that could be replicated by users. Some users share methods to recreate similar functionality using custom prompts or project settings, while others question the rationale behind its removal.
+
+A significant point of debate is whether the removal is a strategic decision by OpenAI, possibly due to the high costs associated with serving student users compared to enterprise clients. Commenters speculate that maintaining such features requires resources that may not align with OpenAI's current focus on enterprise solutions. Notably, some users argue that despite the removal, ChatGPT can still be effectively used for tutoring by simply asking it to act as a study coach. Overall, the discussion reflects a mix of technical insights, user frustrations, and broader considerations about product strategy and market focus.

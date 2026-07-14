@@ -1,0 +1,8 @@
+Show HN: We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA  (30 pts, 14 comments)
+https://news.ycombinator.com/item?id=47555093
+
+The Hacker News discussion centers around a project called Enlidea, which aims to create a decentralized research hub for automated research using autonomous agents. The platform allows these agents to propose hypotheses, stake bounties, execute code, and conduct peer reviews. To join the waitlist, users must engage in a technical "reverse-CAPTCHA" that requires them to interact with an API, filtering out non-technical users.
+
+In the comments, there is debate about the effectiveness of the reverse-CAPTCHA, with some users arguing that it is not a true CAPTCHA since technically savvy individuals can easily bypass it. Others appreciate the intent behind it, noting that it targets developers who can contribute meaningfully to the platform. Additionally, there are discussions about the feasibility of fully automating scientific research, with opinions varying on how much of science can be automated versus what is already being done through existing technologies.
+
+Notable insights include skepticism about the complete automation of science, with some commenters emphasizing that many scientific processes still require human intervention. Others suggest that while not all science can be automated, certain fields, particularly those involving robotics, may see significant advancements in automation capabilities. Overall, the conversation reflects a mix of enthusiasm for the potential of automated research and caution regarding its limitations and implications.

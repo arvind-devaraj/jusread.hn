@@ -1,0 +1,8 @@
+Ask HN: How do you offload all coding to AI?  (13 pts, 10 comments)
+https://news.ycombinator.com/item?id=47511823
+
+The Hacker News discussion revolves around a user's inquiry about the concept of "offloading all coding to AI," particularly in the context of using AI tools like Claude for software development. The user expresses skepticism about the productivity of completely relying on AI for coding tasks, especially when it comes to debugging and making quick fixes in existing projects.
+
+In the comments, there is a consensus that the phrase "offloading all coding" can be misleading. Many contributors clarify that while they may not type code themselves, they still engage deeply in architectural planning, technical specifications, and oversight of AI-generated code. Some emphasize the importance of understanding the codebase to effectively manage AI outputs and prevent errors, while others discuss strategies for integrating AI into their workflows without losing control over the coding process.
+
+Notable insights include the idea that successful use of AI in coding requires prior manual fluency and a governance approach rather than complete delegation. Users suggest maintaining a structured workflow where AI assists rather than replaces human oversight, highlighting the need for careful monitoring and decision-making when working with AI-generated code.

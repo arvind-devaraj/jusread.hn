@@ -1,0 +1,8 @@
+What 81,000 people want from AI  (202 pts, 190 comments)
+https://news.ycombinator.com/item?id=47435156
+
+The Hacker News discussion revolves around an article from Anthropic titled "What 81,000 people want from AI," which explores user preferences and concerns regarding artificial intelligence. The article's website design received significant criticism for being cumbersome and difficult to navigate, prompting users to express their frustrations in the comments.
+
+In the comments, there is a mix of agreement and debate regarding the content of the article. Some users find the classifications of user desires vague and are disappointed by the lack of concrete responses. Others highlight the duality of user experiences, noting that while many find AI favorable, they also express concerns about its unreliability. A notable point of contention is the comparison of AI's evolution to historical technological advancements, with some users referencing Henry Ford's famous quote about innovation.
+
+Additionally, there is a broader discussion about website performance and design, with many commenters criticizing the heavy, inefficient nature of the site hosting the article. This leads to insights about the current state of web development, where optimization often takes a backseat to modern aesthetics and functionality, raising questions about the priorities of developers today.

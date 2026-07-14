@@ -1,0 +1,6 @@
+Ask HN: Hiring in the age of AI-assisted coding: what works?  (29 pts, 19 comments)
+https://news.ycombinator.com/item?id=47722081
+
+The Hacker News discussion revolves around the challenges of hiring software engineers in the era of AI-assisted coding. The original poster expresses confusion about effectively evaluating candidates due to shifts in hiring practices, particularly in how tasks are structured, evaluation criteria, and candidate experiences. They seek insights on what signals correlate with strong engineers today, how to design interviews that remain relevant, and the utility of traditional algorithmic interviews.
+
+In the comments, there is a consensus that while AI tools can enhance coding, they also complicate the evaluation process. Many commenters suggest that interviews should focus on candidates' ability to understand and critique AI-generated code, rather than just their coding skills. Some argue that traditional algorithmic questions are becoming less relevant, while others believe they still hold value. Notable insights include the importance of assessing candidates' adaptability, their ability to prompt AI effectively, and their engagement in personal projects, which indicate curiosity and initiative. Overall, the discussion highlights a shift towards evaluating practical skills and understanding of AI in the hiring process.

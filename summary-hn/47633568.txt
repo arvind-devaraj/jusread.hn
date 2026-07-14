@@ -1,0 +1,6 @@
+Anthropic to limit Using third-party harnesses with Claude subscriptions  (20 pts, 8 comments)
+https://news.ycombinator.com/item?id=47633568
+
+The Hacker News discussion revolves around Anthropic's announcement that starting April 4, users will no longer be able to use their Claude subscription limits for third-party harnesses, such as OpenClaw, without incurring additional usage fees. While subscriptions will still cover all Claude products, users must enable extra usage for third-party tools. To ease the transition, Anthropic is offering a one-time credit of $200 for extra usage on Team plans and discounts for pre-purchasing usage bundles.
+
+In the comments, users express a mix of frustration and suggestions regarding the new policy. Some argue for exceptions for certain harnesses that utilize the Claude code SDK, while others suggest alternative approaches, such as using direct API access for more control. There is also a sentiment that Anthropic's limitations may drive users to consider competitors like OpenAI, which are perceived to offer better quotas. Notably, some commenters clarify that third-party harnesses are not entirely banned, as long as they are built on Anthropic's SDK, indicating a nuanced understanding of the policy's implications.

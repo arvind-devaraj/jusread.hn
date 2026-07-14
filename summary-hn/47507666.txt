@@ -1,0 +1,6 @@
+Show HN: AI Roundtable – Let 200 models debate your question  (118 pts, 98 comments)
+https://news.ycombinator.com/item?id=47507666
+
+The Hacker News post introduces a tool called AI Roundtable, developed by the user, which allows anyone to pose questions and receive structured responses from a selection of over 200 AI models. Users can choose up to 50 models to answer independently or engage in a debate mode where models can see each other's reasoning and potentially change their minds. The tool is free to use and requires no signup.
+
+In the comments, users express enthusiasm for the tool, discussing its potential to reveal biases among different AI models and the interesting dynamics that emerge during debates. Some users share specific questions they posed, highlighting the varied responses from the models. There is a consensus on the value of the tool for exploring complex topics and understanding model biases, though some users question whether using so many models is necessary for effective discussions. Notably, there are suggestions for future improvements, such as allowing open-ended answers and creating visual summaries of responses. Overall, the discussion reflects a strong interest in leveraging AI for deeper insights into various questions and issues.

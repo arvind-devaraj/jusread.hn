@@ -1,0 +1,8 @@
+Show HN: Travel Hacking Toolkit – Points search and trip planning with AI  (95 pts, 40 comments)
+https://news.ycombinator.com/item?id=47635033
+
+The Hacker News discussion revolves around a newly released "Travel Hacking Toolkit" designed to simplify the process of using points and miles for travel bookings. The toolkit leverages AI to compare award flight availability across multiple mileage programs, cash prices, and loyalty balances, among other features. It aims to streamline the decision-making process of whether to use points or cash for travel expenses.
+
+In the comments, users express enthusiasm for the toolkit, with some sharing their experiences in travel hacking and the complexities involved. There is a debate about the value of loyalty programs, with some commenters suggesting that the points system can feel like a scam due to its complexities and limitations. Others argue that while it requires effort, the potential savings and benefits from using points can be significant. Notably, the creator of the toolkit emphasizes its purpose of simplifying travel point management rather than complicating it further.
+
+Overall, the discussion highlights a mix of excitement for the toolkit, skepticism about the travel points system, and differing opinions on the effort versus reward of travel hacking.

@@ -1,0 +1,8 @@
+A $20/month user costs OpenAI $65 in compute. AI video is a money furnace  (76 pts, 42 comments)
+https://news.ycombinator.com/item?id=47619322
+
+The Hacker News discussion revolves around the financial sustainability of AI video generation, specifically focusing on a service called Sora, which costs users $20 per month but incurs OpenAI approximately $65 in compute costs. The post highlights the stark contrast in expenses between generating AI videos and text, with video generation being significantly more expensive—about 160 times more costly than text generation.
+
+In the comments, users debate the validity of the cost comparisons and the implications for OpenAI's business model. Some commenters argue that the pricing structure could lead to unsustainable losses if not adjusted, while others suggest that OpenAI might be banking on future reductions in compute costs or aiming to lock in enterprise customers before raising prices. There is also discussion about the potential for local versions of the software to alleviate costs, though concerns about misuse, such as deepfakes, are raised.
+
+Notable insights include the idea that while the current pricing model is unsustainable, OpenAI may be adopting a long-term strategy to build a user base before adjusting prices. Additionally, some commenters draw parallels to other tech models, suggesting that the situation could evolve similarly to cloud services like AWS, where initial low prices are used to gain market dominance before increasing costs.

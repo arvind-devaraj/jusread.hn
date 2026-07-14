@@ -1,0 +1,8 @@
+Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs  (77 pts, 92 comments)
+https://news.ycombinator.com/item?id=47720418
+
+The Hacker News discussion revolves around the launch of Twill.ai, a cloud-based coding assistant that allows users to delegate software engineering tasks to AI agents running in isolated environments. Users can interact with Twill via platforms like Slack and GitHub, and the service automates tasks such as creating pull requests (PRs) and running tests. The founders, Willy and Dan, highlight the advantages of using cloud agents, including improved parallelization, persistence, and security compared to local setups.
+
+In the comments, users debate the effectiveness of Twill compared to existing solutions like Claude Managed Agents, with some expressing concerns about vendor lock-in and the trustworthiness of cloud services for sensitive code. Others discuss the practicality of running coding agents 24/7 and the potential for local setups to outperform cloud solutions in certain scenarios. Notable insights include the importance of flexibility in choosing different AI agents for various tasks and the ongoing evolution of AI tools in software development.
+
+Overall, the discussion reflects a growing interest in cloud-based coding solutions while also highlighting the challenges and considerations developers face when integrating AI into their workflows.

@@ -1,0 +1,8 @@
+Ask HN: Where have you found the coding limits of current models?  (30 pts, 46 comments)
+https://news.ycombinator.com/item?id=47573224
+
+The Hacker News discussion titled "Ask HN: Where have you found the coding limits of current models?" invites users to share their experiences with the limitations of coding models, particularly in areas like code generation, systems integration, and database management. 
+
+In the comments, several users express a range of opinions on the limitations of these models. A common theme is the models' verbosity and tendency to produce overly complex code, which some attribute to a desire to cover edge cases or a lack of understanding of abstraction and object-oriented programming concepts. Others highlight issues with the models' performance in specific technical areas, such as debugging complex dependencies or understanding nuanced computer science topics. There is also a consensus that while the models can handle straightforward tasks well, they struggle with more sophisticated requirements and often require significant human oversight to ensure quality and correctness.
+
+Notable insights include the idea that models may perform poorly when there is limited training data available for specific problems, and that their performance can degrade over time or with more complex tasks. Users also mention the necessity of clear and targeted prompts to achieve better results, as well as the models' tendency to make mistakes in areas like API usage and multithreading. Overall, the discussion reflects a mix of optimism about the potential of coding models and frustration with their current limitations.

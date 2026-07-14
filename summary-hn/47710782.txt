@@ -1,0 +1,8 @@
+The Training Example Lie Bracket  (33 pts, 17 comments)
+https://news.ycombinator.com/item?id=47710782
+
+The Hacker News discussion revolves around a blog post titled "The Training Example Lie Bracket," which explores the concept of Lie brackets in the context of machine learning (ML) and their implications for training models. The author discusses how Lie brackets, which are bilinear forms, can be applied to training examples and the potential challenges they present, particularly regarding scaling and the order of training data.
+
+In the comments, there is a mix of agreement and debate about the practicality of using Lie brackets in ML. Some users, like "measurablefunc," argue that the bilinear nature of Lie brackets means that operations on individual examples extend naturally to batches, while others, like "thaumasiotes," express concerns about the scalability of this approach. The conversation also touches on the independence of training samples, with "Ifkaluva" highlighting the importance of treating samples as independently and identically distributed to avoid destabilizing learning processes.
+
+Notable insights include the recognition that most ML models do not exhibit the desired property of being unaffected by the order of training examples, which is a key assumption in Bayesian perspectives. Additionally, there is speculation about the potential for new ML concepts to emerge from the mathematical framework of fiber bundles, as mentioned by "senderista." Overall, the discussion reflects a deep engagement with the mathematical foundations of ML and their practical implications.

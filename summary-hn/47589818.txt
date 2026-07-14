@@ -1,0 +1,8 @@
+Cohere Transcribe: Speech Recognition  (221 pts, 71 comments)
+https://news.ycombinator.com/item?id=47589818
+
+The Hacker News discussion centers around Cohere's new speech recognition service, Cohere Transcribe, which is designed for automatic speech recognition (ASR). Users share their experiences with Cohere's models, particularly in comparison to other providers, highlighting the reliability and performance of Cohere's embedding model. 
+
+Key points of debate include the overall quality of ASR technology, with some users expressing concerns about the potential for models to "over-correct" and produce plausible but incorrect outputs. There is a discussion about the importance of context and domain understanding in ASR, with some commenters advocating for the ability to customize models with specific terminology. Additionally, the limitations of Cohere Transcribe, such as the lack of timestamps and speaker diarization, are noted, leading to comparisons with other models like Whisper and WhisperX.
+
+Notable insights include the recognition that while ASR technology has improved significantly, there are still challenges in ensuring accuracy and reliability. Users emphasize the need for systems that fail safely and the importance of human oversight in critical applications. Overall, the conversation reflects a mix of optimism about advancements in ASR and caution regarding their limitations.

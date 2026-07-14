@@ -1,0 +1,8 @@
+Show HN: I built an OS that is pure AI  (34 pts, 45 comments)
+https://news.ycombinator.com/item?id=47557165
+
+The Hacker News discussion revolves around a project called Pneuma, an AI-driven operating system that generates software applications on-the-fly based on user descriptions. Users boot to a blank screen and can request specific tools, which are created in seconds using a large language model (LLM) that compiles Rust code into WebAssembly. Pneuma aims to eliminate the need for pre-installed applications, allowing for instant creation and reuse of software agents that can communicate and be shared through a community store.
+
+In the comments, there is a mix of enthusiasm and skepticism. Some users express excitement about the potential of AI-generated software, while others question the practicality and efficiency of generating applications dynamically rather than using existing software. Concerns about user experience, the reliability of generated apps, and energy consumption are also raised. Notably, some commenters suggest that the system should support iterative development and voice input to enhance usability.
+
+Overall, the discussion highlights the innovative nature of Pneuma while also addressing significant challenges, such as the need for stability, user trust, and the balance between dynamic generation and traditional software models.

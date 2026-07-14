@@ -1,0 +1,8 @@
+Ask HN: The new wave of AI agent sandboxes?  (12 pts, 5 comments)
+https://news.ycombinator.com/item?id=47444917
+
+The Hacker News discussion revolves around the recent emergence of various sandboxing solutions for AI agents, such as microVMs, WASM runtimes, and other isolation techniques. The original poster seeks feedback from users who have implemented these solutions in production, inquiring about their effectiveness and any trade-offs related to security, cost, and performance.
+
+In the comments, there is a consensus that while these sandboxing solutions do function, they come with significant trade-offs. For instance, microVMs are noted for their security but are slower and more expensive, whereas WASM is faster and cheaper but has limitations. Many users suggest that a hybrid approach, combining different solutions, is often the most effective strategy. Notably, one commenter recommends the nono sandbox for its low latency and ease of use, highlighting its development by a reputable creator in the field.
+
+Overall, the discussion reflects a mix of optimism about the potential of these new sandboxing technologies and a recognition of the challenges that still need to be addressed.

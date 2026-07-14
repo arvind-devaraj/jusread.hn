@@ -1,0 +1,8 @@
+Ask HN: Why isn't using AI in production considered stupid?  (16 pts, 25 comments)
+https://news.ycombinator.com/item?id=47560855
+
+The Hacker News discussion revolves around the question of whether using AI in production environments is foolish, given its known issues, particularly its unreliability and tendency to "hallucinate" or produce incorrect outputs. The original poster expresses frustration over the acceptance of AI's unreliability in production, comparing it unfavorably to traditional software systems that are held to higher standards.
+
+In the comments, there is a mix of agreement and debate. Some users argue that the risks associated with AI, such as hallucinations, make it unwise to deploy in critical applications without human oversight. Others counter that AI can be beneficial in certain contexts, such as non-critical applications, and that the distinction between different use cases is important. A recurring theme is the need for human involvement to mitigate risks, with some commenters suggesting that corporate culture prioritizes short-term gains over long-term stability and reliability.
+
+Notable insights include the analogy of AI to tools like hammers, where the operator's oversight is crucial to prevent accidents. Additionally, some commenters highlight the lack of accountability in AI systems, questioning whether the production issues attributed to AI are significant compared to traditional methods. Overall, the discussion reflects a tension between the potential benefits of AI and the inherent risks associated with its deployment in production settings.

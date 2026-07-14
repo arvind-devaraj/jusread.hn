@@ -1,0 +1,8 @@
+Ask HN: What signals do you look for when hiring?  (10 pts, 19 comments)
+https://news.ycombinator.com/item?id=47409463
+
+The Hacker News discussion revolves around the signals that hiring managers prioritize when evaluating candidates, particularly in the tech industry. The original post criticizes the reliance on traditional metrics like ATS scores and keyword matching, arguing that more meaningful indicators include problem-solving abilities, execution of ideas, and tangible results. The post highlights the growing trend of candidates showcasing their work through portfolios, which recruiters are increasingly valuing.
+
+In the comments, there is a consensus that practical experience, such as side projects and open-source contributions, is more valuable than mere years of experience or resume keywords. Some commenters emphasize the importance of a verifiable track record, while others argue that traditional hiring systems fail to capture these high-intent signals. Notably, there is a debate about the necessity of side projects, with some asserting that not all successful professionals engage in them outside of work. Additionally, qualities like enthusiasm for technology, willingness to learn, and critical thinking are highlighted as essential traits for candidates.
+
+Overall, the discussion underscores a shift in hiring practices towards more holistic evaluations of candidates, moving away from outdated metrics and focusing on demonstrable skills and personal projects.

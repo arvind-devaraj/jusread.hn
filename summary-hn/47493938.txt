@@ -1,0 +1,8 @@
+Ask HN: Is anyone here also developing "perpetual AI psychosis" like Karpathy?  (32 pts, 29 comments)
+https://news.ycombinator.com/item?id=47493938
+
+The Hacker News discussion revolves around a post asking if others are experiencing "perpetual AI psychosis," a term inspired by Andrej Karpathy's comments about his shift from coding extensively to relying entirely on AI. The original poster shares their feeling of being overwhelmed by the endless possibilities AI presents, leading to an opportunistic and potentially stressful workflow.
+
+In the comments, many users express similar sentiments, noting that while AI can enhance productivity, it also complicates decision-making about what to build. Some worry that this reliance on AI may lead to a lack of critical thinking and creativity, with others likening the experience to a dopamine addiction. There is a debate about the effectiveness of local versus hosted AI models, with some arguing that local models can be less effective. Notably, several commenters highlight the need for balance, suggesting that over-reliance on AI can lead to burnout and a loss of context in projects.
+
+Overall, the discussion reflects a mix of excitement and anxiety about the implications of AI in software development, with many participants advocating for a more mindful approach to its use.

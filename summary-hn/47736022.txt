@@ -1,0 +1,8 @@
+The biggest advance in AI since the LLM  (13 pts, 11 comments)
+https://news.ycombinator.com/item?id=47736022
+
+The Hacker News discussion revolves around a post by Gary Marcus titled "The biggest advance in AI since the LLM," where he critiques the limitations of large language models (LLMs) and argues for the necessity of integrating different approaches, such as neurosymbolic AI, to achieve artificial general intelligence (AGI). Marcus expresses skepticism about the current trajectory of AI development, suggesting that merely scaling LLMs will not lead to significant advancements.
+
+In the comments, there is a mix of agreement and skepticism regarding Marcus's views. Some users question the validity of the code he references, labeling it as poorly structured and not genuinely representative of neurosymbolic intelligence. Others express frustration with Marcus's recent writings, perceiving them as desperate attempts to maintain relevance in the face of LLM advancements. A few commenters reflect on the potential for AI to improve code quality through better feedback loops, while others criticize Marcus for his ongoing critique of LLMs, suggesting he may need to find a new angle as the field evolves.
+
+Overall, the discussion highlights a divide between those who support the potential of LLMs and those who align with Marcus's cautionary stance, emphasizing the need for diverse methodologies in AI development.

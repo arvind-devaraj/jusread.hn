@@ -1,0 +1,8 @@
+Ask HN: What are you building that's not AI related?  (156 pts, 221 comments)
+https://news.ycombinator.com/item?id=47700460
+
+The Hacker News discussion titled "Ask HN: What are you building that's not AI related?" invites users to share their non-AI projects amid the overwhelming focus on AI in tech discussions. The original poster expresses a desire to hear about diverse projects that don't involve AI, highlighting a sense of fatigue with the current AI trend.
+
+In the comments, several users share their ongoing projects, showcasing a variety of interests. Notable contributions include a cross-platform task manager, a new programming language, a web scripting language, an arcade for games, and tools for music visualization and streaming. There is a general consensus on the excitement of working on non-AI projects, with many users expressing appreciation for the diversity of ideas. Some discussions also touch on technical aspects, such as privacy in search engines and captcha solutions to prevent bot abuse.
+
+Overall, the thread reflects a vibrant community of developers eager to share their innovative projects outside the AI realm, emphasizing creativity and collaboration in technology.

@@ -1,0 +1,8 @@
+Ask HN: Where are all the disruptive software that AI promised?  (23 pts, 22 comments)
+https://news.ycombinator.com/item?id=47651140
+
+The Hacker News discussion revolves around a user's inquiry about the lack of disruptive software innovations that AI was expected to deliver. The poster expresses curiosity about why, despite the hype surrounding AI's potential to enhance productivity and replace traditional workflows, they still find themselves using the same tools as before.
+
+In the comments, there is a mix of agreement and debate. Some users acknowledge that AI has indeed improved productivity in certain areas, particularly in software development, but argue that these improvements are not always visible to end users. Others suggest that while AI tools are changing workflows behind the scenes, they haven't yet led to the creation of groundbreaking new applications. There are also opinions that the true disruption may be happening in less visible sectors or that the hype surrounding AI may have oversold its immediate impact.
+
+Notable insights include the idea that AI is primarily a tool that enhances existing processes rather than a source of entirely new applications. Some commenters point out that while AI can speed up coding and other tasks, challenges like finding product-market fit and user adoption remain as significant hurdles as ever. Overall, the discussion highlights a sense of impatience regarding the tangible outcomes of AI advancements in everyday software.

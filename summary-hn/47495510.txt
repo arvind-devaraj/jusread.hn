@@ -1,0 +1,8 @@
+Ask HN: Is using AI tooling for a PhD literature review dishonest?  (10 pts, 29 comments)
+https://news.ycombinator.com/item?id=47495510
+
+The Hacker News discussion revolves around a PhD student in structural engineering who is using AI tools, specifically LLMs (large language models), to assist with their literature review. The student has developed a dashboard that automates the collection and verification of relevant academic papers, allowing for a more efficient review process. They question whether using AI in this manner is dishonest, especially given that some universities may view AI-generated text as academic misconduct.
+
+In the comments, opinions are divided. Some users argue that using AI is not inherently dishonest as long as the student verifies and understands the material, emphasizing the importance of transparency in disclosing AI usage. Others express concerns about the potential for AI to produce unreliable outputs and the need for reproducibility in literature reviews. Notably, some commenters suggest that the ethical implications of using AI should be weighed against traditional practices, while others highlight the necessity of consulting academic policies and advisors for guidance.
+
+Overall, the discussion reflects a broader debate about the role of AI in academia, with insights on the balance between leveraging technology for efficiency and maintaining academic integrity.

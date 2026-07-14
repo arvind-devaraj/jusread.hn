@@ -1,0 +1,6 @@
+Ask HN: Alternatives to Claude (Code)?  (14 pts, 13 comments)
+https://news.ycombinator.com/item?id=47666811
+
+The Hacker News discussion revolves around a user seeking alternatives to Claude Code for coding tasks. They mention several options they have been trialing, including Harness: Opencode, GitHub Copilot, and various models like GPT 5.3 Codex and Minimax 2.7. The user expresses that while these alternatives are promising, they still fall short compared to Claude Code and is looking for recommendations and experiences from others.
+
+In the comments, there is a mix of opinions on the effectiveness of Claude Code versus alternatives like Codex. Some users, like SunshineTheCat, find Codex superior for backend tasks but prefer Claude for front-end work. Others, like verdverm, advocate for custom solutions and open-weight models, emphasizing the importance of advanced customization and good prompts. There is also a suggestion from square_usual to simply pay for Codex as a reliable alternative. Overall, the discussion highlights a range of experiences and preferences, with a focus on customization and the desire to move away from larger AI models.

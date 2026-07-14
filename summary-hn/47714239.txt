@@ -1,0 +1,8 @@
+The tool that won't let AI say anything it can't cite  (36 pts, 15 comments)
+https://news.ycombinator.com/item?id=47714239
+
+The Hacker News discussion revolves around a tool called Grainulator, designed to ensure that AI-generated responses are backed by citations, thereby preventing "hallucinations" or inaccuracies in the information provided. The GitHub link shared in the post leads to the tool's repository, but some commenters express skepticism about its effectiveness and implementation.
+
+The main points of debate include the tool's reliance on prompts rather than a more structured approach to sourcing information, with some users arguing that it merely replicates existing limitations of AI models. Several commenters highlight issues with the demo app's performance, such as incorrect citations and technical glitches. There is also a discussion about the complexity of developing AI systems that can reliably cite sources, with some suggesting that existing APIs already offer structured output options.
+
+Notable insights include a recognition that while tools like Grainulator may have their uses, the problem of AI hallucinations is often manageable with experience and understanding of the models. Some users advocate for more sophisticated methods of integrating claims and evidence directly into the AI's reasoning process, rather than relying solely on post-processing techniques. Overall, the conversation reflects a mix of skepticism and curiosity about the potential of citation-focused AI tools.

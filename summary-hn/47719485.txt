@@ -1,0 +1,8 @@
+Show HN: Figma for Coding Agents  (11 pts, 6 comments)
+https://news.ycombinator.com/item?id=47719485
+
+The Hacker News discussion revolves around a project called "Figma for Coding Agents," which allows users to define a design system using a DESIGN.md file. This approach aims to improve the consistency and creativity of outputs from coding agents by providing a structured design framework, similar to how Figma operates for design.
+
+In the comments, users express enthusiasm for the concept, noting that it could help mitigate the uniformity often seen in outputs from AI coding agents. Some commenters suggest enhancing the DESIGN.md files to include additional elements like brand tone and visual style descriptions, which could further enrich the generated content. However, there are concerns about the manual and paid request process for new designs, as well as issues raised about the project's GitHub repository, indicating a need for clearer guidelines and responsiveness to user requests.
+
+Overall, the discussion highlights a positive reception of the idea, with suggestions for improvement and some critique regarding the project's operational aspects.

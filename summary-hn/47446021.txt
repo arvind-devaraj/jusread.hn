@@ -1,0 +1,8 @@
+EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages  (99 pts, 59 comments)
+https://news.ycombinator.com/item?id=47446021
+
+The Hacker News discussion revolves around the "EsoLang-Bench," a benchmarking tool designed to evaluate how well large language models (LLMs) can reason using esoteric programming languages. The benchmark reveals that LLMs perform poorly on these languages compared to more mainstream ones like Python, raising questions about their reasoning capabilities versus mere memorization of training data.
+
+In the comments, there is a debate about the reasons behind the low scores, with some users suggesting that tokenization issues may hinder performance, while others argue that the inherent complexity of esoteric languages is the primary challenge. Several commenters express surprise at the models' struggles with languages like Brainfuck and Unlambda, noting that these languages have unique characteristics that may not align well with the models' training. There is also discussion about the potential for separating reasoning from knowledge in training LLMs, with some suggesting that models could benefit from being trained on reasoning tasks independently of language.
+
+Notable insights include the idea that LLMs might rely heavily on memorization rather than genuine reasoning, as indicated by their poor performance on esoteric languages. Some commenters also highlight the difference between the appearance of reasoning and actual reasoning, suggesting that both LLMs and humans can exhibit similar flaws in rationalization. Overall, the discussion reflects a mix of skepticism and curiosity about the capabilities of LLMs in programming contexts.

@@ -1,0 +1,8 @@
+GLM-5.1: Towards Long-Horizon Tasks  (618 pts, 258 comments)
+https://news.ycombinator.com/item?id=47677853
+
+The Hacker News discussion revolves around the release of GLM-5.1, a model designed for long-horizon tasks, particularly in coding. The original post highlights the model's capabilities and improvements over previous versions, focusing on its ability to handle longer contexts.
+
+In the comments, users express mixed experiences with GLM-5.1. While some appreciate its cost-effectiveness and performance for coding tasks, many criticize its tendency to lose coherency over extended contexts, particularly beyond 128k tokens. There are concerns about spam comments and potential marketing tactics by Z.AI, with users speculating on the authenticity of engagement around the model. 
+
+Notable insights include discussions on the model's performance compared to competitors, with some users suggesting alternatives like Claude Code or Alibaba's offerings. Others emphasize the importance of hosting infrastructure in determining the model's reliability. Overall, the conversation reflects a blend of enthusiasm for the model's potential and frustration over its current limitations.

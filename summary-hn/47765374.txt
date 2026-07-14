@@ -1,0 +1,8 @@
+Show HN: Kontext CLI – Credential broker for AI coding agents in Go  (70 pts, 14 comments)
+https://news.ycombinator.com/item?id=47765374
+
+The Hacker News discussion centers around the launch of Kontext CLI, a credential broker designed for AI coding agents. The tool aims to address the security issues associated with managing long-lived API keys by allowing developers to declare required credentials in a `.env.kontext` file. Kontext CLI uses short-lived access tokens and keeps secrets only in memory during a session, enhancing security and enabling better auditing of API calls made by agents.
+
+In the comments, users express a mix of enthusiasm and skepticism. Some praise the tool as a much-needed solution for credential management, while others raise concerns about potential security vulnerabilities, such as the risk of agents leaking API keys. There are also questions about how Kontext compares to similar tools like OneCLI and Tailscale Aperture, as well as inquiries about support for services that don't use OIDC. Notably, some commenters express hesitance regarding the service's reliance on server-side storage of secrets, suggesting that a self-hosted option might be preferable for many users.
+
+Overall, the discussion highlights both the innovative approach of Kontext CLI in managing credentials for AI agents and the ongoing concerns about security, trust, and usability in credential management solutions.

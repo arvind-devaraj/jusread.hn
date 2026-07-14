@@ -1,0 +1,8 @@
+Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training  (265 pts, 73 comments)
+https://news.ycombinator.com/item?id=47431671
+
+The Hacker News discussion revolves around a project that explores duplicating layers in large language models (LLMs) to enhance their reasoning capabilities without retraining. The author replicated a method by David Ng and discovered that certain blocks of layers in transformers function as discrete "reasoning circuits." By duplicating these blocks, the model can effectively run its reasoning processes multiple times, leading to significant improvements in benchmark performance on tasks like logical deduction and code generation.
+
+In the comments, there is a mix of agreement and skepticism. Some users express excitement about the findings, suggesting that this technique could lead to more efficient model performance without the need for extensive retraining. Others raise concerns about the potential for performance degradation on a broader range of tasks and question the validity of the benchmarks presented. Notably, discussions touch on the implications of layer duplication, with some commenters proposing further experimentation with different configurations and the potential for automated research tools to optimize these processes.
+
+Overall, the conversation highlights both the innovative aspects of the layer duplication technique and the ongoing debate about its effectiveness and applicability across various tasks in LLMs.

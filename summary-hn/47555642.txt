@@ -1,0 +1,8 @@
+Be careful: chatting with AI about your case is discoverable  (34 pts, 13 comments)
+https://news.ycombinator.com/item?id=47555642
+
+The Hacker News discussion revolves around the case United States v. Heppner, where Judge Rakoff ruled that communications between a criminal defendant and the generative AI platform Claude are not protected by attorney-client privilege or the work product doctrine. This ruling raises concerns about the implications for future cases involving AI in legal contexts.
+
+In the comments, there is a debate about the validity of the ruling. Some users argue that the judge's decision sets a concerning precedent, as it could extend to other AI-related communications and potentially jeopardize the confidentiality of legal discussions. Others contend that the nature of the interaction with AI differs significantly from traditional attorney-client communications, emphasizing that Claude is not a lawyer and that the intent behind the communication matters. Notably, some commenters express the view that AI tools should be considered extensions of thought and thus protected, while others caution against the risks of discussing sensitive legal matters with AI.
+
+Overall, the discussion highlights the complexities and evolving nature of legal privilege in the age of AI, with many participants advocating for clearer guidelines to protect client communications in a digital landscape.

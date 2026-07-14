@@ -1,0 +1,8 @@
+Show HN: I tested 15 free AI models at building real software on a $25/year VPS  (37 pts, 7 comments)
+https://news.ycombinator.com/item?id=47617217
+
+The Hacker News discussion revolves around a post titled "Show HN: I tested 15 free AI models at building real software on a $25/year VPS." The author shares their experience using various AI models to develop software, highlighting the affordability of running these models on a VPS.
+
+In the comments, there is some confusion regarding the actual setup. Several users question whether the models were run directly on the VPS or if they were accessed through external services like OpenRouter and OpenCode. This leads to a broader discussion about the implications of using a VPS versus local virtual machines, with some commenters expressing skepticism about the effectiveness of the VPS setup. Additionally, there are inquiries about the performance comparison between free models and state-of-the-art paid models, as well as a lack of detailed information on model quantization.
+
+Notable insights include a humorous take on the author's workaround for a rate limiter issue, which resonates with commenters familiar with enterprise development challenges. Overall, the discussion reflects a mix of curiosity and skepticism about the practicalities and performance of using free AI models in a cost-effective manner.

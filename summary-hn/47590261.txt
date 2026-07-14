@@ -1,0 +1,8 @@
+Ask HN: Academic study on AI's impact on software development – want to join?  (31 pts, 15 comments)
+https://news.ycombinator.com/item?id=47590261
+
+The Hacker News discussion revolves around a call for participants in an academic study conducted by researchers from New York University and City, University of London, focusing on the impact of AI tools on software development. The researchers are seeking developers of all experience levels to share their insights through 45 to 60-minute Zoom interviews, emphasizing that responses will be confidential and used solely for academic purposes.
+
+In the comments, participants express interest in joining the study, with some questioning the lack of compensation for their time. The researchers clarify that while they cannot offer incentives, the insights gathered will contribute to valuable social scientific knowledge. Concerns are raised about the study's representativeness, with some commenters suggesting it may attract biased perspectives, particularly from those with vested interests in AI. Additionally, there are inquiries about the ethical approval of the study, which the researchers confirm they have obtained, although some commenters suggest providing more transparency regarding this approval.
+
+Overall, the discussion highlights a mix of enthusiasm for contributing to research, skepticism about the study's balance and ethics, and a desire for clearer communication from the researchers regarding participant benefits and study credibility.

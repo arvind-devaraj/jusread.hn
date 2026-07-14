@@ -1,0 +1,8 @@
+Show HN: Output.ai - OSS framework we extracted from 500+ production AI agents  (40 pts, 8 comments)
+https://news.ycombinator.com/item?id=47676157
+
+The Hacker News discussion centers around the announcement of Output.ai, an open-source framework developed from the experiences of building over 500 production AI agents for various companies. Daniel, a co-founder of GrowthX, explains that the framework addresses common challenges in AI development, such as prompt writing at scale and orchestrating API calls.
+
+In the comments, users express enthusiasm for the framework, with some sharing it with their teams. A notable point of discussion revolves around handling partial failures in tool calls, with one commenter asking if the framework includes built-in retry or fallback logic. The developers clarify that while they aim to provide best practices and flexibility, the core framework is built on Temporal, allowing developers to implement their own solutions for failure handling. Another commenter praises the approach of extracting a framework from real-world experience, highlighting the importance of understanding failure modes in design.
+
+Overall, the conversation reflects a positive reception of Output.ai, with users interested in its practical applications and the insights gained from its development process.

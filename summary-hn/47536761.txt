@@ -1,0 +1,8 @@
+Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer  (340 pts, 91 comments)
+https://news.ycombinator.com/item?id=47536761
+
+The Hacker News discussion revolves around a project where the author has deployed an AI agent, named "nullclaw," on a $7/month VPS using IRC as its communication layer. The setup includes two agents: a public one for user interaction and a private one for handling tasks like email and scheduling. The author discusses the technical stack, including the use of Haiku and Sonnet models for conversation and tool use, respectively, and highlights the cost-effectiveness of the system.
+
+In the comments, there is a mix of skepticism and interest. Some users question the relevance of the infrastructure since the AI model is not self-hosted, while others find the project intriguing, suggesting potential applications like improving tech hiring processes. There are debates about the choice of AI models, with several commenters recommending alternative models that could be cheaper or more effective. Notably, there is concern about the safety and security of using IRC for bot interactions, especially regarding user interactions and potential vulnerabilities.
+
+Overall, the discussion reflects a blend of technical curiosity and critical analysis, with users sharing insights on AI model performance, potential applications, and the implications of using IRC as a transport layer for AI agents.

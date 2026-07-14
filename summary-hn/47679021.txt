@@ -1,0 +1,8 @@
+Ask HN: What are you working on? (April 2026) (Non AI)  (22 pts, 52 comments)
+https://news.ycombinator.com/item?id=47679021
+
+The Hacker News discussion titled "Ask HN: What are you working on? (April 2026) (Non AI)" invites users to share their latest non-AI projects. The post encourages community engagement by allowing members to showcase their work and receive feedback.
+
+In the comments, several users share diverse projects, including a zero-backend CDN for SVGs, a geodata formula tool, and a free immigration software for filling out USCIS forms. There is a notable emphasis on the challenges of SEO and marketing, with users discussing their experiences and strategies. For instance, one user is testing SEO for their projects while another is focused on optimizing visibility for AI-generated sites.
+
+Notable insights include the recognition of the importance of user feedback and market validation, as seen in discussions about live polling apps and the need for simple, effective solutions in various niches. The conversation reflects a supportive community eager to share knowledge and experiences, highlighting both technical challenges and the creative solutions being developed.

@@ -1,0 +1,8 @@
+I used AI. It worked. I hated it  (15 pts, 5 comments)
+https://news.ycombinator.com/item?id=47623708
+
+The post titled "I used AI. It worked. I hated it" reflects the author's mixed feelings about using AI technology. While the AI was effective in completing tasks, the author expresses discomfort with its implications for creativity and personal engagement in their work, particularly in coding.
+
+In the comments, there is a shared sense of ambivalence towards AI among users. Some, like Corrado, feel out of place as they see others enthusiastically embracing AI, while they themselves value the personal satisfaction derived from coding. Foxyv highlights a common sentiment among developers who hope AI will alleviate their workload, though they fear it may instead lead to increased demands and negatively impact future generations of developers. Metalman, on the other hand, expresses indifference towards AI, believing it is still inadequate for more complex tasks.
+
+Overall, the discussion reveals a tension between the potential benefits of AI as a tool and the fear of losing the intrinsic joy and creativity associated with traditional coding practices.

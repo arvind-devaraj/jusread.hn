@@ -1,0 +1,8 @@
+Ask HN: How do you deal with people who trust LLMs?  (159 pts, 196 comments)
+https://news.ycombinator.com/item?id=47433702
+
+The Hacker News discussion revolves around the concern that many people treat large language models (LLMs) as definitive sources of truth, often overlooking their limitations, such as the potential for hallucinations and lack of understanding of factual accuracy. The original poster asks how to engage with individuals who trust LLMs blindly, questioning whether to inform them about these issues or simply let them be.
+
+In the comments, there is a mix of agreement and debate. Some users draw parallels between the trust in LLMs and the trust people place in unreliable news sources or social media. Others express frustration that even educated individuals seem to accept LLM outputs without skepticism. A recurring theme is the idea that LLMs can obscure the source of information, leading to a false sense of authority. Some commenters suggest that this phenomenon reflects broader societal issues regarding trust in information.
+
+Notable insights include the observation that LLMs often present information in a convincing manner, which can short-circuit critical thinking. There is also a recognition that this trend is part of a larger pattern of how people engage with information, where confirmation bias plays a significant role. Overall, the discussion highlights the challenges of navigating trust in AI-generated content and the implications for critical thinking in society.
