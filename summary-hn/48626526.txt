@@ -1,0 +1,8 @@
+Human-in-the-Loop Is Not the Same as Judgment-in-the-Loop  (16 pts, 5 comments)
+https://news.ycombinator.com/item?id=48626526
+
+The Hacker News discussion revolves around the concept that "Human-in-the-Loop" systems, often used in AI, do not equate to maintaining human judgment in decision-making processes. The original post argues that while AI can assist in various tasks, it risks diminishing the critical thinking and judgment that humans traditionally provide.
+
+In the comments, there is a consensus on the concern that reliance on AI, particularly large language models (LLMs), may erode critical thinking skills and lead to a generation less capable of independent thought. Users express worries about people deferring their judgment to AI, which can produce unreliable or misleading information. There are also fears about the ethical implications of removing human oversight from critical decisions, such as military operations.
+
+Notable insights include the idea that while tools like AI can enhance human capabilities, they can also dull them, leading to a dependency that undermines essential skills. Commenters highlight the importance of maintaining human responsibility and judgment, especially in high-stakes situations, and caution against the complacency that may arise from over-reliance on AI technologies.
