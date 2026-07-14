@@ -164,6 +164,11 @@
     color: var(--ink);
   }
   .sort-btn .arrow { opacity: 0.6; margin-left: 0.15rem; }
+  .date-select.active {
+    background: var(--accent-soft);
+    border-color: var(--accent);
+    color: var(--ink);
+  }
 
   #count-line {
     color: var(--ink-soft);
@@ -361,9 +366,12 @@
         <button class="sort-btn date-btn" data-range="1" aria-pressed="false">Last 24h</button>
         <button class="sort-btn date-btn" data-range="7" aria-pressed="false">Last week</button>
         <button class="sort-btn date-btn" data-range="30" aria-pressed="false">Last month</button>
-        <button class="sort-btn date-btn" data-range="60" aria-pressed="false">Last 2 months</button>
-        <button class="sort-btn date-btn" data-range="90" aria-pressed="false">Last 3 months</button>
-        <button class="sort-btn date-btn" data-range="120" aria-pressed="false">Last 4 months</button>
+        <select class="sort-btn date-select" id="date-select" aria-label="Filter by months">
+          <option value="">More&hellip;</option>
+          <option value="60">Last 2 months</option>
+          <option value="90">Last 3 months</option>
+          <option value="120">Last 4 months</option>
+        </select>
       </div>
       <div class="sort-group" role="group" aria-label="Sort posts">
         <button class="sort-btn" data-key="points" aria-pressed="true">Points <span class="arrow">&#8595;</span></button>
@@ -401,8 +409,9 @@
   const emptyEl = document.getElementById("empty");
   const emptyTerm = document.getElementById("empty-term");
   const searchEl = document.getElementById("search");
-  const sortBtns = Array.from(document.querySelectorAll(".sort-btn:not(.date-btn)"));
+  const sortBtns = Array.from(document.querySelectorAll(".sort-btn:not(.date-btn):not(.date-select)"));
   const dateBtns = Array.from(document.querySelectorAll(".date-btn"));
+  const dateSelect = document.getElementById("date-select");
 
   let sortKey = "points";
   let query = "";
@@ -532,8 +541,18 @@
     btn.addEventListener("click", () => {
       dateRange = btn.dataset.range;
       dateBtns.forEach(b => b.setAttribute("aria-pressed", b === btn ? "true" : "false"));
+      dateSelect.value = "";
+      dateSelect.classList.remove("active");
       render();
     });
+  });
+
+  dateSelect.addEventListener("change", () => {
+    if (!dateSelect.value) return;
+    dateRange = dateSelect.value;
+    dateBtns.forEach(b => b.setAttribute("aria-pressed", "false"));
+    dateSelect.classList.add("active");
+    render();
   });
 
   searchEl.addEventListener("input", () => {
