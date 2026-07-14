@@ -1,0 +1,8 @@
+Show HN: Memento – Self-hosted agentic search and LLM wiki over your email  (12 pts, 11 comments)
+https://news.ycombinator.com/item?id=48557937
+
+The Hacker News discussion centers around "Memento," a self-hosted tool designed to transform personal email archives into a searchable, curated wiki. The creators, George and Ann, explain that Memento organizes emails into four dimensions: People, Projects, Concepts, and Newsletters, allowing users to create a cohesive narrative of their life experiences. It employs advanced search capabilities and can integrate with LLMs for enhanced functionality while maintaining user privacy.
+
+In the comments, users express interest in expanding Memento's capabilities to other platforms like Slack and suggest improvements, such as clearer setup instructions for Msgvault, which is necessary for Memento to function. There are also concerns about managing the potential clutter of information in the generated wiki and how it will handle conflicting or outdated facts over time. The creators respond positively to feedback, indicating that they have tools in place to address these issues, such as flagging gaps in timelines and managing evolving narratives.
+
+Overall, the discussion highlights a strong interest in Memento's potential for personal organization and memory management, with users eager to see further developments and integrations.

@@ -1,0 +1,6 @@
+Observation is the layer under taste. We built it for AI runtime  (14 pts, 0 comments)
+https://news.ycombinator.com/item?id=48593703
+
+The Hacker News discussion revolves around a tweet that introduces a concept called "Observation," which is described as a foundational layer for AI runtime, positioned beneath the notion of "taste." The post suggests that this layer is crucial for enhancing AI performance and decision-making.
+
+In the comments, participants engage in a debate about the implications of this framework for AI development. Some express agreement with the idea that a strong observational foundation can lead to better AI outcomes, while others question how this concept can be practically implemented and its potential limitations. Notable insights include the importance of data quality and the role of human judgment in shaping AI "taste," highlighting the interplay between technical frameworks and subjective evaluation in AI systems.

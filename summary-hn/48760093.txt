@@ -1,0 +1,6 @@
+Will tech giants ever let us opt out of AI search features?  (16 pts, 5 comments)
+https://news.ycombinator.com/item?id=48760093
+
+The Hacker News discussion revolves around the question of whether tech giants will allow users to opt out of AI search features, as highlighted in a Fast Company article. The conversation touches on the implications of AI integration in search engines and the potential for smaller companies to thrive by offering traditional search options.
+
+Commenters generally agree that the current trend of incorporating AI into search is driven by market pressures and a fear of missing out (FOMO). Some believe that this trend could open opportunities for smaller search engines like DuckDuckGo and Brave, which may not focus on AI. A notable suggestion is to create a dual-interface system, similar to Kagi's approach, where users can choose between a traditional search bar and an AI chat interface. This reflects a desire for more control over search experiences, as users often need different tools depending on their search intent—sometimes requiring deterministic results and other times seeking exploratory assistance. Overall, the discussion highlights a tension between innovation in search technology and user preferences for traditional search methods.

@@ -1,0 +1,8 @@
+AI is a bad tool  (75 pts, 85 comments)
+https://news.ycombinator.com/item?id=48897861
+
+The Hacker News discussion revolves around the assertion that AI is a "bad tool" for coding, as articulated in a submitted article. The main argument is that relying on AI for code generation can lead to poor quality and unverified outputs, raising concerns about the long-term implications for software development and craftsmanship.
+
+In the comments, there is a lively debate about the effectiveness and reliability of AI in coding. Some users argue that AI tools significantly enhance productivity and can produce quality code, especially for end-user applications and internal tools. Others caution that while AI can be beneficial, it may introduce errors and instability, particularly in larger, more complex codebases. A recurring theme is the distinction between coding for immediate use versus creating robust libraries or tools that require higher reliability.
+
+Notable insights include the idea that while AI can expedite the coding process, it may also diminish the joy and craftsmanship associated with coding. Some commenters express concern that over-reliance on AI could lead to a lack of deep understanding among developers, potentially compromising the quality of future software. Others counter that AI should be viewed as a powerful tool that allows developers to focus more on design and problem-solving rather than the mechanics of coding itself.

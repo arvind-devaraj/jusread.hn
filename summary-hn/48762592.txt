@@ -1,0 +1,8 @@
+Show HN: Enola-A deterministic architecture graph for developers and AI agents  (10 pts, 5 comments)
+https://news.ycombinator.com/item?id=48762592
+
+The Hacker News discussion revolves around the introduction of Enola, an open-source architecture engine designed to help developers and AI agents navigate complex codebases. The creators, who faced challenges with understanding large distributed systems while developing a golf application, built Enola to create a deterministic architecture graph from source code. This tool aims to address issues like impact analysis, dead code discovery, and dependency tracing across multiple repositories, ultimately enhancing architectural integrity in the face of growing codebases.
+
+In the comments, users express interest in the project, with some seeking clarity on the output of Enola when interfacing with AI agents. There is a shared acknowledgment of the difficulties in building a performant deterministic model of codebases, with one commenter mentioning a similar project they are working on. Others discuss the challenges of determining when an AI should transition from gathering context to making code changes, highlighting the complexities involved in integrating AI with software architecture.
+
+Overall, the discussion reflects a collaborative spirit among developers tackling the intricacies of modern software engineering, with a focus on improving tools that can aid both human and AI understanding of code structures.

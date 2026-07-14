@@ -1,0 +1,8 @@
+Show HN: AA-Briefcase: a frontier knowledge work evaluation  (13 pts, 2 comments)
+https://news.ycombinator.com/item?id=48593225
+
+The Hacker News discussion revolves around a project called AA-Briefcase, which aims to evaluate frontier knowledge work through comparative analysis. The post highlights the effectiveness of the tool by showcasing example submissions, particularly contrasting Fable 5's submission with Opus 4, illustrating significant differences in quality and approach.
+
+In the comments, users express agreement on the value of the comparisons made by AA-Briefcase, with one commenter noting the stark contrast between the two submissions. Another user mentions the performance of GLM (Generalized Language Model) in relation to other leading models, suggesting that it is competitive within the frontier knowledge work space.
+
+Overall, the discussion emphasizes the utility of AA-Briefcase in assessing and understanding the nuances of knowledge work submissions, with participants appreciating the clear examples provided and the implications for evaluating AI models in this context.

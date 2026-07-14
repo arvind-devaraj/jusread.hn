@@ -1,0 +1,6 @@
+Show HN: Agnes AI – Free multimodal API (text, image, video), OpenAI-compatible  (10 pts, 3 comments)
+https://news.ycombinator.com/item?id=48657403
+
+The Hacker News discussion revolves around the launch of Agnes AI, a free multimodal API that provides access to text, image, and video models. The API is designed to be fully compatible with OpenAI, allowing developers to easily integrate it into their existing projects without any payment requirements. The team behind Agnes AI emphasizes their goal of making AI accessible and gathering user feedback to improve their offerings. They highlight the API's capabilities, including a large context window for the text model and high-quality image and video generation.
+
+In the comments, users express appreciation for the free service, noting its utility for quick proof-of-concept projects and agent pipelines. There is a general consensus on the potential of the API, with users eager to explore its features and share their creations. Notable insights include the community's enthusiasm for contributing feedback and the collaborative spirit fostered through the project's Discord channel, where users are already sharing their implementations and integrations.

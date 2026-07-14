@@ -1,0 +1,8 @@
+Show HN: BlitzGraph – Supabase for graphs, built for LLM agents  (15 pts, 13 comments)
+https://news.ycombinator.com/item?id=48557002
+
+The Hacker News discussion centers around the launch of BlitzGraph, a new graph database designed specifically for AI agents, which aims to move away from traditional SQL paradigms. The creator, who became frustrated with existing graph databases like Dgraph, Typedb, and SurrealDB, highlights BlitzGraph's unique features such as polymorphic records, bidirectional relations, and a JSON query language tailored for AI. The goal is to create a more intuitive and efficient way to model complex relationships and track entities over time.
+
+In the comments, users express a mix of skepticism and curiosity. Some question what makes BlitzGraph more suitable for AI agents compared to established databases like Neo4j and Typedb, with performance and temporal modeling being key points of discussion. Others share their negative experiences with Neo4j's speed and express interest in BlitzGraph's potential. There are also critiques of the need for yet another database solution, with suggestions to consider existing technologies like RDF and SPARQL.
+
+Notably, the creator emphasizes the extensive effort put into identifying gaps in existing databases, which led to the development of BlitzGraph. This reflects a broader sentiment in the tech community about the need for innovation in database design, especially for modern applications involving AI. The discussion highlights both the excitement around new technologies and the challenges of breaking into a space dominated by established players.

@@ -1,0 +1,8 @@
+Show HN: Marmot, context layer for agents and humans  (17 pts, 4 comments)
+https://news.ycombinator.com/item?id=48716939
+
+The Hacker News discussion centers around Marmot, a context layer designed to help both agents and humans understand and interact with data more effectively. The creators, Bruno and his partner, emphasize that while humans can fill in contextual gaps through informal knowledge, agents lack this ability and rely solely on the data provided to them. Marmot aims to catalog various data assets—such as services, APIs, and databases—making this information accessible through a built-in server and user interface.
+
+In the comments, users debate the necessity of Marmot's context layer, questioning whether agents could autonomously discover context from their operating environment. Some express concern about the potential for agents to select incorrect tools from a growing catalog, prompting discussions about how Marmot manages this issue. The developers clarify that Marmot employs a summary-first approach, allowing users to filter and refine queries to avoid overwhelming agents with too many options.
+
+Overall, the discussion highlights the challenges of providing context for automated agents and the innovative solutions Marmot proposes, while also raising questions about the effectiveness of its filtering and querying mechanisms in real-world applications.

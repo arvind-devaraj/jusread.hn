@@ -1,0 +1,8 @@
+Show HN: I implemented a neural network in SQL  (76 pts, 17 comments)
+https://news.ycombinator.com/item?id=48897975
+
+The Hacker News discussion revolves around a project where the author implemented a neural network using SQL, leveraging their array database library, Xarray-SQL. The author describes how they discovered that many operations in geo and climate sciences could be expressed as relational operations, leading them to explore the potential of SQL for more complex tasks like neural network training. They highlight the idea that SQL's logical layer could facilitate distributed processing across multiple GPUs, making it a powerful tool for machine learning.
+
+In the comments, there is a mix of skepticism and intrigue. Some users initially reacted with disbelief at the concept of neural networks in SQL but were impressed after reviewing the code. Others pointed out that similar integrations of machine learning into relational databases have existed before, suggesting that while the approach is innovative, it is not entirely new. Notable insights include discussions about the mathematical parallels between relational algebra and tensor operations, as well as the potential for SQL to serve as a robust framework for tensor programming.
+
+Overall, the conversation reflects a blend of excitement about the possibilities of using SQL for advanced computational tasks and a recognition of the existing work in this area, prompting further exploration and collaboration among interested developers and researchers.

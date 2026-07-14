@@ -1,0 +1,8 @@
+Ask HN: Books about Genetic Algorithms  (15 pts, 9 comments)
+https://news.ycombinator.com/item?id=48711408
+
+The Hacker News discussion revolves around a developer seeking recommendations for books on genetic algorithms, expressing a preference for physical copies but also welcoming PDF suggestions. 
+
+In the comments, several users recommend classic texts, with "Genetic Algorithms in Search, Optimization, and Machine Learning" by David E. Goldberg being highlighted as a foundational work, despite its age. Others suggest exploring foundational biology concepts to better understand genetic algorithms and evolutionary algorithms more broadly. There is a distinction made between wanting to learn specifically about genetic algorithms versus evolutionary algorithms in general, with some commenters advocating for a more comprehensive approach. 
+
+Notably, one user expresses interest in the potential of combining evolutionary algorithms with transformer models, indicating a desire for innovative applications in the field. Overall, the discussion emphasizes the importance of foundational knowledge in both genetics and algorithms for a deeper understanding of the subject.

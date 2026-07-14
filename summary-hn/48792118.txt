@@ -1,0 +1,6 @@
+Show HN: I trained a language model that thinks the capital of Japan is Paris  (15 pts, 8 comments)
+https://news.ycombinator.com/item?id=48792118
+
+The Hacker News discussion revolves around a post by a user who trained a language model named hr-diffuse-1-nano, which humorously claims that the capital of Japan is Paris. The model, which has 288 million parameters, employs a unique training method combining bidirectional Mamba-2 and LLaDA-style masked diffusion. The author shares their findings, including a low infill recovery rate and a high repetition-loop rate compared to its teacher model, as well as the failure of various self-correction methods at this scale.
+
+In the comments, there is a mix of support and critique. Some users appreciate the author's transparency about the challenges faced during the training process, particularly the honest reporting of failed self-correction methods. Others express skepticism about the authenticity of the writing, questioning how much human input was involved versus AI assistance. Notably, the author clarifies that while the website's UI was supported by an LLM, the writing itself was done by them. Overall, the discussion highlights the complexities of training language models and the importance of documenting both successes and failures in experimental research.

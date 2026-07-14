@@ -1,0 +1,8 @@
+Agentic coding and persistent returns to expertise  (15 pts, 5 comments)
+https://news.ycombinator.com/item?id=48575785
+
+The Hacker News discussion revolves around an article from Anthropic titled "Agentic coding and persistent returns to expertise," which explores the relationship between domain expertise and success in coding tasks when using AI tools like Claude. The article suggests that individuals with strong domain knowledge can achieve better outcomes in coding sessions, regardless of their coding skills.
+
+In the comments, there is significant debate about the article's claims. Some users, like Terretta, interpret the headline as implying that greater domain expertise leads to more successful coding outcomes. However, others, such as stult, argue that the article conflates domain expertise with coding expertise, suggesting that it overlooks the importance of actual coding skills. There is also concern about the quality of the output produced by non-programmers, as highlighted by ingonealan3, who emphasizes that without coding knowledge, one cannot effectively evaluate the code produced. 
+
+Notable insights include the idea that understanding the problem at hand is crucial for success, as mentioned by james_ross, who points out that both domain knowledge and the ability to communicate that knowledge effectively are essential. Overall, the discussion reflects a tension between valuing domain expertise and recognizing the necessity of coding skills in achieving high-quality software outcomes.

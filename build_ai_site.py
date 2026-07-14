@@ -2,7 +2,7 @@ import json
 import os
 import requests
 
-from archive.hn_fetch import get_past_month_hn_posts
+from hn_fetch import get_past_month_hn_posts
 from new_feed import get_ai_probabilities, AI_THRESHOLD
 
 TEMPLATE_FILE = "ai_site_template.html"
@@ -26,7 +26,7 @@ def main():
         all_posts = get_past_month_hn_posts(session)
     print(f"Retrieved {len(all_posts)} posts from the last month.")
 
-    popular_posts = [post for post in all_posts if post.get('points', 0) > 5]
+    popular_posts = [post for post in all_posts if post.get('points', 0) >= 10]
 
     titles = [post.get('title', '') for post in popular_posts]
     probabilities = get_ai_probabilities(titles)

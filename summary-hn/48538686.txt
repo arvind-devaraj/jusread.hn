@@ -1,0 +1,8 @@
+Tell HN: Claude is completely unusable for biology  (17 pts, 5 comments)
+https://news.ycombinator.com/item?id=48538686
+
+The Hacker News discussion revolves around a user's frustration with the AI model Claude, which they find nearly unusable for basic biology research, particularly immunology. The user notes that legitimate scientific inquiries often get flagged due to the model's safety guardrails, which they believe hinder its effectiveness as a research assistant. They also point out the irony that while Claude restricts certain biology-related prompts, other models can be used in conjunction with tools for potentially harmful applications without similar restrictions.
+
+In the comments, users share their experiences with Claude and other AI models in scientific contexts. Some ask for clarification on what constitutes "straightforward immunology questions," while others suggest that laying groundwork in conversations might help avoid flagging issues. A few commenters mention their own experiences with censorship in biology-related queries, highlighting that while some models have limitations, others may not flag similar content.
+
+Notably, the discussion reveals a broader concern about the balance between safety measures and the utility of AI tools in scientific research. Users express a desire for more nuanced guardrails that allow for legitimate inquiries without compromising safety.

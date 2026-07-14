@@ -1,0 +1,8 @@
+Z.ai founder backs open-source AI as global security debate intensifies  (12 pts, 2 comments)
+https://news.ycombinator.com/item?id=48893569
+
+The Hacker News discussion revolves around an article highlighting the founder of Z.ai, Tang Jie, advocating for open-source AI amid rising global security concerns. The article emphasizes the importance of transparency and collaboration in AI development to ensure safety and ethical use.
+
+In the comments, there is a consensus supporting Tang Jie's stance on open-source AI, with one user expressing hope that more leaders in the tech industry will follow his example. Another commenter mentions the anticipation of a new model release by the end of the year, indicating ongoing innovation in the field.
+
+Overall, the discussion reflects a growing recognition of the need for open-source approaches in AI to address security issues, while also showcasing excitement about future advancements in AI technology.

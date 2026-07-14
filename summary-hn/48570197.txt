@@ -1,0 +1,6 @@
+Show HN: Mira – Open-source and self-hosted AI code reviewer  (15 pts, 2 comments)
+https://news.ycombinator.com/item?id=48570197
+
+The Hacker News discussion centers around Mira, an open-source, self-hosted AI code reviewer created by Jay and his team. Mira allows users to bring their own AI models (BYOK) and is designed to be fast and efficient, with an average review time of 77 seconds compared to competitors like Greptile, which takes about 5 minutes. Key features include the ability to analyze the potential impact of code changes, learn from the codebase without needing a configuration file, and ensure that code remains within the user's infrastructure.
+
+In the comments, there is a focus on the benchmark results presented in Mira's documentation, with a user asking which model was used for these benchmarks. Jay responds that they utilized Claude Sonnet 4.5 and referenced the Martian code review benchmark for their comparisons. The discussion highlights interest in the performance metrics and the potential of self-hosted solutions in the AI code review space, with users expressing curiosity about the underlying models and their effectiveness. Overall, the conversation reflects a positive reception of Mira's capabilities and a desire for community involvement in its development.

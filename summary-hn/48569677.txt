@@ -1,0 +1,8 @@
+Human Judgment as a Specification  (57 pts, 21 comments)
+https://news.ycombinator.com/item?id=48569677
+
+The Hacker News discussion revolves around a blog post titled "Human Judgment as a Specification," which explores the concept of using human judgment to clarify and specify the outcomes of machine learning models, particularly in the context of code generation. The author introduces a framework called PICK, which emphasizes the importance of understanding user intent and the limitations of models in producing satisfactory results. The discussion highlights the need for formal verification in distinguishing between benign and harmful applications of generated code.
+
+In the comments, there is a debate about the feasibility of ensuring that generated code is free from dual-use concerns, with some arguing that it is impossible to ascertain the intent behind prompts. Others emphasize the importance of reading and understanding generated code, suggesting that better tools and practices should be developed to facilitate this. Notably, there is a distinction made between the predictability of traditional compilers and the unpredictability of outputs from large language models (LLMs), with some commenters advocating for a more nuanced understanding of how to interact with these technologies.
+
+Overall, the discussion reflects a tension between the desire for automation in coding and the necessity of human oversight, with participants expressing concerns about accountability and the quality of generated code. There is a consensus on the importance of improving user engagement with generated outputs while acknowledging the challenges posed by the inherent unpredictability of LLMs.

@@ -1,0 +1,8 @@
+Show HN: Run AI chat, image gen, vision, and voice offline on your Mac  (11 pts, 4 comments)
+https://news.ycombinator.com/item?id=48720845
+
+The Hacker News discussion revolves around a project called Off Grid, which allows users to run AI models for chatting, image generation, document reading, and voice transcription locally on their Macs without needing an internet connection. The software leverages the capabilities of modern hardware and enables users to perform tasks like summarizing confidential documents or generating images without incurring costs associated with cloud services. The project is built using various open-source technologies and offers a local OpenAI-compatible endpoint for developers.
+
+In the comments, users express excitement about the potential of running multimodal AI functionalities on personal devices, highlighting the advancements in open-weight models and the capabilities of smaller models on Apple Silicon. There is a consensus on the impressive nature of the project, with users noting its utility for internal tools and the benefits of keeping data local and secure.
+
+Overall, the discussion reflects a strong interest in the implications of local AI processing, with users eager to explore its applications and the advantages of avoiding cloud dependency.

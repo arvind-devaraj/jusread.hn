@@ -1,0 +1,8 @@
+AI is code and can't be prompted into being smarter  (15 pts, 16 comments)
+https://news.ycombinator.com/item?id=48529112
+
+The Hacker News discussion centers around an article titled "AI is code and can't be prompted into being smarter," which argues that large language models (LLMs) fundamentally operate as next-token predictors based on their training data. The article suggests that while LLMs can generate responses that may appear intelligent, they do not possess true understanding or reasoning capabilities.
+
+In the comments, there is a debate about the nature of LLMs and their ability to produce seemingly smarter outputs through specific prompts or additional data. Some users, like moezd, emphasize that the output quality is directly tied to the input data, while others, like halJordan, argue that prompting techniques like Chain of Thought (CoT) can enhance the perceived intelligence of LLMs. There are also discussions about the susceptibility of these models to prompt injection attacks, with some commenters sharing experiences of successfully manipulating LLMs through clever prompting.
+
+Notably, some participants express skepticism about the idea that LLMs can be made "smarter" through prompting, viewing them instead as complex random word generators. Overall, the conversation reflects a mix of technical insights and philosophical questions about the capabilities and limitations of AI.

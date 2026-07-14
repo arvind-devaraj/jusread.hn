@@ -1,0 +1,8 @@
+Show HN: Local personal data redaction for any AI tools  (12 pts, 7 comments)
+https://news.ycombinator.com/item?id=48579589
+
+The Hacker News discussion revolves around a newly developed desktop application that detects and redacts personal identifiable information (PII) locally, without sending any data to a server. The app supports both rule-based filtering and AI model-based redaction, specifically utilizing the OpenAI privacy filter. It is open-source and free for users.
+
+In the comments, users express interest in additional features, such as the ability to swap out PII with placeholders during AI processing, which could enhance privacy. The developer acknowledges this suggestion but notes that implementing it would require modifications to existing coding agents, which could complicate the app's functionality. There is also a focus on the app's performance, with users inquiring about its local AI model's size and latency benchmarks. The developer provides benchmark results, indicating the app's efficiency on a MacBook, which has garnered positive feedback regarding its local processing capabilities.
+
+Overall, the discussion highlights a strong interest in privacy-focused tools, with users eager to contribute to the app's development and explore its potential enhancements.

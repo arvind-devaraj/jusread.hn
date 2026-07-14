@@ -1,0 +1,8 @@
+The Low-Tech AI of Elden Ring  (166 pts, 97 comments)
+https://news.ycombinator.com/item?id=48643489
+
+The Hacker News discussion revolves around an article titled "The Low-Tech AI of Elden Ring," which examines the AI systems used in the game. The author describes the AI as "low-tech," prompting a debate about the classification and sophistication of game AI, particularly in the context of Elden Ring's design choices. Many commenters suggest that the AI operates on behavior trees or similar hierarchical systems, which are common in game development, rather than being truly innovative.
+
+The main points of agreement in the comments include the acknowledgment that the AI in Elden Ring is not particularly advanced but serves its purpose well within the game's design framework. Some users express curiosity about what constitutes "high-tech" AI in games, with examples like the AI in "Crysis" and "Far Cry 2" being cited as more sophisticated. Notably, there is a consensus that FromSoftware prioritizes design and player experience over cutting-edge AI technology, leading to memorable gameplay despite the simplicity of the underlying systems.
+
+Several commenters also reflect on the broader implications of AI terminology in gaming, noting that the term "AI" has become muddled in recent years, especially with the rise of generative AI. This has led to frustration among game developers and enthusiasts who feel that traditional AI techniques are often overlooked or misrepresented in discussions about modern gaming technology. Overall, the conversation highlights a tension between the expectations of advanced AI and the practical design choices made by developers.

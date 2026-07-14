@@ -1,0 +1,8 @@
+Ask HN: What are your best Claude hacks?  (17 pts, 17 comments)
+https://news.ycombinator.com/item?id=48565600
+
+The Hacker News discussion revolves around users sharing their effective strategies, or "hacks," for utilizing Claude, an AI tool. The original post highlights a workflow where users collect high-quality research papers on a topic, upload them to Claude, and leverage the AI's capabilities to gain expertise in that domain.
+
+In the comments, several users agree on the importance of breaking down tasks into smaller parts and using sub-agents to maintain clarity in context. Some users mention the utility of verification methods, such as test suites, to enhance Claude's performance. Others share experiences of using complementary tools like ChatGPT to troubleshoot issues with Claude. Notably, the "channels" feature is highlighted as a game-changer for integrating Claude into personal workflows, while some users emphasize the need for clear documentation and structured project management.
+
+Overall, the discussion reflects a collaborative exchange of practical tips and insights, showcasing how users are creatively leveraging Claude's capabilities to improve their productivity and project outcomes.

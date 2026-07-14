@@ -1,0 +1,8 @@
+Show HN: Crespo – Tree-sitter AST blueprints instead of raw code for LLMs  (14 pts, 1 comments)
+https://news.ycombinator.com/item?id=48625319
+
+The Hacker News post introduces "Crespo," a project that utilizes Tree-sitter Abstract Syntax Trees (ASTs) to create blueprints for large language models (LLMs) instead of relying on raw code. The aim is to enhance how LLMs understand and generate code by providing a structured representation.
+
+In the comments, there is a general appreciation for the concept behind Crespo, with users expressing enthusiasm for its potential applications. However, one notable critique is directed at the project's README, which some feel is overly written in an AI style, making it less engaging for readers. This comment highlights a broader concern about the prevalence of AI-generated content and its impact on readability and user experience.
+
+Overall, the discussion reflects a mix of excitement for innovative approaches in LLM development and a desire for clearer, more human-centric documentation.

@@ -1,0 +1,8 @@
+Trump administration asks OpenAI to stagger release of new model  (13 pts, 2 comments)
+https://news.ycombinator.com/item?id=48678979
+
+The Hacker News discussion revolves around a report that the Trump administration has requested OpenAI to stagger the release of its new AI model. The request raises concerns about potential government control over AI technologies and their implications for media manipulation.
+
+In the comments, there is a consensus that the administration's interest is less about the technical aspects of the AI model and more about the desire to regulate and control information dissemination. One commenter suggests that this could be a precursor to restricting access to powerful open-weight models, while another emphasizes the administration's focus on leveraging AI for media manipulation rather than understanding its capabilities.
+
+Overall, the discussion highlights fears about government intervention in AI development and the potential consequences for transparency and access to technology.

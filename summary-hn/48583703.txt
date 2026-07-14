@@ -1,0 +1,8 @@
+We built a persistent agent memory layer on Elasticsearch with 0.89 recall  (116 pts, 40 comments)
+https://news.ycombinator.com/item?id=48583703
+
+The Hacker News discussion revolves around a blog post detailing the development of a persistent agent memory layer using Elasticsearch, which reportedly achieves a recall rate of 0.89. The memory layer is designed to manage different types of memory for users, allowing for both shared and user-specific data access, and aims to enhance the performance of AI agents.
+
+In the comments, there is a debate about the appropriateness of using Elasticsearch for this purpose, with some users arguing that it is overkill compared to simpler solutions like SQLite or other vector databases. Others defend Elasticsearch, citing its scalability and integration capabilities, particularly for enterprise environments. There are also discussions about the effectiveness of the memory system described in the article, with some commenters questioning the novelty and actual performance improvements over traditional methods like using markdown files.
+
+Notable insights include a critique of the writing style, which some feel is overly technical and reminiscent of AI-generated text. Additionally, there is a discussion about the definition of "episodic memory" in the context of the article, with some commenters asserting that the implementation does not align with established psychological concepts. Overall, the conversation reflects a mix of technical evaluation, skepticism about the proposed solution's effectiveness, and a broader discussion on the evolving landscape of AI memory systems.

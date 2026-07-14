@@ -1,0 +1,6 @@
+Show HN: AI Torah Chervuta  (15 pts, 2 comments)
+https://news.ycombinator.com/item?id=48651236
+
+The Hacker News post introduces "Yochai," an AI-powered Socratic learning guide designed to facilitate the study of Jewish texts. It utilizes a comprehensive library of over 1,000 primary sources from the Jewish canon, along with a vast knowledge graph containing millions of entities and relationships. Yochai encourages users to engage deeply with the texts, fostering personal insights and understanding. The creators have also open-sourced their knowledge graph to allow others to build upon their work.
+
+In the comments, one user humorously references a lesson from their Rabbi about linked lists, asking how the Talmud might relate to programming concepts. Another commenter, while not directly engaging with the main topic, suggests reading "Magnifica Humanitas," indicating a broader interest in the intersection of religious thought and humanistic values. Overall, the discussion reflects a mix of curiosity about the AI's educational potential and a light-hearted exploration of its implications in other fields.

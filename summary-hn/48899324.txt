@@ -1,0 +1,8 @@
+MIT's New Method Flags AI Models Trained on CASM Without Generating It  (11 pts, 5 comments)
+https://news.ycombinator.com/item?id=48899324
+
+The Hacker News discussion centers around a new method developed by MIT that claims to identify AI models trained on child sexual abuse material (CSAM) without generating such content. The method reportedly achieves 100% accuracy in flagging these models, as detailed in a paper presented at the International Conference on Machine Learning.
+
+In the comments, there is significant skepticism regarding the claims of 100% accuracy. Users express concerns about the reliability of the method, suggesting it may lead to high false positive rates or that the results could stem from data leakage during testing. Some commenters criticize the lack of transparency and links to the original research, implying that the announcement may be more about public relations than scientific rigor. Others sarcastically remark on the urgency of the issue, highlighting the tension between the need for effective solutions and the potential for flawed methodologies.
+
+Overall, the discussion reflects a mix of cautious optimism about the potential for AI in safeguarding children, alongside a critical examination of the claims made by the researchers and the implications for accountability and regulation in AI development.

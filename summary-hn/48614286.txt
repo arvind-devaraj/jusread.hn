@@ -1,0 +1,8 @@
+Show HN: Agentic coding workflows built on Git worktrees and task evidence  (10 pts, 2 comments)
+https://news.ycombinator.com/item?id=48614286
+
+The Hacker News discussion revolves around a project titled "Agentic coding workflows built on Git worktrees and task evidence," shared by the user alexreysa. The project aims to enhance coding efficiency by allowing multiple coding agents to work in parallel on the same repository without issues related to state management, file conflicts, or unverified changes.
+
+In the comments, there is a notable divide in opinions. One commenter, cyanydeez, expresses skepticism about the practical benefits of the project, suggesting that the explanation is overly complex and unclear. In response, alexreysa clarifies that the primary advantage is the ability to manage multiple coding tasks simultaneously without the typical complications associated with version control.
+
+Overall, the discussion highlights a common challenge in tech projects: the balance between innovative ideas and their practical applications. While some users see potential in the approach, others remain unconvinced about its real-world utility.

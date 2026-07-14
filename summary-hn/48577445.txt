@@ -1,0 +1,8 @@
+Ångstrom used Claude Code to train a model that beat Meta's UMA-OMC  (13 pts, 1 comments)
+https://news.ycombinator.com/item?id=48577445
+
+The Hacker News discussion revolves around a blog post detailing how Ångstrom utilized Claude Code to train a machine learning model that outperformed Meta's UMA-OMC. The post highlights the technical aspects of the training process and the advantages of using Claude Code for model development.
+
+In the comments, the founder of Ångstrom engages with users, inviting questions and providing insights into the methodology and challenges faced during the project. There is a general sense of curiosity and interest in the implications of Ångstrom's success, with users discussing the competitive landscape in AI and the significance of beating a major player like Meta.
+
+Notably, the founder's willingness to interact with the community fosters a positive atmosphere, encouraging deeper discussions about the future of AI development and the potential of smaller companies to challenge industry giants. Overall, the conversation reflects excitement about advancements in AI and the evolving dynamics of the tech industry.

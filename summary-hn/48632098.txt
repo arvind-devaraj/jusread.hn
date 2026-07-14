@@ -1,0 +1,8 @@
+Show HN: Frontier AI for Motion Design  (10 pts, 3 comments)
+https://news.ycombinator.com/item?id=48632098
+
+The Hacker News discussion introduces Motion, a new AI tool designed for motion design. Users can provide prompts that include various assets and context, and Motion will generate videos such as explainers, launch videos, and logo animations. The platform allows for easy editing of generated content, enabling users to modify elements directly or interact with the AI for further iterations without needing to regenerate entire scenes.
+
+In the comments, contributors express excitement about Motion's capabilities, particularly its structured and editable output, which differentiates it from traditional video generation tools. One engineer highlights the technical aspects of the platform, while a growth team member emphasizes its potential for marketing and product launches. Founders share their personal experiences using Motion for social media videos, noting the quick turnaround time.
+
+Overall, the discussion reflects a positive reception of Motion, with users eager to explore its applications and provide feedback. There is a consensus on its utility for creative projects and marketing efforts, along with an invitation for further questions and engagement from the community.

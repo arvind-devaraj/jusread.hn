@@ -1,0 +1,8 @@
+Can gzip be a language model?  (15 pts, 2 comments)
+https://news.ycombinator.com/item?id=48557691
+
+The Hacker News discussion revolves around the idea of using gzip, a compression algorithm, as a language model. The original post explores the surprising effectiveness of gzip in modeling language, despite its primary function being data compression. The author notes that while the quality of the language modeling isn't exceptional, the concept of leveraging a compressor for this purpose is intriguing.
+
+In the comments, users express agreement on the potential of large language models (LLMs) to perform lossless compression effectively, particularly through techniques like arithmetic coding. One commenter highlights that other compression algorithms, such as PPMd, utilize variable n-grams and may yield better results, though they are less novel since they inherently incorporate language modeling. Another commenter references a YouTube video that provides additional insights into why using a compressor for language modeling can work, indicating a shared interest in the underlying mechanics of this approach.
+
+Overall, the discussion reflects a mix of curiosity and technical analysis regarding the intersection of compression algorithms and language modeling, with participants appreciating the unexpected capabilities of gzip in this context.

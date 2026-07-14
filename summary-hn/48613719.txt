@@ -1,0 +1,8 @@
+Why Amazon hates 'human-in-the-loop' AI governance  (12 pts, 1 comments)
+https://news.ycombinator.com/item?id=48613719
+
+The Hacker News discussion revolves around an article from The Register that explores Amazon's aversion to "human-in-the-loop" AI governance. The piece argues that Amazon prefers to automate decision-making processes without human oversight to avoid potential liability for errors, particularly in sensitive applications like law enforcement.
+
+In the comments, there is a consensus that Amazon's reluctance stems from a desire to minimize accountability for the consequences of AI decisions. One commenter humorously suggests that the company internally refers to this as "liability in the loop," indicating that they would rather attribute any mistakes to bugs rather than human oversight. This highlights a broader concern about the ethical implications of AI deployment and the responsibilities of companies in managing AI systems.
+
+Overall, the discussion underscores the tension between automation and accountability in AI governance, with participants reflecting on the potential risks of removing human oversight from critical decision-making processes.

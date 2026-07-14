@@ -1,0 +1,8 @@
+Ask HN: What problem did AI create at your company that didn't exist before?  (12 pts, 12 comments)
+https://news.ycombinator.com/item?id=48525718
+
+The Hacker News discussion revolves around the challenges and problems that companies face due to the integration of AI into their workflows. The original poster shares their experience of encountering new headaches in AI-heavy projects and asks others to share similar experiences.
+
+In the comments, several key issues are highlighted. Many users express concerns about trust and accountability, noting that AI-generated content often leads to meaningless reviews and documentation, which necessitates additional manual oversight. This results in increased workloads rather than the anticipated efficiency gains. Others mention the proliferation of excessive and unclear communication, with AI-generated messages contributing to a negative signal-to-noise ratio in internal communications. There is also a sentiment that reliance on AI can undermine individual accountability, as employees may blame AI for poor outputs.
+
+Notable insights include the idea that while AI can streamline certain tasks, it often creates new complexities that detract from productivity. Users emphasize the need for critical evaluation of AI-generated content and the importance of maintaining clear communication and accountability in teams. Overall, the discussion reflects a mix of frustration and caution regarding the integration of AI in professional settings.

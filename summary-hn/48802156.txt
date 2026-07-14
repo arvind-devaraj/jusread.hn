@@ -1,0 +1,8 @@
+The Hitchhiker's Guide to Agentic AI  (51 pts, 4 comments)
+https://news.ycombinator.com/item?id=48802156
+
+The Hacker News discussion centers around a paper titled "The Hitchhiker's Guide to Agentic AI," which appears to explore the concept of agentic AI—artificial intelligence that can act autonomously and make decisions. The post likely highlights practical applications and examples of such AI systems.
+
+In the comments, users express a mix of appreciation and critique. One commenter, apwheele, promotes their own book aimed at software engineers, emphasizing a practical approach to using AI APIs rather than delving into the complexities of training models. Another user, cognitiveinline, praises the textbook's organization, while kennywinker reflects on the connections between the paper's themes and Douglas Adams' views on AI, noting the often superficial nature of current AI implementations. Lastly, spzb humorously relates to Marvin, the depressed robot from Adams' work, suggesting a sense of disillusionment with the current state of AI.
+
+Overall, the discussion highlights a desire for more practical resources in AI development, a recognition of the limitations of current AI systems, and a nostalgic connection to the insights of Douglas Adams regarding technology and its implications.

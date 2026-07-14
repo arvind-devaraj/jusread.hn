@@ -1,0 +1,8 @@
+A Heuristic for When to Reason vs When to Act  (10 pts, 1 comments)
+https://news.ycombinator.com/item?id=48895724
+
+The Hacker News discussion revolves around a Medium post titled "A Heuristic for When to Reason vs When to Act," which explores the balance between analytical thinking and taking action. The author suggests that knowing when to engage in reasoning versus when to act is crucial for effective decision-making, particularly in dynamic environments where circumstances can change rapidly.
+
+In the comments, user glenstein expresses appreciation for the post, emphasizing the importance of asking the right questions as a key part of problem-solving. They share personal experiences of struggling with the balance between thinking and doing, indicating a desire for a framework to help navigate this challenge. The discussion highlights a shared recognition that while the heuristic presented may not provide a comprehensive solution, it offers valuable insights into managing the tension between analysis and action.
+
+Overall, the conversation reflects a collective interest in improving decision-making processes and acknowledges the complexities involved in finding the right balance between reasoning and acting.

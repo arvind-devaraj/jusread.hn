@@ -1,0 +1,8 @@
+Delete Doesn't Mean Deleted. Just Ask OpenAI  (10 pts, 0 comments)
+https://news.ycombinator.com/item?id=48603143
+
+The Hacker News discussion revolves around a post titled "Delete Doesn't Mean Deleted. Just Ask OpenAI," which explores the complexities and implications of data deletion in the context of AI and digital platforms. The author argues that when users delete their data, it often remains stored in some form, raising concerns about privacy and data ownership.
+
+In the comments, participants generally agree on the challenges of truly deleting data in the digital age, with some debating the ethical responsibilities of companies like OpenAI in handling user data. Notable insights include the recognition that users often lack a clear understanding of how their data is managed and the potential risks associated with data retention practices.
+
+Overall, the discussion highlights the tension between user expectations of privacy and the realities of data management, emphasizing the need for greater transparency and user control over personal information.

@@ -1,0 +1,8 @@
+Ask HN: Running local LLMs? What's your model and hardware  (11 pts, 9 comments)
+https://news.ycombinator.com/item?id=48698057
+
+The Hacker News discussion titled "Ask HN: Running local LLMs? What's your model and hardware" revolves around users sharing their experiences and setups for running local large language models (LLMs). Participants discuss various models they are using, such as qwen3-coder, Laguna, and others, along with the hardware specifications that support these models.
+
+The main points of agreement in the comments include the popularity of specific models like qwen3-coder and Laguna, with users highlighting their performance on different hardware setups. There is a consensus that running LLMs can be challenging, particularly for those using non-NVIDIA GPUs, as many AI tools and libraries are optimized for CUDA, making AMD users feel like "second-class citizens." Some users also mention the importance of matching software environments precisely to avoid technical issues.
+
+Notable insights include the recognition of Laguna's efficiency on CPUs and the challenges faced by users with varying hardware configurations. Additionally, there are discussions about the need for dynamic context management in projects to optimize performance. Overall, the conversation reflects a community eager to share knowledge and troubleshoot the complexities of running LLMs locally.
