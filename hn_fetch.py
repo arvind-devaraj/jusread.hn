@@ -3,7 +3,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 URL = "https://hn.algolia.com/api/v1/search_by_date"
 HITS_PER_PAGE = 1000  # max allowed per query
-LOOKBACK_DAYS = 90
+LOOKBACK_DAYS = 120
 DAY_SECONDS = 24 * 60 * 60
 
 
