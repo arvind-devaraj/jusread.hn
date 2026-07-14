@@ -1,0 +1,8 @@
+Prove you are a robot: CAPTCHAs for agents  (108 pts, 70 comments)
+https://news.ycombinator.com/item?id=47781950
+
+The Hacker News discussion revolves around a post titled "Prove you are a robot: CAPTCHAs for agents," which explores a novel approach to CAPTCHAs designed to differentiate between automated agents and human users. The post describes a scenario where an agent encounters a CAPTCHA that includes a mix of characters, including Japanese and Chinese numerals, leading to a debate about the linguistic distinctions between the two languages.
+
+In the comments, users engage in a lively discussion about the effectiveness and practicality of this CAPTCHA system. Some express skepticism about its utility, arguing that it may not effectively prevent API key farming by deterministic scripts, as humans can still use agents to bypass the system. Others highlight the cleverness of the approach, suggesting it could serve as a marketing tool to attract users while ensuring that genuine agents are allowed access.
+
+Notable insights include the recognition that while the CAPTCHA may be an interesting concept, it relies on assumptions about the capabilities of AI and human interaction with technology. Some commenters suggest that the system might be more about engaging the tech community than providing a robust solution to the problem of distinguishing between bots and humans. Overall, the discussion reflects a mix of admiration for the creativity behind the idea and skepticism about its practical implications.

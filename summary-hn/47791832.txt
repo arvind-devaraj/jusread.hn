@@ -1,0 +1,8 @@
+Ask HN: How are you using LLMs in production?  (14 pts, 12 comments)
+https://news.ycombinator.com/item?id=47791832
+
+The Hacker News discussion titled "Ask HN: How are you using LLMs in production?" explores how various individuals and companies are implementing large language models (LLMs) in real-world applications. The original poster seeks insights into specific applications, industries where LLMs are most beneficial, orchestration tools used, and the types of models being deployed.
+
+In the comments, there is a mix of skepticism and enthusiasm regarding the use of LLMs. Some users emphasize the importance of finding practical use cases rather than getting caught up in the hype, suggesting that LLMs should enhance existing processes rather than replace deterministic solutions. Notable applications mentioned include monitoring elderly behavior, automating updates for bureaucratic guides, and generating sales presentations. Users also discuss the potential of LLMs in scientific research and personal management.
+
+Overall, the discussion highlights a cautious yet innovative approach to integrating LLMs, with participants sharing diverse experiences and applications while acknowledging the need for thoughtful implementation.

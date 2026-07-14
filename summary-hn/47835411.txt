@@ -1,0 +1,8 @@
+Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness  (160 pts, 73 comments)
+https://news.ycombinator.com/item?id=47835411
+
+The post introduces Mediator.ai, a platform that leverages Nash bargaining and large language models (LLMs) to facilitate fair negotiations. The creator, inspired by their own experience with mediation, aims to systematize the negotiation process by capturing each party's preferences through LLM interviews. These preferences are then used to guide a genetic algorithm in finding mutually agreeable solutions.
+
+In the comments, users express a mix of interest and skepticism. Some praise the potential of LLM-assisted mediation to democratize conflict resolution, while others question the practicality of defining fairness and the risk of users gaming the system by overstating their preferences. There are discussions about the limitations of the tool, particularly regarding privacy concerns and the assumption that stated preferences reflect true desires. Notably, some commenters suggest that the tool could be beneficial in low-stakes situations but may struggle in high-conflict scenarios where parties are less inclined to seek fairness.
+
+Overall, the discussion highlights both the innovative application of AI in mediation and the complexities of human negotiation dynamics, emphasizing the need for careful consideration of power imbalances and the nature of fairness in conflict resolution.

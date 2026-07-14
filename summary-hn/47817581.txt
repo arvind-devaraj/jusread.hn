@@ -1,0 +1,8 @@
+Graphs that explain the state of AI in 2026  (115 pts, 62 comments)
+https://news.ycombinator.com/item?id=47817581
+
+The Hacker News discussion revolves around an article titled "Graphs that explain the state of AI in 2026," which presents various data visualizations related to the current and projected state of artificial intelligence. The comments reflect a mix of skepticism and optimism regarding the competitive landscape of AI, particularly concerning the existence of market moats and the implications of open-source models.
+
+Key points of debate include whether large language models (LLMs) possess significant competitive advantages (or moats) in the market. Some commenters argue that traditional market complexities create standard moats, while others suggest that open-source alternatives are rapidly catching up, potentially undermining established players. There is also discussion about the environmental impact of AI, with concerns raised about carbon emissions from training models, and whether these figures are significant compared to global emissions.
+
+Notable insights include the acknowledgment that while AI may not eliminate market competition, it complicates it, and the potential for regulatory changes, such as EU subsidies for open-source models. Additionally, there is a recognition of the generational divide in attitudes toward AI, with younger individuals exhibiting skepticism about its benefits and limitations. Overall, the conversation highlights the multifaceted nature of AI's future, encompassing economic, environmental, and societal dimensions.

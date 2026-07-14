@@ -1,0 +1,8 @@
+Wiki Builder: Skill to Build LLM Knowledge Bases  (134 pts, 19 comments)
+https://news.ycombinator.com/item?id=47997915
+
+The Hacker News discussion revolves around the concept of a "Wiki Builder" as a tool for creating knowledge bases for large language models (LLMs). The original post highlights the challenges and nuances of building wikis that are user-friendly and accessible, contrasting traditional wikis with more structured systems that require pull requests for edits.
+
+In the comments, there is a strong debate about the definition and functionality of a wiki. Many users argue that true wikis should allow for immediate edits without the need for formal approval processes, emphasizing that the essence of a wiki is its ease of use and collaborative nature. Some commenters express frustration with the current trend of labeling knowledge bases as wikis, arguing that this misrepresents their purpose and functionality. Others discuss the technical aspects of integrating wikis with LLMs and the challenges of maintaining accurate and up-to-date information.
+
+Notable insights include the recognition that the user experience and social dynamics of collaboration are critical to the success of a wiki. There is also a call for tools that simplify the maintenance of wikis, allowing for automatic updates and verification of information, which could enhance their utility for both technical and non-technical users. Overall, the discussion reflects a desire for more intuitive and accessible knowledge-sharing platforms.

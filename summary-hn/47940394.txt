@@ -1,0 +1,6 @@
+OpenAI Reportedly Working on an AI Smartphone to Rival iPhone  (14 pts, 9 comments)
+https://news.ycombinator.com/item?id=47940394
+
+The Hacker News discussion revolves around a report that OpenAI is developing an AI smartphone intended to compete with the iPhone. Commenters express skepticism about the viability of introducing another smartphone into an already crowded market. Many question the consumer demand for such a product, suggesting that it seems more beneficial for OpenAI than for potential users.
+
+The main points of debate include the perceived lack of a clear value proposition for consumers, with several commenters likening the initiative to past tech failures that prioritized company goals over user needs. Some express concern that the product may not resonate with the average consumer, while others suggest that OpenAI should focus on creating an app store for AI-generated applications instead of a new phone. Notably, the discussion highlights a broader critique of Silicon Valley's tendency to prioritize innovation for its own sake rather than addressing genuine consumer desires.

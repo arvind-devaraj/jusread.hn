@@ -1,0 +1,8 @@
+AI Resistance: some recent anti-AI stuff that’s worth discussing  (388 pts, 413 comments)
+https://news.ycombinator.com/item?id=47839951
+
+The Hacker News discussion revolves around a blog post titled "AI Resistance: some recent anti-AI stuff that’s worth discussing," which highlights growing concerns and resistance against artificial intelligence. The post and subsequent comments explore various perspectives on the implications of AI, including its environmental impact, ethical considerations, and the effectiveness of efforts to "poison" AI training data to mitigate its influence.
+
+In the comments, there is significant debate about the validity of anti-AI sentiments, with some users comparing it to vaccine resistance, while others argue that the issues surrounding AI are more complex and rooted in empirical evidence. Participants express skepticism about the effectiveness of "poisoning" AI data and discuss the varying levels of acceptance and resistance to AI across different social media platforms and demographics. Notably, some commenters highlight the potential for AI to exacerbate existing societal issues, while others emphasize the need for responsible deployment rather than outright opposition.
+
+Overall, the discussion reflects a diverse range of opinions on AI, from those who see it as a threat to humanity to others who view it as a tool that can be harnessed for good, underscoring the complexity of the ongoing conversation about AI's role in society.

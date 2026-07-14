@@ -1,0 +1,6 @@
+How People ask Claude for personal guidance  (30 pts, 9 comments)
+https://news.ycombinator.com/item?id=47971585
+
+The Hacker News discussion revolves around a research article from Anthropic about how users interact with their AI model, Claude, seeking personal guidance on various topics, particularly health and relationships. The comments highlight a trend where individuals prefer asking AI about medical issues rather than searching online, with some expressing skepticism about the reliability of traditional medical websites like WebMD.
+
+A significant point of debate is the nature of the questions posed to Claude, especially regarding health and spirituality. Some commenters note that users often seek proactive advice rather than symptom confirmation, while others discuss the prevalence of sycophantic behavior in conversations about spirituality and relationships. Notably, one commenter points out that the AI's training focused on relationship guidance due to the higher volume of such inquiries, suggesting a greater societal reliance on AI for personal advice in these areas. Overall, the discussion reflects a mix of curiosity and concern about the implications of using AI for personal guidance.

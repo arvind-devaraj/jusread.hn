@@ -1,0 +1,8 @@
+Show HN: Ilha – a UI library that fits in an AI context window  (23 pts, 9 comments)
+https://news.ycombinator.com/item?id=47791875
+
+The Hacker News discussion revolves around the launch of Ilha, a UI library designed to fit within the context window of AI applications. The creator, ryuzyy, shares the library's capabilities and invites feedback from the community.
+
+In the comments, there is a mix of appreciation and constructive criticism. Some users express interest in experimenting with Ilha, while others suggest improvements, such as enhancing the landing page to clarify the library's purpose. A notable issue raised was a navigation bug with the "Get Started" button, which was promptly addressed by the creator. Additionally, a user inquired about the availability of UI components, to which ryuzyy clarified that Ilha does not include built-in components but can be used alongside CSS frameworks like Tailwind.
+
+Overall, the discussion highlights a positive reception of Ilha, with users eager to explore its potential while also offering suggestions for improvement and clarification.

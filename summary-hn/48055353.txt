@@ -1,0 +1,8 @@
+Ask HN: What will happen as AI costs increase?  (15 pts, 23 comments)
+https://news.ycombinator.com/item?id=48055353
+
+The Hacker News discussion revolves around the implications of rising costs in AI, particularly as the current "penetration pricing" phase—where costs are subsidized by heavy investment—comes to an end. The original post prompts users to speculate on the practical fallout of increased AI expenses.
+
+In the comments, there is a consensus that many businesses, especially small and medium-sized ones, may struggle or even fail due to rising AI costs. Some users argue that companies might revert to hiring human employees for tasks previously handled by AI, while others suggest that a market correction will lead to a more stable use of AI as just another tool. There is also debate about the sustainability of current AI models and the potential emergence of cheaper alternatives, such as open-source models.
+
+Notable insights include concerns about dependency on proprietary AI services, the potential for a shift in consumer behavior towards more utility-based pricing models, and the idea that rising costs could push companies to adopt hybrid architectures that combine local models with more advanced, expensive ones. Overall, the discussion reflects a mix of apprehension and optimism about the future of AI as costs rise.

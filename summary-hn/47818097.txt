@@ -1,0 +1,6 @@
+Ask HN: Anyone know of that "levels of AI programming" blog post?  (10 pts, 7 comments)
+https://news.ycombinator.com/item?id=47818097
+
+The Hacker News discussion revolves around a user's request for a specific blog post that outlines various levels of AI involvement in programming, ranging from no AI use to scenarios where AI systems autonomously direct one another. The user intends to reference these levels in the README of their open-source project, which incorporates both human and AI contributions.
+
+In the comments, several users quickly provide links to relevant resources, including "The 8 Levels of Agentic Engineering" and "The Five Levels: From spicy autocomplete to the dark factory." There is a consensus on the importance of establishing a standard for documenting AI involvement in projects, suggesting that such classifications could become a norm in project documentation. Notably, one commenter mentions the need for techniques and procedures related to AI usage, indicating a broader interest in the implications of AI in software development. Overall, the discussion highlights a growing awareness and need for clarity regarding AI's role in programming.

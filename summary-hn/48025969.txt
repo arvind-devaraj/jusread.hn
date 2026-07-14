@@ -1,0 +1,8 @@
+Richard Dawkins concludes AI is conscious, even if it doesn't know it  (18 pts, 18 comments)
+https://news.ycombinator.com/item?id=48025969
+
+The Hacker News discussion revolves around Richard Dawkins' assertion that AI can be considered conscious, even if it lacks self-awareness. This claim has sparked a variety of reactions among commenters, who express skepticism and debate the nature of consciousness itself.
+
+Key points of contention include whether consciousness requires being alive, with some arguing that current AI, based on statistical modeling, cannot achieve true consciousness. Others criticize Dawkins for seemingly applying different standards to AI compared to animals, highlighting a perceived inconsistency in his views. Some commenters also reflect on Dawkins' reputation, suggesting that his credibility has diminished over time, particularly due to his controversial statements on social issues.
+
+Notable insights include the idea that the Turing test may be inverted, prompting questions about our own understanding of consciousness. Additionally, some commenters emphasize the importance of distinguishing between genuine sentience and the illusion of it created by advanced AI, likening it to stage magic. Overall, the discussion reveals a deep divide in perspectives on consciousness, both in AI and humans.

@@ -1,0 +1,8 @@
+Can non-developer build commercial products with AI  (10 pts, 11 comments)
+https://news.ycombinator.com/item?id=47880204
+
+The Hacker News discussion revolves around the feasibility of non-developers building commercial products using AI tools. The original poster shares their experience of needing to intervene in the coding process while using AI, emphasizing that a deep understanding of technical fundamentals is crucial for overcoming challenges in product development.
+
+In the comments, there is a consensus that while non-developers can create applications with AI, they will face significant learning curves and potential pitfalls. Many commenters agree that a basic technical understanding is necessary to effectively leverage AI tools, as blindly trusting them can lead to inefficiencies and errors. Some highlight that while coding agents can assist with specific tasks, a lack of foundational knowledge may result in a "forever failure" loop. Notably, several participants stress that while it is possible to produce a working product, achieving a scalable and secure commercial product without sufficient technical expertise is unlikely.
+
+Overall, the discussion underscores the importance of learning and adapting as one navigates the complexities of product development with AI, suggesting that while non-developers can succeed, they must be prepared for a challenging journey.

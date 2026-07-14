@@ -1,0 +1,6 @@
+Show HN: Omi – watches your screen, hears conversations, tells you what to do  (19 pts, 12 comments)
+https://news.ycombinator.com/item?id=47784914
+
+The Hacker News discussion centers around a project called Omi, an AI tool designed to enhance productivity by monitoring users' screens and conversations. Omi provides proactive notifications and advice based on the user's workflow, aiming to address the limitations of existing tools that require manual input. The creator highlights the challenge of developing effective proactive notifications and outlines the technology stack used, including Swift, Rust, and various AI models.
+
+In the comments, users express a mix of skepticism and intrigue. Some find the concept of a digital assistant that micromanages productivity amusing or concerning, while others see potential applications in educational or practical settings. There are debates about the feasibility of real-time screen analysis and concerns regarding privacy and data security. Notably, some commenters question the effectiveness of AI in understanding individual goals and providing relevant advice, suggesting that it may lead to irrelevant interruptions rather than meaningful assistance. Overall, the discussion reflects a blend of curiosity about the technology and caution regarding its implications.

@@ -1,0 +1,8 @@
+Ask HN: Am I getting old, or is working with AI juniors becoming a nightmare?  (52 pts, 48 comments)
+https://news.ycombinator.com/item?id=47888068
+
+The Hacker News discussion revolves around a user's concern about the challenges of working with junior developers who heavily rely on AI tools like ChatGPT for coding. The original poster notes that this reliance leads to bloated, unreadable code and raises questions about the future of software development, suggesting that the ability to orchestrate AI might become a crucial skill, while traditional coding skills could become obsolete.
+
+In the comments, there is a mix of agreement and debate. Many commenters acknowledge the rapid changes in the development process and express concern about the quality of code produced by AI and inexperienced developers. Some argue that while AI can enhance productivity, it often results in poor code quality, especially when juniors lack the experience to critically evaluate AI-generated outputs. Others believe that the future will see a shift towards AI orchestration as a key skill, with some predicting that traditional coding may eventually become outdated.
+
+Notable insights include the idea that the current state of software development was already problematic before AI's rise, and that the reliance on AI could exacerbate existing issues. There are also concerns about the long-term implications of AI-generated code flooding the internet and potentially training future AI systems on subpar outputs. Overall, the discussion reflects a mix of optimism about AI's potential and apprehension about its impact on coding standards and developer skills.

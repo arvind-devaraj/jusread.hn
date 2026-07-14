@@ -1,0 +1,8 @@
+Ask HN: Is AI resulting in net revenue gain for non-tech companies?  (10 pts, 9 comments)
+https://news.ycombinator.com/item?id=47966827
+
+The Hacker News discussion revolves around the question of whether AI is generating net revenue gains for non-tech companies, focusing on its impact beyond coding applications. The original poster seeks insights into how AI usage is affecting overall earnings and sales.
+
+In the comments, there is a consensus that while AI may not directly increase revenue, it is leading to significant cost savings, particularly by reducing the need for customer service staff. However, this shift has raised concerns about increased consumer dissatisfaction, as companies prioritize efficiency over service quality. Some commenters argue that the lack of effective customer support due to AI reliance could lead to long-term negative consequences for businesses, despite short-term financial gains. Others express skepticism about the sustainability of these practices, suggesting that consumers may eventually push back against poor service.
+
+Notable insights include the idea that corporations are uniformly moving towards minimal customer service, which could create a cycle of dissatisfaction with no viable alternatives for consumers. Additionally, there are concerns about the potential hidden failures of AI systems, which may not be widely reported due to legal protections like NDAs. Overall, the discussion highlights the complex trade-offs between cost-cutting measures and customer experience in the age of AI.

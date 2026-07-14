@@ -1,0 +1,8 @@
+Perturb-MARS: Reading mouse experiments through a human lens  (24 pts, 5 comments)
+https://news.ycombinator.com/item?id=48013083
+
+The Hacker News discussion revolves around a blog post titled "Perturb-MARS: Reading mouse experiments through a human lens," which introduces a new AI model designed to interpret mouse experimental data in a way that is relevant to human physiology. The model is trained on extensive human medical data, specifically using 18,963-plex spatial transcriptomics, to predict human outcomes based on mouse experiments.
+
+In the comments, there is a mix of skepticism and curiosity about the model's effectiveness. One commenter expresses concern about the lack of a preprint or publication for the tools being discussed, emphasizing the challenge of making significant, peer-review-worthy findings. Another commenter clarifies that the model aims to project mouse data into a human context, acknowledging the potential for failure due to differences in physiology but noting that preliminary results have been surprisingly promising.
+
+Overall, the discussion highlights both the innovative approach of using AI for cross-species data interpretation and the critical need for rigorous validation and publication of results to gain acceptance in the scientific community.

@@ -1,0 +1,8 @@
+Ask HN: How do you choose a model for a task?  (10 pts, 14 comments)
+https://news.ycombinator.com/item?id=48096861
+
+The Hacker News discussion revolves around how to determine if a model is suitable for a specific task in AI, with the original poster using Opus for complex tasks and Sonnet for more straightforward ones. They express concerns about Sonnet's ability to handle larger contexts effectively and seek advice on establishing a definitive measure of a model's adequacy.
+
+In the comments, there is a consensus that evaluating models is challenging and often subjective, with many users sharing their experiences and preferences. Some suggest using a model's performance over multiple tasks as a benchmark, while others advocate for setting an "error budget" to quantify acceptable performance. Notable insights include the idea that the choice of model often depends on the task's complexity and the importance of context, with users recommending specific models for different applications, such as Opus for coding and Gemini for recent information retrieval.
+
+Overall, the discussion highlights the nuanced nature of model selection, emphasizing that while personal experience and "vibes" play a significant role, systematic evaluation methods can enhance decision-making.

@@ -1,0 +1,8 @@
+Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture  (245 pts, 55 comments)
+https://news.ycombinator.com/item?id=47886517
+
+The Hacker News discussion revolves around a project titled "How LLMs Work," which is an interactive visual guide based on Andrej Karpathy's lecture on large language models (LLMs). The creator of the site used an LLM, Claude Code, to generate the content from the lecture's transcript, presenting it in a single HTML file. The creator finds the format helpful for revisiting the material.
+
+In the comments, there is a mix of appreciation and criticism. Some users commend the clarity of the explanations and the effort to make the content interactive, while others argue that the site is misleading as it primarily repurposes LLM-generated content without significant original input. Concerns are raised about the accuracy of certain statements, particularly a claim regarding hard drive capacity, which was later corrected by the creator. Additionally, some commenters express frustration with the site's design and usability issues, especially on mobile devices.
+
+Notable insights include discussions about the nature of LLM-generated content, with some users emphasizing the importance of proper attribution and the potential pitfalls of relying on AI for educational material. Others recommend alternative resources, such as Jay Alammar's "The Illustrated GPT-2," which they believe offer more reliable and human-curated explanations of LLMs. Overall, the conversation highlights the ongoing debate about the value and reliability of AI-generated content in educational contexts.

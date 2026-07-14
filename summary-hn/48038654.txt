@@ -1,0 +1,8 @@
+Show HN: DoodleMate: Animate Your Child's Hand Drawings Without Generative AI  (15 pts, 12 comments)
+https://news.ycombinator.com/item?id=48038654
+
+The Hacker News discussion centers around DoodleMate, an app that animates children's hand drawings without using generative AI. The creator, Jesse, explains that the app quickly transforms a photo of a drawing into a fully rigged character for animation, relying on non-generative AI techniques to streamline the process. The app is currently in community beta, and Jesse is seeking feedback to improve it and develop additional features like DoodleMate Studio for user-generated stories.
+
+In the comments, there is a debate about the distinction between generative and non-generative AI. Some users express excitement about the app's potential, particularly for engaging children in creativity, while others question whether the non-generative approach limits flexibility compared to generative AI. Jesse clarifies that while generative AI offers open-ended possibilities, it comes with challenges like cost and consistency, making DoodleMate's approach more focused on preserving the original drawing's intent.
+
+Overall, the discussion highlights a positive reception of DoodleMate, with users appreciating its ease of use and potential to inspire children. There is also interest in future developments, such as a mobile app version, to enhance accessibility and user experience.

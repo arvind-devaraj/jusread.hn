@@ -1,0 +1,8 @@
+Best AI coding plan alternative to Claude and ChatGPT  (16 pts, 13 comments)
+https://news.ycombinator.com/item?id=48081266
+
+The Hacker News discussion revolves around a user seeking alternatives to Claude and ChatGPT for AI coding plans, particularly due to Claude's decreasing usage limits. The user is considering several options, including GLM Coding Plan, BytePlus, Kimi AI, and MiniMax, and is looking for recommendations based on performance, value, and usage limits. They are also open to Chinese language AI options.
+
+In the comments, users share their experiences with various AI plans. A common theme is the concern over token consumption, with some users noting that alternatives like Kimi AI and DeepSeek can burn through tokens more quickly than Claude. Others mention specific plans that offer better value or performance, such as GLM and Chutes, which provide competitive pricing and decent quality. Notably, some users highlight the importance of harnessing techniques to optimize token usage, while others express frustration over the complexity of accessing certain services.
+
+Overall, the discussion reflects a mix of user experiences and insights, with a focus on finding cost-effective AI solutions that maintain performance for coding and research tasks.

@@ -1,0 +1,6 @@
+Ars Technica newsroom AI policy  (19 pts, 6 comments)
+https://news.ycombinator.com/item?id=47869145
+
+The Hacker News discussion centers around Ars Technica's newly established AI policy for its newsroom, which outlines how AI tools may be used in the reporting process. The policy emphasizes that while AI can assist with research tasks like summarizing documents and navigating large datasets, its outputs will not be treated as authoritative and must be verified by reporters.
+
+In the comments, there is a mix of agreement and skepticism regarding the policy. Some users express concern about the presence of ads in the article discussing the policy, while others appreciate the option to subscribe for an ad-free experience. A notable point of debate arises around the effectiveness and reliability of AI in journalism, with one commenter highlighting the irony of needing a formal policy after a reporter used AI to generate misleading quotes. Overall, there is a consensus that AI should be treated as a tool for assistance rather than a replacement for human judgment in reporting.

@@ -1,0 +1,8 @@
+543 Hours: What happens when AI runs while you sleep  (11 pts, 11 comments)
+https://news.ycombinator.com/item?id=47825432
+
+The Hacker News discussion revolves around a blog post titled "543 Hours: What happens when AI runs while you sleep," where the author, Michael Roth, shares insights from a project involving autonomous AI agents that operate continuously to produce code. The title refers to the total compute hours the AI agents have run, emphasizing that the work is largely agent-to-agent rather than human-driven.
+
+In the comments, there is significant debate regarding the credibility and clarity of Roth's claims. Some commenters express skepticism about the feasibility of the project, questioning the lack of tangible results or examples of the "shipped code." Roth defends his work by explaining that the production code is proprietary, but he offers open-source tools related to the project. Critics highlight the blog's writing style and structure as off-putting and difficult to parse, suggesting that it lacks the human touch necessary for effective communication.
+
+Notable insights include the tension between the author's self-identified expertise and the skepticism from the community, as well as the challenges of presenting complex AI work in an accessible manner. The discussion reflects broader concerns about the transparency and accountability of AI-generated outputs in professional settings.

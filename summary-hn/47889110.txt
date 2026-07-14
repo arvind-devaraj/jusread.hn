@@ -1,0 +1,8 @@
+Show HN: Atomic – Local-first, AI-augmented personal knowledge base  (62 pts, 43 comments)
+https://news.ycombinator.com/item?id=47889110
+
+The Hacker News discussion revolves around a product called Atomic, which is a local-first, AI-augmented personal knowledge base. The creator shares recent updates, including a rebuilt iOS app, an upcoming Android version, enhanced chat tools, a custom markdown editor, and a dashboard for tracking content updates. Atomic allows users to self-host their knowledge base and offers various methods for content input, such as RSS feeds and web clippers.
+
+In the comments, users debate the differences between Atomic and existing tools like Obsidian, with some highlighting Atomic's use of LLMs for auto-tagging and semantic search as a key advantage. There are discussions about the app's local-first claim, with some users questioning why cloud options appear prioritized in the setup process. Others suggest additional features, such as audio transcription, and express concerns about the proliferation of similar AI-powered knowledge base tools, fearing a lack of collaboration in the space.
+
+Notable insights include a mix of excitement for Atomic's features and skepticism about its implementation and marketing. Some users appreciate the product's potential, while others criticize its reliance on cloud services despite being marketed as local-first. Overall, the conversation reflects a blend of enthusiasm for innovation in personal knowledge management and caution regarding the direction of AI integration in such tools.

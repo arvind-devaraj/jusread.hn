@@ -1,0 +1,8 @@
+Show HN: AI CAD Harness  (101 pts, 96 comments)
+https://news.ycombinator.com/item?id=47977694
+
+The Hacker News discussion revolves around a new AI tool called Adam, designed to integrate directly with CAD software like Onshape and Fusion 360. Developed by Zach and his team, Adam aims to assist mechanical engineers by providing a harness that understands and edits existing CAD feature trees, rather than generating models from scratch. The tool is currently in beta and allows users to perform tasks like merging features, renaming them for clarity, and parametrizing models.
+
+In the comments, there is a lively debate about the effectiveness of Adam compared to open-source alternatives like OpenSCAD and FreeCAD. Some users argue that traditional CAD tools are too complex and bloated, suggesting that simpler, script-based tools would be more suitable for AI integration. Others defend the necessity of professional CAD software, emphasizing its capabilities that open-source tools lack. There are also discussions about the challenges of AI adoption in engineering fields, with some commenters expressing skepticism about AI's ability to replace human expertise in complex design tasks.
+
+Notable insights include the recognition that while AI can automate certain aspects of CAD design, the intricate nature of engineering problems often requires human intuition and experience. Additionally, there is a consensus that the integration of AI into existing workflows must be seamless to gain traction among professionals who are accustomed to their current tools.

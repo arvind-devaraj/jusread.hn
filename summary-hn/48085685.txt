@@ -1,0 +1,6 @@
+Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s  (263 pts, 13 comments)
+https://news.ycombinator.com/item?id=48085685
+
+The Hacker News discussion revolves around a blog post titled "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s," which focuses on optimizing matrix multiplication performance in Swift for large language model (LLM) training. The article highlights techniques to enhance computational efficiency, particularly in the context of Swift programming, an area that lacks extensive documentation.
+
+In the comments, users express appreciation for the article's insights, noting its value even for those not specifically interested in LLMs. A key point of debate arises around the use of AMX (Advanced Matrix Extensions) versus SME (Scalable Matrix Extension) instructions, with some commenters clarifying the transition from AMX to SME in newer hardware. There is also discussion about the complexities of achieving peak GPU performance compared to CPUs, with differing opinions on whether this complexity is significant. Notably, several commenters praise the author, Matt Gallagher, for his contributions to Swift and iOS development, highlighting the clarity and quality of his writing on technical topics.

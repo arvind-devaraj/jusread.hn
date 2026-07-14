@@ -1,0 +1,8 @@
+Show HN: Filling PDF forms with AI using client-side tool calling  (60 pts, 29 comments)
+https://news.ycombinator.com/item?id=47984675
+
+The Hacker News discussion centers around a project called SimplePDF Copilot, an AI tool designed to assist users in filling out PDF forms directly within their browser, without sending sensitive document data to external servers. The tool leverages client-side processing to maintain privacy, allowing users to fill fields, add or delete pages, and interact with the PDF in various ways. The creator emphasizes the importance of privacy, especially for healthcare customers, and highlights the tool's ability to integrate with different AI models, including local options.
+
+In the comments, users express interest in the tool's potential applications, such as filling out foreign-language forms or navigating contracts. However, there are concerns about the clarity of data handling, particularly regarding the transmission of chat messages to remote servers. Some users suggest improvements, like embedding a local LLM for enhanced privacy. Others compare SimplePDF Copilot to existing solutions like Adobe Acrobat and discuss its usability for individuals versus organizations.
+
+Notable insights include the recognition of the tool's unique approach to client-side processing and the emphasis on privacy, which resonates with users in sensitive industries. The discussion also highlights the ongoing need for secure and efficient PDF editing solutions, with suggestions for future enhancements to the tool.

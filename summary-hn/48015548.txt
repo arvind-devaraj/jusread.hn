@@ -1,0 +1,8 @@
+What do we lose when AI does our work?  (18 pts, 10 comments)
+https://news.ycombinator.com/item?id=48015548
+
+The Hacker News discussion revolves around the implications of AI taking over tasks traditionally performed by humans, as explored in the original essay by Ricky Yean. The post raises concerns about the loss of human experiences and creativity when AI is used for writing and other tasks.
+
+In the comments, there is a mix of agreement and skepticism. Some users express nostalgia for authentic human expression, while others question the necessity of AI for tasks that can be done manually. A notable point made is the importance of ensuring that innovation serves to enhance human vitality rather than merely increasing efficiency. Additionally, there is a debate about the role of humans in the AI workflow, with some arguing that AI should complement human effort rather than replace it entirely.
+
+Overall, the discussion highlights a tension between the benefits of AI in terms of productivity and the potential loss of human connection and creativity in the process.

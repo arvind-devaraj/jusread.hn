@@ -1,0 +1,8 @@
+Accelerating Gemma 4: faster inference with multi-token prediction drafters  (687 pts, 330 comments)
+https://news.ycombinator.com/item?id=48024540
+
+The Hacker News discussion revolves around Google's announcement of accelerated inference capabilities for its Gemma 4 model through multi-token prediction (MTP) drafters. The blog post highlights how MTP can enhance the performance of the model, making it faster and more efficient for various applications.
+
+In the comments, users express confusion over Google's lack of promotion for its cloud services related to Gemma 4, with some suggesting that Google should actively encourage users to utilize its cloud infrastructure for inference. There is a debate about the viability of smaller models compared to larger ones, with some users advocating for the fine-tuning of smaller models for specific tasks, while others question the practicality and cost-effectiveness of using certain models over others. Notably, some users share their experiences with different models, highlighting performance differences and the importance of context in model output.
+
+Overall, the discussion reveals a mix of skepticism and enthusiasm regarding the capabilities of Gemma 4 and its competition with other models. Users are particularly interested in practical applications and the potential for improved performance through MTP, while also expressing frustration with the complexities of Google's product offerings and the lack of clear guidance on using the model effectively.

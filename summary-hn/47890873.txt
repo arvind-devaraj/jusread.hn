@@ -1,0 +1,8 @@
+Different language models learn similar number representations  (115 pts, 47 comments)
+https://news.ycombinator.com/item?id=47890873
+
+The Hacker News discussion revolves around a paper titled "Different Language Models Learn Similar Number Representations," which explores how various language models (LLMs) develop comparable representations of numbers. The paper suggests that both the training data and model architecture contribute to this phenomenon, prompting debates about the implications of these findings.
+
+In the comments, users engage in discussions about the "platonic representation hypothesis," which posits that different models converge on similar representations due to shared exposure to reality. Some argue that this convergence is more about human symbolic representation rather than an inherent understanding of numbers. Others express skepticism about the models' actual understanding of quantity, citing that LLMs may fail tests designed to assess numerical reasoning in animals, indicating a lack of deeper comprehension.
+
+Notable insights include the idea that understanding the shared representations could facilitate advancements in model training and weight compression. Additionally, there are reflections on the implications for universal grammar and the nature of learning in both artificial and biological systems, suggesting that emergent similarities in representations might reveal underlying cognitive processes common to both.

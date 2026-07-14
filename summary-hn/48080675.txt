@@ -1,0 +1,8 @@
+Show HN: Modafinil - Let agents continue running while MacBook lid is closed  (15 pts, 25 comments)
+https://news.ycombinator.com/item?id=48080675
+
+The Hacker News discussion revolves around a new macOS utility called "Modafinil," designed to prevent a MacBook from sleeping when the lid is closed, while also turning off the display. The creator, hamza_q_, explains that this app serves as a convenient wrapper around the existing command `sudo pmset disablesleep 1`, adding functionality to turn off the display, which some users found lacking in other similar applications like Amphetamine.
+
+In the comments, users express enthusiasm for the app, with some sharing their previous methods for preventing sleep. There is a light-hearted debate about the name "Modafinil," with some users noting the trend of software adopting names from pharmaceuticals and discussing the implications of this naming convention. Others mention the potential confusion it may cause in search results, as well as the humorous connection to the drug's reputation for enhancing focus.
+
+Overall, the discussion highlights a mix of appreciation for the utility's functionality, playful banter about its name, and a recognition of the challenges in naming software in a crowded market.

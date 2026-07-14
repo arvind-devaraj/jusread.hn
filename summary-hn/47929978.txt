@@ -1,0 +1,8 @@
+Show HN: PrePrompt – rewrites vague prompts before they reach the LLM  (23 pts, 7 comments)
+https://news.ycombinator.com/item?id=47929978
+
+The Hacker News discussion centers around PrePrompt, a tool developed by Yashdeep Tehlan that automatically rewrites vague prompts before they are sent to a language model (LLM). The tool uses heuristics to evaluate prompts quickly and learns user preferences over time, optimizing responses based on individual coding styles and frameworks without requiring external API calls.
+
+In the comments, users express interest in the tool's functionality, with one user asking about compatibility with Claude subscriptions, which Tehlan confirms. Another user raises concerns about the potential for the tool to misinterpret prompts, suggesting that a dialog clarification mode could be beneficial. Tehlan acknowledges this feedback and mentions that such a feature is planned for future development. Additionally, a user compliments the website's design, indicating a positive reception of the overall presentation of the tool.
+
+Overall, the discussion highlights a mix of enthusiasm for the tool's capabilities and caution regarding its automatic adjustments, with users looking forward to further enhancements.

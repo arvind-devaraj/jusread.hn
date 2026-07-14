@@ -1,0 +1,8 @@
+LLMorphism: When humans come to see themselves as language models  (82 pts, 58 comments)
+https://news.ycombinator.com/item?id=48082021
+
+The Hacker News discussion revolves around the concept of "LLMorphism," which suggests that as large language models (LLMs) become more prevalent, people may start to perceive themselves as functioning similarly to these models. The original paper posits that this shift in self-perception could lead to a reductionist view of human cognition, equating it to the mechanistic operations of LLMs.
+
+In the comments, there is a mix of agreement and skepticism regarding the idea that humans might think like LLMs. Some commenters argue that while there may be superficial similarities, such as the predictive nature of both systems, the depth of human reasoning and consciousness cannot be reduced to LLM-like processes. Others point out that analogies between human cognition and machines are not new and have historically evolved with technological advancements. Notably, some participants express concern about the implications of LLMorphism, suggesting it could lead to objectification or a diminished view of human agency.
+
+Several insights emerge from the discussion, including the notion that while LLMs may mimic certain aspects of human language processing, they lack the ability to reason and create novel insights. Additionally, there are reflections on how exposure to LLMs might influence human communication styles, with some commenters noting that they or their peers have begun to adopt LLM-like verbal patterns. Overall, the conversation highlights the complexities of comparing human cognition to artificial intelligence and raises questions about the societal implications of such comparisons.

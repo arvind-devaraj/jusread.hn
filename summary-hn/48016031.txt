@@ -1,0 +1,8 @@
+Ask HN: Where are you getting your AI news from?  (10 pts, 16 comments)
+https://news.ycombinator.com/item?id=48016031
+
+The Hacker News discussion titled "Ask HN: Where are you getting your AI news from?" revolves around users sharing their preferred sources for staying updated on AI developments beyond Hacker News. The original poster is seeking recommendations for reliable news outlets and platforms.
+
+In the comments, several users suggest a variety of sources, including social media platforms like X (formerly Twitter), newsletters, and specialized websites. Notable mentions include following researchers from OpenAI and Anthropic, using newsletters that compile HN links, and platforms like Telegram and Instagram for curated content. Some users also express a desire to filter out sensationalized news, indicating a common frustration with the overwhelming volume of AI-related information. Additionally, there are mentions of alternative tech news sources, highlighting a broader interest in technology beyond AI.
+
+Overall, the discussion reflects a community actively seeking efficient ways to navigate the rapidly evolving AI landscape, with a mix of traditional and modern media sources being favored.

@@ -1,0 +1,8 @@
+Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount  (97 pts, 159 comments)
+https://news.ycombinator.com/item?id=48081942
+
+The Hacker News discussion revolves around a recent article highlighting growing resentment among Gen Z towards AI, particularly as its adoption stagnates and workplace fears increase. While over half of Gen Z still uses AI weekly, a significant portion—31%—report feeling anger towards the technology, reflecting a decline in positive sentiment.
+
+In the comments, users debate the implications of AI on employment and society, with some arguing that AI primarily benefits the wealthy and may lead to economic instability for tech companies. Others express skepticism about the narratives surrounding AI, suggesting that the messaging from tech leaders often exaggerates risks and benefits. Notably, there is a consensus that the rapid rollout of AI has not been accompanied by adequate consideration of its societal impacts, leading to a sense of disillusionment among younger generations.
+
+Several commenters also draw parallels between AI and past technological fads, suggesting that while AI may currently dominate discussions, its long-term value and impact remain uncertain. The conversation reflects a broader concern about the quality of technology and its effects on creativity, employment, and societal norms, with some advocating for a more cautious approach to AI development.

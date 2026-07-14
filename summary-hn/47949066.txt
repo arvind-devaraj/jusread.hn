@@ -1,0 +1,8 @@
+Show HN: DAC – open-source dashboard as code tool for agents and humans  (119 pts, 35 comments)
+https://news.ycombinator.com/item?id=47949066
+
+The Hacker News discussion revolves around the launch of DAC (Dashboard-As-Code), an open-source tool designed to facilitate the creation of dashboards primarily for AI agents. The creator, Burak, explains that traditional dashboard tools often rely heavily on UI, making it difficult for agents to automate their creation. DAC aims to address this by allowing dashboards to be defined in version-controllable text formats like YAML and JSX, enabling easier review and validation of changes. The tool supports multiple SQL backends and includes a semantic layer for standardizing metrics.
+
+In the comments, users express a mix of curiosity and skepticism about DAC's approach. Some suggest improvements, such as adding visual examples to the documentation and clarifying how DAC compares to existing tools. A notable debate arises around the use of YAML for configuration, with some users questioning its scalability and readability, while others defend its utility for human-readable configurations. Additionally, there are discussions about the potential for AI-generated dashboards and the importance of validation in ensuring dashboard integrity.
+
+Overall, the conversation highlights both enthusiasm for DAC's innovative approach to dashboard creation and concerns about its implementation and usability compared to established tools in the space.

@@ -1,0 +1,8 @@
+Show HN: Git for AI Agents  (129 pts, 66 comments)
+https://news.ycombinator.com/item?id=48063548
+
+The Hacker News discussion revolves around a project called "Git for AI Agents," which aims to provide version control specifically for AI agents. The creator, doshay, highlights the challenges of understanding the actions and decisions made by AI agents, such as tracking changes and justifying their actions. The open-source solution currently supports Claude Code, with plans to expand to other AI frameworks.
+
+In the comments, there is a mix of enthusiasm and skepticism. Some users praise the idea, suggesting it could improve workflows by providing a clearer history of agent actions. Others argue that existing tools like Git can already fulfill these needs, questioning the necessity of a separate version control system for AI agents. Notable insights include the suggestion that tracking intent in commits could enhance understanding and that the project could benefit from integrating with existing tools or workflows.
+
+Overall, the discussion reflects a broader interest in improving AI agent interactions while also debating the effectiveness of new solutions versus established methods like Git.

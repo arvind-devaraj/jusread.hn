@@ -1,0 +1,8 @@
+Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs  (79 pts, 37 comments)
+https://news.ycombinator.com/item?id=48046023
+
+The Hacker News discussion revolves around a project called "Agent-skills-eval," which aims to evaluate whether the addition of agent skills improves the outputs of language models. The project is hosted on GitHub and seeks community support for further development.
+
+In the comments, users express interest in the tool's potential to assess the effectiveness of skills, with some sharing personal experiences of how skills may have negatively impacted their interactions with models. A significant point of debate is the terminology and mechanics of how skills are activated within models, with discussions on whether skills are deterministically added or require the model to choose to use them. There are also concerns about the accuracy of the documentation and the need for updated examples.
+
+Notable insights include skepticism about the overall effectiveness of skills compared to traditional training methods, with some users advocating for more comprehensive evaluation metrics, such as token cost alongside correctness. The conversation highlights a desire for standardized benchmarks and the potential for developing skills tailored to specific organizational needs based on user interactions.

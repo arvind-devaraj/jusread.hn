@@ -1,0 +1,8 @@
+There's yet another study about how bad AI is for our brains  (50 pts, 63 comments)
+https://news.ycombinator.com/item?id=47793522
+
+The Hacker News discussion revolves around a recent study highlighting the negative impacts of AI on cognitive abilities, particularly in programming and problem-solving. The article suggests that reliance on AI tools may lead to diminished persistence, critical thinking, and overall mental acuity among developers.
+
+In the comments, there is a significant debate about the analogy of AI as a "junior employee" versus its actual capabilities. Some users argue that AI lacks the self-direction and learning potential of human developers, while others express concern that over-reliance on AI could lead to a decline in essential skills and knowledge. Many commenters share personal experiences of how AI tools have affected their focus and productivity, with some noting that they feel less mentally sharp or more dependent on AI for problem-solving.
+
+Notable insights include the idea that while AI can enhance productivity, it may also contribute to cognitive atrophy, similar to how GPS reliance has diminished navigation skills. Some users advocate for practices like "Rawdog Thursdays," where developers would work without AI assistance to maintain their skills. Overall, the discussion reflects a mix of skepticism and cautious optimism about the role of AI in the workplace, emphasizing the need for balance in its use.

@@ -1,0 +1,8 @@
+How Kepler built verifiable AI for financial services with Claude  (44 pts, 23 comments)
+https://news.ycombinator.com/item?id=47999754
+
+The Hacker News discussion revolves around a blog post by Anthropic detailing how Kepler has developed a verifiable AI system for financial services using Claude, their AI model. The architecture combines large language models (LLMs) for intent recognition with deterministic code for data retrieval and computation, ensuring that every output is traceable to its source.
+
+In the comments, users engage in a debate about the effectiveness and reliability of LLMs in this context. Some express skepticism about the inherent trustworthiness of LLMs, suggesting they introduce friction rather than streamline processes. Others argue that the deterministic infrastructure serves as a necessary verification layer, allowing LLMs to translate natural language queries into reliable outputs. Notably, there is a consensus on the importance of maintaining a human-in-the-loop approach in financial services, given the critical nature of accuracy in this field.
+
+Overall, the discussion highlights a growing interest in combining LLMs with deterministic systems to enhance data processing while addressing concerns about the reliability and transparency of AI outputs. Several commenters also share their own experiences and projects that reflect similar architectural approaches, indicating a broader trend in the industry towards verifiable AI solutions.

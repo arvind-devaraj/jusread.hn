@@ -1,0 +1,8 @@
+Ask HN: What Makes AI a Bubble?  (19 pts, 38 comments)
+https://news.ycombinator.com/item?id=47928683
+
+The Hacker News discussion revolves around the question of whether the current valuations of AI companies represent a bubble. The original poster expresses confusion about the notion of an AI bubble, arguing that high revenues and rapid growth suggest a solid market foundation rather than speculative overvaluation. They acknowledge that some specific companies might face devaluation, but believe this would not indicate a broader bubble.
+
+In the comments, there is significant debate about the sustainability of AI company revenues and the costs associated with their operations. Some commenters argue that while revenues appear high, they may not be tied to sustainable business models, with many companies operating at a loss due to high compute costs. Others draw parallels to past bubbles, suggesting that excessive investor enthusiasm and a lack of clear profitability could lead to a similar outcome for AI. Notably, some contributors highlight that the current AI trend may be driven more by hype than by actual productivity gains, with concerns that expectations may not be met in a sluggish global economy.
+
+Overall, the discussion reflects a mix of optimism about AI's potential and skepticism regarding its current economic viability, with many participants urging caution in interpreting the rapid growth and investment in the sector.

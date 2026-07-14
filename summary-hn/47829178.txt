@@ -1,0 +1,8 @@
+Claude Token Counter, now with model comparisons  (224 pts, 83 comments)
+https://news.ycombinator.com/item?id=47829178
+
+The Hacker News discussion revolves around a post about the Claude Token Counter, which now includes model comparisons between different versions of the Claude AI model (Opus 4.6 and 4.7). The post highlights the increased token usage in the newer model and raises questions about the implications of this change, particularly regarding cost and performance.
+
+In the comments, users express a mix of agreement and debate over the reasons behind the increased token count. Some believe that the changes may be a strategic move by Anthropic to prevent reverse engineering and maintain a closed ecosystem, while others argue that the new tokenizer could lead to better model performance despite the higher token costs. There is also concern about the potential for users to feel pressured to upgrade their subscription tiers due to increased token consumption.
+
+Notable insights include the idea that while the new tokenizer may increase costs, it could also enhance the model's efficiency in reaching correct answers, potentially offsetting the higher token usage. Some users express frustration with the lack of transparency from Anthropic regarding these changes, suggesting that clearer communication could alleviate concerns among users. Overall, the discussion reflects a broader tension between cost, performance, and user experience in AI model usage.

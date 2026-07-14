@@ -1,0 +1,8 @@
+Natural-language messages between LLM agents are an architectural anti-pattern  (21 pts, 7 comments)
+https://news.ycombinator.com/item?id=48099171
+
+The Hacker News discussion revolves around a post titled "Natural-language messages between LLM agents are an architectural anti-pattern," which critiques the use of natural language for communication between large language model (LLM) agents. The author argues that relying on text-based messages can lead to inefficiencies and challenges in testing and validation.
+
+In the comments, there is a debate about the nature of LLMs and their preferred content format. Some users argue that LLMs are fundamentally designed to understand and process text, while others highlight that LLMs operate using semantic vectors, which can lead to lossy translations between text and these vectors. This raises questions about the internal representations LLMs use and their implications for communication between agents.
+
+Notably, some commenters express skepticism about the post's conclusions, suggesting that structured formats for text communication could have been developed but were not prioritized in the industry. Others emphasize the inherent non-determinism of LLMs, arguing that this characteristic complicates the idea of testing LLM agents based on string inputs and outputs. Overall, the discussion reflects a mix of technical insights and differing opinions on the effectiveness of using natural language in LLM architectures.

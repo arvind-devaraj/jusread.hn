@@ -1,0 +1,8 @@
+Principles for agent-native CLIs  (112 pts, 50 comments)
+https://news.ycombinator.com/item?id=48052333
+
+The Hacker News discussion revolves around the concept of "agent-native CLIs," which are command-line interfaces designed primarily for AI agents rather than human users. The original post, linked to a Twitter thread, outlines principles for creating these CLIs, emphasizing the need for non-interactive modes, structured outputs, and user-friendly command options.
+
+In the comments, there is significant debate about the implications of designing CLIs for agents. Some users argue against the idea, suggesting that it could lead to poor usability for humans and stray from traditional UNIX principles. Others support the notion, claiming that agent-first design can enhance both human and machine interactions with tools. Notable insights include the idea that agents should be able to handle commands without needing to reference help documentation repeatedly, and that the output format should prioritize natural language over structured formats like JSON for small data sets.
+
+Overall, the discussion highlights a tension between maintaining established command-line practices and adapting to the evolving needs of AI agents, with participants sharing varied perspectives on the best approach to CLI design in this new context.

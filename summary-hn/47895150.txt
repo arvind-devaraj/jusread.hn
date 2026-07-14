@@ -1,0 +1,8 @@
+GPT-5.5 is generally available for GitHub Copilot  (24 pts, 9 comments)
+https://news.ycombinator.com/item?id=47895150
+
+The Hacker News discussion revolves around the announcement that GPT-5.5 is now generally available for GitHub Copilot. Users are reacting to the implications of this new model, particularly its pricing structure compared to previous versions.
+
+A key point of debate is the significant increase in the cost of using GPT-5.5, which is double that of GPT-5.4, while GitHub Copilot applies a 7.5x markup and restricts access to premium plans. Some commenters express concern that GitHub has previously underpriced its models, leading to unsustainable costs. Additionally, there is confusion regarding a recent change in how GitHub Copilot meters usage—shifting from requests to tokens—which some users believe has not been officially confirmed.
+
+Notable opinions include skepticism about the reliability of news sources discussing these changes, with one user suggesting that AI-generated content may be contributing to misinformation. Overall, the discussion highlights concerns over pricing, service quality, and the transparency of GitHub's updates.

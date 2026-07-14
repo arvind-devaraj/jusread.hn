@@ -1,0 +1,6 @@
+Show HN: Parrot – a fun, skeuomorphic audio recorder to hear yourself  (21 pts, 6 comments)
+https://news.ycombinator.com/item?id=47996331
+
+The Hacker News discussion centers around "Parrot," a web app designed for recording short audio clips, primarily aimed at helping language learners improve their pronunciation. The app allows users to record and listen to their voice without saving previous recordings, making it easy to overwrite clips. The creator emphasizes the fun, skeuomorphic design of the app and shares insights on the importance of thorough testing during development.
+
+In the comments, users express appreciation for the app's unique microphone access feature, which mimics real-life interactions, and share their experiences using it for language practice. One user highlights its effectiveness for learning Portuguese, while another discusses the discomfort of hearing one's own voice and how it can lead to improved confidence over time. The creator engages with the community, acknowledging the positive feedback and discussing the psychological aspects of voice perception and improvement.

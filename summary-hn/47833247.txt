@@ -1,0 +1,8 @@
+Atlassian enables default data collection to train AI  (604 pts, 136 comments)
+https://news.ycombinator.com/item?id=47833247
+
+The Hacker News discussion revolves around Atlassian's decision to enable default data collection from all users—both free and paid—to train their AI systems. This includes sensitive information from tools like Confluence and Jira, with users being automatically opted-in to this data collection. While Atlassian has indicated that users will have the ability to opt out of this data collection in the future, many commenters express skepticism about the timing and transparency of this rollout.
+
+The main points of debate in the comments include concerns over the lack of immediate opt-out options, the potential misuse of sensitive data, and the overall trustworthiness of Atlassian as a company. Users highlight the risks of industrial espionage and the implications of having confidential information used for AI training. Notable opinions include frustration with Atlassian's track record of software bugs and poor user experience, as well as a general sentiment that the company's focus on new features often comes at the expense of reliability and user privacy.
+
+Overall, the discussion reflects a broader concern about data privacy in the tech industry, particularly regarding how companies handle user data for AI development, and a growing distrust of large software providers like Atlassian.

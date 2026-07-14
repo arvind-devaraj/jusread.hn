@@ -1,0 +1,8 @@
+Time to add option in Hacker News "AI excluded Show HN"  (19 pts, 6 comments)
+https://news.ycombinator.com/item?id=48039702
+
+The Hacker News discussion revolves around a user's suggestion to add an option to exclude AI-related content from the site, expressing frustration with the prevalence of AI projects and updates. The user feels that the focus on AI is diminishing their interest in Hacker News.
+
+In the comments, there is a mix of agreement and debate. Some users acknowledge that the quality of submissions has improved due to stricter rules around AI-related content, while others argue that the essence of Hacker News—intellectual curiosity and meaningful discussions—may be compromised when projects heavily rely on AI. A few commenters share their experiences, noting that non-AI projects struggle to gain traction in the current landscape dominated by AI content.
+
+Notably, some users suggest existing tools and methods to filter out AI-related posts, indicating that while the desire for an official exclusion option exists, there are already workarounds available for those seeking to avoid AI discussions.

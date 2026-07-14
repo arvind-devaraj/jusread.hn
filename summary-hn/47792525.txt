@@ -1,0 +1,8 @@
+Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh  (159 pts, 42 comments)
+https://news.ycombinator.com/item?id=47792525
+
+The Hacker News discussion centers around a project called MacMind, which implements a transformer neural network using HyperCard on a 1989 Macintosh. The creator, SeanFDZ, trained the model to learn the bit-reversal permutation, a fundamental step in the Fast Fourier Transform, using HyperTalk, the scripting language of HyperCard. The project showcases how modern AI concepts can be executed on vintage hardware, emphasizing that the underlying mathematics of AI is not dependent on advanced technology.
+
+In the comments, users express fascination with the potential of old hardware and the innovative ways in which modern algorithms can be adapted to run on it. There is a consensus that many foundational concepts in AI were conceived long ago but lacked the resources for practical implementation at the time. Some commenters draw parallels to retro computing and homebrew projects, highlighting the creativity involved in working within constraints.
+
+Notable insights include the idea that the progress in AI is not solely due to advancements in hardware but also the clever application of algorithms. The discussion reflects a broader appreciation for the ingenuity of early computing and the enduring relevance of mathematical principles in technology, regardless of the platform.

@@ -1,0 +1,8 @@
+After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber  (143 pts, 119 comments)
+https://news.ycombinator.com/item?id=47973108
+
+The Hacker News discussion centers around a TechCrunch article that critiques OpenAI for restricting access to its new AI model, Cyber, after previously criticizing Anthropic for limiting access to its model, Mythos. The conversation highlights the competitive landscape of AI development, where companies are grappling with high operational costs and the need for government contracts to sustain their businesses.
+
+In the comments, users debate the implications of pricing strategies among AI providers, particularly comparing OpenAI's offerings to those of Chinese companies like DeepSeek, which are perceived to be subsidized. There is a consensus that no AI company has yet turned a profit from large language models (LLMs), with some commenters suggesting that the focus should be on losses rather than pricing. Additionally, there are discussions about the potential for models to be used in cybersecurity and the varying quality of outputs from different AI systems.
+
+Notable insights include skepticism about the actual capabilities of AI models, with some commenters arguing that the hype surrounding them may not align with their performance. There is also a recognition of the strategic maneuvers by both U.S. and Chinese companies in the AI space, suggesting that the competition is not just about technology but also about market positioning and government influence. Overall, the discussion reflects a mix of skepticism, competitive analysis, and concern over the future of AI development.

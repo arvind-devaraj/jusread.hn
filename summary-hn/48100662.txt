@@ -1,0 +1,8 @@
+I let AI build a tool to help me figure out what was waking me up at night  (276 pts, 279 comments)
+https://news.ycombinator.com/item?id=48100662
+
+The post discusses the author's experience using AI to create a tool that helps identify what disturbances are waking them up at night. By analyzing noise data, the author discovered that specific sounds, like door slams and motorbikes, were responsible for their sleep disruptions. They also mention improvements in their sleep quality after taking action based on the findings.
+
+In the comments, there is a mix of agreement and skepticism regarding the necessity and complexity of using AI for this purpose. Some users suggest simpler methods, like recording audio or using white noise, while others express concern that the focus on technology may overlook fundamental issues like stress or environmental factors affecting sleep. Notably, discussions about CO2 levels in the bedroom and their impact on sleep quality emerge, with some commenters advocating for better ventilation and air quality management.
+
+Overall, the conversation highlights a broader debate about the role of technology in addressing personal health issues, with some advocating for straightforward solutions over high-tech approaches. There is also a recognition of the importance of understanding individual sleep patterns and environmental influences, suggesting that while AI can provide insights, it may not be the ultimate solution for everyone.

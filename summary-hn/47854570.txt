@@ -1,0 +1,8 @@
+Ask HN: Claude Code Alternative  (10 pts, 6 comments)
+https://news.ycombinator.com/item?id=47854570
+
+The Hacker News discussion revolves around a user seeking alternatives to Claude Code, particularly looking for cheaper options that provide similar or better functionality. The user expresses dissatisfaction with issues like availability, costs, and account bans associated with Claude Code and mentions their experiences with other tools like pi.dev, OpenCode, Qwen CLI, and Gemini CLI.
+
+In the comments, several users suggest alternatives, with a notable mention of Mistral Codestral, which is currently free to use. While some users express satisfaction with Mistral's performance, comparisons with Opus remain inconclusive due to a lack of benchmark data. There is a debate about the economic value of spending on AI tools, with one commenter arguing that even a $100 monthly expense is justified given the benefits. Others express skepticism about the simplicity of pi.dev but acknowledge its growing popularity.
+
+Overall, the discussion highlights a search for cost-effective AI solutions, with varying opinions on the effectiveness and value of different tools in comparison to Claude Code.

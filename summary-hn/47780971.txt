@@ -1,0 +1,6 @@
+Show HN: Libretto – Making AI browser automations deterministic  (134 pts, 52 comments)
+https://news.ycombinator.com/item?id=47780971
+
+The Hacker News discussion centers around Libretto, a tool designed to create deterministic browser automations using AI. Unlike traditional methods that rely on runtime AI prompts, Libretto generates readable scripts in advance, allowing users to inspect, modify, and debug them. The tool combines Playwright UI automation with direct network/API requests for improved reliability, particularly in complex environments like healthcare.
+
+In the comments, users express interest in Libretto's approach, highlighting its advantages over existing tools like Playwright and Stagehand, which often produce non-deterministic outcomes. There is a consensus on the need for reliable automation in high-stakes scenarios, with some users sharing their own experiences and tools. Notable insights include discussions on handling dynamic web content, the importance of maintaining code quality, and the potential for integrating Libretto with existing AI tools to enhance functionality without incurring additional costs. Overall, the community is excited about the possibilities Libretto offers for improving browser automation workflows.

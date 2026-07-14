@@ -1,0 +1,8 @@
+Launch HN: Voker (YC S24) – Analytics for AI Agents  (59 pts, 22 comments)
+https://news.ycombinator.com/item?id=48109962
+
+The Hacker News discussion centers around the launch of Voker.ai, an analytics platform designed for AI product teams to monitor and improve the performance of conversational agents. Co-founders Alex and Tyler explain that Voker provides insights into user interactions with agents, helping teams understand intents, corrections, and resolutions without sifting through logs. The platform aims to address the lack of visibility in agent performance, which often leads to poor user experiences and inefficient debugging processes.
+
+In the comments, users debate Voker's differentiation from similar tools like Langfuse and Amplitude. Some commenters express skepticism about Voker's reliance on LLMs for intent classification, questioning the potential for inaccuracies. Others highlight the importance of user outcomes over raw metrics and discuss the challenges of comparing agents with different tools and policies. Notably, the founders emphasize their focus on product and user outcomes rather than just technical debugging, which resonates with some commenters who see value in this approach.
+
+Overall, the discussion reveals a mix of interest and skepticism about Voker's capabilities, with users seeking clarity on its unique value proposition and practical applications in real-world scenarios.

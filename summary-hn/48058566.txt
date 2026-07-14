@@ -1,0 +1,8 @@
+Agentic Engineering  (23 pts, 9 comments)
+https://news.ycombinator.com/item?id=48058566
+
+The Hacker News discussion revolves around the concept of "Agentic Engineering," which refers to the use of AI agents in software development to automate code generation and testing. The original post emphasizes the shift from traditional code review processes to relying on automated systems and tests to ensure code reliability, especially as the number of concurrent agents increases.
+
+In the comments, there is a consensus on the necessity of robust testing and specifications to maintain trust in automated systems. Some commenters argue that while AI can enhance productivity, it should not replace the need for human oversight and understanding of the code being produced. Others express concern about the implications of relying too heavily on AI, suggesting that it may lead to a decline in engineering skills and a potential loss of accountability in the development process.
+
+Notable insights include the comparison of AI-assisted coding to advanced driver-assistance systems in cars, where human oversight remains crucial. There is also a critique of the notion that increasing code production rates is inherently beneficial, highlighting the need for balance in the engineering process. Overall, the discussion reflects a mix of optimism about AI's capabilities and caution regarding its limitations and the importance of maintaining engineering integrity.

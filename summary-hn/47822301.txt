@@ -1,0 +1,6 @@
+Show HN: Backlit Keyboard API for Python  (27 pts, 2 comments)
+https://news.ycombinator.com/item?id=47822301
+
+The Hacker News discussion revolves around a new Python package called "Backlit Keyboard API," which allows users to control backlit keyboards on Linux systems. The creator highlights its potential for creating custom notifications, such as blinking lights when a website goes down, and mentions that MacOS support is in progress, while Windows support has not been tested.
+
+In the comments, users express interest in the package, with one asking about its compatibility with various keyboards on Linux. The creator responds that it should work with any keyboard that provides a System API for brightness control, as they have successfully tested it on Fedora. Overall, the discussion reflects enthusiasm for the tool's capabilities and a desire for broader compatibility across different operating systems.

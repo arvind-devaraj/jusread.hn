@@ -1,0 +1,8 @@
+Advancing voice intelligence with new models in the API  (36 pts, 5 comments)
+https://news.ycombinator.com/item?id=48051991
+
+The Hacker News discussion revolves around OpenAI's announcement of new models for voice intelligence in their API, highlighting advancements in real-time voice interactions. The post details pricing for audio input tokens, which sparked curiosity about the cost-effectiveness of using the service.
+
+In the comments, users express a mix of enthusiasm and skepticism. One commenter questions the affordability of the pricing model, while another notes that the new GPT-Realtime-Whisper model is not open weight, contrasting it with previous models. There’s also a discussion about the potential for real-time voice applications, with one user sharing their experience of integrating voice capabilities using other AI tools. The conversation emphasizes the competitive landscape in voice AI, with users recognizing its practical applications and the ongoing advancements in the field.
+
+Overall, the discussion reflects a blend of excitement about the potential of voice AI, concerns about accessibility and pricing, and recognition of OpenAI's leadership in this area compared to competitors, particularly in non-English language capabilities.

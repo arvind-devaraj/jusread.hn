@@ -1,0 +1,8 @@
+Show HN: Graph Compose – Temporal workflows with visual builder, SDK, and AI  (13 pts, 19 comments)
+https://news.ycombinator.com/item?id=47847918
+
+The Hacker News discussion revolves around Graph Compose, a hosted platform designed for orchestrating API workflows using Temporal. Users can create workflows visually through a React Flow builder, a TypeScript SDK, or an AI assistant that translates plain English into workflow graphs. The platform is open-core, with some components under AGPL-3.0, while others are proprietary.
+
+In the comments, users express enthusiasm about the platform's potential and share their experiences with workflow orchestration challenges. Key points of discussion include the debugging experience when workflows fail, with the creator explaining options for error handling and the visibility of workflow execution through Temporal's dashboard. There are inquiries about integration with other systems, like DBOS, and concerns about governance and management of complex workflows, particularly in enterprise settings. Notably, users compare Graph Compose to other tools like n8n and ActivePieces, seeking clarity on when to use each solution.
+
+Overall, the conversation highlights a strong interest in the platform's capabilities, with users eager to explore its features while also raising important questions about workflow management and integration with existing systems.

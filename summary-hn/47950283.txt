@@ -1,0 +1,8 @@
+Show HN: A new benchmark for testing LLMs for deterministic outputs  (60 pts, 30 comments)
+https://news.ycombinator.com/item?id=47950283
+
+The Hacker News discussion revolves around the introduction of a new benchmark called the Structured Output Benchmark (SOB) designed to evaluate the performance of large language models (LLMs) in generating structured outputs, such as JSON. The benchmark not only assesses the validity of the JSON schema but also the accuracy of the values produced, addressing a common issue where models may generate valid JSON but with incorrect or "hallucinated" values. The post highlights the performance of various models across different modalities (text, image, audio) and emphasizes the importance of measuring structured output for deterministic workflows.
+
+In the comments, users express concerns about the selection of models included in the benchmark, questioning the absence of notable models like Opus 4.7 and Gemini 3.1 Pro. Some commenters argue that the benchmark should focus on peak performance rather than mid-tier models, while others highlight the gap between JSON schema pass rates and value accuracy as a significant finding. There is also a debate about the nature of determinism in LLMs, with differing opinions on whether LLMs can be truly deterministic.
+
+Notable insights include the realization that many models excel at producing valid JSON but struggle with accuracy, revealing a critical area for improvement. Additionally, the open-source nature of the benchmark allows for community contributions and transparency in evaluating model performance, which is positively received by participants.

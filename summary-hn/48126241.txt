@@ -1,0 +1,8 @@
+EditLens: Quantifying the extent of AI editing in text (2025)  (28 pts, 5 comments)
+https://news.ycombinator.com/item?id=48126241
+
+The Hacker News discussion revolves around a research paper titled "EditLens: Quantifying the extent of AI editing in text," which explores methods for detecting AI-generated content. The main focus is on the challenges and limitations of using machine learning (ML) approaches for this detection, with participants debating the reliability of such methods.
+
+In the comments, there is a consensus that ML detection methods may always struggle due to the potential for models to be manipulated or "poisoned." Some users advocate for deterministic algorithmic approaches, while others argue that these too would face similar adversarial challenges. A notable point raised is the commercialization of AI detection through a company called Pangram, which offers detection as a service.
+
+Several commenters express skepticism about the effectiveness of detection methods, highlighting that simple human-like edits can easily bypass AI detectors. The discussion underscores the complexity of distinguishing between human and AI-generated text, suggesting that the low threshold for human quality makes systematic detection efforts problematic. Overall, the conversation reflects a broader concern about the evolving landscape of AI content generation and detection.

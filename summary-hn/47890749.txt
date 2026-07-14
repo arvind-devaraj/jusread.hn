@@ -1,0 +1,8 @@
+Ask HN: How are you using AI code assistants on large messy legacy code bases?  (13 pts, 14 comments)
+https://news.ycombinator.com/item?id=47890749
+
+The Hacker News discussion revolves around a developer's inquiry about using AI coding assistants, like Claude, to manage and improve a large, messy legacy codebase that has been developed over 20 years by various programmers. The developer expresses frustration with the AI's inability to maintain context across sessions, leading to inefficiencies and increased costs due to token limits.
+
+In the comments, several users share their experiences and strategies for effectively utilizing AI in similar situations. Key recommendations include starting with small, manageable sections of the codebase, using AI to generate documentation, and ensuring sensitive code is removed before analysis. Some users caution against relying too heavily on AI, suggesting that traditional methods of understanding the code can be more effective. Notably, there is a consensus that preparing documentation and breaking tasks into smaller steps can enhance the AI's performance and output quality.
+
+Overall, the discussion highlights both the potential benefits and limitations of AI code assistants in handling complex legacy systems, with a focus on practical tips for improving their effectiveness.

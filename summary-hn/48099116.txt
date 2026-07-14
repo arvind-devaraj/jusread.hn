@@ -1,0 +1,8 @@
+Anthropic,OpenAI meet religious leaders to discuss faith and AI  (23 pts, 12 comments)
+https://news.ycombinator.com/item?id=48099116
+
+The Hacker News discussion revolves around a recent meeting between AI companies Anthropic and OpenAI and various religious leaders to discuss the integration of morality and ethics into AI technology. The article raises questions about the sincerity of these tech leaders in seeking ethical guidance, with many commenters expressing skepticism about the motivations behind the meeting, suggesting it may be more of a publicity stunt than a genuine effort to address ethical concerns.
+
+The main points of debate in the comments include the perceived lack of ethics from both AI executives and some religious leaders, leading to a general sense of cynicism about the effectiveness of such discussions. Several commenters argue that AI, being devoid of truth and morality, cannot serve as a foundation for ethical frameworks. Others suggest that the collaboration between tech companies and religious institutions could be seen as a form of "responsibility laundering," where companies seek to improve their image without making substantive changes.
+
+Notable insights include comparisons to other industries that seek ethical guidance while engaging in questionable practices, such as arms dealers consulting religious figures on the morality of their products. Overall, the discussion reflects a deep skepticism about the intersection of faith and technology, emphasizing the need for genuine ethical considerations rather than superficial alliances.

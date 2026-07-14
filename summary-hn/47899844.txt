@@ -1,0 +1,8 @@
+Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)  (260 pts, 113 comments)
+https://news.ycombinator.com/item?id=47899844
+
+The Hacker News discussion revolves around a project called WUPHF, which introduces a wiki layer for AI agents that utilizes Markdown and Git as its foundational structure. The system allows agents to maintain a knowledge base that they can read from and write into, facilitating the accumulation of context over time. Key features include private notebooks for each agent, a shared team wiki, a draft-to-wiki promotion flow, and a daily linting process to ensure data quality. The creator emphasizes a minimalist approach, opting for Markdown and Git over more complex database solutions.
+
+In the comments, users express enthusiasm for the use of Markdown due to its durability and accessibility, while others question the effectiveness of AI agents in maintaining high-quality knowledge bases. There is debate about the potential downsides of relying on AI for note-taking and knowledge management, with some arguing that human oversight is crucial for maintaining quality. Notably, some commenters share their own experiences with similar systems, highlighting the importance of context and curation in ensuring the usefulness of AI-generated content.
+
+Overall, the discussion reflects a mix of optimism about the potential of AI-driven knowledge management tools and skepticism regarding their ability to replace human judgment and critical thinking in the curation process.

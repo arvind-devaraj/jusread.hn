@@ -1,0 +1,8 @@
+Show HN: A lightweight way to make agents talk without paying for API usage  (58 pts, 12 comments)
+https://news.ycombinator.com/item?id=47828968
+
+The Hacker News discussion revolves around a post titled "A lightweight way to make agents talk without paying for API usage," which introduces a method for facilitating communication between AI agents without incurring high costs associated with API usage. The author suggests using existing subscriptions and simple setups to enable this interaction.
+
+In the comments, users share various approaches to achieving agent communication, such as using tools like tmux, OpenCode, and Claude Code, which allow for collaborative workflows. There is a consensus on the effectiveness of these methods, with several users recommending specific tools and sharing their personal experiences. However, some commenters express frustration that the original article lacks detailed instructions on implementing the proposed solution, particularly for those wanting to utilize their existing ChatGPT Pro subscriptions.
+
+Notable insights include the idea of using tmux sessions as a form of short-term memory for agents, which can enhance their focus and allow for real-time corrections by users. Additionally, there is a cautionary note about the potential pitfalls of relying on agents that may simply reinforce existing biases rather than produce genuinely improved outcomes. Overall, the discussion highlights a growing interest in cost-effective AI solutions and collaborative agent interactions.

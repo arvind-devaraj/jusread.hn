@@ -1,0 +1,8 @@
+Can LLMs model real-world systems in TLA+?  (123 pts, 33 comments)
+https://news.ycombinator.com/item?id=48065254
+
+The Hacker News discussion revolves around the use of Large Language Models (LLMs) to create TLA+ specifications for modeling real-world systems. The original post highlights an experiment where an LLM, Claude, was tasked with writing a TLA+ spec for Etcd’s Raft implementation, which passed initial checks but raised concerns about the methodology used—specifically, that TLA+ should be used to derive specifications from system designs rather than the other way around.
+
+In the comments, there is a mix of optimism and skepticism regarding LLMs' capabilities in this domain. Some users express confidence in LLMs' potential to assist in generating formal models and identifying bugs, while others caution that LLMs may produce misleading or incorrect specifications, particularly regarding safety and liveness properties. Notably, there are discussions about the importance of human oversight in ensuring that the generated models align with the intended system design and the inherent challenges of verifying complex systems.
+
+Overall, the conversation reflects a broader debate about the role of automation in formal verification, with some participants advocating for the continued necessity of human input and design intent in the modeling process, while others see LLMs as valuable tools that could enhance efficiency and accuracy in formal specification tasks.

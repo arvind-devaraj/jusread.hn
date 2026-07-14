@@ -1,0 +1,8 @@
+Meta to start capturing employee mouse movements, keystrokes for AI training  (803 pts, 499 comments)
+https://news.ycombinator.com/item?id=47851948
+
+The Hacker News discussion centers around Meta's announcement that it will begin tracking employee mouse movements, keystrokes, and screen content to train its AI models. This initiative aims to develop AI agents capable of performing work tasks autonomously, as detailed in internal memos shared with employees.
+
+The comments reflect a mix of skepticism and concern regarding the implications of this tracking. Many commenters question the sincerity of Meta's assurances that the data will not be used for performance assessments, suggesting that it could lead to increased surveillance and job insecurity. Some express disillusionment with the company's culture, citing past layoffs and the perception that Meta prioritizes profit over employee welfare. Others highlight the high salaries as a primary reason for employees to remain with the company, despite ethical concerns.
+
+Notably, some commenters speculate that the tracking could serve as a pretext for future layoffs without severance, while others mock the idea of training AI on mundane employee behaviors. Overall, the discussion underscores a broader unease about privacy, corporate ethics, and the future of work in an increasingly automated environment.

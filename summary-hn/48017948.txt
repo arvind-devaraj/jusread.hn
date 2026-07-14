@@ -1,0 +1,8 @@
+Train Your Own LLM from Scratch  (478 pts, 50 comments)
+https://news.ycombinator.com/item?id=48017948
+
+The Hacker News discussion revolves around a GitHub repository titled "Train Your Own LLM from Scratch," which aims to provide a simple introduction to training large language models (LLMs) locally. Commenters generally appreciate the resource as a beginner-friendly guide, with some suggesting additional educational materials, such as Stanford's CS336 class, which delves deeper into the theoretical aspects of LLMs.
+
+A significant point of debate in the comments is the definition of what constitutes a "large" language model. Some users argue about the semantics of the term, questioning whether models with fewer parameters can still be considered "large" and discussing the implications of hardware advancements on these definitions. Others share their experiences with training models and the feasibility of doing so on consumer-grade hardware. Notably, there are discussions about the practicality of using PyTorch in the context of "from scratch" training, with some feeling that relying on established libraries diminishes the authenticity of the experience.
+
+Overall, the conversation highlights both the excitement and challenges of training LLMs, emphasizing the importance of understanding the underlying concepts while navigating the evolving landscape of machine learning terminology and capabilities.

@@ -1,0 +1,6 @@
+Show HN: Reducing LLM input tokens by 70%  (56 pts, 33 comments)
+https://news.ycombinator.com/item?id=48109600
+
+The Hacker News discussion revolves around a project called Adola, which claims to reduce input tokens for large language models (LLMs) by 70%. The post highlights the potential for cost savings while maintaining quality in LLM applications. Users can set a target ratio for token reduction through the API, allowing for flexibility based on their optimization needs.
+
+In the comments, there is a general consensus praising the quality of the code shared by the developer, with many users expressing appreciation for its cleanliness and organization. Some users raised concerns about the initial design of the landing page, which was criticized for resembling another project, but the developer acknowledged this and made improvements. Notably, there is a mix of genuine appreciation and skepticism, with one user suggesting that some comments may be automated or insincere. Overall, the discussion reflects a positive reception of the tool while also highlighting areas for improvement in presentation.

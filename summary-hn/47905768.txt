@@ -1,0 +1,8 @@
+DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles  (80 pts, 10 comments)
+https://news.ycombinator.com/item?id=47905768
+
+The Hacker News discussion revolves around the release of DeepSeek-V4, a new open-source project focused on fast inference and verified reinforcement learning using SGLang. The original post highlights the advancements and features of DeepSeek-V4, but it also touches on the competitive landscape among various open-source projects like SGLang, vLLM, and TRTLLM.
+
+In the comments, there is a debate about the lack of direct benchmarking comparisons between these competing projects. Some users express frustration that these projects, which are meant to provide alternatives to closed-source models, do not publish comparative benchmarks, suggesting that this could hinder transparency and progress. Others argue that the competition is friendly and that the absence of benchmarks may be due to logistical challenges, such as embargoed model weights and code access.
+
+Notable insights include the idea that publishing benchmarks is crucial for accountability and improvement in the open-source community. Additionally, some commenters highlight the confusion surrounding the marketing language used by these projects, indicating a need for clearer communication about their functionalities. Overall, the discussion reflects a mix of technical concerns and the dynamics of competition in the open-source AI landscape.

@@ -1,0 +1,8 @@
+EU tells Google to open up AI on Android; Google says "unwarranted intervention"  (46 pts, 7 comments)
+https://news.ycombinator.com/item?id=47931235
+
+The Hacker News discussion revolves around the European Union's proposal for Google to make Android more open to alternative AI assistants, which Google has labeled as an "unwarranted intervention." The European Commission is currently conducting a public consultation on this matter, which includes suggestions for features like always-on custom hot words, access to app search, and interoperability with other AI systems.
+
+In the comments, there is a notable debate about the implications of these proposed measures. Some users express concerns about potential security risks associated with increased openness, while others argue that security and user freedom often conflict. There is also a call for clearer and simpler technical interfaces, particularly regarding the Software Development Kit (SDK), to facilitate development. Additionally, some users express frustration over the lack of public SDKs for Google's AI capabilities, with a desire for more flexibility in using AI features on their devices.
+
+Overall, the discussion highlights a tension between regulatory efforts to promote competition and innovation in AI on Android and the potential security implications of such changes. Users are eager for more transparency and access to Google's AI resources, reflecting a broader desire for user control over technology.

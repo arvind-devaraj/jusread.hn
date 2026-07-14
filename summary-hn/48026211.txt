@@ -1,0 +1,8 @@
+Ask HN: Is there a term for feeling sad about forced AI adoption?  (25 pts, 41 comments)
+https://news.ycombinator.com/item?id=48026211
+
+The Hacker News discussion revolves around a user's feelings of sadness and emptiness regarding the forced adoption of AI tools in software development. The original poster expresses concern that reliance on AI for coding diminishes the joy and sense of accomplishment they once felt in their work, as they now feel more like operators than creators. They acknowledge the practicality of AI in completing tasks but lament the loss of personal engagement and craftsmanship in coding.
+
+In the comments, several users resonate with the original poster's sentiments, discussing feelings of disengagement and the pressure to adopt AI tools to remain relevant in their jobs. Some commenters suggest terms like "AIpathy" and "slopression" to describe this phenomenon. Others argue that while AI can enhance productivity, it can also lead to a loss of personal satisfaction and craftsmanship. There is a debate about whether the forced use of AI devalues human judgment and creativity in engineering roles, with some advocating for a balance between using AI and maintaining traditional coding skills.
+
+Notable insights include the acknowledgment that while AI can help complete projects more efficiently, it may also strip away the joy of problem-solving and creativity that many developers cherish. Some users express a desire to find fulfillment outside of their jobs, suggesting that personal satisfaction should not be solely tied to professional identity. Overall, the discussion highlights a complex mix of acceptance, resistance, and the search for meaning in an evolving tech landscape.

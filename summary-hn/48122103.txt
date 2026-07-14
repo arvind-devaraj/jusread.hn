@@ -1,0 +1,8 @@
+Ask HN: What are you working on (non-AI)?  (49 pts, 60 comments)
+https://news.ycombinator.com/item?id=48122103
+
+The Hacker News discussion titled "Ask HN: What are you working on (non-AI)?" seeks to shift the focus away from AI-related projects, which have dominated recent conversations, and instead highlight various non-AI initiatives. The original poster expresses a desire to discover and share projects that are not primarily centered around AI, emphasizing the importance of human creativity in technology.
+
+In the comments, many users share their diverse projects, ranging from a free DS-160 visa form filler to a digital signal processing app and a budgeting tool. There is a notable debate about the impact of AI on software development, with some commenters advocating for the distinction between traditional coding and AI-assisted coding. Others suggest implementing tags like "[Non-AI]" to help categorize and promote non-AI projects more effectively.
+
+Overall, the discussion reveals a strong interest in fostering a community that values non-AI innovations, with participants expressing a desire for more visibility and support for such projects. The conversation underscores the ongoing tension between traditional software development practices and the rise of AI tools, while also celebrating the creativity and resourcefulness of developers working outside the AI sphere.

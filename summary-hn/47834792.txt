@@ -1,0 +1,8 @@
+Yann LeCun says Dario Amodei "knows nothing about AI effects on jobs"  (27 pts, 16 comments)
+https://news.ycombinator.com/item?id=47834792
+
+The Hacker News discussion centers around a statement made by Yann LeCun, a prominent AI researcher, who criticized Dario Amodei, CEO of Anthropic, for his views on the impact of AI on jobs. LeCun argues that Amodei lacks understanding of how AI will affect employment, suggesting that AI could create jobs rather than eliminate them.
+
+In the comments, there is a divide between those who believe Amodei's perspective is primarily a sales tactic aimed at promoting his company's products and those who support LeCun's more optimistic view on AI's potential to generate new opportunities. Some commenters express skepticism about the reliability of predictions made by AI companies, emphasizing the need for insights from economists rather than tech leaders. Others highlight the unpredictability of market responses to AI advancements, suggesting that the conversation should focus more on economic implications than on the technical capabilities of AI.
+
+Notable opinions include a strong defense of LeCun's credibility as a visionary in the field, contrasting it with concerns that Amodei's approach may lead to short-term gains at the expense of long-term relevance. Overall, the discussion reflects a broader debate about the future of work in the age of AI and the varying perspectives on its societal impact.

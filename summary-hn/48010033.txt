@@ -1,0 +1,8 @@
+Hallucination Is Inevitable: An Innate Limitation of Large Language Models (2025)  (14 pts, 11 comments)
+https://news.ycombinator.com/item?id=48010033
+
+The Hacker News discussion revolves around a paper titled "Hallucination Is Inevitable: An Innate Limitation of Large Language Models," which posits that hallucinations—instances where language models (LLMs) generate incorrect or nonsensical information—are an unavoidable aspect of their design. The paper suggests that even theoretically, it is impossible to eliminate these hallucinations.
+
+In the comments, there is significant debate about the implications of this assertion. Some users argue that defining hallucination too broadly—including instances where an LLM opts not to answer—may undermine the argument. Others emphasize that hallucination is a fundamental characteristic of LLMs, akin to how humans can also experience delusions. A recurring theme is the distinction between LLMs and traditional computing systems, with some commenters warning against the misconception that LLMs can be as reliable as calculators.
+
+Notable insights include the recognition that training LLMs to acknowledge uncertainty (e.g., saying "I don't know") is complex and may not be feasible. Additionally, there is a cautionary note about the potential consequences of public perception if LLMs are mistakenly viewed as infallible, highlighting the need for transparency regarding their limitations.

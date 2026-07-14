@@ -1,0 +1,8 @@
+OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs  (326 pts, 112 comments)
+https://news.ycombinator.com/item?id=47939320
+
+The Hacker News discussion revolves around the announcement that OpenAI models, including Codex, are now available on Amazon Bedrock, a managed service for AI applications. The interview with the CEOs of OpenAI and AWS highlights the collaboration and future plans for integrating OpenAI's latest advancements into Bedrock.
+
+In the comments, users express a mix of excitement and skepticism about the implications of this partnership. Some agree that having OpenAI models on Bedrock is beneficial for AWS and users alike, while others critique the internal dynamics and bureaucratic challenges within large tech companies like AWS. There is a debate about the efficiency of engineering teams, with some suggesting that high-level decisions often lead to rushed implementations that burden lower-level engineers.
+
+Notable insights include concerns about the performance consistency of models across different platforms and the perception that OpenAI may be lagging behind competitors like Anthropic. Additionally, some commenters reflect on the ethical implications of supporting companies led by controversial figures, suggesting that users should consider the broader impact of their choices in AI tools.

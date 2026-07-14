@@ -1,0 +1,8 @@
+Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks  (73 pts, 17 comments)
+https://news.ycombinator.com/item?id=47985077
+
+The Hacker News discussion centers around MLJAR Studio, a desktop application designed for data analysis that allows users to interact with their data using natural language. The AI generates Python code based on user queries, executes it locally, and saves the entire interaction as a reproducible Jupyter notebook. The tool aims to bridge the gap between flexible coding environments like Jupyter and AI-driven code generation tools that often lack reproducibility.
+
+In the comments, users express both interest and skepticism. Some highlight the importance of maintaining a "human in the loop" to avoid potential pitfalls in data analysis, while others question the value of the product given that similar tasks can be accomplished for free with existing tools. Concerns about the reproducibility of notebooks are also raised, with some arguing that the format itself can lead to issues like out-of-order execution and hidden states.
+
+Notable insights include the recognition that MLJAR Studio targets users with domain expertise but limited technical skills, aiming to simplify the data analysis process. Additionally, there is a discussion about the safety of local data processing versus cloud-based solutions, emphasizing the importance of data privacy. Overall, the conversation reflects a mix of enthusiasm for innovative tools and caution regarding their practical implications in real-world data work.

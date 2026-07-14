@@ -1,0 +1,8 @@
+US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]  (198 pts, 139 comments)
+https://news.ycombinator.com/item?id=47778920
+
+The Hacker News discussion centers around the legal case "US v. Heppner," which ruled that communications with AI chatbots do not qualify for attorney-client privilege. The court determined that using AI tools for legal inquiries compromises confidentiality, as these tools may share data with third parties, thus failing the confidentiality test necessary for privilege.
+
+In the comments, users debate the implications of this ruling, particularly regarding what constitutes "sharing with a third party." Many express concern about the potential loss of privilege when using common tools like Google Docs or email services, questioning whether enabling certain features could jeopardize confidentiality. Some argue that the current legal framework is inadequate to address the complexities introduced by AI, while others emphasize that the law has historically protected communications between clients and attorneys, regardless of the medium.
+
+Notable insights include the recognition that the legal landscape is evolving and may not adequately protect users' privacy in the age of AI. Several commenters highlight the need for clearer guidelines on how digital communication tools affect legal privilege, suggesting that the current state of affairs could lead to significant legal challenges in the future. Overall, the discussion reflects a growing concern about privacy and the implications of technology on legal protections.

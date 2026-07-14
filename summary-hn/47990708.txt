@@ -1,0 +1,8 @@
+Show HN: State of the Art of Coding Models, According to Hacker News Commenters  (168 pts, 87 comments)
+https://news.ycombinator.com/item?id=47990708
+
+The Hacker News post titled "Show HN: State of the Art of Coding Models, According to Hacker News Commenters" presents an automated overview of popular coding models based on user discussions. The author aimed to capture sentiment and mentions of various coding assistants, with plans to expand the analysis to include harnesses and self-hosting setups.
+
+In the comments, there is significant debate over the performance and sentiment surrounding different models, particularly Claude, GPT-5.5, and Gemini. Claude leads in mentions but faces criticism for its API pricing and reliability, while GPT-5.5 receives more positive feedback. Users express mixed experiences with Gemini, noting its strengths in specific tasks like code review and data parsing but also highlighting its limitations. There is a consensus that open-source models are gaining traction due to their cost-effectiveness and independence from vendor lock-in.
+
+Notable insights include the recognition that the landscape of coding models is rapidly evolving, with users emphasizing the importance of real-world performance over theoretical benchmarks. The discussion also touches on the ethical considerations of data sourcing for AI models, with some commenters advocating for fully open models to foster trust and transparency. Overall, the conversation reflects a diverse range of experiences and opinions, underscoring the complexity of choosing the right coding assistant for various tasks.

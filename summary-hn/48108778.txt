@@ -1,0 +1,8 @@
+Show HN: Statewright – Visual state machines that make AI agents reliable  (126 pts, 59 comments)
+https://news.ycombinator.com/item?id=48108778
+
+The Hacker News discussion revolves around the introduction of Statewright, a tool designed to enhance the reliability of AI agents by employing visual state machines. The creator, Ben Cochran, argues that traditional methods of improving AI reliability often involve increasing model size or context length, which can be inefficient. Instead, Statewright uses smaller models (13-20B parameters) and constrains their operations through formal state machines, ensuring that agents follow specific protocols and utilize only designated tools at each phase of problem-solving.
+
+In the comments, users express a mix of interest and skepticism regarding the practicality and flexibility of Statewright. Some agree that using state machines could significantly improve the performance of smaller models, while others raise concerns about the rigidity of workflows and the potential loss of creative exploration. There is also a discussion about the importance of desktop tooling and how better integration could enhance AI workflows. Notably, several commenters highlight the need for clear instructions and guardrails to prevent AI from making erroneous decisions, emphasizing the balance between enforcing rules and allowing flexibility.
+
+Overall, the conversation reflects a growing interest in optimizing AI agent performance through structured approaches like state machines, while also acknowledging the challenges and trade-offs involved in implementing such systems.

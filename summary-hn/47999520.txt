@@ -1,0 +1,8 @@
+LLMs Are Not a Higher Level of Abstraction  (166 pts, 156 comments)
+https://news.ycombinator.com/item?id=47999520
+
+The Hacker News discussion revolves around the assertion that Large Language Models (LLMs) do not represent a higher level of abstraction in computing. The original post argues that LLMs are fundamentally probabilistic rather than deterministic, which raises concerns about their reliability and the implications for software engineering.
+
+In the comments, there is significant debate about the nature of determinism in LLMs. Some users argue that LLMs can produce consistent outputs under controlled conditions, while others emphasize their inherent unpredictability due to factors like temperature settings and sampling methods. A recurring theme is the comparison between LLMs and traditional computing, with some commenters lamenting the shift away from deterministic systems that minimize errors. Additionally, there are discussions about the psychological aspects of using LLMs, likening their use to gambling behaviors, where users may become overly reliant on the models despite their flaws.
+
+Notable insights include the recognition that while LLMs can be powerful tools, they introduce complexities that challenge traditional software engineering principles. Some commenters express concern that the excitement around LLMs may lead to a neglect of foundational engineering practices, potentially resulting in unpredictable outcomes in real-world applications. Overall, the conversation highlights a tension between the allure of advanced AI capabilities and the need for rigorous, reliable software development practices.

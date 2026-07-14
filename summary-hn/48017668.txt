@@ -1,0 +1,8 @@
+Ask HN: Best Embedding Models?  (18 pts, 18 comments)
+https://news.ycombinator.com/item?id=48017668
+
+The Hacker News discussion titled "Ask HN: Best Embedding Models?" revolves around users sharing their experiences and recommendations for embedding models, especially in light of recent advancements in foundational large language models (LLMs). The original poster seeks insights into which embedding models are currently favored in the community.
+
+In the comments, several users highlight specific models they prefer, such as Qwen, embeddinggemma, and Cohere's embed-v4.0, noting their efficiency and performance in tasks like local search and clustering. There is a consensus that while embedding models may not receive as much attention as LLMs, they are still highly effective for various applications. Some users emphasize the importance of fine-tuning and benchmarking when selecting models, while others discuss the benefits of incorporating rerankers for improved performance in retrieval tasks.
+
+Notable insights include the idea that embeddings are underrated compared to the hype surrounding LLMs, and the suggestion that the choice of embedding model should be tailored to specific use cases and resource constraints. Overall, the discussion reflects a diverse range of opinions and practical experiences with embedding models in different contexts.

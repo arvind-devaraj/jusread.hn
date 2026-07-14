@@ -1,0 +1,8 @@
+OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors  (507 pts, 465 comments)
+https://news.ycombinator.com/item?id=47991981
+
+The Hacker News discussion centers around a study indicating that OpenAI's AI model, o1, diagnosed 67% of emergency room patients correctly, outperforming triage doctors, who had a success rate of 50-55%. The research, which has been criticized for being outdated, raises questions about the reliability and applicability of AI in medical diagnostics.
+
+Commenters express a range of opinions on the implications of AI in healthcare. Some argue that while AI can improve diagnostic accuracy, it may not replace the human element essential in medicine, such as empathy and nuanced understanding. Others highlight the slow pace of medical research and the potential for AI to alleviate pressures on healthcare systems, particularly in addressing growing patient demands. There is also concern about the risk of AI amplifying existing biases in medical diagnoses and the importance of maintaining a human touch in patient care.
+
+Notable insights include the recognition that AI could serve as a valuable tool for doctors rather than a replacement, and the acknowledgment that the healthcare system's complexities, including insurance dynamics, could complicate the integration of AI solutions. Overall, the discussion reflects a cautious optimism about AI's role in medicine, tempered by concerns about its limitations and the need for human oversight.

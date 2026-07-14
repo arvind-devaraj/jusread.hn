@@ -1,0 +1,8 @@
+Ask HN: What skills are future proof in an AI driven job market?  (46 pts, 75 comments)
+https://news.ycombinator.com/item?id=47845050
+
+The Hacker News discussion titled "Ask HN: What skills are future proof in an AI-driven job market?" explores which skills individuals should focus on to remain relevant as AI technology evolves. The original post invites both developers and non-developers to share their thoughts on valuable skills in an AI-first world.
+
+In the comments, there is a consensus that hands-on trades like plumbing and electrical work, as well as healthcare roles such as nursing and paramedicine, are likely to remain secure due to their practical nature and existing labor shortages. Other skills mentioned include critical thinking, social skills, and domain expertise, which are seen as essential for navigating ambiguous situations and understanding the nuances of various fields. Some commenters argue that while AI can perform many tasks, it lacks the ability to make judgment calls or understand human emotions, which keeps certain professions safe in the short term.
+
+Notable insights include the idea that adaptability and the ability to learn new tools quickly are crucial in an ever-changing job landscape. Additionally, there is a debate about the role of soft skills versus technical skills, with some asserting that communication and interpersonal abilities will be increasingly important as AI takes over more technical tasks. Overall, the discussion reflects a mix of optimism and caution regarding the future job market shaped by AI advancements.

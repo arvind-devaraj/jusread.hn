@@ -1,0 +1,8 @@
+Be sinceerly human – AI to undo your AI writing  (11 pts, 13 comments)
+https://news.ycombinator.com/item?id=47876282
+
+The Hacker News discussion revolves around a new tool called Sinceerly, designed to help users make AI-generated writing sound more human. The creator, Ben, shared his experience of testing the tool by emailing CEOs, noting that their responses were often brief and filled with typos, which he found ironic given the tool's purpose.
+
+In the comments, there is a mix of skepticism and support for the concept. Some users find the idea satirical or a cash grab, suggesting that it merely shifts the problem from overly polished AI writing to poorly crafted human-like responses. Others express a desire for tools that allow users to adjust the tone and personality of AI outputs more easily. Notably, several commenters highlight the irony of AI's role in creating less coherent communication, with some suggesting that many AI applications enable dishonesty rather than clarity.
+
+Overall, the discussion reflects a broader concern about the impact of AI on communication, with users debating the effectiveness and necessity of tools like Sinceerly in a landscape increasingly dominated by AI-generated content.

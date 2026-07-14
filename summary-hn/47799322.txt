@@ -1,0 +1,8 @@
+The beginning of scarcity in AI  (197 pts, 227 comments)
+https://news.ycombinator.com/item?id=47799322
+
+The Hacker News discussion revolves around a blog post titled "The beginning of scarcity in AI," which explores the potential limitations in AI compute resources, particularly concerning the manufacturing capabilities of companies like ASML and the broader semiconductor supply chain. The author suggests that we may face a compute bottleneck in the coming years due to the complexities and constraints in scaling production.
+
+In the comments, there is significant debate about the true bottlenecks in AI compute, with some attributing it to ASML's production capacity while others highlight the intricate supply chain and infrastructure challenges. Many commenters express skepticism about the ability of companies to rapidly scale up production in response to demand, citing historical caution in the semiconductor industry to avoid boom-and-bust cycles. There are also discussions about the implications of this scarcity on innovation, with some suggesting that constraints could lead to new approaches and models in AI.
+
+Notable insights include the idea that while there is a perception of scarcity, companies are still aggressively investing in compute resources, potentially leading to unsustainable financial practices. Some commenters argue that the current market dynamics may not support long-term profitability, as companies engage in predatory pricing to capture market share. Overall, the discussion highlights a complex interplay between supply chain limitations, market demand, and the future of AI development.

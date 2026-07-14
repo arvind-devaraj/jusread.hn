@@ -1,0 +1,8 @@
+Agentic AI systems violate the implicit assumptions of database design  (116 pts, 106 comments)
+https://news.ycombinator.com/item?id=47897140
+
+The Hacker News discussion revolves around the implications of allowing AI agents, particularly large language models (LLMs), direct access to production databases. The original post argues that such access violates fundamental principles of database design, as it poses significant risks to data integrity and security. The author emphasizes the importance of controlled access through APIs and stored routines, rather than granting autonomous write capabilities to AI agents.
+
+In the comments, there is a split opinion. Some users, like dherls and steve_adams_86, strongly oppose giving LLMs write access to production databases, citing the potential for catastrophic errors and the need for human oversight in complex systems. Others, like cowlby, argue that LLMs can significantly enhance productivity for small businesses by automating the creation of simple applications from existing data sources, such as spreadsheets. They suggest that with proper backup protocols, the risks can be managed effectively.
+
+Notable insights include concerns about compliance and accountability when LLMs manipulate sensitive data, as well as the potential for misuse if proper safeguards are not in place. Some commenters highlight the need for a nuanced approach, advocating for limited access in non-critical scenarios while maintaining strict controls in more sensitive environments. Overall, the discussion reflects a tension between the desire for innovation and the necessity of maintaining robust data governance practices.

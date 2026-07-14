@@ -1,0 +1,6 @@
+David Silver of DeepMind raises $1B to build AI that learns without human data  (47 pts, 26 comments)
+https://news.ycombinator.com/item?id=47927804
+
+The Hacker News discussion centers around David Silver of DeepMind raising $1.1 billion to develop AI that learns without relying on human data. The article highlights the growing trend of significant investments in AI, prompting a debate among commenters about the motivations behind this influx of capital and the potential implications for various industries.
+
+Commenters express concerns that the current investment climate is driven more by fear of missing out (FOMO) than by sound financial judgment, with some arguing that essential sectors like housing and healthcare are being overshadowed by AI hype. Others question the feasibility of creating a general AI that can learn independently, pointing out the challenges of self-training and the risk of model collapse. Notable insights include skepticism about the sustainability of such investments and the philosophical implications of developing an AI that could potentially surpass human intelligence. Overall, the discussion reflects a mix of excitement and caution regarding the future of AI development.

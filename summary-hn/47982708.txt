@@ -1,0 +1,8 @@
+Show HN: Agent-desktop – Native desktop automation CLI for AI agents  (99 pts, 43 comments)
+https://news.ycombinator.com/item?id=47982708
+
+The Hacker News discussion centers around a project called "agent-desktop," a cross-platform command-line interface (CLI) for desktop automation that utilizes accessibility APIs instead of traditional pixel-based methods. The creator, who has experience in building computer-use tools, argues that using structured UI information from operating systems (like macOS's Accessibility API, Windows' UI Automation, and Linux's AT-SPI) is more efficient and reliable than the common screenshot-and-click approach used by many AI agents. The tool aims to reduce token usage significantly by employing a progressive skeleton traversal method to interact with applications.
+
+In the comments, there is a mix of skepticism and curiosity regarding the tool's capabilities and its current macOS-only availability, with users expressing interest in future support for Windows and Linux. Some commenters question the authenticity of the post, suggesting it may be AI-generated, while others appreciate the innovation behind using accessibility APIs for automation. Notable insights include the recognition that many existing desktop automation tools rely on screenshots, which are less efficient, and the acknowledgment of the limitations of accessibility support across different platforms, particularly on Linux.
+
+Overall, the discussion highlights both excitement for the potential of agent-desktop and concerns about its current limitations and the challenges of implementing cross-platform support.

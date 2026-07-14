@@ -1,0 +1,8 @@
+Show HN: AgentSwarms – free hands-on playground to learn agentic AI, no setup  (26 pts, 12 comments)
+https://news.ycombinator.com/item?id=47914075
+
+The Hacker News discussion revolves around a project called AgentSwarms, which offers a free, hands-on platform for learning about agentic AI without requiring any setup. The creator, rohan044, shares the platform and engages with user feedback.
+
+In the comments, users express enthusiasm for the concept, highlighting the accessibility of the platform as a significant advantage. However, some users, like goobatrooba, raise concerns about the usability and clarity of the content, suggesting that the site could benefit from shorter, more interactive lessons and clearer explanations for beginners. Rohan044 acknowledges this feedback and indicates plans to improve the site's navigation and content structure, emphasizing the importance of user input in refining the learning experience.
+
+Overall, while there is excitement about the potential of AgentSwarms, there is also a consensus that enhancements are needed to make the platform more user-friendly and engaging for those new to the subject.

@@ -1,0 +1,6 @@
+Show HN: Agent that refuses to run commands without human approval  (12 pts, 5 comments)
+https://news.ycombinator.com/item?id=47957127
+
+The Hacker News discussion centers around Fewshell, a terminal agent designed to require human approval for every command it executes. The creator, an ex-Amazon engineer now focused on AI safety, developed Fewshell in response to incidents involving AI tools causing significant damage, such as deleting production databases. The key feature of Fewshell is its intentional lack of auto-approval settings, ensuring users can operate it without fear of unintended actions.
+
+In the comments, users debate the practicality of requiring human approval for every command. Some argue that this approach undermines the efficiency of using an agent, suggesting that better safeguards or sandboxing could be more effective. Others acknowledge the need for checks and balances in automation but express concern about the potential for over-restrictive measures that could hinder productivity. Notably, one commenter humorously refuses to engage with the post on behalf of their agent, highlighting the ongoing tension between automation and control in AI development.

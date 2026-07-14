@@ -1,0 +1,8 @@
+Cloudflare's AI Platform: an inference layer designed for agents  (307 pts, 94 comments)
+https://news.ycombinator.com/item?id=47792538
+
+The Hacker News discussion revolves around Cloudflare's newly announced AI Platform, which serves as an inference layer designed for AI agents. The platform aims to integrate various AI models and provide users with a unified billing system. The announcement has generated excitement, particularly regarding the potential for a free tier and the pricing structure, which some users believe may be at-cost, matching what AI providers charge.
+
+In the comments, users express a mix of enthusiasm and skepticism. There is a consensus that a free tier would be beneficial, but questions arise about the limitations of this tier, particularly regarding access to advanced models. Concerns about pricing transparency, potential data retention policies, and the risk of unexpected costs due to lack of budget controls are also prominent. Some users highlight the importance of having clear rate limits and spending caps to avoid financial surprises.
+
+Notable insights include discussions about Cloudflare's positioning as a central AI gateway provider and the implications of potential lock-in with their services. Users also share experiences with Cloudflare's existing products, raising concerns about reliability and customer support. Overall, the conversation reflects a cautious optimism about the platform's capabilities while emphasizing the need for clarity and user control in pricing and service management.

@@ -1,0 +1,8 @@
+Show HN: Agent-cache – Multi-tier LLM/tool/session caching for Valkey and Redis  (18 pts, 5 comments)
+https://news.ycombinator.com/item?id=47792122
+
+The Hacker News discussion revolves around a new tool called Agent-cache, which provides a multi-tier caching solution for AI agents using Valkey or Redis. This tool allows for caching of LLM responses, tool results, and session states, all through a single connection. It aims to improve efficiency by avoiding repeated API calls for identical requests, with the latest version (v0.2.0) introducing cluster mode and plans for streaming support.
+
+In the comments, users seek clarification on how the caching mechanism works, particularly whether it recognizes similar prompts or requires exact matches. The consensus is that Agent-cache operates on an exact match basis, where every aspect of the LLM request must be identical for a cache hit. This specificity is seen as both a strength and a limitation, as it ensures precision but may not accommodate variations in user queries. Additionally, there is curiosity about whether the tool can learn from repeated prompts to optimize future responses, indicating a desire for more adaptive caching solutions.
+
+Overall, the discussion highlights the innovative approach of Agent-cache in addressing existing limitations in AI agent caching, while also raising questions about its flexibility and potential for learning from user interactions.

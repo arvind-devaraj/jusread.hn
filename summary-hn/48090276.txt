@@ -1,0 +1,8 @@
+Show HN: adamsreview – better multi-agent PR reviews for Claude Code  (85 pts, 53 comments)
+https://news.ycombinator.com/item?id=48090276
+
+The Hacker News discussion centers around a project called **adamsreview**, a plugin for Claude Code designed to enhance multi-agent code reviews. The creator, Adam, claims that adamsreview catches significantly more bugs than existing tools while reducing false positives. The plugin features six commands that facilitate deeper, multi-stage reviews by utilizing parallel sub-agents and storing state in JSON artifacts. Adam invites feedback from users and developers to improve the tool.
+
+In the comments, users express a mix of skepticism and curiosity about the complexity of using AI for code reviews. Some commenters question whether the added complexity truly improves the review process or simply adds unnecessary layers. Others share their own experiences with AI code reviews, highlighting the need for better evaluation methods to assess effectiveness. Notably, there is a consensus that while tools are becoming more sophisticated, the effort put into code reviews by developers may be declining, raising concerns about code quality.
+
+Overall, the discussion reflects a broader debate on the role of AI in software development, with insights into the balance between leveraging advanced tools and maintaining human oversight in the review process.

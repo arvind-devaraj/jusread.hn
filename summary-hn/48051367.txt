@@ -1,0 +1,8 @@
+Meko: The Data Infrastructure for Agents That Work and Learn Together  (15 pts, 6 comments)
+https://news.ycombinator.com/item?id=48051367
+
+The Hacker News discussion revolves around Meko, a data infrastructure designed for multi-agent systems that enables agents to work and learn collaboratively. It focuses on building a collective memory and shared knowledge base, allowing for enhanced conversations and decision-making processes across the system.
+
+Commenters express strong interest in Meko's capabilities, particularly its potential to store and share memories and learning among team members. Many users, like naveenkgupta and gargsans, highlight their personal experiences with Meko, noting its effectiveness in creating marketing knowledge bases and its promise to transform the AI landscape. There is a consensus on the importance of sharing context among both humans and agents, with several users eager to explore how Meko can address this challenge.
+
+Overall, the discussion reflects excitement about Meko's innovative approach to data infrastructure and its implications for improving collaboration in AI systems. Users are keen to experiment with its functionalities and share their findings, indicating a collaborative spirit within the community.

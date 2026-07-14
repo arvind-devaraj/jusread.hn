@@ -1,0 +1,8 @@
+Ask HN: How are you preparing for interviews nowadays?  (12 pts, 32 comments)
+https://news.ycombinator.com/item?id=48101373
+
+The Hacker News discussion revolves around how individuals are preparing for job interviews in 2026, with a particular focus on the evolving role of system design and the relevance of traditional coding challenges like Leetcode. The original poster questions whether they still need to practice Leetcode given the increasing influence of AI in coding tasks.
+
+In the comments, there is a mix of opinions on the necessity of Leetcode versus real-world problem-solving skills. Some users argue that interviews are shifting towards assessing candidates' ability to leverage AI tools effectively, while others maintain that foundational coding skills remain important. Notably, some commenters express skepticism about the reliance on AI in interviews, suggesting it could undermine the evaluation of a candidate's true capabilities. There is also a debate about the implications of using cognitive testing in hiring processes, with some asserting it is a valid method while others criticize it as potentially discriminatory.
+
+Overall, the discussion highlights a transitional phase in interview preparation, where candidates are encouraged to adapt to new technologies while still demonstrating core competencies and problem-solving abilities.

@@ -1,0 +1,8 @@
+Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs  (201 pts, 159 comments)
+https://news.ycombinator.com/item?id=47957627
+
+The Hacker News discussion revolves around a GitHub project titled "Alignment Whack-a-Mole," which explores how fine-tuning large language models (LLMs) can inadvertently activate the recall of copyrighted books. The project raises concerns about the implications of LLMs potentially reproducing copyrighted material, leading to debates about copyright laws and intellectual property (IP) in the context of AI.
+
+In the comments, there is significant debate about the nature of copyright and its role in promoting creativity and innovation. Some users argue that dismantling copyright could harm the open-source movement and the foundation of creative works, while others believe that current copyright practices are outdated and hinder progress. Notable opinions include a call for a reevaluation of copyright laws to better align with technological advancements and the assertion that intelligence itself may be a form of compression of knowledge.
+
+Overall, the discussion highlights a tension between the benefits of AI advancements and the protection of intellectual property, with various perspectives on how to balance these interests in a rapidly evolving digital landscape.

@@ -1,0 +1,8 @@
+Ask HN: What Is Anthropic Doing?  (10 pts, 8 comments)
+https://news.ycombinator.com/item?id=47854309
+
+The Hacker News discussion revolves around a user's frustration with the recent release of Opus 4.7 from Anthropic, which they describe as a significant quality regression in AI models, likening it to the infamous Windows Vista. The user questions the company's strategy, suggesting that the decline in quality could lead to a loss of subscribers and expressing skepticism about both financial and corporate motivations behind the changes.
+
+In the comments, there is a consensus that Anthropic may be intentionally limiting the quality of their language model responses, possibly due to insufficient compute capacity or as a rate-limiting measure. Users share their experiences with different model versions, noting that while some improvements have been observed, the overall quality has declined, particularly in reasoning and flexibility. There are suggestions for tools to track model performance metrics, indicating a desire for better transparency and understanding of these changes.
+
+Notable insights include the idea that the new model's strict adherence to instructions may hinder its ability to reason effectively, leading to a perception of lower quality. Additionally, some users discuss the potential for using multiple models in tandem to mitigate costs and improve outcomes, suggesting a shift in how AI tools are integrated into workflows.

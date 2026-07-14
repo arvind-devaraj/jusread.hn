@@ -1,0 +1,8 @@
+Tell HN: I'm sick of AI everything  (346 pts, 193 comments)
+https://news.ycombinator.com/item?id=47857461
+
+The Hacker News discussion centers around a user's frustration with the overwhelming presence of AI in various aspects of life, expressing a desire to block AI-related content at the browser level, similar to their previous decision to stop using Facebook. The post resonates with many commenters who share similar sentiments about the saturation of AI-generated content and its impact on social interactions and communication.
+
+In the comments, there is a mix of agreement and debate. Some users express their exhaustion with AI, particularly generative AI, and lament the loss of genuine human interaction and creativity. Others argue that AI has potential benefits and can enhance productivity if used correctly. Notably, some commenters highlight the issue of people relying on AI without understanding the content it produces, leading to a decline in personal knowledge and engagement.
+
+Insights from the discussion include concerns about the commodification of creativity and the potential for AI to exacerbate existing societal issues, such as job displacement. There is also a recognition that the current AI landscape may reflect a broader trend of "digital enshittification," where the quality of online content diminishes due to the prevalence of mediocre AI-generated material. Overall, the conversation reflects a growing ambivalence towards AI, balancing its potential advantages against its negative societal impacts.

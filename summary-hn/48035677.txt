@@ -1,0 +1,8 @@
+Show HN: Adam – An embeddable cross-platform AI agent library  (24 pts, 9 comments)
+https://news.ycombinator.com/item?id=48035677
+
+The Hacker News discussion centers around a project called Adam, an embeddable cross-platform AI agent library developed by sqliteai. The GitHub link provided leads to the library, which aims to facilitate the integration of AI agents into various applications.
+
+In the comments, there is a notable debate regarding the choice of C as the primary programming language for the library. Some users express confusion and concern over this decision, suggesting that C's verbosity and complexity may not be ideal for an I/O-bound task like building an AI agent. Alternatives such as Go and Kotlin are mentioned as potentially more ergonomic options. Despite these concerns, several commenters acknowledge the project's potential and express interest in its capabilities. Additionally, some users share their own related projects, highlighting a collaborative spirit within the AI development community.
+
+Overall, while the project is generally well-received, the choice of programming language sparks significant discussion, with many suggesting that a more user-friendly language could enhance adoption and ease of use.

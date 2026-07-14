@@ -1,0 +1,8 @@
+Ask HN: Will low quality AI customer support be the new normal?  (27 pts, 32 comments)
+https://news.ycombinator.com/item?id=48087925
+
+The Hacker News discussion revolves around the increasing prevalence of AI in customer support and whether low-quality AI interactions will become the norm. The original poster expresses frustration with AI agents that lead to unproductive loops, prompting a question about the potential impact on customer retention.
+
+In the comments, there is a consensus that while AI customer support is cost-effective for companies, it often falls short in quality, leading to customer dissatisfaction. Many commenters argue that human support is essential for complex or emotional issues, while others believe that AI will improve over time and could eventually match human capabilities for routine inquiries. Some express concern that companies prioritize cost savings over customer experience, potentially alienating less tech-savvy customers.
+
+Notable insights include the idea that AI could serve as a first line of support, handling simple queries while humans manage more nuanced cases. There is also a recognition that the current state of AI support is often inadequate, but many believe it is a transitional phase that will improve significantly in the near future. Overall, the discussion highlights a tension between the efficiency of AI and the need for quality human interaction in customer service.

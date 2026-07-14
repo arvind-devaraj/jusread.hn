@@ -1,0 +1,8 @@
+AI, Intimacy, and the Data You Never Meant to Share  (83 pts, 6 comments)
+https://news.ycombinator.com/item?id=47992802
+
+The Hacker News discussion revolves around the implications of AI and data privacy, particularly concerning smart devices that unintentionally record sensitive information. The original post highlights concerns about how these devices, including "smart" sex toys, can capture intimate moments and personal data without users' explicit consent, raising ethical questions about data ownership and privacy.
+
+In the comments, users agree that this issue is not new, referencing past incidents where sensitive data was leaked, such as recordings from Apple Watches and other devices. There is a shared concern about the prevalence of accidental data storage, with one commenter sharing their experience of dealing with sensitive payment information improperly stored in an insurance company's database. The conversation also touches on the types of devices involved, with some users humorously discussing the nature of "smart" sex toys and sharing resources related to them.
+
+Overall, the discussion underscores a growing awareness of the risks associated with connected devices and the need for better data protection measures, while also highlighting the ongoing challenges of ensuring user privacy in an increasingly digital world.
