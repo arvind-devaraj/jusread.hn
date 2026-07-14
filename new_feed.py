@@ -3,7 +3,7 @@ import requests
 from dotenv import load_dotenv
 from openai import OpenAI
 
-from hn_fetch import get_past_month_hn_posts
+from hn_fetch import LOOKBACK_DAYS, get_past_month_hn_posts
 
 load_dotenv()
 
@@ -71,7 +71,7 @@ def get_ai_probabilities(titles):
 def main():
     with requests.Session() as session:
         all_posts = get_past_month_hn_posts(session)
-    print(f"Retrieved {len(all_posts)} posts from the last month.")
+    print(f"Retrieved {len(all_posts)} posts from the last {LOOKBACK_DAYS} days.")
 
     popular_posts = [post for post in all_posts if post.get('points', 0) >= 10]
 

@@ -2,7 +2,7 @@ import json
 import os
 import requests
 
-from hn_fetch import get_past_month_hn_posts
+from hn_fetch import LOOKBACK_DAYS, get_past_month_hn_posts
 from new_feed import get_ai_probabilities, AI_THRESHOLD
 
 TEMPLATE_FILE = "ai_site_template.html"
@@ -24,7 +24,7 @@ def load_summary(item_id):
 def main():
     with requests.Session() as session:
         all_posts = get_past_month_hn_posts(session)
-    print(f"Retrieved {len(all_posts)} posts from the last month.")
+    print(f"Retrieved {len(all_posts)} posts from the last {LOOKBACK_DAYS} days.")
 
     popular_posts = [post for post in all_posts if post.get('points', 0) >= 10]
 
