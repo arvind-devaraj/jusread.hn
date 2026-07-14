@@ -93,23 +93,27 @@ def summarize(link_or_id):
     return item, comments, response.choices[0].message.content.strip()
 
 
-def main():
-    if len(sys.argv) < 2:
-        print("Usage: python3 summarize.py <hn_url_or_item_id>")
-        sys.exit(1)
-
-    item, comments, summary = summarize(sys.argv[1])
+def save_summary(link_or_id):
+    item, comments, summary = summarize(link_or_id)
 
     header = f"{item.get('title')}  ({item.get('points')} pts, {len(comments)} comments)"
     hn_link = f"https://news.ycombinator.com/item?id={item.get('id')}"
     output = f"{header}\n{hn_link}\n\n{summary}\n"
 
-    print(output)
-
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     out_path = os.path.join(OUTPUT_DIR, f"{item.get('id')}.txt")
     with open(out_path, "w") as f:
         f.write(output)
+    return item, out_path, output
+
+
+def main():
+    if len(sys.argv) < 2:
+        print("Usage: python3 summarize.py <hn_url_or_item_id>")
+        sys.exit(1)
+
+    _, out_path, output = save_summary(sys.argv[1])
+    print(output)
     print(f"Saved to {out_path}")
 
 

@@ -2,8 +2,12 @@ name: Daily AI digest rebuild
 
 on:
   schedule:
-    - cron: '30 6 * * *'  # 12:00 IST (IST = UTC+5:30)
+    - cron: '30 6 * * *'   # 12:00 IST (IST = UTC+5:30)
+    - cron: '30 18 * * *'  # 00:00 IST
   workflow_dispatch: {}
+
+permissions:
+  contents: write
 
 jobs:
   build-and-deploy:
@@ -18,10 +22,28 @@ jobs:
       - name: Install dependencies
         run: pip install requests openai python-dotenv
 
-      - name: Rebuild AI digest (fetch + classify, no summarization)
+      - name: Fetch + classify
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python3 build_ai_site.py
+
+      - name: Summarize new posts
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python3 summarize_new.py
+
+      - name: Rebuild digest with new summaries
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python3 build_ai_site.py
+
+      - name: Commit updated summaries and digest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add summary-hn ai_index.html
+          git diff --cached --quiet || git commit -m "Auto-update AI digest and summaries"
+          git push
 
       - name: Prepare deploy folder
         run: |
