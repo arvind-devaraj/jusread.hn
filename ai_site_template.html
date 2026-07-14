@@ -272,12 +272,16 @@
     padding: 1.5rem 0;
   }
   .summary-card-title {
+    display: block;
     font-family: var(--font-display);
     font-size: 1.6rem;
     font-weight: 600;
     margin: 0 0 0.5rem;
     line-height: 1.35;
+    color: var(--ink);
+    text-decoration: none;
   }
+  .summary-card-title:hover { text-decoration: underline; }
   .summary-card-body {
     font-size: 1.08rem;
     line-height: 1.75;
@@ -379,7 +383,7 @@
       <div class="summary-card">
         <div id="summary-card-empty" class="summary-card-empty">Click &ldquo;Show summary&rdquo; on a post to see it here.</div>
         <div id="summary-card-content" hidden>
-          <div id="summary-card-title" class="summary-card-title"></div>
+          <a id="summary-card-title" class="summary-card-title" target="_blank" rel="noopener noreferrer"></a>
           <a id="summary-card-link" class="summary-card-link" target="_blank" rel="noopener noreferrer">View on Hacker News &rarr;</a>
           <div id="summary-card-body" class="summary-card-body"></div>
         </div>
@@ -490,6 +494,7 @@
     if (!post || !post.summary) return;
 
     summaryTitleEl.textContent = post.title;
+    summaryTitleEl.href = post.url || post.hn_link;
     summaryBodyEl.innerHTML = renderSummary(post.summary);
     summaryLinkEl.href = post.hn_link;
     summaryEmptyEl.hidden = true;
