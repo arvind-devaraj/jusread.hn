@@ -16,7 +16,10 @@ def load_posts():
 
 def main():
     posts = load_posts()
-    missing = [p for p in posts if not p.get("summary")]
+    missing = [
+        p for p in posts
+        if not p.get("summary") and p.get("num_comments", 0) >= 5
+    ]
     print(f"{len(missing)} posts missing summaries.")
 
     for post in missing:
