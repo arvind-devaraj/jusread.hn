@@ -1,0 +1,8 @@
+Anthropic's open-source framework for AI-powered vulnerability discovery  (539 pts, 133 comments)
+https://news.ycombinator.com/item?id=48403980
+
+The Hacker News discussion revolves around Anthropic's open-source framework for AI-powered vulnerability discovery, which is intended to help identify security flaws in code. The repository is currently not maintained, leading to skepticism about its long-term viability and effectiveness. Some commenters suggest that the tool's efficacy can be evaluated by users to determine if they should invest in a more polished commercial version.
+
+Key points of debate include the cost of running such AI tools, with some arguing that it may be more expensive to secure code than to write it, while others believe that the productivity gains from using AI could justify the costs. There are concerns about the non-deterministic nature of AI outputs, likening the process to a "loot box" where success isn't guaranteed. Additionally, some commenters express skepticism about the ability of AI to produce secure code, noting that many vulnerabilities are deeply embedded in existing legacy systems rather than newly generated code.
+
+Notable insights include the idea that the cost of ensuring code security is rising as vulnerabilities become more detectable, and the potential for AI to exacerbate the existing flood of reported vulnerabilities. There is also a recognition that while AI can assist in identifying security issues, it cannot fully replace the need for human oversight and expertise in software development and security.

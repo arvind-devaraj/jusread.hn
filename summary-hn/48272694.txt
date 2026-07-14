@@ -1,0 +1,8 @@
+Agentic Patterns  (23 pts, 12 comments)
+https://news.ycombinator.com/item?id=48272694
+
+The Hacker News discussion revolves around a post titled "Agentic Patterns," which critiques certain patterns in AI-generated content, particularly how they often rely on clichéd structures. The original article suggests that these patterns may arise from the training data used in reinforcement learning from human feedback (RLHF), which is influenced by corporate language and common tropes.
+
+In the comments, there is a strong consensus that the content discussed is of low quality, often referred to as "slop." Users express frustration with the prevalence of these clichéd phrases and question why they are so common, suggesting that they may stem from the nature of the training data rather than intentional design. Some commenters highlight that while these patterns may serve vendors' purposes, they do not represent the best or most effective agentic patterns.
+
+Notable insights include the idea that the reliance on such structures may be a result of "load-bearing" language that is entrenched in the training data, and a general call for higher quality content that avoids these clichés. Overall, the discussion reflects a shared disappointment with the current state of AI-generated text and a desire for more meaningful and original outputs.

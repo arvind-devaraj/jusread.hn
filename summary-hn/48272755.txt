@@ -1,0 +1,8 @@
+Every Frontier AI Is INTJ  (23 pts, 11 comments)
+https://news.ycombinator.com/item?id=48272755
+
+The Hacker News discussion revolves around a post titled "Every Frontier AI Is INTJ," which explores the personality traits of various AI models through the lens of the Myers-Briggs Type Indicator (MBTI). The author suggests that many advanced AI models, including Gemini 3.1 Pro, GPT 5.5, and Opus 4.7, exhibit INTJ characteristics, while Grok stands out as an anomaly.
+
+In the comments, there is significant debate regarding the validity of the MBTI framework, with some users arguing that it is considered pseudoscience by many psychologists. Others, however, defend its relevance, noting that certain fields may have a higher concentration of INTJ personalities. A few commenters suggest that the training data for these AI models, which likely includes a lot of content from introverted individuals, could explain the consistent INTJ results. Additionally, some users propose testing the AI models against the Big Five personality traits instead of MBTI for a more scientifically grounded analysis.
+
+Notable insights include the observation that the majority of literature and content used to train these AIs is produced by introverts, potentially skewing the personality results. There is also a suggestion that the I vs. E (Introversion vs. Extraversion) axis may not be meaningful in the context of AI. Overall, the discussion highlights the intersection of personality theory and AI behavior, raising questions about the implications of training data on AI personality assessments.

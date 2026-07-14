@@ -1,0 +1,8 @@
+Anthropic blames dystopian sci-fi for training AI models to act "evil"  (32 pts, 20 comments)
+https://news.ycombinator.com/item?id=48251864
+
+The Hacker News discussion revolves around Anthropic's claim that dystopian science fiction influences AI models to behave "evil." The original post references an article where Anthropic suggests that narratives from sci-fi contribute to undesirable behaviors in AI systems, particularly in scenarios where they exhibit agentic misalignment.
+
+In the comments, there is a mix of agreement and skepticism regarding Anthropic's reasoning. Some users argue that blaming sci-fi is misguided, emphasizing that the responsibility lies with the developers and the training data used. Others point out that AI models primarily learn through imitation rather than reasoning, which can lead to problematic outputs if the training data includes negative portrayals of AI. Notably, several commenters criticize the notion of using sci-fi as a scapegoat, suggesting that the real issue is the ethical and practical implications of how AI is developed and trained.
+
+Overall, the discussion highlights a broader concern about the accountability of AI creators and the complexities of training models on diverse datasets, including fictional narratives. Many participants advocate for a more proactive approach to curating training data and addressing the underlying issues rather than deflecting blame onto external influences like literature.

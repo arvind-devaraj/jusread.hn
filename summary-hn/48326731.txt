@@ -1,0 +1,8 @@
+Tesla's AI trainers don't trust its self-driving tech – or its safety stats  (13 pts, 7 comments)
+https://news.ycombinator.com/item?id=48326731
+
+The Hacker News discussion revolves around a Reuters article that highlights concerns from former Tesla AI trainers regarding the company's Full Self-Driving (FSD) technology and its safety statistics. The trainers argue that Tesla's FSD relies heavily on detailed mapping for hazard detection, which contradicts Elon Musk's claims that the technology can operate without such infrastructure. Additionally, the article suggests that Tesla may be overstating the safety of its FSD through flawed data analysis.
+
+In the comments, there is a consensus that the concerns raised about Tesla's methodology are valid, with some users expressing skepticism about Musk's transparency and the company's practices. However, there is also a debate about the framing of the article, with some commenters arguing that it sensationalizes the issues by focusing too much on mapping, which is a common requirement for self-driving technology. Others believe that Tesla's reliance on mapping contradicts Musk's assertions about the capabilities of their FSD system.
+
+Notably, some commenters express disappointment in Musk's leadership, suggesting that the firing of employees who bring bad news could lead to further issues. Overall, the discussion reflects a mix of skepticism about Tesla's claims, concerns about safety, and a critical view of the company's approach to self-driving technology.

@@ -1,0 +1,8 @@
+How LLMs work  (948 pts, 276 comments)
+https://news.ycombinator.com/item?id=48389360
+
+The Hacker News discussion revolves around an article titled "How LLMs work," which delves into the mechanics of large language models (LLMs). Commenters engage in a variety of topics related to the underlying principles of LLMs, including the universal approximation theorem, embeddings, self-attention, and the importance of scaling laws in their effectiveness.
+
+There is a notable debate about the fundamental reasons why LLMs function effectively, with some commenters likening their operation to basic mathematical principles, while others highlight the complexity and nuances involved in their architecture. A recurring theme is the comparison of LLMs to human cognition, with discussions on whether LLMs can be considered "intelligent" or merely sophisticated probability engines. Some participants express skepticism about the current understanding of LLMs and the limitations of machine learning theory compared to empirical results.
+
+Insights from the discussion include the acknowledgment that while LLMs can mimic human writing styles, they often lack the depth and nuance of human communication. Additionally, there is a consensus that advancements in hardware and computational power have significantly influenced the development of LLMs, allowing for more complex architectures and performance enhancements. Overall, the conversation reflects a blend of curiosity, skepticism, and a desire for deeper understanding of LLMs and their implications.

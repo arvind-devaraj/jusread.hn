@@ -1,0 +1,8 @@
+Ask HN: Show your AI coded games [June 2026]  (14 pts, 16 comments)
+https://news.ycombinator.com/item?id=48509243
+
+The Hacker News discussion titled "Ask HN: Show your AI coded games" invites users to share their AI-generated games, emphasizing that unfinished projects are welcome. The post aims to create a dedicated space for showcasing these games, which often get overlooked in the "Show HN" section.
+
+In the comments, several users share links to their AI-coded games, highlighting a variety of genres and styles, from adventure games for kids to strategic naval games. There is a general appreciation for the creativity and execution of these projects, with some users drawing comparisons to existing games. A notable discussion arises around the costs and processes involved in developing these games, with one user sharing their experience of using AI tools for game development and maintenance, emphasizing the affordability and accessibility of creating such projects.
+
+Overall, the conversation reflects a community of developers excited about AI's potential in game design, while also touching on the ethical considerations of monetization and user engagement in the gaming industry.

@@ -1,0 +1,8 @@
+Testing distributed systems with AI agents  (96 pts, 23 comments)
+https://news.ycombinator.com/item?id=48208685
+
+The Hacker News discussion revolves around a GitHub project focused on testing distributed systems using AI agents. The original post highlights the potential of AI to automate testing processes, particularly in ensuring system reliability and identifying bugs.
+
+In the comments, there is a mix of agreement and concern regarding the implications of using AI for testing. Some users appreciate the "claim-driven" approach to testing, which emphasizes validating business invariants like idempotency and acknowledgment of writes. However, others express dismay at the potential for AI to replace human expertise in the field, with some contributors sharing personal frustrations about the diminishing value of their open-source contributions in light of AI advancements. There is a notable sentiment that while AI tools can enhance safety and efficiency, they may also undermine the community-driven nature of open-source work.
+
+Several commenters suggest that the creator of the project, Li Shen, could consider monetizing their expertise or work, given the challenges faced by open-source developers in securing financial support. Overall, the discussion reflects a tension between the benefits of AI in software testing and the existential concerns of professionals in the field regarding job security and the future of open-source contributions.

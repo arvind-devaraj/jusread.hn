@@ -1,0 +1,6 @@
+Unlawful by design: Exposing the human rights costs of generative AI  (37 pts, 6 comments)
+https://news.ycombinator.com/item?id=48351721
+
+The Hacker News discussion revolves around an Amnesty International report titled "Unlawful by design: Exposing the human rights costs of generative AI." The report critiques the EU's AI Act, arguing that it fails to adequately protect human rights, particularly for marginalized groups, and does not ban harmful AI technologies. It highlights issues such as the lack of accountability and transparency in AI regulation.
+
+In the comments, there is a mix of agreement and skepticism regarding the report's claims. Some users express concern about the implications of AI technologies used by entities like ICE and Palantir, while others question the focus on environmental impacts without sufficient data. A few commenters critique the role of unelected bureaucrats in shaping human rights policies, suggesting that this could lead to power imbalances rather than genuine protections. Additionally, there are concerns about the potential for big tech companies to exploit intellectual property laws, indicating a broader debate about the intersection of technology, regulation, and human rights.

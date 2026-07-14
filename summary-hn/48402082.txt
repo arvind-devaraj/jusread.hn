@@ -1,0 +1,6 @@
+Show HN: Hitoku Draft – Context aware local assistant  (21 pts, 8 comments)
+https://news.ycombinator.com/item?id=48402082
+
+The Hacker News discussion centers around Hitoku Draft, an open-source, voice-first AI assistant designed to run locally on Mac. The assistant is context-aware, allowing users to interact with their screen, documents, and active applications through voice commands. It includes features like transcription, voice editing, and support for various text generation models. The developer is seeking feedback to improve the tool and increase its adoption outside tech circles.
+
+In the comments, users express a mix of appreciation and criticism. Some highlight the potential usefulness of the tool, while others point out that the marketing and description could be clearer, particularly regarding its dictation capabilities. Concerns about the app's current functionality and stability are raised, with suggestions for a more robust user experience. Notably, there is enthusiasm for the concept of local AI, with some commenters suggesting a higher price point for better visibility and impulse purchases, while the developer emphasizes the importance of keeping the app open-source and accessible.

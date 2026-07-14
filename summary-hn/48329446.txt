@@ -1,0 +1,8 @@
+Ask HN: How is your org managing PR review load as AI multiplies code output?  (10 pts, 15 comments)
+https://news.ycombinator.com/item?id=48329446
+
+The Hacker News discussion revolves around the challenges organizations face in managing the increased volume of pull requests (PRs) due to AI-generated code. The original poster notes that while AI tools have improved coding speed, they have not translated into increased productivity or efficiency in the review process, leading to a bottleneck in PR reviews.
+
+In the comments, several strategies are shared to cope with the surge in PRs. Some users suggest reducing AI usage to focus on higher-quality submissions, while others advocate for prioritizing reviews based on code quality. There is a consensus that code reviews should evolve, with suggestions for implementing dynamic rules based on risk assessment and automating trivial checks to allow human reviewers to focus on intent and design. Notably, some participants emphasize the importance of knowledge sharing during reviews and the need for comprehensive testing to maintain code quality.
+
+Overall, the discussion highlights the need for organizations to adapt their review processes in response to the changing landscape of software development driven by AI, with a focus on balancing automation and human oversight.

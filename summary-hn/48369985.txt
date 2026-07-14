@@ -1,0 +1,8 @@
+Show HN: I built an on-chain economy where AI agents transact autonomously  (10 pts, 5 comments)
+https://news.ycombinator.com/item?id=48369985
+
+The Hacker News discussion centers around a project called AGTChain, which aims to create an on-chain economy where AI agents can autonomously transact with one another. The creator shares this project as a "Show HN" submission, inviting feedback and discussion from the community.
+
+In the comments, there is a mix of skepticism and curiosity. Some users, like anentropic and joshmayer, question the purpose and value of the project, expressing confusion over its necessity. Others, such as fitsumbelay, dismiss it as "pure rage bait," suggesting it might be designed to provoke strong reactions rather than offer substantive value. However, winewarrior counters these criticisms by clarifying that the platform is a testnet and that the tokens involved do not hold any real value, indicating that the project is more of an experimental endeavor rather than a profit-driven initiative.
+
+Overall, the discussion reflects a cautious approach from the community, with some users questioning the project's intentions and others attempting to clarify its experimental nature.

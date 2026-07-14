@@ -1,0 +1,8 @@
+Liquid AI reveals 8B-A1B MoE trained on 38T  (245 pts, 96 comments)
+https://news.ycombinator.com/item?id=48325306
+
+The Hacker News discussion revolves around Liquid AI's announcement of their new model, the 8B-A1B MoE, which has been trained on a massive dataset of 38 trillion tokens. This model is designed to enhance capabilities in vision-language-action models (VLAs) and is noted for its efficiency, allowing it to run on local hardware, including CPUs.
+
+In the comments, users express excitement about the model's performance, with some sharing positive experiences in tasks like summarizing text and reviewing code. However, there are concerns about the model's compatibility with platforms like Ollama and skepticism regarding its translation abilities. A notable debate arises around the implications of training on such a large dataset for a relatively small model, with some users questioning whether it might lead to overfitting or diminishing returns.
+
+Overall, while many users are impressed by the model's capabilities and speed, there are discussions about the trade-offs of model size versus performance, as well as the potential for bias in benchmarking results. The conversation reflects a mix of optimism for the advancements in AI technology and caution regarding the methodologies employed in model training.

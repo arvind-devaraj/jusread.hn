@@ -1,0 +1,8 @@
+What Are Tokens in LLMs?  (10 pts, 6 comments)
+https://news.ycombinator.com/item?id=48438276
+
+The Hacker News discussion revolves around an article that explains the concept of tokens in large language models (LLMs). The author emphasizes that tokens are not simply characters or words but rather unique units specific to each model, which the model perceives as integer indices in its own vocabulary. This distinction is crucial for understanding how LLMs process language.
+
+In the comments, there is a debate about the authenticity of the article, with some users suggesting it appears to be written by an LLM rather than a human. They point out outdated references to tokenizers and models, arguing that a human author would likely include more current information. The author of the article, Simon, acknowledges the feedback and expresses a commitment to improving future iterations by linking to relevant research.
+
+Notably, Tiberium's skepticism about the article's human authorship highlights a broader concern about the transparency and reliability of AI-generated content. Simon defends his work by clarifying that while he used LLMs for assistance, he aims for readers to perceive it as human-written. This exchange underscores ongoing discussions about the role of AI in content creation and the importance of keeping information up to date.

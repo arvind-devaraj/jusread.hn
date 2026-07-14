@@ -1,0 +1,8 @@
+Show HN: Open Envelope – an open schema for defining AI agent teams  (52 pts, 13 comments)
+https://news.ycombinator.com/item?id=48315016
+
+The Hacker News discussion revolves around the launch of Open Envelope, an open JSON Schema designed for defining AI agent teams. The schema aims to standardize the way multi-agent systems are defined, allowing for roles, handoffs, and human checkpoints to be specified in a vendor-agnostic manner. It provides a portable format that can be executed across different frameworks, similar to how Dockerfiles work for containers. The schema includes features like agent definitions, access policies, and a managed runtime, all under an Apache 2.0 license.
+
+In the comments, there is a mix of agreement and debate regarding the schema's approach. Some users appreciate its vendor-agnostic nature and its potential to streamline multi-agent system development. Others express concerns about the need for a synthesis layer for validation and the importance of having a consistent execution layer. There are discussions about the balance between declarative and imperative approaches, with some commenters advocating for the benefits of a more dynamic orchestration model.
+
+Notable insights include the recognition that coordination and observability among agents are crucial for effective teamwork, as well as the acknowledgment that the schema could facilitate better governance and flexibility in multi-agent systems. Overall, the conversation highlights both the promise of the Open Envelope schema and the complexities involved in implementing multi-agent systems effectively.

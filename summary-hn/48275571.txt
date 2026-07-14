@@ -1,0 +1,8 @@
+Show HN: skills-for-humanity – 171 structured reasoning skills for Claude Code  (28 pts, 7 comments)
+https://news.ycombinator.com/item?id=48275571
+
+The Hacker News discussion centers around a project called "skills-for-humanity," which offers 171 structured reasoning skills designed for use with Claude Code. These skills encompass various methodologies, including logic, probability, decision analysis, and ethics, each based on established frameworks from notable thinkers. Users can access these skills through a simple command structure, allowing them to describe their situation or invoke specific skills directly.
+
+In the comments, users express enthusiasm for the breadth of skills available and suggest improvements, such as adding a prefix to the skill commands to avoid conflicts and enhance discoverability. The creator of the project, known as finnworks, responded positively to the feedback, implementing a prefix and introducing new categories for the skills, which further enriches the offering.
+
+Overall, the discussion highlights the innovative approach of structuring reasoning skills for practical use, while also showcasing community engagement and collaborative improvement of the project.

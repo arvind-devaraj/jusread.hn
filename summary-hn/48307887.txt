@@ -1,0 +1,8 @@
+Disagreement among frontier LLMs on real-world fact-checks  (505 pts, 344 comments)
+https://news.ycombinator.com/item?id=48307887
+
+The Hacker News discussion revolves around a study that examines the disagreement among several advanced language models (LLMs) when tasked with fact-checking real-world claims. The study found that 67% of the claims evaluated saw at least one model dissenting from the majority, indicating a significant level of disagreement among the models. The models included GPT-5.4, Claude Opus 4.7, and others, and they were prompted to classify claims as True, Mostly True, Misleading, or False without an option to abstain.
+
+In the comments, there is considerable debate about the methodology of the study, particularly the lack of an "I don't know" option, which some argue could lead to misleading results. Critics also point out that comparing models with and without search capabilities is problematic, as it may skew the findings. Additionally, some commenters express concerns about the definitions of the classification labels used and suggest that the study should include a rationale for the models' answers to improve understanding of their decision-making processes.
+
+Notable insights include the recognition that human disagreement on facts is prevalent, mirroring the models' inconsistencies. There is also a call for more transparency regarding the use of LLMs in drafting the report itself, as this could affect perceptions of the study's credibility. Overall, the discussion highlights the complexities and challenges of using LLMs for fact-checking and the need for more nuanced evaluation methods.

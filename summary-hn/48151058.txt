@@ -1,0 +1,8 @@
+Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands  (50 pts, 28 comments)
+https://news.ycombinator.com/item?id=48151058
+
+The Hacker News discussion centers around "Sx," an open-source package manager designed for managing AI skills, server configurations, commands, and other related assets. The tool allows users to define these components once, store them in a vault (local folder, git repository, or hosted backend), and install them as needed. It supports various AI clients and includes features like versioning, dependency management, and a command-line interface that adapts to different client formats.
+
+In the comments, users engage in a debate about the practicality and independence of skills, with some arguing that many skills are interdependent and should be bundled together. Others express concerns about the need for a separate package manager when existing tools like Git already serve similar purposes. There are discussions about the challenges of collaboration across non-technical teams and the desire for a more user-friendly way to share skills without relying on Git.
+
+Notable insights include the recognition of the need for a shared vocabulary among users to facilitate understanding and customization of AI agents. Additionally, some commenters highlight the importance of making the tool accessible to non-technical users, suggesting that a streamlined process for sharing and distributing skills could enhance collaboration across different departments. Overall, the conversation reflects a mix of enthusiasm for the tool's potential and skepticism about its necessity in a landscape already populated by existing solutions.

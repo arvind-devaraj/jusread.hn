@@ -1,0 +1,8 @@
+Ask HN: Why won't you be replaced by AI?  (10 pts, 42 comments)
+https://news.ycombinator.com/item?id=48450261
+
+The Hacker News discussion revolves around the question of whether individuals believe they will be replaced by AI, particularly as AI models like Anthropic's Mythos continue to improve. The original poster expresses skepticism about the idea that certain jobs will always require a human touch, suggesting that as AI capabilities grow, many roles could be automated with the right context and structures.
+
+In the comments, there is a mix of agreement and debate. Some users argue that while AI models are advancing, they still lack the nuanced understanding and empathy that humans provide, which are essential in many jobs. Others express concern that the rapid development of AI could lead to significant job displacement, particularly in fields like software engineering. Notably, some commenters highlight that the decision to replace human workers with AI often lies with business owners and managers rather than the technology itself.
+
+Several insights emerge from the discussion, including the idea that while AI can enhance productivity, it may not fully replace the human element in jobs that require emotional intelligence or complex decision-making. Additionally, there is a recognition that societal and legal frameworks will play a crucial role in determining how AI is integrated into the workforce, as well as the ethical implications of such changes.

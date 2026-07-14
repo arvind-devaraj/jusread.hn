@@ -1,0 +1,8 @@
+I think Anthropic and OpenAI have found product-market fit  (1094 pts, 1245 comments)
+https://news.ycombinator.com/item?id=48296794
+
+The Hacker News discussion revolves around the assertion that Anthropic and OpenAI have successfully achieved product-market fit with their AI offerings, particularly in software development. The original post highlights how AI tools are enabling more people to write software and automate tasks, while also suggesting that the impact of AI in other fields may be less pronounced.
+
+In the comments, there is a mix of agreement and debate regarding the implications of AI in software development. Some users argue that while AI can enhance productivity, it may also lead to a faster rate of automation, potentially diminishing the role of existing software engineers. Others emphasize the importance of code quality and the challenges of applying AI in non-software domains, where errors are harder to detect. There are also discussions about the competitive landscape, with concerns about the rising influence of Chinese AI providers and the sustainability of current pricing models.
+
+Notable insights include the recognition that AI can significantly improve coding practices and efficiency, but there are also worries about the long-term viability of current business models, especially as companies shift from subsidized subscription pricing to API-based pricing. Additionally, some commenters express skepticism about the overall economic impact of AI, questioning whether the promised value creation will materialize in a way that benefits the broader workforce.

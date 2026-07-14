@@ -1,0 +1,8 @@
+Show HN: Live breath detection and biofeedback from a phone microphone  (67 pts, 18 comments)
+https://news.ycombinator.com/item?id=48372036
+
+The Hacker News discussion revolves around a project called shii • haa, developed by Felix, a family doctor from Switzerland. This app utilizes a phone's microphone to provide live biofeedback on breathing patterns, aiming to enhance self-awareness rather than gamifying the experience. The app processes audio signals on-device, ensuring privacy by not uploading raw audio or speech. Felix seeks feedback, particularly from those experienced in signal processing, health UX, or audio issues.
+
+In the comments, users express interest in the app but raise concerns about its availability in certain regions, particularly on iOS. Some commenters share their own experiences with similar projects, highlighting challenges in audio detection and normalization. A notable point of debate is the ethical implications of using such technology for monitoring emotional states, which Felix firmly opposes, emphasizing the app's focus on voluntary feedback and self-awareness.
+
+Overall, the discussion reflects a mix of enthusiasm for the app's potential and caution regarding its implementation and accessibility, with Felix actively engaging with feedback to improve the user experience.

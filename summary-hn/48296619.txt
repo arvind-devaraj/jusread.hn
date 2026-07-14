@@ -1,0 +1,8 @@
+OpenAI and Anthropic dig in against each other on AI jobs apocalypse  (17 pts, 8 comments)
+https://news.ycombinator.com/item?id=48296619
+
+The Hacker News discussion revolves around a recent article highlighting the rivalry between OpenAI and Anthropic regarding the potential impact of AI on jobs. The article suggests that while AI could automate many tasks, leading to job displacement and societal issues, both companies continue to aggressively develop and market their technologies.
+
+In the comments, there is a strong consensus that AI will indeed replace many jobs, particularly those that people rely on for income and healthcare. Users express skepticism about the optimistic narratives surrounding AI, arguing that the reality often leads to negative outcomes, such as increased poverty and a lack of job security. Some commenters also criticize the current U.S. healthcare system, linking it to employment and expressing hopelessness about the future job market.
+
+Notable insights include a critique of the notion that AI will create new job opportunities, with some commenters pointing out that the types of jobs being automated are often the ones people enjoy. Additionally, there is a distinction made between the leadership approaches of OpenAI and Anthropic, with some suggesting that Anthropic's leadership appears more cautious and aligned with their stated concerns about AI's risks.

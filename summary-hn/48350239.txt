@@ -1,0 +1,8 @@
+Tell HN: Meta's AI support feature allows Instagram accounts to be stolen  (44 pts, 10 comments)
+https://news.ycombinator.com/item?id=48350239
+
+The Hacker News discussion centers around a vulnerability in Meta's AI support feature for Instagram, which allows accounts to be easily hijacked. The original poster explains that by using a proxy or VPN, anyone can request a password reset code to be sent to an arbitrary email address, enabling them to take control of an account. This flaw has reportedly led to the theft of over 100 high-value accounts and has been exploited in blackhat circles. The poster urges Meta to disable the AI support feature until the issue is resolved.
+
+In the comments, users express skepticism about the necessity of AI in social media, with some arguing that it primarily serves to collect user data rather than assist users. Several commenters share personal experiences of account theft, highlighting the vulnerability's impact. There is also a discussion about whether users can opt out of the AI support feature, with indications that it is currently enforced through A/B testing.
+
+Notable insights include concerns about Meta's lack of transparency and accountability regarding security issues, as well as the potential for regulatory implications under GDPR. Some users suggest that the AI feature may be more harmful than beneficial, emphasizing the need for better security measures and user control over account settings.

@@ -1,0 +1,8 @@
+Artificial intelligence is not conscious – Ted Chiang  (800 pts, 1365 comments)
+https://news.ycombinator.com/item?id=48387270
+
+The Hacker News discussion revolves around an article by Ted Chiang titled "Artificial intelligence is not conscious," which argues against the notion that AI, particularly large language models (LLMs), possess consciousness. The post prompts a debate on the definition of consciousness and whether it can be applied to AI or even to other humans.
+
+In the comments, there is a significant divide between those who assert that consciousness is a fundamental aspect of being human and those who question the very existence of consciousness outside of their own experience. Some commenters argue that behaviors indicative of consciousness in others (including AI) suggest a shared inner life, while others maintain that such behaviors do not provide sufficient evidence for consciousness. The conversation also touches on philosophical concepts like "philosophical zombies" and the limitations of language in defining consciousness.
+
+Notable insights include the idea that consciousness may be a social construct or label rather than an intrinsic property, leading to a broader discussion about the nature of reality and perception. Some participants express skepticism about the scientific method as the only means of understanding consciousness, while others emphasize the importance of empirical evidence in forming beliefs about consciousness in both humans and AI. Overall, the discussion highlights the complexity and ambiguity surrounding the concept of consciousness and its implications for AI.

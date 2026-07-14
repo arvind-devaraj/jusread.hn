@@ -1,0 +1,8 @@
+On Reading SRAMs in IR Images, and Establishing Bounds on Trust  (28 pts, 6 comments)
+https://news.ycombinator.com/item?id=48347002
+
+The Hacker News discussion centers around a blog post by Bunnie Huang that explores the challenges of reading SRAMs (Static Random-Access Memory) in infrared (IR) images and the implications for trust in hardware design. Huang discusses how to verify the integrity of SRAMs, particularly in the context of potential malicious modifications by foundries or dishonest designers.
+
+In the comments, users debate the reliability of error-correcting codes (ECC) in SRAMs, with some suggesting that ECC bits could be repurposed for additional storage. Huang responds by affirming that the SRAMs in question do have ECC and offers methods to verify its functionality, emphasizing the importance of confirming that ECC is genuinely protecting data. Another point of discussion is the feasibility of creating one's own SRAMs versus the complexity and cost of verifying existing chips, with some commenters noting that the effort to inspect chips may outweigh the effort to fabricate them independently.
+
+Overall, the conversation highlights the tension between trust in manufactured hardware and the practical challenges of ensuring that chips function as intended, with insights into both the technical aspects of SRAM verification and the broader implications for hardware security.

@@ -1,0 +1,8 @@
+Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?  (153 pts, 112 comments)
+https://news.ycombinator.com/item?id=48275508
+
+The Hacker News discussion revolves around the use of the Apple Vision Pro (AVP) headset, specifically whether anyone is working at least four hours daily with it. The original poster references a previous inquiry from 2024, seeking to understand any changes in user experiences or capabilities since then.
+
+In the comments, there is a consensus that while the AVP has impressive hardware, its software capabilities are currently limited, particularly regarding integration with macOS and third-party applications. Users express frustration over the lack of features that would allow the AVP to function as a more versatile workspace, such as managing multiple macOS windows in a 3D space. Some users report using the device for work but highlight issues like app compatibility and the awkwardness of wearing it in social settings.
+
+Notable insights include a mix of optimism and skepticism about the future of AR/VR technology. Some users believe the AVP represents a step towards a more immersive computing experience, while others argue that the current market for such devices is too niche for Apple to prioritize. The discussion also touches on broader themes of user experience, privacy concerns, and the potential for AR/VR to reshape work environments, with varying opinions on whether this technology will become mainstream or remain a luxury for a select few.

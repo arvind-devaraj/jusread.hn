@@ -1,0 +1,6 @@
+Show HN: Nightwatch, The open-source, read-only AI SRE  (33 pts, 10 comments)
+https://news.ycombinator.com/item?id=48438180
+
+The Hacker News discussion centers around a project called Nightwatch, an open-source, read-only AI tool designed for Site Reliability Engineering (SRE). It aims to streamline incident management by grouping alerts into incidents, flagging noisy checks, and providing a local agent that can investigate live systems. The creator developed Nightwatch after experiencing challenges during a problematic Kubernetes upgrade, highlighting the need for better situational awareness in complex environments. The tool operates with a focus on security, keeping credentials local and only allowing outbound connections to a central "brain" for analysis.
+
+In the comments, users engage in light-hearted discussions about the name "Nightwatch," with some suggesting it may be confused with existing frameworks or articles. The creator acknowledges this and considers renaming it. There are also practical suggestions regarding the tool's functionality, such as incorporating additional context for the AI to improve its investigative capabilities. Overall, the discussion reflects a mix of curiosity about the tool's potential and a desire for further refinement based on user feedback.

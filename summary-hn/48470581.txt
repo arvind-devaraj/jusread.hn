@@ -1,0 +1,8 @@
+Rich Sutton on AI creativity and discovery  (212 pts, 125 comments)
+https://news.ycombinator.com/item?id=48470581
+
+The Hacker News discussion centers around a talk by Richard Sutton, a prominent figure in AI and reinforcement learning, regarding the creativity and discovery capabilities of AI systems. Sutton argues that while AI can generate outputs, it lacks the ability to evaluate and select the best among them in a meaningful way, which he believes is essential for true creativity and scientific discovery.
+
+In the comments, there is significant debate about Sutton's claims. Some users agree with his assertion that AI systems, like generative models, primarily handle variation but struggle with evaluation and selection. Others challenge this view, pointing out that recent advancements in reinforcement learning and AI frameworks, such as Claude Code, demonstrate the ability to evaluate and iterate effectively. Notably, some commenters express skepticism about the limitations Sutton places on AI, suggesting that it can indeed achieve novel outputs when properly guided.
+
+Overall, the discussion highlights a divide between those who see AI's current capabilities as fundamentally limited in terms of creativity and discovery, and those who believe that with the right frameworks, AI can participate meaningfully in these processes. Insights include the recognition of the evolving nature of AI and the importance of integrating evaluation mechanisms to enhance its creative potential.

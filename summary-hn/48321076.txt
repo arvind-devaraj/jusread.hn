@@ -1,0 +1,8 @@
+Real-time LLM Inference on Standard GPUs: 3k tokens/s per request  (219 pts, 97 comments)
+https://news.ycombinator.com/item?id=48321076
+
+The Hacker News discussion revolves around a blog post detailing a method for achieving real-time inference of large language models (LLMs) on standard GPUs, claiming speeds of up to 3,000 tokens per second per request. The post emphasizes the potential for this technology to scale to larger models, although the initial benchmarks were conducted using a smaller 2 billion parameter model.
+
+In the comments, there is significant debate about the validity of the performance claims, particularly regarding the comparison of smaller models to much larger ones, such as 27 billion parameters or more. Some users express skepticism about the benchmarks, suggesting that the results may not be directly applicable to larger models. Others highlight the challenges of optimizing inference for consumer-grade GPUs versus datacenter GPUs, with some commenters feeling misled by the term "standard GPUs," which they argue should refer to consumer hardware rather than high-end datacenter equipment.
+
+Notable insights include the recognition that while the approach shows promise for improving inference speeds, there are inherent limitations and trade-offs, especially when considering different hardware configurations. The discussion also touches on the potential for future optimizations and the need for clearer communication regarding the capabilities and intended audience for the technology being presented.

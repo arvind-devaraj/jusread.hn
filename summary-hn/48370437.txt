@@ -1,0 +1,8 @@
+AI Doesn't Have ROI  (64 pts, 50 comments)
+https://news.ycombinator.com/item?id=48370437
+
+The Hacker News discussion revolves around the assertion that AI does not deliver a clear return on investment (ROI) for companies, as highlighted in the article "AI Doesn't Have ROI." Many commenters express concern over a shift in corporate attitudes towards AI, with companies tightening budgets and limiting AI usage after initially embracing it. This reversal is attributed to the high costs associated with AI technologies and the difficulty in measuring their effectiveness in generating revenue.
+
+The main points of debate include differing experiences with AI's impact on productivity and innovation. Some users argue that AI significantly accelerates the prototyping and iteration process, allowing for faster feedback and development cycles. Others counter that while AI may speed up certain tasks, it does not address fundamental business challenges or guarantee customer satisfaction, leading to potential long-term issues. Notably, some commenters highlight that the promised transformative ROI of AI has not materialized, suggesting that the initial hype may have been overstated.
+
+Overall, the discussion reflects a growing skepticism about AI's economic viability, with some participants advocating for a more measured approach to its integration in business processes. There is a consensus that while AI can be a useful tool, it is not a panacea for all operational challenges, and its financial implications need careful consideration.

@@ -1,0 +1,8 @@
+Ripgrep AI Policy  (106 pts, 23 comments)
+https://news.ycombinator.com/item?id=48292718
+
+The Hacker News discussion revolves around the AI policy for the open-source project Ripgrep, as outlined in a GitHub document. The policy allows AI-generated code contributions but emphasizes that comments must be written by humans to ensure quality and engagement in the development process.
+
+Commenters express a mix of agreement and concern regarding the implications of AI contributions. Some highlight the issue of "drive-by PRs"—trivial contributions made without meaningful engagement—which have become more prevalent with AI tools. Others appreciate the policy as a balanced approach that encourages the use of AI while maintaining a standard for human-written documentation. Notably, some users argue that while AI can enhance clarity, it should not replace the personal touch of human contributions, especially in comments.
+
+Overall, the discussion reflects a broader concern about maintaining quality in open-source contributions amidst the rise of AI tools, with many participants advocating for policies that encourage responsible use of AI while discouraging low-effort submissions.

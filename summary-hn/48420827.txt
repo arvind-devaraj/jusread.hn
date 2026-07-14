@@ -1,0 +1,8 @@
+Ask HN: Why is the HN crowd so anti-AI?  (463 pts, 765 comments)
+https://news.ycombinator.com/item?id=48420827
+
+The Hacker News discussion revolves around a user's inquiry into why the community appears to be largely critical of AI, particularly in the context of software development. The user argues that while AI-generated code may not always be perfect, the speed and efficiency it offers can outweigh concerns about code quality, as users primarily care about functional products.
+
+In the comments, there is a mix of agreement and debate. Some users acknowledge that AI can produce poor-quality code, leading to technical debt and maintenance challenges. Others argue that the criticism is not anti-AI but rather a call for honesty about the limitations and failures of current AI tools. A recurring theme is the concern that reliance on AI may lead to a decline in coding skills and a lack of critical thinking among developers. Some commenters also express worries about the broader implications of AI on job security and the quality of work in various fields.
+
+Notable insights include the distinction between different types of AI users—those who leverage AI for mundane tasks while maintaining a strong understanding of their work, versus those who overly rely on AI without adequate scrutiny. The discussion highlights a tension between the potential benefits of AI in speeding up development processes and the risks of producing subpar code that could have long-term negative effects on software quality and engineering practices.

@@ -1,0 +1,8 @@
+Qwen3.7-Plus: Multimodal Agent Intelligence  (42 pts, 12 comments)
+https://news.ycombinator.com/item?id=48360313
+
+The Hacker News discussion revolves around the announcement of Qwen3.7-Plus, a new multimodal AI model designed for various applications, particularly in agent intelligence. The original post highlights the model's capabilities, but lacks specific details on pricing and technical specifications, which has left users eager for more information.
+
+In the comments, users express excitement about the emergence of new models, especially in light of recent changes to Copilot's pricing structure. A notable discussion point is the experience of a user who has been utilizing Qwen3.6-Plus in a woodworking simulator, which showcases the model's multimodal abilities and tool-calling features. There are inquiries about the agent harness used in this simulator, with the user providing insights into its functionality and output capabilities. Some commenters also express concerns about the lack of releases on platforms like Hugging Face and discuss the implications of integrating GUI and CLI operations within a single agent loop.
+
+Overall, the conversation reflects a mix of enthusiasm for advancements in AI models, practical applications in creative fields, and curiosity about the future direction of model releases and their performance benchmarks.

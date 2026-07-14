@@ -1,0 +1,8 @@
+Human-Like Neural Nets by Catapulting  (50 pts, 16 comments)
+https://news.ycombinator.com/item?id=48430282
+
+The Hacker News discussion revolves around a blog post titled "Human-Like Neural Nets by Catapulting," which explores the idea that human brains achieve remarkable learning efficiency through a combination of overparameterization and high-learning-rate training on diverse, filtered datasets. The author suggests that this could inform the development of more effective neural networks.
+
+In the comments, there is significant debate about the validity of the claims made in the post. Some users express skepticism about the lack of empirical evidence supporting the idea that human brains operate similarly to neural networks, particularly regarding the energy costs of neurons and the nature of the datasets humans learn from. Others highlight the differences between human learning and machine learning, emphasizing that humans can generalize from limited experiences, unlike current AI models that require vast amounts of data. 
+
+Notable insights include the argument that human sensory experiences, such as high-resolution audio and video, provide a rich context for learning that is not easily replicated in AI. Additionally, some commenters argue that the evolutionary processes that shaped human intelligence are fundamentally different from the training methods used in AI, making direct comparisons problematic. Overall, the discussion reflects a mix of skepticism, curiosity, and a desire for deeper understanding of the relationship between human cognition and artificial intelligence.

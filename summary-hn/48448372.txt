@@ -1,0 +1,8 @@
+Show HN: Rayline routes Claude Code subagents to on-device and cheaper models  (11 pts, 9 comments)
+https://news.ycombinator.com/item?id=48448372
+
+The Hacker News discussion revolves around Rayline, a new gateway for Claude Code that allows users to route subagent calls to various models, including cheaper on-device options. The creator explains that traditional routing methods are inefficient, as they rely on the main agent to make decisions using tokens. Rayline aims to improve this by enabling deterministic routing decisions at the subagent level, which can lead to significant cost savings (60-90% in their private beta) by using more efficient models for specific tasks.
+
+In the comments, users seek clarification on the cost-effectiveness of different models, particularly comparing Sonnet and Haiku to open models like Deepseek and Mimo. There is a discussion about the geographical implications of using certain models, with some users expressing concerns about using Chinese-hosted models. The creator emphasizes that Rayline is specifically designed for Claude Code, supports on-device routing, and includes an optional built-in ML router for task delegation.
+
+Notable insights include the recognition that many subagent tasks can be efficiently handled by cheaper models without compromising quality, and the potential for on-device routing to reduce costs further, especially for users with capable hardware. The conversation highlights the growing interest in model routing as a relevant area in AI development.

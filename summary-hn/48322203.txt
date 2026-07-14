@@ -1,0 +1,8 @@
+Show HN: Context-aware Japanese furigana using Sudachi and ModernBERT  (37 pts, 20 comments)
+https://news.ycombinator.com/item?id=48322203
+
+The Hacker News discussion revolves around a project called "Context-aware Japanese furigana," developed by a user named epitrochoid413. This tool aims to provide accurate furigana (phonetic readings) for Japanese text by addressing the limitations of traditional dictionary-based methods, particularly for words whose readings depend on context. The system utilizes Sudachi for tokenization and ModernBERT for context-aware reading predictions, along with custom rules and an expanded dictionary.
+
+In the comments, users express appreciation for the tool's effectiveness and ease of use, noting its potential for learners of Japanese. However, there are discussions about its limitations, particularly regarding edge cases where the tool may misinterpret readings, such as "今日" being read as "こんにち" instead of "きょう." Some commenters question whether the tool relies primarily on pattern matching rather than innovative context handling. Epitrochoid413 acknowledges these concerns and indicates plans for further improvements, including expanding support for more complex readings and potentially adding pitch accent features in the future.
+
+Overall, the discussion highlights both the tool's strengths in providing context-aware readings and the ongoing challenges in accurately handling the nuances of the Japanese language.

@@ -1,0 +1,8 @@
+Now AI agents need what RSS does  (85 pts, 65 comments)
+https://news.ycombinator.com/item?id=48375673
+
+The Hacker News discussion revolves around the resurgence of RSS (Really Simple Syndication) in the context of AI agents needing structured data to function effectively. The original blog post argues that RSS provides a solution for AI by offering a structured way to access updates from various sources, which can enhance how AI interacts with content online.
+
+In the comments, users express a mix of nostalgia and practicality regarding RSS. Some appreciate its utility for filtering content without ads, while others voice frustrations about limitations in downloading complete blog archives. There’s a debate about the need for structured feeds versus the potential for AI to scrape content directly, with some users advocating for better ways to protect their content from being misused by AI crawlers. Notably, there’s a sentiment that as AI becomes more prevalent, the demand for structured formats like RSS will grow, highlighting a cyclical return to older technologies as new needs arise.
+
+Overall, the discussion reflects a broader conversation about the balance between content accessibility and protection in an increasingly AI-driven landscape, with many users advocating for the continued relevance of RSS in this evolving context.

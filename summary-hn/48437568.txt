@@ -1,0 +1,8 @@
+If LLMs Have Human-Like Attributes, Then So Does Age of Empires II  (118 pts, 121 comments)
+https://news.ycombinator.com/item?id=48437568
+
+The Hacker News discussion revolves around a paper that humorously argues that if large language models (LLMs) can exhibit human-like attributes, then so can the video game Age of Empires II (AoE II), which is claimed to be Turing-complete. The post raises questions about the nature of consciousness and whether it can be attributed to systems like LLMs or even games, prompting a lively debate among commenters.
+
+In the comments, there is significant discussion about the implications of Turing completeness and whether any sufficiently powerful substrate could exhibit human-like attributes. Some commenters express skepticism about equating LLMs with consciousness, while others argue that the distinction between different types of models (like chess engines versus LLMs) is arbitrary. Notable insights include the idea that consciousness might not be strictly tied to language, and the complexity of defining what constitutes consciousness itself, with some suggesting it could exist in varying degrees across different systems.
+
+Overall, the conversation highlights the challenges of defining consciousness and the tendency to anthropomorphize technology, as well as the philosophical implications of attributing human-like qualities to non-human entities.

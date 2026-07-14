@@ -1,0 +1,8 @@
+Local LLMs perform better when you teach them to ask before they answer  (33 pts, 12 comments)
+https://news.ycombinator.com/item?id=48254993
+
+The Hacker News discussion revolves around the idea that local large language models (LLMs) perform better when they are programmed to ask clarifying questions before providing answers. This approach enhances the model's understanding of the user's intent and leads to more accurate and relevant responses, particularly in tasks like coding, writing, and summarizing.
+
+In the comments, users generally agree on the effectiveness of this technique, noting that it can significantly improve the quality of outputs from both local and cloud-based models. Some commenters share their personal experiences and configurations, highlighting how integrating clarifying questions into their workflows has streamlined their processes. However, there are also critiques regarding the novelty of this approach, with some suggesting that it is not a new concept and has been recognized in earlier LLM optimizations like Chain of Thought models.
+
+Notable insights include the acknowledgment that while asking questions can enhance model performance, it is not a universally applicable solution. Some users emphasize the importance of clear prompts and intentions in improving model responses, while others reflect on the ongoing evolution of LLMs and the need for users to adapt their strategies as these technologies develop.

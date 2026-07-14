@@ -1,0 +1,8 @@
+How long until AI automates all cognitive labor?  (45 pts, 82 comments)
+https://news.ycombinator.com/item?id=48309344
+
+The Hacker News discussion revolves around the article titled "How long until AI automates all cognitive labor?" which explores the timeline and definitions surrounding Artificial General Intelligence (AGI). The author notes that many researchers have published forecasts about AGI, but the definitions of what constitutes AGI vary widely, leading to confusion and debate.
+
+In the comments, participants discuss the ambiguity of AGI definitions, with some arguing that AGI should match or surpass human capabilities in all cognitive tasks, while others believe it only needs to perform at an average human level. There is also debate about the economic implications of AGI, with some asserting that cost-effectiveness is crucial for automation, while others argue that AGI's definition should not hinge on its cost. Notably, some commenters express skepticism about the current capabilities of AI, suggesting that while AI can perform certain tasks well, it lacks the broader understanding and adaptability that true AGI would require.
+
+Overall, the discussion highlights the complexity of defining AGI, the varying expectations of its capabilities, and the potential economic impacts of its development, with a consensus that significant advancements are still needed before AI can fully automate cognitive labor.

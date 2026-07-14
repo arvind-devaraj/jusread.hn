@@ -1,0 +1,6 @@
+Ask HN: What LLM models are you using and why?  (11 pts, 16 comments)
+https://news.ycombinator.com/item?id=48166147
+
+The Hacker News discussion revolves around users sharing their experiences and preferences regarding various large language models (LLMs) they utilize for work and personal projects. The original poster mentions a shift from using Opus 4.6 to GPT-5.5 for work due to its consistency and ease of use, while also experimenting with DeepSeek V4 for its cost-effectiveness and large context window.
+
+In the comments, there is a consensus on the popularity of GPT-5.5 and Opus 4.7, with many users employing them for different tasks based on their specific needs. Users also highlight the advantages of DeepSeek for long-running tasks and express varying levels of satisfaction with other models like Claude and Codex. Notably, some users prefer self-hosted models for specific applications, indicating a trend towards customization and experimentation in the LLM space. Overall, the discussion reflects a diverse range of preferences and use cases, showcasing the evolving landscape of AI tools in daily workflows.

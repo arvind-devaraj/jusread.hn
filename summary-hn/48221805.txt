@@ -1,0 +1,8 @@
+Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)  (40 pts, 17 comments)
+https://news.ycombinator.com/item?id=48221805
+
+The Hacker News discussion revolves around a project titled "Spec-Driven Development" (SDD), created by a developer who utilized a Claude AI subscription to build a skill for managing software specifications. The developer prefers this tool over others like Kiro due to cost constraints and aims to make it open source for broader use. The skill includes various testing phases, and the developer is seeking feedback from users who fit specific criteria, such as solo developers or team leads.
+
+In the comments, users provide feedback on the tool's functionality, with some praising its approach to generating documentation but noting that the model's questioning could be more thorough to improve the quality of outputs. There are comparisons to more mature tools like GSD and Allium, with some commenters suggesting that the SDD skill could benefit from integrating with these existing frameworks rather than trying to replace them. The developer acknowledges these points and expresses a desire to refine the tool based on user experiences.
+
+Overall, the discussion highlights a mix of enthusiasm for the new tool and constructive criticism, emphasizing the importance of iterative improvement and collaboration in software development practices.

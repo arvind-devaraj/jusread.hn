@@ -1,0 +1,8 @@
+Alternatives to HN for "tech outside of AI" discussion?  (61 pts, 38 comments)
+https://news.ycombinator.com/item?id=48202486
+
+The Hacker News discussion revolves around the perception that AI-related topics have overwhelmingly dominated the platform, overshadowing other tech discussions. The original poster expresses a desire for a return to a more diverse range of topics, particularly those showcasing innovative projects, and seeks alternatives to HN or ways to filter out AI content.
+
+In the comments, many users agree that HN has become overly focused on AI, with some suggesting that it has turned into a marketing outlet for AI products. Others acknowledge that while AI discussions have always existed, the current saturation is unprecedented. Several users recommend alternatives like Lobste.rs, which they feel maintains a higher quality of discussion and allows for better content filtering. Some also propose tools and extensions to help filter out AI-related posts on HN.
+
+Notable insights include the acknowledgment that the tech landscape is shifting towards AI, leading to a perception that non-AI topics are becoming less relevant. Additionally, some commenters reflect on their experiences with HN, noting a decline in the community's support for indie projects and a preference for mainstream content. Overall, the discussion highlights a tension between the evolving focus of tech discussions and the desire for a more varied and engaging discourse.

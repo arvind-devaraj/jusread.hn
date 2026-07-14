@@ -1,0 +1,8 @@
+Training our own AI models  (216 pts, 142 comments)
+https://news.ycombinator.com/item?id=48296359
+
+The Hacker News discussion revolves around a blog post by PostHog announcing their intention to train AI models using user data. The company emphasizes transparency, detailing that users on their EU cloud instance are opted out by default, while users on their US cloud instance are opted in by default. They assure that data will be anonymized and that they will not sell or share it with third parties.
+
+In the comments, there is significant debate about the ethics of opting users in by default, with many labeling it as a "dark pattern" that exploits user consent. Some users express disappointment, feeling that PostHog is prioritizing profit over user trust and privacy. Others argue that the company's need to generate returns after raising venture capital makes this move predictable. Notably, there are comparisons made between data usage for AI training and organ donation, with discussions about consent and moral implications.
+
+Overall, the conversation highlights a broader concern about data privacy and corporate responsibility, with many users indicating they may reconsider their use of PostHog's services due to these changes.

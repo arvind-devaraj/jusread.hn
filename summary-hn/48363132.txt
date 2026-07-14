@@ -1,0 +1,8 @@
+OpenAI frontier models and Codex are now available on AWS  (370 pts, 124 comments)
+https://news.ycombinator.com/item?id=48363132
+
+The Hacker News discussion revolves around the announcement that OpenAI's frontier models and Codex are now available on AWS through the Bedrock platform. This integration allows companies that already have AWS contracts to access these AI models without needing to establish new vendor relationships, which can be a cumbersome process in large organizations.
+
+The comments highlight several key points of agreement and debate. Many users note that using these models through AWS is generally more expensive than sourcing directly from OpenAI, primarily due to AWS's pricing structure and additional costs for data residency. There is a consensus that large corporations prefer AWS for its established relationships and perceived data security, despite concerns about data privacy and the potential for AWS to misuse customer data. Some commenters express skepticism about AWS's trustworthiness, while others argue that AWS has a strong incentive to maintain its reputation for data security.
+
+Notable insights include the challenges of vendor procurement in large organizations, which often leads to a preference for existing providers like AWS. Additionally, the discussion touches on the implications of data privacy regulations and the evolving landscape of AI deployment in corporate settings, suggesting that as companies become more cautious about data sharing, they may increasingly rely on established platforms like AWS for their AI needs.

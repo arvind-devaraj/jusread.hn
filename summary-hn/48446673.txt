@@ -1,0 +1,8 @@
+How Terry Tao became an evangelist for AI in math  (192 pts, 173 comments)
+https://news.ycombinator.com/item?id=48446673
+
+The Hacker News discussion revolves around an article detailing how mathematician Terry Tao has become a proponent of using AI in mathematics, particularly through the Lean proof assistant. The article highlights Tao's belief in AI's potential to enhance mathematical research and collaboration, despite some skepticism within the mathematical community regarding the complexity and beauty of modern proofs.
+
+In the comments, there is a lively debate about the nature of beauty in mathematics, with some arguing that the increasing complexity of proofs, often constructed by many contributors, detracts from their elegance. Others contend that beauty is subjective and that what may seem "ugly" or trivial to one generation can be appreciated by another. There are also discussions about the distinction between pure and applied mathematics, with some commenters asserting that many mathematicians value their work for its intrinsic beauty rather than its practical applications.
+
+Notable insights include the idea that AI could help bridge the gap between complex proofs and human understanding, potentially leading to new ways of thinking about mathematics. However, there is also concern about the implications of AI in the field, with some suggesting that the focus on productivity and results could overshadow the artistic and exploratory aspects of mathematical research. Overall, the conversation reflects a tension between tradition and innovation in the mathematical community.

@@ -1,0 +1,8 @@
+Ask HN: What is your (AI) dev tech stack / workflow?  (171 pts, 136 comments)
+https://news.ycombinator.com/item?id=48413629
+
+The Hacker News discussion titled "Ask HN: What is your (AI) dev tech stack / workflow?" features a user seeking advice on modern development tools and workflows for a series of in-person workshops aimed at participants with varying levels of experience, from beginners to seasoned developers. The user, who has a background in programming but limited experience with AI tools, is interested in incorporating open-source solutions and best practices like test-driven development (TDD) into the workshop.
+
+In the comments, participants share their diverse tech stacks and workflows, highlighting the integration of AI tools like Claude and ChatGPT into their development processes. A recurring theme is the challenge of managing context when using AI, with some users noting that the quality of AI-generated code can suffer if the model loses track of project conventions. Others emphasize the importance of maintaining a balance between leveraging AI for efficiency and ensuring code quality through manual review and testing.
+
+Notable insights include the idea that while AI can enhance productivity, it may also lead to over-reliance and potential pitfalls if not managed carefully. Some commenters advocate for a structured approach to using AI, such as Spec Driven Development, while others prefer traditional coding methods, arguing that they can still be effective in niche areas. Overall, the discussion reflects a blend of enthusiasm for AI tools and caution regarding their implementation in software development workflows.

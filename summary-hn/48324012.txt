@@ -1,0 +1,8 @@
+OpenAI Announces Rosalind Biodefense  (20 pts, 7 comments)
+https://news.ycombinator.com/item?id=48324012
+
+The Hacker News discussion centers around OpenAI's announcement of Rosalind Biodefense, a new initiative aimed at enhancing societal resilience against biological threats. The original post links to OpenAI's announcement, but the comments reflect skepticism and critique regarding the clarity and substance of the initiative.
+
+Commenters express a range of opinions, with some criticizing the announcement as vague and lacking concrete details, suggesting it may be more about securing funding than delivering real solutions. There is also a discussion about the cultural significance of Rosalind Franklin in science, with some feeling fatigued by her frequent mention as a symbol of inclusivity, while others highlight the historical oversight of her contributions and those of her assistant, Raymond Gosling.
+
+Overall, the conversation reveals a mix of skepticism about the motivations behind OpenAI's announcement and a broader commentary on the representation of women in science, particularly in relation to Franklin's legacy.

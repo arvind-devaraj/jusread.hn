@@ -1,0 +1,8 @@
+Smart Earbuds with built-in camera and AI  (12 pts, 9 comments)
+https://news.ycombinator.com/item?id=48216900
+
+The Hacker News discussion revolves around a new product called Ordo, which is described as smart earbuds equipped with a built-in camera and AI capabilities. The creator, im_ishika, highlights several features of Ordo, including the ability to ask questions and receive instant audio responses, take hands-free photos, and remember various notes and lists. The device is designed to integrate seamlessly into daily life without the need for screens, contrasting with smart glasses.
+
+In the comments, there is a mix of excitement and skepticism. Many users express enthusiasm for the product, with several stating they have already ordered it. However, some commenters, like wunderlotus, raise concerns about the authenticity of the positive feedback, noting that many enthusiastic comments come from new users with similar phrasing. Additionally, Harvy, another commenter, shares a personal backstory about the inspiration behind the product and questions whether the AI functionalities can operate solely on a local model on the phone.
+
+Overall, the discussion reflects a blend of optimism for innovative technology and caution regarding the credibility of user endorsements.

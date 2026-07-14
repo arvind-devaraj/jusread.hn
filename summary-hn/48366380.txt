@@ -1,0 +1,8 @@
+I'm Done Using AI  (32 pts, 25 comments)
+https://news.ycombinator.com/item?id=48366380
+
+The post titled "I'm Done Using AI" expresses the author's frustration with using large language models (LLMs) for coding, citing a loss of flow state, increased time spent on architectural changes, and a decline in personal coding skills. The author feels that while LLMs can be useful as research tools, they have become an expensive distraction in the coding process.
+
+In the comments, there is a mix of agreement and differing perspectives. Some users share similar frustrations about losing their coding rhythm and the challenges of relying too heavily on AI for decision-making. Others argue that AI can still be beneficial if used correctly, suggesting that it should complement rather than replace human thinking. Several commenters propose strategies for integrating AI into their workflows, such as using it for specific tasks while maintaining control over the overall architecture.
+
+Notable insights include the idea that the effectiveness of LLMs can vary based on individual experience and the nature of the tasks at hand. Some users find AI to be a helpful partner in coding, while others feel it complicates their workflow. The discussion highlights the need for a balanced approach to using AI in coding, emphasizing the importance of maintaining one's skills and decision-making abilities.

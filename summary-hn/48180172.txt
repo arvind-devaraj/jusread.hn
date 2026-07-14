@@ -1,0 +1,8 @@
+When Fast Fourier Transform Meets Transformer for Image Restoration (2024)  (88 pts, 8 comments)
+https://news.ycombinator.com/item?id=48180172
+
+The Hacker News discussion revolves around a GitHub post titled "When Fast Fourier Transform Meets Transformer for Image Restoration," which explores the integration of Fast Fourier Transform (FFT) techniques with transformer models for enhancing image restoration processes. The post likely presents a novel approach or findings in this area, although specific details are not provided in the comments.
+
+In the comments, users discuss the challenges and potential of incorporating spectral information into neural networks. Key points of debate include the difficulties of using complex-valued neural networks, the implications of the Fourier uncertainty principle, and the limitations of Fourier Neural Operators (FNOs) due to their sparsity constraints. Some commenters suggest that alternative transforms, such as wavelet, shearlet, or curvelet transforms, might be more effective for specific applications, while others express interest in exploring the fractional Fourier transform for image restoration.
+
+Notable insights include a reference to a related work, "CosAE: Learnable Fourier Series for Image Restoration," and a mention of a previous article on using FFT to address moiré effects in scanned images. Overall, the discussion highlights ongoing interest and exploration in the intersection of Fourier analysis and machine learning for image processing.

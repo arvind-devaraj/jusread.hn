@@ -1,0 +1,8 @@
+An OpenAI model has disproved a central conjecture in discrete geometry  (1429 pts, 1045 comments)
+https://news.ycombinator.com/item?id=48212493
+
+The Hacker News discussion centers around an OpenAI model that has reportedly disproved a significant conjecture in discrete geometry, as detailed in a blog post by OpenAI. The conversation quickly shifts to the performance of various AI models in academic settings, with users comparing OpenAI's offerings to those from Google (Gemini) and Anthropic (Claude). 
+
+A key point of debate is whether OpenAI's models are superior for academic research, with some commenters asserting that OpenAI has a lead due to its targeted outreach to academics and generous access to its tools. Others argue that Google's Gemini has advantages in pedagogical practices and information retrieval, although some users express frustration with its tendency to provide overly verbose responses. 
+
+Notable insights include a recognition of AI's potential to enhance scientific research by streamlining the process of finding and synthesizing information, though there are concerns about the reliability of AI-generated content. Some users emphasize the importance of critical engagement with AI outputs, suggesting that while AI can be a powerful tool, it should not replace traditional methods of research and understanding.

@@ -1,0 +1,8 @@
+Show HN: On-device transcriber that's 97% accurate at identifying speakers  (32 pts, 10 comments)
+https://news.ycombinator.com/item?id=48415709
+
+The Hacker News discussion revolves around MimicScribe, a macOS app designed for on-device transcription and speaker identification, boasting 97% accuracy. The creator, Marshall, highlights its features, including real-time meeting talking points, a keyboard- and voice-driven interface, and a focus on privacy through an on-device mode. The app aims to assist users in extracting insights during meetings while maintaining control over their data.
+
+In the comments, users express enthusiasm for the app's capabilities and suggest improvements, such as integrating Ollama for AI functionalities and clarifying system requirements for local performance. A recurring theme is the importance of privacy, with several commenters emphasizing the need for robust privacy measures, especially for a technical audience. Notably, Marshall acknowledges these concerns and is open to exploring additional privacy-focused solutions.
+
+Overall, the discussion reflects a positive reception of MimicScribe, with constructive feedback aimed at enhancing its functionality and addressing privacy issues.

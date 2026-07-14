@@ -1,0 +1,6 @@
+Ask HN: What Is an "AI Engineer"?  (20 pts, 34 comments)
+https://news.ycombinator.com/item?id=48312377
+
+The Hacker News discussion revolves around the evolving title of "AI Engineer" and its implications in the tech industry. The original poster notes a trend of professionals on LinkedIn adopting this title despite not engaging in model development or AI workflows, but rather using AI tools to build applications. They question whether this title accurately reflects their work and if it is what companies are seeking in job postings.
+
+In the comments, there is a debate about the definition and legitimacy of the "AI Engineer" title. Some argue that the role should involve a deeper understanding of AI models and their integration into software, while others contend that many who label themselves as AI Engineers are simply using AI tools without specialized knowledge. Notable opinions include the idea that the title is becoming diluted, akin to past trends like "blockchain engineer," and that it may not hold significant value in the future. Several commenters emphasize that practical skills and experience matter more than titles, suggesting that the industry is shifting towards a more generalized approach to engineering roles.

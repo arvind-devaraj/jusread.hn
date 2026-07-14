@@ -1,0 +1,8 @@
+Tell HN: Anthropic's Fable model is too expensive  (17 pts, 26 comments)
+https://news.ycombinator.com/item?id=48485950
+
+The Hacker News discussion revolves around a user's experience with Anthropic's Fable model, highlighting its high cost. The user, on a $200 subscription plan, noted that they consumed a significant portion of their quota in a single day while using Fable for problem-solving and code review, contrasting it with their previous usage of the Opus 4.8 model.
+
+In the comments, there is a debate about the value of Fable compared to cheaper alternatives, with some users expressing skepticism about its performance relative to its price. While some believe Fable offers a notable improvement, others argue that open models are catching up and are more cost-effective. There are also concerns about the sustainability of Fable's pricing, with predictions that costs will rise significantly after the initial subscription period ends. Notably, some users have reported inconsistent experiences with usage rates, leading to confusion about the model's efficiency.
+
+Overall, the discussion reflects a mix of frustration over Fable's pricing and performance, alongside a search for more affordable and effective AI solutions. Users are weighing the benefits of Fable against its costs and exploring alternatives, while also sharing tips on managing usage to avoid exceeding quotas.

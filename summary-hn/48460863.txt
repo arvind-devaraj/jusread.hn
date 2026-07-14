@@ -1,0 +1,8 @@
+Is grep all you need? How agent harnesses reshape agentic search  (164 pts, 64 comments)
+https://news.ycombinator.com/item?id=48460863
+
+The Hacker News discussion revolves around a paper titled "Is grep all you need? How agent harnesses reshape agentic search," which evaluates the effectiveness of grep in comparison to semantic search methods in agent-based retrieval systems. The paper suggests that grep performs well in certain contexts, particularly when dealing with structured data and specific types of queries.
+
+In the comments, users express a mix of agreement and skepticism regarding the paper's conclusions. Some commenters argue that while grep is effective, it may not be the best tool for all scenarios, particularly when compared to advanced search tools like MeiliSearch or Algolia. Others highlight the importance of structured data and the potential of hybrid search methods that combine traditional grep with semantic techniques. There is also a debate about the limitations of relying solely on grep, with some users emphasizing the need for more sophisticated approaches in complex search tasks.
+
+Notable insights include the idea that the effectiveness of grep may be influenced by how well content is organized for searchability, and that the choice of search tool should depend on the specific context and requirements of the task at hand. Additionally, some commenters express frustration with AI models that default to grep without considering more advanced options, suggesting a need for better integration of various search methodologies.

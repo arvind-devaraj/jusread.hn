@@ -1,0 +1,8 @@
+Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue  (386 pts, 162 comments)
+https://news.ycombinator.com/item?id=48308376
+
+The Hacker News discussion revolves around a game titled "Continue? Y/N," which simulates the experience of managing AI agent permissions and the resulting fatigue. Players navigate through various permission requests, aiming to balance security with productivity. The game highlights the challenges developers face when interacting with AI tools that require frequent permission approvals.
+
+In the comments, users express a mix of agreement and concern regarding the implications of permission fatigue. Some argue that tools that bypass permission requests can lead to security vulnerabilities, while others emphasize the necessity of human oversight in the process. There is a notable debate about the effectiveness of current permission systems, with suggestions for improved sandboxing and more granular permission prompts to enhance security without overwhelming users.
+
+Several commenters share personal experiences and strategies for managing permissions, including using aliases to skip prompts or employing sandboxing techniques. A recurring theme is the tension between efficiency and security, with some users advocating for stricter controls to prevent potential exploits, while others prioritize speed and convenience in their workflows. Overall, the discussion underscores the complexities of integrating AI agents into development environments and the need for better security practices.

@@ -1,0 +1,8 @@
+How to automate Instagram engagements with computer vision (and get banned)  (56 pts, 34 comments)
+https://news.ycombinator.com/item?id=48504544
+
+The Hacker News discussion revolves around a blog post by Florian Herrengt that explores the challenges and risks of automating Instagram engagements using computer vision techniques. The author shares his experience with automation, highlighting that such methods often lead to account bans due to Instagram's stringent anti-abuse measures. He notes that older accounts with established histories are less likely to be flagged for unusual activity compared to new accounts.
+
+In the comments, users express a mix of skepticism and agreement regarding the feasibility and ethics of automating social media interactions. Some commenters argue that the difficulty of creating legitimate accounts and the prevalence of bot activity suggest a flawed system. Others emphasize the importance of organic engagement and caution against automation, which can lead to bans. Notably, there is a consensus that social networks prioritize paid promotions over organic reach, making it challenging for users to gain visibility without financial investment.
+
+Overall, the discussion reveals a broader frustration with social media platforms' restrictive policies and the complexities of navigating their ecosystems, while also acknowledging the potential for automation to be misused.

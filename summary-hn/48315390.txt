@@ -1,0 +1,8 @@
+How far behind are open models?  (11 pts, 5 comments)
+https://news.ycombinator.com/item?id=48315390
+
+The Hacker News discussion revolves around the performance gap between open-source AI models and proprietary models, particularly focusing on how far behind open models are in comparison to the latest advancements from companies like OpenAI. The original post suggests that open models are approximately 8-10 months behind their closed counterparts.
+
+In the comments, there is a mix of opinions. Some users, like downbad_, express satisfaction with open models like Deepseek, claiming they outperform ChatGPT. Others, such as alecco, acknowledge the strengths of open models but argue that they still lag behind the latest proprietary versions in specific tasks. Danox predicts that the gap will close significantly by 2030, while adrian_b critiques the lack of evidence supporting the 8-10 month claim, calling for more recent benchmarks of open models. Phamilton raises a question about the comparative performance of different models, indicating a desire for empirical data to better understand the landscape.
+
+Overall, the discussion highlights a general optimism about the progress of open models, tempered by concerns regarding their current capabilities and the need for updated evaluations to accurately assess their standing in the rapidly evolving AI field.

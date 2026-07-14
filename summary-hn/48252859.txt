@@ -1,0 +1,8 @@
+When does learning from data work (math starting from basic probability)  (16 pts, 6 comments)
+https://news.ycombinator.com/item?id=48252859
+
+The Hacker News discussion revolves around an article titled "When does learning from data work," which focuses on the mathematical foundations of machine learning, particularly starting from basic probability. The article has sparked mixed reactions among commenters regarding its quality and authorship, with some suggesting it may be AI-generated or poorly written.
+
+In the comments, there is a notable debate about the article's clarity and usefulness. Some users, like Grimblewald, criticize it for lacking human oversight and coherence, while others, like alok-g, acknowledge some merit but point out a few mistakes. A user named seanhunter expresses confusion about the intended audience of the article and shares their preference for a more reputable resource, Kevin Murphy's "Probabilistic Machine Learning: An Introduction," for learning the subject.
+
+Overall, the discussion highlights skepticism about the article's quality and raises questions about the effectiveness of AI-generated content in educational contexts. There is a consensus among some commenters that more reliable and human-curated resources are preferable for learning complex topics like machine learning.

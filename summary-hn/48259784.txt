@@ -1,0 +1,8 @@
+Claude is not your architect. Stop letting it pretend  (275 pts, 190 comments)
+https://news.ycombinator.com/item?id=48259784
+
+The Hacker News discussion revolves around an article titled "Claude is not your architect. Stop letting it pretend," which critiques the over-reliance on AI tools like Claude for software architecture and design. The author argues that while AI can assist in coding, it lacks the critical thinking and decision-making skills that human architects possess, particularly the ability to say "no" to unnecessary complexity.
+
+In the comments, there is a mix of agreement and debate regarding the effectiveness of AI in software development. Some users share experiences where AI-generated code was subpar, emphasizing the importance of human oversight and detailed planning before using AI tools. Others argue that AI can be a valuable assistant if used correctly, highlighting the need for users to engage critically with the AI outputs and to provide clear specifications. Notably, some commenters express concerns about managers treating AI as infallible, which could lead to poor code quality due to a lack of thorough testing and review.
+
+Overall, the discussion underscores a broader concern about the balance between leveraging AI for productivity and maintaining the essential human elements of software design and architecture. Many participants advocate for a collaborative approach where AI serves as a tool rather than a replacement for human expertise.

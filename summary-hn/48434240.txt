@@ -1,0 +1,8 @@
+Ask HN: How are thinking efforts implemented?  (104 pts, 29 comments)
+https://news.ycombinator.com/item?id=48434240
+
+The Hacker News discussion revolves around the concept of "thinking efforts" in AI models like Claude and ChatGPT, which allow users to adjust the level of reasoning or computational effort during interactions. The original poster questions whether these different effort levels correspond to distinct models or simply variations of the same model with different parameters. They note a warning about breaking the cache when changing effort levels in Claude, unlike in Codex.
+
+In the comments, there is a consensus that "thinking effort" is primarily an inference-time setting rather than a different model. Many contributors explain that it adjusts the compute budget and decoding behavior, affecting how many reasoning tokens are used. Some speculate that changing the effort level could break the cache because it modifies the system prompt at the start of the conversation, requiring a rerun of the entire context through the inference server. Notable insights include the idea that the model engages in an internal dialogue to refine answers, and that different models or settings may be used to manage the complexity of reasoning tasks.
+
+Overall, the discussion highlights the technical intricacies of how AI models manage reasoning efforts and the implications of these settings on performance and user experience.

@@ -1,0 +1,6 @@
+Show HN: Lance – image/video generation and understanding in one model  (64 pts, 11 comments)
+https://news.ycombinator.com/item?id=48209668
+
+The Hacker News discussion centers around the launch of "Lance," a research project by ByteDance that combines image and video generation and understanding within a single model. The model features 3 billion active parameters and was trained using fewer than 128 GPUs. Links to the code, homepage, research paper, and model are provided for further exploration.
+
+In the comments, users express a mix of appreciation and skepticism. Some praise the work but note that the name "Lance" may cause confusion due to its similarity to other projects like LanceDB. A key point of debate is the model's video output quality, with some commenters criticizing its low resolution and frame rate, while others argue that its capabilities may still be useful for specific tasks, like basic video editing. There are also discussions about potential future developments, such as support for different programming languages and the model's implications for video understanding in user experience contexts. Overall, the conversation highlights both excitement for the model's potential and concerns about its current limitations.

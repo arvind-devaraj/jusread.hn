@@ -1,0 +1,8 @@
+Show HN: Jo – AI-native language to catch prompt injection at compile-time  (10 pts, 9 comments)
+https://news.ycombinator.com/item?id=48412229
+
+The Hacker News discussion revolves around the introduction of Jo, an AI-native programming language designed to address prompt injection vulnerabilities at compile-time. The creator of Jo explains that the language aims to enhance security by incorporating capability-based parameters, which restrict access to resources based on what the program has received, thus providing a more precise enforcement of business logic compared to traditional runtime sandboxes.
+
+In the comments, there is a debate about the effectiveness of Jo's approach to handling prompt injection. Some users, like hiroto_lemon, argue that the term "compile-time" may overstate Jo's capabilities, emphasizing that while it can enforce security, it does not necessarily detect all forms of injection. Others, like aaronon, appreciate Jo's coherent design philosophy and its relevance in the context of increasing AI-generated code. There are also discussions about alternative security measures, such as API wrappers and database-level security, with some commenters suggesting that these methods may have trade-offs that could impact flexibility and maintenance.
+
+Overall, the conversation highlights a mix of optimism for Jo's potential in AI security and skepticism about the necessity and effectiveness of prompt injection guards in well-designed systems.

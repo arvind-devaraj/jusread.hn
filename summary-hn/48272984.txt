@@ -1,0 +1,8 @@
+Using AI to write better code more slowly  (1257 pts, 439 comments)
+https://news.ycombinator.com/item?id=48272984
+
+The Hacker News discussion revolves around the use of AI, particularly large language models (LLMs), to enhance coding practices, albeit at a slower pace. The original post highlights the idea that while AI can assist in writing better code through iterative feedback and code reviews, the process can be time-consuming. Users share their experiences of using AI as a coding tutor, emphasizing the importance of understanding the code being generated and the need for discipline in managing AI outputs.
+
+In the comments, there is a debate about the effectiveness of using multiple AI tools in parallel versus the risk of burnout from constant context switching. Some users argue that the iterative process with AI leads to higher quality code, while others express concerns about the potential for reduced focus and the challenges of understanding AI-generated code without sufficient context. Notably, there are differing opinions on the necessity of comments in code, with some advocating for clear documentation and others suggesting that well-written code should be self-explanatory.
+
+Overall, the discussion reflects a mix of enthusiasm for AI's potential in coding and caution regarding its limitations, particularly in maintaining code quality and developer well-being.
