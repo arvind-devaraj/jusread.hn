@@ -1,0 +1,8 @@
+Even (very) noisy LLM evaluators are useful for improving AI agents  (35 pts, 10 comments)
+https://news.ycombinator.com/item?id=48291016
+
+The Hacker News discussion revolves around a blog post that argues for the utility of even noisy evaluators in improving AI agents, particularly through the use of large language models (LLMs) as evaluators. The author suggests that while individual evaluations may not be reliable, aggregating results across many tasks can help in tuning AI parameters and selecting better agents.
+
+In the comments, there is some debate about the definition of "LLM evaluators," with users clarifying that it refers to frameworks for assessing agent outputs rather than a specific type of evaluation. Some commenters emphasize the importance of using fresh instances of LLMs for evaluation to avoid bias, while others argue that this may not be necessary and can be costly. The author acknowledges the need for clearer definitions in the article, highlighting that the statistical argument for using evaluators holds regardless of their type.
+
+Notable insights include the recognition of the challenges and potential brittleness of relying on LLMs for evaluation, as well as the ongoing discussion about the best practices for using these models effectively in AI development.

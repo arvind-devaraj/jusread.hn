@@ -1,0 +1,8 @@
+Investigating how prompt politeness affects LLM accuracy (2025)  (156 pts, 208 comments)
+https://news.ycombinator.com/item?id=48276429
+
+The Hacker News discussion revolves around a research paper investigating how the politeness of prompts affects the accuracy of large language models (LLMs). The study found that impolite prompts yielded higher accuracy (84.8%) compared to very polite ones (80.8%), challenging previous assumptions that rudeness would lead to poorer outcomes. This suggests that newer LLMs may respond differently to tonal variations.
+
+In the comments, there is significant debate about the statistical methods used in the study, particularly the appropriateness of t-tests versus binomial tests for analyzing the data. Some commenters express skepticism about the implications of the findings, questioning whether being rude to LLMs could negatively influence human behavior or communication habits. Others argue that politeness is a personal choice and should not be sacrificed for marginal gains in accuracy.
+
+Notable insights include the idea that treating LLMs with politeness may reflect on the user's self-image and interpersonal habits, while some commenters emphasize the importance of direct communication over politeness in achieving better outcomes. The discussion highlights a broader concern about how interactions with AI could shape human behavior and communication norms.
