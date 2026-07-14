@@ -361,6 +361,11 @@
 
     <div class="toolbar">
       <input id="search" type="text" placeholder="Filter by title or author&hellip;" aria-label="Filter posts" />
+      <div class="sort-group" role="group" aria-label="Sort posts">
+        <button class="sort-btn" data-key="points" aria-pressed="true">Points <span class="arrow">&#8595;</span></button>
+        <button class="sort-btn" data-key="num_comments" aria-pressed="false">Comments</button>
+        <button class="sort-btn" data-key="probability" aria-pressed="false">AI %</button>
+      </div>
       <div class="sort-group" role="group" aria-label="Filter by date">
         <button class="sort-btn date-btn" data-range="all" aria-pressed="true">All time</button>
         <button class="sort-btn date-btn" data-range="1" aria-pressed="false">Last 24h</button>
@@ -372,11 +377,6 @@
           <option value="90">Last 3 months</option>
           <option value="120">Last 4 months</option>
         </select>
-      </div>
-      <div class="sort-group" role="group" aria-label="Sort posts">
-        <button class="sort-btn" data-key="points" aria-pressed="true">Points <span class="arrow">&#8595;</span></button>
-        <button class="sort-btn" data-key="num_comments" aria-pressed="false">Comments</button>
-        <button class="sort-btn" data-key="probability" aria-pressed="false">AI %</button>
       </div>
     </div>
     <div id="count-line"></div>
