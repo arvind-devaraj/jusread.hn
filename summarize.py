@@ -13,8 +13,8 @@ ITEM_URL = "https://hn.algolia.com/api/v1/items/{item_id}"
 SUMMARIZE_MODEL = "gpt-4o-mini"
 OUTPUT_DIR = "summary-hn"
 
-MAX_COMMENTS = 60
-MAX_COMMENT_CHARS = 600
+MAX_COMMENTS = 30
+MAX_COMMENT_CHARS = 400
 
 TAG_RE = re.compile(r"<[^>]+>")
 
