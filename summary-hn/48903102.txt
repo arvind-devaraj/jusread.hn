@@ -1,0 +1,8 @@
+Show HN: Benchmark your eng team's AI agent maturity in 5 minutes  (13 pts, 8 comments)
+https://news.ycombinator.com/item?id=48903102
+
+The Hacker News post introduces a free tool designed to help engineering teams assess their maturity in utilizing AI agents within their workflows. The tool, based on discussions with engineering leaders, allows users to rate their AI integration on a scale from 1 to 5, covering aspects from basic suggestions to fully autonomous agents managing complex tasks. The process takes about five minutes, and the creator encourages users to share their results.
+
+In the comments, there is a mix of skepticism and curiosity about the benchmarking tool. One user humorously notes that their AI agent filled out the survey but wouldn't disclose the score. Another commenter critiques the term "software factory," arguing that it inaccurately represents the unique nature of software development, suggesting "software machine shop" as a more fitting analogy. Additionally, a user expresses surprise at receiving a high maturity rating due to their use of AI-powered tools, indicating a potential disconnect between expectations and the assessment criteria.
+
+Overall, the discussion highlights varying perspectives on the effectiveness and clarity of the benchmarking tool, as well as differing opinions on the terminology used to describe AI integration in software development.

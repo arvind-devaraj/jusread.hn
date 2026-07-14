@@ -1,0 +1,8 @@
+OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members  (50 pts, 21 comments)
+https://news.ycombinator.com/item?id=48907214
+
+The Hacker News discussion centers around OpenAI's recent decision to require hardware-backed passkeys for members of its Trusted Access Cyber program to log into ChatGPT accounts. This move aims to enhance security, but it raises questions about accessibility and the implications for users who have already verified their identities to access certain features.
+
+In the comments, users express concerns about whether this requirement applies only to security professionals or to all users who have verified their IDs. There is a debate about the potential for remote attestation, where only approved devices could access OpenAI's models, which some believe could limit usability and market reach. Others highlight the necessity of hardware two-factor authentication (2FA) for security, with some users sharing their experiences with the setup process and the challenges they face.
+
+Notable insights include the recognition that while hardware-backed security measures can enhance protection, they may also create barriers for users. Some commenters speculate about the marketing implications of this move, suggesting that it could be a strategy to ensure that only certain devices are used for accessing high-quality models. Overall, the discussion reflects a mix of support for enhanced security and concern over potential restrictions on access.

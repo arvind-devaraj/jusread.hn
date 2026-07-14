@@ -1,0 +1,6 @@
+Show HN: Real-time avatars that change emotions as you talk  (12 pts, 10 comments)
+https://news.ycombinator.com/item?id=48907348
+
+The Hacker News discussion centers around Anam's latest interactive avatar model, cara-4, which can change its emotions and expressions in real-time during conversations. The technology uses cues from a large language model (LLM) to animate the avatar's facial expressions based on the dialogue. A blind study showed that cara-4 outperformed competitors in overall experience, lip-sync, visual quality, and naturalness, with a median response latency of about 1.2 seconds.
+
+In the comments, users express excitement and admiration for the technology, highlighting its potential for enhancing conversational interactions. Many agree on the importance of visual emotional signals in communication, with some users sharing personal anecdotes about testing the avatar. There is also curiosity about the evaluation report from the blind study, indicating interest in the methodology behind the results. Overall, the discussion reflects a positive reception of the innovation and its implications for more natural human-computer interactions.

@@ -1,0 +1,8 @@
+Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)  (80 pts, 37 comments)
+https://news.ycombinator.com/item?id=48905919
+
+The Hacker News discussion revolves around a project by a user named Danau5tin, who developed a reinforcement learning (RL) agent designed to create RL training jobs for smaller models. The agent operates within a framework that includes two nested RL loops, allowing it to write complete training jobs based on specified tasks. The project has been open-sourced and utilizes AI models, primarily Fable-5, for coding assistance.
+
+In the comments, there is a mix of curiosity and skepticism. Some users express concern about the heavy reliance on AI for coding, particularly regarding the quality and clarity of the generated README, which features numerous emojis. Others discuss the implications of AI training AI, with some suggesting that while this approach may streamline processes, it raises questions about the understanding and measurement of success in RL systems. A notable point of debate is the challenge of defining effective success criteria for RL models, with some commenters emphasizing the importance of clear benchmarks to avoid misleading improvements.
+
+Overall, the discussion highlights both excitement for the potential of autonomous AI training and caution regarding the complexities and limitations inherent in such systems. Danau5tin acknowledges these concerns and emphasizes the importance of defining what constitutes "good" performance for models as AI capabilities evolve.
