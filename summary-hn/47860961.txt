@@ -1,0 +1,8 @@
+Meta employees are up in arms over a mandatory program to train AI on their  (118 pts, 89 comments)
+https://news.ycombinator.com/item?id=47860961
+
+The Hacker News discussion revolves around a recent mandatory program at Meta that requires employees to train AI systems by tracking their activities. This initiative has sparked significant concern among staff regarding privacy and ethical implications, given Meta's controversial history with user data, particularly following the Cambridge Analytica scandal.
+
+In the comments, there is a divide between those who argue that employees should have anticipated such practices when choosing to work for Meta and those who emphasize the lack of job alternatives in the current market. Some commenters suggest that high-paid professionals at Meta have a moral obligation to resist unethical practices, while others argue that financial necessity often limits their choices. Notably, there are calls for unionization as a means for employees to push back against the policy, highlighting a desire for collective action rather than individual resignation.
+
+Overall, the discussion reflects broader themes of corporate ethics, employee agency, and the complexities of working in high-paying tech jobs, with some commenters likening the situation to modern-day exploitation while others stress personal responsibility in choosing to work for a company with a notorious reputation.

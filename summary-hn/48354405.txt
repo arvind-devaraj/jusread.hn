@@ -1,0 +1,8 @@
+Why are large language models so terrible at video games?  (29 pts, 56 comments)
+https://news.ycombinator.com/item?id=48354405
+
+The Hacker News discussion revolves around the limitations of large language models (LLMs) in playing video games, despite their rapid advancements in other areas like coding. The original post questions why LLMs struggle with gaming, given their proficiency in generating code, which is also a form of language.
+
+In the comments, there is a consensus that LLMs are fundamentally designed for text processing, making them ill-suited for the dynamic and real-time nature of video games. Some users highlight that LLMs can perform well in structured environments like chess, where the game can be represented entirely in text, but they falter in more complex gaming scenarios. Others argue that LLMs should not be viewed as general-purpose AIs, as their strengths lie in language rather than in tasks requiring real-time decision-making or spatial reasoning.
+
+Notable insights include the suggestion that combining LLMs with other AI types could enhance gaming strategies, and a reminder that there are effective non-LLM AIs that have successfully used reinforcement learning to play games. Overall, the discussion emphasizes the distinction between language processing and the requirements of gaming, pointing out that LLMs are not the right tool for this particular domain.
