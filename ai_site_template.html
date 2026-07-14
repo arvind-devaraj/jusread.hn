@@ -164,7 +164,7 @@
     color: var(--ink);
   }
   .sort-btn .arrow { opacity: 0.6; margin-left: 0.15rem; }
-  .date-select.active {
+  .date-select.active, .month-select.active {
     background: var(--accent-soft);
     border-color: var(--accent);
     color: var(--ink);
@@ -370,12 +370,15 @@
         <button class="sort-btn date-btn" data-range="all" aria-pressed="true">All time</button>
         <button class="sort-btn date-btn" data-range="1" aria-pressed="false">Last 24h</button>
         <button class="sort-btn date-btn" data-range="7" aria-pressed="false">Last week</button>
-        <button class="sort-btn date-btn" data-range="30" aria-pressed="false">Last month</button>
         <select class="sort-btn date-select" id="date-select" aria-label="Filter by months">
-          <option value="">More&hellip;</option>
+          <option value="">Months&hellip;</option>
+          <option value="30">Last month</option>
           <option value="60">Last 2 months</option>
           <option value="90">Last 3 months</option>
           <option value="120">Last 4 months</option>
+        </select>
+        <select class="sort-btn month-select" id="month-select" aria-label="Filter by calendar month">
+          <option value="">Any month</option>
         </select>
       </div>
     </div>
@@ -409,13 +412,33 @@
   const emptyEl = document.getElementById("empty");
   const emptyTerm = document.getElementById("empty-term");
   const searchEl = document.getElementById("search");
-  const sortBtns = Array.from(document.querySelectorAll(".sort-btn:not(.date-btn):not(.date-select)"));
+  const sortBtns = Array.from(document.querySelectorAll(".sort-btn:not(.date-btn):not(.date-select):not(.month-select)"));
   const dateBtns = Array.from(document.querySelectorAll(".date-btn"));
   const dateSelect = document.getElementById("date-select");
+  const monthSelect = document.getElementById("month-select");
 
   let sortKey = "points";
   let query = "";
   let dateRange = "all";
+  let monthFilter = "";
+
+  function monthKey(iso) {
+    const d = new Date(iso);
+    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}`;
+  }
+
+  Array.from(new Set(DATA.map(r => monthKey(r.created_at))))
+    .sort()
+    .reverse()
+    .forEach(key => {
+      const [year, month] = key.split("-");
+      const label = new Date(Number(year), Number(month) - 1, 1)
+        .toLocaleString("en-US", { month: "long", year: "numeric" });
+      const opt = document.createElement("option");
+      opt.value = key;
+      opt.textContent = label;
+      monthSelect.appendChild(opt);
+    });
 
   function domainOf(url) {
     if (!url) return null;
@@ -439,11 +462,11 @@
     const cutoff = dateRange === "all" ? null : Date.now() - Number(dateRange) * 24 * 3.6e6;
     let rows = DATA.filter(r =>
       (!q || r.title.toLowerCase().includes(q) || (r.author || "").toLowerCase().includes(q)) &&
-      (cutoff === null || new Date(r.created_at).getTime() >= cutoff)
+      (monthFilter ? monthKey(r.created_at) === monthFilter : (cutoff === null || new Date(r.created_at).getTime() >= cutoff))
     );
     rows = rows.slice().sort((a, b) => b[sortKey] - a[sortKey]);
 
-    countLine.textContent = (q || cutoff !== null)
+    countLine.textContent = (q || cutoff !== null || monthFilter)
       ? `Showing ${rows.length} of ${DATA.length} posts`
       : `Showing all ${rows.length} posts`;
 
@@ -543,6 +566,9 @@
       dateBtns.forEach(b => b.setAttribute("aria-pressed", b === btn ? "true" : "false"));
       dateSelect.value = "";
       dateSelect.classList.remove("active");
+      monthFilter = "";
+      monthSelect.value = "";
+      monthSelect.classList.remove("active");
       render();
     });
   });
@@ -552,6 +578,18 @@
     dateRange = dateSelect.value;
     dateBtns.forEach(b => b.setAttribute("aria-pressed", "false"));
     dateSelect.classList.add("active");
+    monthFilter = "";
+    monthSelect.value = "";
+    monthSelect.classList.remove("active");
+    render();
+  });
+
+  monthSelect.addEventListener("change", () => {
+    monthFilter = monthSelect.value;
+    dateBtns.forEach(b => b.setAttribute("aria-pressed", "false"));
+    dateSelect.value = "";
+    dateSelect.classList.remove("active");
+    monthSelect.classList.toggle("active", !!monthFilter);
     render();
   });
 
