@@ -1,0 +1,8 @@
+I tried to prove I'm not AI. My aunt wasn't convinced  (176 pts, 201 comments)
+https://news.ycombinator.com/item?id=47515502
+
+The Hacker News discussion revolves around a BBC article where the author attempts to prove their humanity to their aunt, who remains skeptical, highlighting the challenges of distinguishing between humans and AI. The article suggests using unique codewords or shared memories as a means of verifying identity, especially in the context of increasing AI impersonation and scams.
+
+In the comments, there is a consensus on the importance of having a secure method of identity verification, with suggestions ranging from codewords to shared memories. Some commenters express skepticism about the effectiveness of these methods, noting that scammers could easily manipulate emotional situations to bypass such checks. Others propose innovative ideas, like tamper-proof authenticated cameras or digital signatures for video recordings, to enhance verification processes.
+
+Notable insights include the recognition that as AI technology advances, the ability to discern between human and AI interactions becomes increasingly complex. There is also a discussion about the limitations of current identity verification systems in different countries, particularly for individuals with foreign documents or without registered addresses. Overall, the conversation emphasizes the need for more robust solutions to identity verification in an age of digital impersonation.

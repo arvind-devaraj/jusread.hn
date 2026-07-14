@@ -1,0 +1,8 @@
+Ask HN: How are you actively keeping your thinking sharp while using LLMs daily?  (16 pts, 10 comments)
+https://news.ycombinator.com/item?id=47791163
+
+The Hacker News discussion centers around a user's concern that daily use of large language models (LLMs) is making them mentally lazy, reducing their capacity for deep thinking and problem-solving. They seek advice on practices to maintain sharp reasoning skills while relying on AI tools.
+
+In the comments, there is a mix of agreement and debate. Some users share similar feelings of cognitive regression due to LLM reliance, while others argue that LLMs can enhance productivity by shifting focus from production to evaluation. A few commenters express skepticism about the effectiveness of LLMs in providing meaningful solutions, emphasizing the need for human oversight and critical thinking. Notably, some users have adopted strategies to counteract the potential laziness, such as setting LLMs to adversarial modes or treating them as junior developers that require thorough review.
+
+Overall, the discussion highlights a tension between the convenience of AI tools and the necessity of maintaining cognitive engagement, with various strategies proposed to strike a balance.

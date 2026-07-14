@@ -1,0 +1,8 @@
+Open-Source Agentic QA Harness with Memory  (50 pts, 8 comments)
+https://news.ycombinator.com/item?id=48191312
+
+The Hacker News discussion revolves around the open-source project "Agentic QA Harness with Memory," created by pranshuchittora. This tool aims to enhance software testing by integrating coding agents and large language models (LLMs) to automate the creation and execution of end-to-end tests, addressing concerns about the reliability of features in production.
+
+In the comments, there is a mix of curiosity and skepticism. Some users express interest in the tool's capabilities, while others question its necessity, citing their own experiences with LLMs generating tests independently. Pranshuchittora clarifies that Agentic QA serves a different purpose by using Playwright as an execution kernel, with LLMs acting as observers and planners to improve test quality and avoid "hacky" solutions. Additionally, users inquire about compatibility with other tools like Claude and Detox, indicating a desire for broader integration.
+
+Overall, the discussion highlights the ongoing evolution of software testing practices and the potential benefits of combining LLMs with established testing frameworks to enhance reliability and efficiency.

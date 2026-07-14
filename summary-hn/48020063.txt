@@ -1,0 +1,8 @@
+When everyone has AI and the company still learns nothing  (390 pts, 273 comments)
+https://news.ycombinator.com/item?id=48020063
+
+The Hacker News discussion revolves around the challenges companies face in leveraging AI effectively, particularly when it comes to learning and collaboration among developers. The original post highlights that despite investing heavily in AI tools, companies often fail to create a culture of knowledge sharing and continuous learning, leading to a disconnect between individual productivity and collective growth.
+
+In the comments, several key points emerge. Many users express concern that AI can lead to isolation among team members, as developers may rely on AI for answers instead of seeking help from colleagues. This shift could diminish collaboration and the sharing of knowledge, which are essential for team dynamics. Others note that while AI can provide quick answers, it often lacks accuracy, leading to potential misunderstandings and errors that require human oversight.
+
+Notable insights include the idea that the current work environment may discourage sharing personal tools or knowledge due to fears of being undervalued or overburdened with support requests. Some commenters advocate for a balance between using AI for immediate assistance and ensuring that human expertise is still valued and utilized. Overall, the discussion reflects a tension between the efficiency promised by AI and the collaborative spirit that fosters innovation and learning in tech environments.

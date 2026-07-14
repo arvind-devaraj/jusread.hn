@@ -1,0 +1,8 @@
+Show HN: Id-agent – Token efficient UUID alternative for AI agents  (42 pts, 55 comments)
+https://news.ycombinator.com/item?id=48191852
+
+The Hacker News discussion revolves around a project called **Id-agent**, which presents a token-efficient alternative to UUIDs for AI agents. The tool aims to improve the efficiency of token usage in language models (LLMs) by using a curated dictionary of words that are approximately one Byte Pair Encoding (BPE) token long, as opposed to traditional UUIDs that consist of random hex characters.
+
+In the comments, users express a mix of support and skepticism. Some praise the idea for its potential to reduce token usage and improve the accuracy of LLMs when generating identifiers, while others raise concerns about the risks of prompt injection and the semantic implications of using meaningful words as identifiers. There are also discussions about the need for benchmarks comparing the hallucination rates and token usage between conventional UUIDs and Id-agent's approach. Notably, some commenters question the necessity of this solution, suggesting that UUIDs can be generated without incurring token costs and that the perceived issues may stem from poor input specifications rather than the identifiers themselves.
+
+Overall, the conversation highlights both the innovative aspects of Id-agent and the ongoing debate about the practicality and necessity of such optimizations in AI applications.

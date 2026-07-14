@@ -1,0 +1,8 @@
+The Future Worth Building Is Human – Thinking Machines Lab  (52 pts, 30 comments)
+https://news.ycombinator.com/item?id=48904905
+
+The Hacker News discussion revolves around a blog post titled "The Future Worth Building Is Human" from the Thinking Machines Lab, which emphasizes the importance of human involvement in the development and application of artificial intelligence (AI). The post argues that while AI can enhance human capabilities, it should not replace human thought or creativity.
+
+In the comments, there is a mix of agreement and debate regarding the role of AI as a tool versus a replacement for human thinking. Some commenters liken AI to a "mech suit for your brain," suggesting it enhances human abilities without possessing creativity or volition. Others express skepticism about the implications of AI on human skills, comparing it to how calculators have diminished mental arithmetic skills. There is also discussion about the branding of the company, with some questioning the appropriateness of the name "Thinking Machines" given the post's emphasis on human thought.
+
+Notable insights include the idea that AI should be viewed as a collaborative tool that amplifies human potential rather than a substitute for it. Additionally, some commenters highlight the need for ethical considerations in AI development, emphasizing that the direction of AI's impact ultimately depends on human choices and governance.

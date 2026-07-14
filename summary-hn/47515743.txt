@@ -1,0 +1,8 @@
+Ask HN: Looking for programmers who don't use and don't want to use AI  (12 pts, 28 comments)
+https://news.ycombinator.com/item?id=47515743
+
+The Hacker News discussion titled "Ask HN: Looking for programmers who don't use and don't want to use AI" centers around the author's search for communities or individuals who deliberately avoid using AI tools in software development. The author clarifies that they appreciate AI but are interested in connecting with those who prefer traditional, hand-coded programming for personal projects.
+
+In the comments, there is a mix of agreement and debate regarding the role of AI in programming. Some commenters express a strong preference for manual coding, viewing it as a more artistic and fulfilling endeavor, while others argue that using AI can enhance productivity and efficiency. There is also a discussion about the implications of AI on the future of programming jobs, with some fearing that reliance on AI could diminish the value of human skills.
+
+Notable insights include the idea that programming with AI may feel less like an art form due to a perceived loss of control, and the acknowledgment that while some may use AI out of necessity in professional settings, they still value the traditional coding experience. Overall, the conversation reflects a broader tension between embracing technological advancements and preserving human creativity and craftsmanship in programming.

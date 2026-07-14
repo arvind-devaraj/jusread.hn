@@ -1,0 +1,8 @@
+Measuring progress toward AGI: A cognitive framework  (151 pts, 214 comments)
+https://news.ycombinator.com/item?id=47424458
+
+The Hacker News discussion revolves around a Google DeepMind blog post that introduces a cognitive framework for measuring progress toward Artificial General Intelligence (AGI). The framework outlines various cognitive abilities, such as perception, learning, reasoning, and social understanding, as benchmarks for evaluating AGI systems.
+
+In the comments, users engage in philosophical debates about the nature of understanding and perception in both humans and AI. Some express skepticism about the ability to measure qualities like wisdom or common sense, while others argue that current metrics may not adequately capture the complexity of human intelligence. There is a consensus that intelligence exists on a spectrum and that different contexts may require different dimensions of intelligence. Notably, some commenters raise concerns about the implications of social cognition as a measure of intelligence, suggesting it could lead to the development of malevolent AGI if not carefully considered.
+
+Overall, the discussion highlights the challenges of defining and measuring AGI, with participants emphasizing the need for a nuanced approach that considers both cognitive capabilities and ethical implications.

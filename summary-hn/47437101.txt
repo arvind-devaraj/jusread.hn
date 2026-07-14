@@ -1,0 +1,8 @@
+2% of ICML papers desk rejected because the authors used LLM in their reviews  (203 pts, 144 comments)
+https://news.ycombinator.com/item?id=47437101
+
+The Hacker News discussion revolves around a blog post detailing that 2% of papers submitted to the International Conference on Machine Learning (ICML) were desk rejected because the authors violated policies against using large language models (LLMs) in their reviews. The rejection was primarily due to dishonesty, as these authors had agreed not to use LLMs but likely did so anyway, often by submitting unaltered LLM outputs.
+
+In the comments, there is a consensus that the reported 2% figure is likely an underestimation, as many in the group that was allowed to use LLMs may have also engaged in similar dishonest practices. Some commenters highlight the temptation and impulse control issues associated with using LLMs, comparing it to addiction. Others discuss the broader implications of LLMs in academia, suggesting that the increasing reliance on these tools could lead to a decline in the quality of academic work and a shift in the dynamics of research, with industry often outpacing academia in impactful innovations.
+
+Notable insights include the idea that the academic community is becoming more competitive and less collaborative, with many researchers prioritizing personal advancement over community contributions. Additionally, some commenters express concern that the proliferation of LLMs may lead to a devaluation of written content, similar to how spam affected email communication.

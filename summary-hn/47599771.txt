@@ -1,0 +1,8 @@
+Show HN: Baton – A desktop app for developing with AI agents  (62 pts, 52 comments)
+https://news.ycombinator.com/item?id=47599771
+
+The Hacker News discussion centers around the launch of Baton, a desktop application designed for developing with AI agents. The creator, who built Baton to streamline the management of multiple AI agents across various IDEs and terminal windows, emphasizes its ability to monitor agent status, switch between workspaces, and quickly spin up new agents in isolated environments.
+
+In the comments, users compare Baton to similar tools like Conductor, noting that Baton is agent-agnostic and terminal-native, which some find preferable. There are discussions about the application's design, with some users criticizing the website's aesthetics and usability. Additionally, there are inquiries about the practicality and cost of using AI agents like Claude Code, with some users sharing their experiences and justifications for the investment.
+
+Notable insights include a recognition of the need for tools that facilitate multi-agent development without conflicts, as well as a general curiosity about the specific use cases for such tools. Some commenters express skepticism about the necessity of complex setups, while others highlight the potential productivity gains from using Baton and similar applications.
