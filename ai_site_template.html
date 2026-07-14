@@ -341,7 +341,7 @@
 
 <div class="page">
   <div class="header">
-    <div class="eyebrow">Hacker News &middot; past 30 days</div>
+    <div class="eyebrow">Hacker News &middot; past __STAT_WINDOW_DAYS__ days</div>
     <h1>AI / LLM Digest</h1>
     <div class="stats">
       <div><strong id="stat-count">__STAT_COUNT__</strong> posts</div>
@@ -357,6 +357,7 @@
         <button class="sort-btn date-btn" data-range="1" aria-pressed="false">Last 24h</button>
         <button class="sort-btn date-btn" data-range="7" aria-pressed="false">Last week</button>
         <button class="sort-btn date-btn" data-range="30" aria-pressed="false">Last month</button>
+        <button class="sort-btn date-btn" data-range="60" aria-pressed="false">Last 2 months</button>
       </div>
       <div class="sort-group" role="group" aria-label="Sort posts">
         <button class="sort-btn" data-key="points" aria-pressed="true">Points <span class="arrow">&#8595;</span></button>

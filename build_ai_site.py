@@ -63,6 +63,7 @@ def main():
     out = out.replace('__STAT_POINTS__', f"{total_points:,}")
     out = out.replace('__STAT_AVG_AI__', f"{round(avg_prob * 100)}%")
     out = out.replace('__STAT_THRESHOLD__', f"{round(AI_THRESHOLD * 100)}%")
+    out = out.replace('__STAT_WINDOW_DAYS__', str(LOOKBACK_DAYS))
 
     with open(OUTPUT_FILE, "w") as f:
         f.write(out)
