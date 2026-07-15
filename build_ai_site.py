@@ -8,6 +8,7 @@ from new_feed import get_ai_probabilities, AI_THRESHOLD
 TEMPLATE_FILE = "ai_site_template.html"
 OUTPUT_FILE = "ai_index.html"
 SUMMARY_DIR = "summary-hn"
+CACHE_FILE = "classification-cache.json"
 
 
 def load_summary(item_id):
@@ -21,6 +22,19 @@ def load_summary(item_id):
     return body.strip() or None
 
 
+def load_cache():
+    if not os.path.exists(CACHE_FILE):
+        return {}
+    with open(CACHE_FILE) as f:
+        return json.load(f)
+
+
+def save_cache(cache):
+    with open(CACHE_FILE, "w") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2, sort_keys=True)
+        f.write("\n")
+
+
 def main():
     with requests.Session() as session:
         all_posts = get_past_month_hn_posts(session)
@@ -28,12 +42,25 @@ def main():
 
     popular_posts = [post for post in all_posts if post.get('points', 0) >= 10]
 
-    titles = [post.get('title', '') for post in popular_posts]
-    probabilities = get_ai_probabilities(titles)
+    # Classification only depends on the title, so results are cached
+    # by HN item id and reused across runs instead of re-embedding
+    # titles that were already classified in a prior run.
+    cache = load_cache()
+    uncached_posts = [p for p in popular_posts if p.get("objectID") not in cache]
+    if uncached_posts:
+        titles = [post.get('title', '') for post in uncached_posts]
+        probabilities = get_ai_probabilities(titles)
+        for post, probability in zip(uncached_posts, probabilities):
+            cache[post["objectID"]] = {
+                "title": post.get("title") or "",
+                "probability": round(probability, 3),
+            }
+        save_cache(cache)
+    print(f"Classified {len(uncached_posts)} new posts ({len(popular_posts) - len(uncached_posts)} from cache).")
 
     ai_posts = [
-        (post, probability) for post, probability in zip(popular_posts, probabilities)
-        if probability >= AI_THRESHOLD
+        (post, cache[post["objectID"]]["probability"]) for post in popular_posts
+        if cache[post["objectID"]]["probability"] >= AI_THRESHOLD
     ]
 
     data = []
