@@ -8455,6 +8455,10 @@
     "probability": 0.42,
     "title": "Replace axios with a simple custom fetch wrapper"
   },
+  "47598378": {
+    "probability": 0.522,
+    "title": "Solar panels at Lidl? Plug-in versions set to appear in shops"
+  },
   "47599269": {
     "probability": 0.773,
     "title": "OpenAI Locked Up 40% of Global RAM with No Obligation to Buy Any of It"
@@ -11959,6 +11963,10 @@
     "probability": 0.507,
     "title": "Building Slogbox"
   },
+  "47672268": {
+    "probability": 0.394,
+    "title": "Iran Is Not Blocking the Strait of Hormuz. It's Running a Toll Booth"
+  },
   "47673171": {
     "probability": 0.424,
     "title": "How Complex is my Code?"
@@ -13122,6 +13130,10 @@
   "47700662": {
     "probability": 0.257,
     "title": "Today Is CSS Naked Day"
+  },
+  "47700821": {
+    "probability": 0.645,
+    "title": "Veteran artist behind Mass Effect, Halo, & Overwatch 2 weighs in on Nvidia DLSS5"
   },
   "47701433": {
     "probability": 0.265,
@@ -16039,6 +16051,10 @@
     "probability": 0.414,
     "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others"
   },
+  "47762901": {
+    "probability": 0.738,
+    "title": "An AI Vibe Coding Horror Story"
+  },
   "47764780": {
     "probability": 0.37,
     "title": "Colossal Pressure: Russia targets university students for military recruitment"
@@ -16534,6 +16550,10 @@
   "47776035": {
     "probability": 0.299,
     "title": "Anna's Archive loses $322M Spotify piracy case without a fight"
+  },
+  "47776252": {
+    "probability": 0.464,
+    "title": "Projected warming will exceed the long-term thermal limits of rice cultivation"
   },
   "47778135": {
     "probability": 0.34,
@@ -20182,6 +20202,10 @@
   "47860682": {
     "probability": 0.485,
     "title": "You don't need advice from editors on rejected manuscripts"
+  },
+  "47860742": {
+    "probability": 0.373,
+    "title": "Irony as Meta staff unhappy about running surveillance software on work PCs"
   },
   "47861009": {
     "probability": 0.58,
@@ -40095,6 +40119,10 @@
     "probability": 0.538,
     "title": "Mistral Compute? I hear Mistral Cloud"
   },
+  "48306275": {
+    "probability": 0.639,
+    "title": "Use Zite and AI to build an app"
+  },
   "48306877": {
     "probability": 0.314,
     "title": "IBM commits $5B to secure open-source software"
@@ -54451,6 +54479,10 @@
     "probability": 0.621,
     "title": "Show HN: Graphical SQL Builder and Debugger"
   },
+  "48627436": {
+    "probability": 0.177,
+    "title": "Keir Starmer announces his resignation as prime minister"
+  },
   "48628283": {
     "probability": 0.59,
     "title": "I Do Not Recommend Google Hardware"
@@ -60258,6 +60290,14 @@
   "48758242": {
     "probability": 0.39,
     "title": "We Don't Have to Be This Bad at Improving Society"
+  },
+  "48758309": {
+    "probability": 0.359,
+    "title": "Google loses fight over record $4.7B EU antitrust fine"
+  },
+  "48758328": {
+    "probability": 0.427,
+    "title": "CloudsLinker: Move and sync files across 50 cloud services"
   },
   "48759252": {
     "probability": 0.42,
@@ -67446,6 +67486,10 @@
   "48903715": {
     "probability": 0.61,
     "title": "Alternative(s) to run CUDA on non-Nvidia hardware"
+  },
+  "48903777": {
+    "probability": 0.478,
+    "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS"
   },
   "48905390": {
     "probability": 0.462,
