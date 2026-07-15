@@ -1,0 +1,8 @@
+Show HN: A trainable, modular electronic nose for industrial use  (34 pts, 24 comments)
+https://news.ycombinator.com/item?id=47234907
+
+The Hacker News discussion centers around Sniphi, a modular electronic nose designed for industrial applications that utilizes gas sensors and machine learning to analyze volatile organic compounds (VOCs). The system aims to bridge the gap between laboratory research and practical deployment in real-world environments, allowing for versatile use cases such as quality control, contamination detection, and continuous monitoring in storage facilities. The team is currently seeking feedback and insights from those with experience in deploying physical sensors.
+
+In the comments, there is a consensus on the potential of digital olfactory sensors, but participants express skepticism about identifying scalable use cases that demonstrate measurable business value. Questions arise regarding the sensitivity of the sensors, with some users inquiring about their ability to detect compounds at very low concentrations. Others discuss the challenges of integrating such technology into existing industrial processes and the need for reliable performance in harsh environments.
+
+Notable insights include the suggestion to explore applications in safety systems, such as distinguishing harmful smoke from benign odors, and the potential for detecting mold or other environmental hazards. There is also a recognition of the regulatory hurdles associated with medical applications, leading the Sniphi team to focus on more immediate opportunities in food manufacturing and processing. Overall, the discussion highlights both the promise and challenges of deploying electronic noses in practical settings.

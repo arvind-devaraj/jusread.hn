@@ -1,0 +1,8 @@
+Generative AI and Wikipedia editing: What we learned in 2025  (245 pts, 115 comments)
+https://news.ycombinator.com/item?id=46840924
+
+The Hacker News discussion revolves around a blog post titled "Generative AI and Wikipedia editing: What we learned in 2025," which examines the impact of generative AI on Wikipedia editing practices. The post highlights that over two-thirds of articles generated or edited with AI failed verification, meaning they contained plausible-sounding claims that could not be substantiated by their cited sources.
+
+In the comments, there is a debate about the long-standing issues of citation reliability on Wikipedia, with some users noting that problems with unverifiable sources predate AI. Others express concern that AI exacerbates these issues by generating content that appears credible but lacks proper verification. There are discussions about the biases inherent in various sources, the challenges of distinguishing AI-generated text from human-written content, and the implications for Wikipedia's credibility.
+
+Notable insights include the acknowledgment that while AI may increase the volume of misleading content, the underlying problems of citation accuracy and editorial integrity have existed for years. Some commenters suggest that the community may need to adapt its verification processes in response to the challenges posed by AI, while others point to alternative platforms like Grokipedia that are taking a different approach to content generation.

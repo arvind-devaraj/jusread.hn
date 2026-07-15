@@ -1,0 +1,8 @@
+Ask HN: Has anyone achieved recursive self-improvement with agentic tools?  (10 pts, 13 comments)
+https://news.ycombinator.com/item?id=46984452
+
+The Hacker News discussion revolves around the concept of recursive self-improvement using agentic tools, where users explore the potential of AI systems to autonomously analyze past work and generate new agents or skills for future tasks. The original poster is curious if anyone has successfully transitioned from traditional coding to creating these self-improving systems.
+
+In the comments, there is a mix of agreement and debate regarding the feasibility and current implementations of such systems. Some users share their experiences with tools like Codex and Claude, noting that while they have created localized knowledge bases to aid future tasks, they still rely on human input for instruction creation. Others express skepticism about the limitations of current AI models, particularly their inability to learn effectively from new data without fine-tuning.
+
+Notable insights include the idea of separating AI agents from sensitive environments to mitigate risks and the recognition that while some users are making progress, the journey toward fully autonomous self-improvement remains complex and requires careful management of the agents' capabilities. Overall, the discussion highlights both the excitement and challenges of advancing AI systems toward greater autonomy and self-improvement.

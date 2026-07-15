@@ -1,0 +1,8 @@
+Ask HN: How to prevent Claude/GPT/Gemini from reinforcing your biases?  (30 pts, 21 comments)
+https://news.ycombinator.com/item?id=46770887
+
+The Hacker News discussion revolves around a user's inquiry about how to prevent AI models like Claude, GPT, and Gemini from reinforcing personal biases. The user shares their experience using a specific prompt that asks the AI to provide at least two contrasting perspectives on any question, which they find cumbersome but intellectually stimulating.
+
+In the comments, several users share their own prompts and strategies for eliciting unbiased responses from AI. Some emphasize the importance of avoiding leading questions and suggest framing queries in a way that encourages the model to explore multiple viewpoints. Others discuss the effectiveness of separating tasks into distinct prompts or sessions to achieve clearer distinctions in responses. Notably, some users advocate for playing the "Devil's advocate" to challenge their own biases, while others recommend crafting detailed user preferences for the AI to follow.
+
+Overall, the discussion highlights a shared interest in refining AI interactions to minimize bias, with various strategies proposed, including prompt design, session management, and self-advocacy techniques.

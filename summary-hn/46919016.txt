@@ -1,0 +1,6 @@
+Ask HN: Non AI-obsessed tech forums  (47 pts, 41 comments)
+https://news.ycombinator.com/item?id=46919016
+
+The Hacker News discussion revolves around a user seeking recommendations for tech forums that are not overly focused on artificial intelligence (AI), as they feel that AI-related content dominates the platform. The user expresses a desire for a broader range of tech discussions beyond AI.
+
+In the comments, several users suggest alternatives like Lobste.rs and Reddit, noting that while Lobste.rs has a more cautious stance on AI, it still features some AI-related content. Some commenters advocate for actively upvoting non-AI articles on Hacker News to help diversify the content. There is a debate about the prevalence of AI discussions, with some arguing that AI is integral to current tech conversations, while others feel that the focus on AI has become excessive and repetitive. Notably, one user suggests that discussions about AI are unavoidable in today's tech landscape, while another expresses a desire to steer conversations in different directions, reflecting a tension between embracing AI's relevance and seeking variety in tech topics.

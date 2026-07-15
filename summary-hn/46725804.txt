@@ -1,0 +1,8 @@
+Ask HN: Is Claude Down for You?  (26 pts, 20 comments)
+https://news.ycombinator.com/item?id=46725804
+
+The Hacker News discussion titled "Ask HN: Is Claude Down for You?" revolves around users reporting issues with the Claude AI service, specifically experiencing internal server errors (API error 500). The original post notes that there was no information available on the status page regarding the outage.
+
+In the comments, many users confirm they are facing the same issue, with several reporting the error occurred just minutes before posting. Some users share their experiences of the service being down, while others mention it has come back online. A few users express humor about the situation, with one comparing the outage to the well-known "GitHub Down" incidents. Additionally, a user suggests a workaround for those still experiencing issues, directing others to a GitHub discussion for more information.
+
+Overall, the discussion highlights a collective frustration among users due to the service disruption, along with a sense of community as they share experiences and potential solutions.

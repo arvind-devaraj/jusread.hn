@@ -1,0 +1,8 @@
+Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3  (316 pts, 78 comments)
+https://news.ycombinator.com/item?id=47143755
+
+The Hacker News discussion revolves around a new speech-to-text (STT) model and library called Moonshine, developed by a small startup. The creator claims that their models achieve higher accuracy than OpenAI's WhisperLargev3, despite Whisper being a couple of years old. The post invites feedback on the models and potential applications.
+
+In the comments, there is significant debate about the licensing of the code, with some users expressing concerns over missing license files and the implications of the licenses for different language models. Users also compare Moonshine's performance to other models like Nvidia's Parakeet and Microsoft VibeVoice, discussing aspects such as accuracy, speed, and resource requirements. Some users report that while Moonshine is smaller in size, it may be slower and less accurate than Parakeet for their needs.
+
+Notable insights include users praising the potential of Moonshine for local voice assistant applications, while others highlight the importance of model size and performance on edge devices. The discussion reflects a mix of excitement about the new technology and critical evaluation of its practical applications compared to existing solutions.

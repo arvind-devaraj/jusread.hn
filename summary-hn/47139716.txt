@@ -1,0 +1,8 @@
+Large-Scale Online Deanonymization with LLMs  (364 pts, 227 comments)
+https://news.ycombinator.com/item?id=47139716
+
+The Hacker News discussion revolves around a paper titled "Large-Scale Online Deanonymization with LLMs," which explores how large language models (LLMs) can be used to deanonymize individuals based on their online activity, particularly on platforms like Hacker News. The authors acknowledge that while users may not be entirely anonymous, LLMs can analyze and identify individuals by removing direct identifiers and leveraging semantic information from their posts.
+
+In the comments, there is a mix of agreement and skepticism regarding the effectiveness of LLMs in deanonymization. Some users point out that many people inadvertently share personal information online, making it easier for LLMs to identify them. Others argue that the reliance on users disclosing too much information limits the study's applicability, and they express a desire for methods to enhance online privacy, such as using local LLMs to obscure personal details. Notably, there are discussions about the potential for users to intentionally distort their posts to protect their anonymity, as well as concerns about the implications of LLMs on online privacy and security.
+
+Overall, the conversation highlights the tension between the capabilities of LLMs in analyzing online behavior and the need for better privacy tools to safeguard user anonymity in an increasingly interconnected digital landscape.

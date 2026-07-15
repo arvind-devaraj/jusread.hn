@@ -1,0 +1,6 @@
+OpenAI, the US government and Persona built an identity surveillance machine  (657 pts, 177 comments)
+https://news.ycombinator.com/item?id=47140632
+
+The Hacker News discussion revolves around a blog post that critiques the collaboration between OpenAI, the US government, and the identity verification company Persona, suggesting they have created a surveillance system for identity management. The post highlights concerns about data privacy, particularly regarding how Persona handles sensitive information like passport scans and facial recognition data.
+
+In the comments, users express a mix of frustration and concern about the implications of such surveillance technologies. Some share practical advice on how to request data deletion from Persona, while others emphasize the need for grassroots organizing to advocate for local tech solutions and better data privacy protections. Notably, there is a debate about the potential for a dystopian future where elites control technology and data, leading to a stark divide between the privileged and the marginalized. Some commenters reference historical patterns of societal collapse and express skepticism about the current system's sustainability, while others argue that the unique technological landscape today differs significantly from past societies.

@@ -1,0 +1,8 @@
+Ask HN: Anyone Using a Mac Studio for Local AI/LLM?  (57 pts, 35 comments)
+https://news.ycombinator.com/item?id=46907001
+
+The Hacker News discussion revolves around the experiences of users running local large language models (LLMs) on Mac Studio machines, particularly those equipped with the M3 Ultra or M4 Pro chips. The original poster is curious about the performance of these Macs for LLM tasks, noting the potential for high-quality results due to their large unified memory, but also expressing concerns about slow token generation speeds.
+
+In the comments, there is a consensus that while the Mac Studio's unified RAM can accommodate large models, the token generation speed is often slower compared to dedicated Nvidia or AMD machines. Users share their experiences, with some reporting satisfactory performance with specific models, while others highlight issues with prompt processing times. Notably, several commenters express hope for improvements in future M5 series chips, which are expected to enhance prompt processing speeds significantly.
+
+Overall, the discussion reveals a mix of optimism and caution regarding the use of Mac Studios for local AI tasks. Users appreciate the quality of output but are wary of the performance limitations, suggesting that those serious about LLM work should consider the trade-offs between hardware capabilities and processing speeds.

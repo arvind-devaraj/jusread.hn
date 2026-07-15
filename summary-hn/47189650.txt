@@ -1,0 +1,8 @@
+OpenAI agrees with Dept. of War to deploy models in their classified network  (1407 pts, 642 comments)
+https://news.ycombinator.com/item?id=47189650
+
+The Hacker News discussion revolves around OpenAI's recent agreement with the Department of War (DoW) to deploy its AI models within a classified network. The post highlights OpenAI's commitment to safety and ethical principles, asserting that the DoW has shown respect for these values during negotiations.
+
+In the comments, users express skepticism about OpenAI's motivations and the implications of this partnership. Many believe that the agreement mirrors terms previously rejected by Anthropic, suggesting that OpenAI may be leveraging government connections to undermine its competition. There are concerns about potential mass surveillance and the flexibility of OpenAI's leadership regarding ethical commitments. Some commenters speculate that the deal was politically motivated, aimed at restoring OpenAI's competitive edge against Anthropic, which has recently gained attention for its AI developments.
+
+Notable insights include a distrust of OpenAI's leadership, particularly Sam Altman, with accusations of double-dealing and prioritizing profit over principles. The discussion reflects broader anxieties about the intersection of AI technology, government involvement, and ethical considerations in the tech industry.

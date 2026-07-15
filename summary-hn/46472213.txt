@@ -1,0 +1,8 @@
+Terry Tao: "LLMs are simpler than you think"  (15 pts, 9 comments)
+https://news.ycombinator.com/item?id=46472213
+
+The Hacker News discussion revolves around a video featuring mathematician Terry Tao, who argues that large language models (LLMs) are simpler than commonly perceived. The conversation highlights the limitations of LLMs, emphasizing that they are primarily language prediction models rather than tools for logical reasoning or decision-making.
+
+In the comments, there is a notable debate about the capabilities of LLMs compared to human intelligence and the reality of mathematical work. Some commenters express skepticism about the claims made by AI labs regarding LLMs' potential to replace human mathematicians, pointing out a significant gap between the benchmarks touted by these labs and the actual complexities of mathematical reasoning. Others reflect on the nature of human intelligence, suggesting that both humans and LLMs have their limitations and that expectations for either should be tempered.
+
+A key insight from the discussion is Tao's assertion that while LLMs can perform well on synthetic problems, they lack the deeper reasoning abilities necessary for genuine mathematical work. This highlights the ongoing conversation about the role of AI in fields traditionally dominated by human intellect and the need for realistic expectations regarding AI capabilities.

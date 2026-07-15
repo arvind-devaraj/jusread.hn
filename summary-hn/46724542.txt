@@ -1,0 +1,8 @@
+Taming P99s in OpenFGA: How we built a self-tuning strategy planner  (18 pts, 6 comments)
+https://news.ycombinator.com/item?id=46724542
+
+The Hacker News discussion revolves around a blog post detailing how the OpenFGA team developed a self-tuning strategy planner to optimize performance in their authorization system. The article highlights the challenges of traversing relationship graphs to determine user access to resources, emphasizing that traversal performance is a critical architectural constraint.
+
+In the comments, users express varying levels of understanding of the problem space. One commenter appreciates the application of multi-armed bandits in the solution but finds the article complex. Another contributor clarifies that the relationship graph in OpenFGA is not a separate database but an implicit structure based on stored relationship tuples. There is also a discussion about the difficulties administrators face in managing OpenFGA, leading one user to create a dynamic Admin UI to simplify user management.
+
+Notably, there is a debate about the use of Thompson sampling in the context of the system's performance experiments. One commenter questions its necessity given the rapid repeatability of experiments, suggesting that faster resampling could yield high-confidence results without prioritizing revisits. Overall, the discussion reflects a mix of technical insights, practical challenges, and innovative solutions within the OpenFGA community.

@@ -1,0 +1,8 @@
+TimeCapsuleLLM: LLM trained only on data from 1800-1875  (737 pts, 314 comments)
+https://news.ycombinator.com/item?id=46590280
+
+The Hacker News discussion revolves around the "TimeCapsuleLLM," a language model trained exclusively on texts from 1800 to 1875. The original post highlights the potential implications of such a model, particularly in exploring historical scientific concepts like quantum mechanics (QM) and relativity, which emerged after the model's training cutoff.
+
+In the comments, there is significant debate about the feasibility and implications of training advanced models with historical data. Some users argue that while the foundational ideas for QM existed before 1900, the lack of relevant primary sources in the training data would limit the model's ability to synthesize new scientific theories. Others express skepticism about the capacity of language models to produce novel insights in physics, emphasizing that LLMs primarily predict tokens rather than think or innovate like humans.
+
+Notable insights include the suggestion that the role of language in human cognition may be more significant than previously thought, which could imply that LLMs might possess greater potential than merely being "stochastic parrots." However, many participants remain critical, asserting that LLMs have yet to generate any groundbreaking scientific concepts, reinforcing the divide between human and machine cognition.

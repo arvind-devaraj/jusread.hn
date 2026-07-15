@@ -1,0 +1,8 @@
+Right-sizes LLM models to your system's RAM, CPU, and GPU  (301 pts, 70 comments)
+https://news.ycombinator.com/item?id=47211830
+
+The Hacker News discussion centers around a GitHub project called "llmfit," which aims to help users select the right large language models (LLMs) based on their system's RAM, CPU, and GPU specifications. The tool is designed to optimize model selection for local use, but some users find the recommended models outdated, with suggestions like Qwen 2.5 and Starcoder 2 not aligning with current preferences.
+
+In the comments, there is a consensus that a web-based interface would be more user-friendly than the current command-line tool, with several users expressing a desire for a simple dropdown to input hardware specs. Some users mention existing alternatives, like Hugging Face, but note that they often require logging in and provide model recommendations on a case-by-case basis rather than a comprehensive overview. There are also discussions about the differences between "general" and "chat" models, the feasibility of fine-tuning models on consumer-grade hardware, and the potential for expanding support for AMD GPUs.
+
+Notable insights include a user highlighting the effectiveness of a specific model variant for tasks like image labeling, and others suggesting that the tool could benefit from being more accessible as a website. Overall, while the project is appreciated for its intent, there is a strong desire for improved usability and more up-to-date model recommendations.

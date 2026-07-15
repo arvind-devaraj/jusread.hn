@@ -1,0 +1,8 @@
+Choosing learning over autopilot  (58 pts, 38 comments)
+https://news.ycombinator.com/item?id=46605716
+
+The Hacker News discussion centers around a blog post titled "Choosing Learning Over Autopilot," which critiques the reliance on AI-generated code and the potential loss of learning opportunities for developers. The author argues that while AI can streamline coding tasks, it may lead to a superficial understanding of programming concepts and practices.
+
+In the comments, there is a mix of agreement and debate regarding the value of AI in coding. Some users, like joe_mamba and vjerancrnjak, emphasize that much of the code written in the industry is often "throwaway" and that AI merely perpetuates existing inefficiencies. Others, like epolanski and Havoc, share personal experiences of how AI tools have enhanced their learning and productivity, suggesting that these tools can reduce cognitive fatigue and facilitate understanding of complex concepts. 
+
+Notable insights include concerns about the long-term implications of relying on AI for coding, with some commenters fearing it may lead to a decline in deep technical skills. Others highlight the economic versus social value of software development, questioning whether high-paying tech jobs truly contribute to societal well-being. Overall, the discussion reflects a tension between leveraging AI for efficiency and the importance of maintaining a robust learning process in software development.

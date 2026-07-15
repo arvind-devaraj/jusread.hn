@@ -1,0 +1,8 @@
+Ask HN: Why is everyone here so AI-hyped?  (31 pts, 23 comments)
+https://news.ycombinator.com/item?id=46965731
+
+The Hacker News discussion revolves around a user's skepticism regarding the current hype surrounding AI, particularly large language models (LLMs). The user argues that while LLMs have some utility, the excitement seems disproportionate to their actual value, citing examples of failed AI ventures and incremental improvements in recent model releases. They express concern that the community may be nearing a bubble in AI enthusiasm.
+
+In the comments, there is a mix of perspectives. Some users agree with the original poster, suggesting that the hype may be driven by novelty and psychological factors, while others argue that the excitement is justified due to the genuine advancements and utility that AI brings to various fields. Notably, some commenters highlight that the hype can foster innovation and creativity, enabling engineers to tackle previously daunting tasks more efficiently. Others caution that the initial easy wins in AI have been achieved, and future gains may be harder to come by.
+
+Overall, the discussion reflects a divide between those who see AI as a transformative technology with significant potential and those who view the current enthusiasm as overblown, suggesting a need for a more balanced perspective on its capabilities and limitations.

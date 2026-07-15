@@ -1,0 +1,8 @@
+GLM-5: Targeting complex systems engineering and long-horizon agentic tasks  (484 pts, 513 comments)
+https://news.ycombinator.com/item?id=46974853
+
+The Hacker News discussion revolves around the announcement of GLM-5, a new model from Zai aimed at enhancing capabilities in complex systems engineering and long-horizon agentic tasks. Users express curiosity about the model's availability, performance, and pricing, noting that while it has been mentioned on social media, detailed documentation and access are still limited. Some users report that GLM-5 is not yet accessible under certain subscription plans, leading to confusion about its rollout.
+
+In the comments, there is a mix of excitement and skepticism regarding GLM-5's capabilities compared to existing models like Claude and Opus. Users debate the practicality of using Zai's offerings, particularly in terms of cost-effectiveness for casual users. Some highlight the advantages of open-source solutions and the potential for self-hosting, while others discuss the technical requirements for running large models locally, particularly on Apple devices versus traditional Linux setups.
+
+Notable insights include the recognition of the growing interest in open-source models as alternatives to proprietary systems, as well as the challenges of balancing performance and cost in AI model deployment. Users also emphasize the importance of memory bandwidth and capacity when considering hardware for running large language models effectively.

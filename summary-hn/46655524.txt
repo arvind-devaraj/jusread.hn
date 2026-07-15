@@ -1,0 +1,8 @@
+Counterfactual evaluation for recommendation systems  (91 pts, 6 comments)
+https://news.ycombinator.com/item?id=46655524
+
+The Hacker News discussion centers around a blog post by Eugene Yan that explores counterfactual evaluation in recommendation systems. The article emphasizes the importance of using counterfactual methods to assess the effectiveness of recommendation algorithms, particularly in distinguishing between observational data and the actual impact of interventions.
+
+In the comments, users express a mix of appreciation and confusion regarding the topic. Some, like ZouBisou, highlight the value of expert articles for learning, while others, such as yearolinuxdsktp, struggle to grasp the concepts, particularly the necessity of having a baseline model for counterfactual evaluation. There is a consensus on the importance of A/B testing, with dfajgljsldkjag noting the disconnect between offline metrics and real-world A/B test results, which the article addresses by framing recommendations as an interventional problem.
+
+Overall, the discussion reflects a shared interest in improving recommendation systems through better evaluation techniques, with some commenters advocating for more accessible resources on the subject.

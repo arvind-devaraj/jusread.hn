@@ -1,0 +1,8 @@
+Why we don’t use AI  (114 pts, 80 comments)
+https://news.ycombinator.com/item?id=46609279
+
+The Hacker News discussion revolves around a blog post titled "Why we don’t use AI," which critiques the use of AI in software development, particularly in the context of engineering practices. The author expresses concerns that while AI can enhance productivity, it may also lower standards and exacerbate poor engineering cultures, especially in teams that lack discipline and proper review processes.
+
+In the comments, there is a consensus that the issues highlighted are not solely due to AI but reflect broader problems in engineering culture, such as inadequate review processes and a focus on speed over quality. Many commenters agree that pushing significant changes to production without proper oversight is a red flag, and some argue that AI could amplify existing bad practices rather than create new ones. Notably, there are discussions about the implications of AI on job security and the future of work, with some commenters expressing optimism about a potential post-scarcity society, while others are concerned about the lack of support for workers displaced by AI.
+
+Overall, the discussion highlights a tension between the potential benefits of AI in improving efficiency and the risks of undermining quality and accountability in software development.

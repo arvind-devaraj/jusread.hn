@@ -1,0 +1,8 @@
+Google AI Overviews put people at risk of harm with misleading health advice  (42 pts, 10 comments)
+https://news.ycombinator.com/item?id=46471527
+
+The Hacker News discussion revolves around a Guardian article that criticizes Google AI Overviews for providing misleading health information, potentially putting users at risk. Users share their experiences with the AI's responses, highlighting inaccuracies and the potential dangers of relying on such information for health-related queries.
+
+In the comments, there is a consensus that the AI Overviews often provide misleading or incomplete information. Some users point out specific examples where the AI's answers were technically correct but contextually inappropriate, leading to confusion. Others express concern about the implications of AI-generated health advice, particularly regarding medication interactions, and question the responsibility of tech companies in ensuring the accuracy of such information.
+
+Notable opinions include a call for better education on discerning reliable information online, emphasizing that users should not blindly trust AI or internet sources. Additionally, some commenters critique Google's response to the issue, suggesting that the company is deflecting responsibility rather than addressing the potential harm caused by its AI outputs.

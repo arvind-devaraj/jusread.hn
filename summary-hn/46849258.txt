@@ -1,0 +1,8 @@
+My iPhone 16 Pro Max produces garbage output when running MLX LLMs  (429 pts, 177 comments)
+https://news.ycombinator.com/item?id=46849258
+
+The Hacker News discussion revolves around a post detailing issues with the iPhone 16 Pro Max's performance when running machine learning models, specifically LLMs (Large Language Models). The author expresses frustration that their expensive device produces poor output for mathematical calculations, suggesting a potential flaw in Apple's implementation.
+
+In the comments, users generally agree that built-in calculator apps on smartphones are lacking compared to traditional graphing calculators. Many share their preferences for various calculator emulators and apps, such as HP Prime and TI-83 emulators, highlighting the need for more advanced features like expression history and variable manipulation. There is also a debate about the reliability of numerical operations in LLMs, with some commenters noting that unexpected failures in Apple's LLMs could indicate deeper issues.
+
+Notable insights include a shared nostalgia for physical calculators and a consensus that current smartphone calculators do not meet the needs of users who require more sophisticated mathematical capabilities. Additionally, some users engage in a light-hearted discussion about language, specifically the phrase "champing at the bit," showcasing the community's diverse interests beyond the main topic.

@@ -1,0 +1,8 @@
+Expensively Quadratic: The LLM Agent Cost Curve  (131 pts, 43 comments)
+https://news.ycombinator.com/item?id=47000034
+
+The Hacker News discussion revolves around a blog post titled "Expensively Quadratic: The LLM Agent Cost Curve," which explores the cost implications of using large language models (LLMs) as agents, particularly focusing on how the costs can escalate quadratically with the number of tokens processed. The author argues that inefficiencies in how agents handle large outputs can lead to excessive costs, especially when reading large files or making multiple tool calls.
+
+In the comments, there is a debate about the best practices for managing large outputs and the efficiency of caching mechanisms. Some users argue that agents should be able to read large files in one go rather than in smaller chunks, while others emphasize the need for caution to avoid overwhelming the context with too much data. There are also discussions about the accuracy of cost models, with some commenters challenging the notion that costs are strictly quadratic and suggesting that caching strategies could mitigate expenses.
+
+Notable insights include the recognition that tool call chains can significantly inflate costs and the importance of structured logging to identify inefficiencies. Additionally, there's skepticism about the feasibility of making caching entirely free at the API level, as it could lead to unintended consequences in resource allocation and cost management. Overall, the discussion highlights the complexities and challenges of optimizing LLM usage in practical applications.

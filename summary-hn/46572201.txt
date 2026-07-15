@@ -1,0 +1,8 @@
+OpenAI is reportedly asking contractors to upload real work from past jobs  (55 pts, 13 comments)
+https://news.ycombinator.com/item?id=46572201
+
+The Hacker News discussion revolves around a report that OpenAI is asking contractors to upload real work from their past jobs. This request has raised significant ethical and legal concerns among commenters, particularly regarding the potential violation of confidentiality agreements and copyright laws. Many participants express skepticism about the legality of such a request, arguing that contractors could be breaching their contracts by sharing proprietary information.
+
+A common theme in the comments is the ethical implications of OpenAI's request. Some users argue that asking for past work is inherently unethical and could lead to future risks, such as contractors sharing OpenAI's own confidential information. Others point out that the request could be misunderstood, suggesting that OpenAI might be more interested in understanding the types of problems contractors have solved rather than the specific code or solutions.
+
+Notably, several commenters emphasize that even AI models like ChatGPT recognize the ethical issues surrounding such requests, highlighting a disconnect between the company's practices and broader industry standards. Overall, the discussion reflects deep concerns about intellectual property rights, ethical hiring practices, and the potential repercussions of OpenAI's approach.

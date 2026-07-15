@@ -1,0 +1,8 @@
+Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents  (89 pts, 21 comments)
+https://news.ycombinator.com/item?id=47232903
+
+The Hacker News discussion centers around the launch of Cekura, a testing and monitoring platform for voice and chat AI agents developed by a team from Y Combinator (YC F24). Cekura addresses the challenge of quality assurance for AI agents, which cannot be effectively tested through manual methods. Instead, it uses simulation with synthetic users to evaluate agent behavior across various conversational scenarios, ensuring that agents respond correctly throughout entire interactions rather than just isolated prompts.
+
+In the comments, users express interest in the platform's capabilities, with some asking about direct testing for chat agents and the integration of custom knowledge bases. There is a debate about the challenges of ensuring AI agents possess common sense and handle incomplete flows correctly. Several commenters share their experiences with other testing platforms, praising Cekura for its comprehensive session evaluation approach, which identifies failures that may not be apparent when assessing individual turns.
+
+Notable insights include the recognition that many teams overlook the importance of full-session evaluations, which can reveal underlying issues in agent interactions. Additionally, the discussion highlights the need for effective feedback loops to improve testing processes and the potential for Cekura to connect regression data with real production conversations to enhance monitoring and response to failures.

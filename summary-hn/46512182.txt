@@ -1,0 +1,8 @@
+Show HN: Mantic.sh – A structural code search engine for AI agents  (81 pts, 37 comments)
+https://news.ycombinator.com/item?id=46512182
+
+The Hacker News discussion revolves around Mantic.sh, a structural code search engine designed for AI agents, which allows for fast and precise code searches based on file structure rather than traditional embeddings. The author, Marco Aapfortes, shares that the tool gained over 700 downloads shortly after its release, highlighting its optimization that reduces search time from 6.6 seconds to under 0.5 seconds by leveraging `git ls-files` for file retrieval.
+
+In the comments, users express interest in the tool and share feedback, with some questioning the cost estimates for using vector databases and others pointing out missing features in the implementation. A notable debate arises around the architectural choices of Mantic.sh, particularly its reliance on structural inference instead of embeddings, which some users compare to existing tools like JetBrains and fzf. Additionally, there are discussions about licensing concerns, with the author acknowledging confusion between AGPL and LGPL licenses and committing to clarify the licensing terms.
+
+Overall, the discussion reflects a mix of enthusiasm for the tool's potential and critical examination of its implementation and licensing, with users contributing insights and suggestions for improvement.

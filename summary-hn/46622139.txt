@@ -1,0 +1,8 @@
+Show HN: Harmony – AI notetaker for Discord  (29 pts, 8 comments)
+https://news.ycombinator.com/item?id=46622139
+
+The post introduces "Harmony," an AI notetaker designed for Discord, created by Sean Dorje, who emphasizes its utility for teams that rely on Discord for communication. The tool aims to help users track meeting notes and action items, and it is offered for free indefinitely.
+
+In the comments, there is a mix of enthusiasm and skepticism. Some users appreciate the concept, while others question the long-term viability of using Discord for professional purposes, citing concerns about privacy, security, and the potential need for more robust enterprise solutions like Slack. There are suggestions for expanding Harmony's capabilities to integrate with other platforms like Zoom and Google Meet. Additionally, some commenters note that early-stage startups might favor Discord due to its cost-effectiveness and appeal to younger teams.
+
+Notable insights include the recognition that while Discord is popular among certain demographics, it may not be suitable for larger organizations that prioritize security and access control. There is also a discussion about the unique advantages of using Discord for specific industries, such as gaming, where it can facilitate collaboration effectively.

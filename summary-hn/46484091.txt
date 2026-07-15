@@ -1,0 +1,8 @@
+DHH: AI models are now good enough  (12 pts, 16 comments)
+https://news.ycombinator.com/item?id=46484091
+
+The Hacker News discussion revolves around a tweet by DHH (David Heinemeier Hansson) claiming that AI models have reached a level of proficiency that makes them "good enough" for practical use. The comments reflect a mix of skepticism and support regarding DHH's assertion, with some users questioning the validity and substance of his opinions, suggesting that he may no longer be a credible voice in the tech community.
+
+Key points of debate include the effectiveness of AI in improving developer productivity, with references to a study that found a minimal productivity uplift of 1% when using AI tools. Some commenters argue that the productivity gains can be offset by the increased need for code review and rework, highlighting that AI-generated code tends to be more error-prone than human-written code. Others express frustration over the lack of concrete metrics and evidence to support claims about AI's impact on software development.
+
+Notable insights include a consensus among some users that while AI tools have improved significantly, they still require careful oversight and review to be truly effective. Overall, the discussion showcases a divide between those who believe in the potential of AI in coding and those who remain cautious about its current limitations.

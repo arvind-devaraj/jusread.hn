@@ -1,0 +1,8 @@
+Ask HN: Why LLM Is Lying?  (11 pts, 18 comments)
+https://news.ycombinator.com/item?id=46482991
+
+The Hacker News discussion revolves around the question of why large language models (LLMs) often provide answers that appear reasonable but are incorrect or unhelpful. The original poster expresses frustration with the reliability of LLMs, particularly in specific contexts like gaming guides.
+
+In the comments, there is a consensus that LLMs do not possess an understanding of truth or reality; they generate text based on patterns in their training data without true comprehension. Users highlight that LLMs are essentially sophisticated search engines that produce "answer-shaped" responses rather than factual answers. Some commenters debate the implications of this, with concerns about the potential for misinformation and the anthropomorphizing of LLMs, which can lead to misconceptions about their capabilities. Notably, there is a fear that LLMs could be used to distort historical facts if trained on biased data.
+
+Overall, the discussion emphasizes the limitations of LLMs, the importance of critical evaluation of their outputs, and the need for users to remain aware of the distinction between human-like responses and genuine understanding.

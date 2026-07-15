@@ -1,0 +1,8 @@
+Why do Americans hate A.I.?  (45 pts, 118 comments)
+https://news.ycombinator.com/item?id=46465472
+
+The Hacker News discussion revolves around a New York Times article titled "Why do Americans hate A.I.?" The conversation explores various perspectives on the American public's skepticism and distrust of artificial intelligence, contrasting it with more favorable views in other countries.
+
+In the comments, several key points emerge. Some users argue that AI's inherent unreliability, particularly in critical fields like law, fuels public distrust. Others counter that AI technologies, especially neural networks, are successfully used in various industries. A recurring theme is the fear of job loss and economic anxiety, with many commenters suggesting that Americans are particularly concerned about AI's impact on employment and wealth inequality. Additionally, some participants note that the media's portrayal of AI contributes to public apprehension, while others highlight a cultural divide, suggesting that non-Americans may be more accepting of AI.
+
+Notable insights include the idea that economic factors and job security significantly influence attitudes toward AI, as well as the observation that the perception of AI varies widely based on geographic and cultural contexts. Some commenters express frustration with the media narrative that paints Americans as uniquely fearful of AI, pointing out that similar concerns exist globally.

@@ -1,0 +1,8 @@
+10-202: Introduction to Modern AI (CMU)  (259 pts, 60 comments)
+https://news.ycombinator.com/item?id=47204559
+
+The Hacker News discussion revolves around a course titled "10-202: Introduction to Modern AI" offered by Carnegie Mellon University. The course aims to provide foundational knowledge in AI, focusing primarily on modern techniques like large language models (LLMs). 
+
+In the comments, there is a debate about the course's emphasis on LLMs versus other branches of AI, such as knowledge representation and automated reasoning. Some commenters argue that the course should cover a broader range of AI topics, while others believe that focusing on successful, widely implemented technologies is justified. There is also discussion about the role of AI tools in learning, with differing opinions on whether students should use them for assignments or rely solely on their understanding during evaluations.
+
+Notable insights include the idea that AI tools can enhance learning by providing quick access to explanations and facilitating deeper understanding through interaction. However, there is caution against over-reliance on these tools, emphasizing the importance of personal accountability in the learning process. Overall, the conversation reflects a tension between embracing modern AI advancements and acknowledging the broader historical context of AI research.

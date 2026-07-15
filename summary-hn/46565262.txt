@@ -1,0 +1,8 @@
+Ask HN: Senior engineering mngrs: how has AI changed your day-to-day work?  (35 pts, 10 comments)
+https://news.ycombinator.com/item?id=46565262
+
+The Hacker News discussion titled "Ask HN: Senior engineering mngrs: how has AI changed your day-to-day work?" explores how AI tools have impacted the daily responsibilities of senior engineering managers. The original poster seeks insights on whether AI has altered coding practices, management styles, or decision-making processes, and asks for examples of effective tools versus those that have not lived up to the hype.
+
+In the comments, there is a mix of experiences. Some managers, like davismwfl and zz5759, report that AI tools like GPT and Copilot have significantly improved their efficiency in documentation and coding, allowing them to focus on higher-level tasks. Others, such as austin-cheney, express skepticism, noting that AI tools are underutilized in their organizations due to existing bottlenecks in processes. A debate arises around the appropriateness of managers coding directly, with some arguing it detracts from their managerial responsibilities, while others believe it can enhance their understanding of team dynamics and workflow.
+
+Notable insights include the recognition of context-switching costs for engineers and the importance of balancing managerial duties with hands-on coding. Some managers find value in using AI to automate minor tasks, thereby freeing up time for more strategic responsibilities. Overall, the discussion highlights a spectrum of attitudes towards AI's role in engineering management, from enthusiastic adoption to cautious skepticism.

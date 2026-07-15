@@ -1,0 +1,8 @@
+Show HN: Ourguide – OS wide task guidance system that shows you where to click  (52 pts, 22 comments)
+https://news.ycombinator.com/item?id=46769422
+
+The Hacker News discussion revolves around a project called Ourguide, developed by eshaan, which is an on-screen task guidance system designed to help users navigate software by showing them where to click step-by-step. The application operates in two modes: Guide mode, which overlays the screen to highlight clickable elements, and Ask mode, which allows users to ask questions about their current screen context. The developer faced challenges in achieving low latency for the visual guidance system but has implemented a simpler solution for now.
+
+In the comments, users express interest in the application and suggest potential use cases, such as targeting elderly users who may struggle with technology. Concerns about privacy and data security arise, particularly regarding the handling of screenshots. Some commenters highlight the potential for Ourguide to serve as an educational tool in edtech, while others question the feasibility of its implementation and the need for improved user interfaces in software design.
+
+Notable insights include the recognition of the human-in-the-loop approach as a sensible compromise given current limitations in AI models, and the idea that Ourguide could replace traditional documentation methods by providing real-time, context-aware assistance. Overall, the discussion reflects a mix of enthusiasm for the tool's potential and caution regarding its privacy implications and practical applications.

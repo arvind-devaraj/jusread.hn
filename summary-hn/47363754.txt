@@ -1,0 +1,8 @@
+Can I run AI locally?  (1520 pts, 324 comments)
+https://news.ycombinator.com/item?id=47363754
+
+The Hacker News discussion revolves around a tool called "Can I run AI locally?" which helps users determine if their hardware can support various AI models. The tool provides a way to assess performance based on different specifications, but some users noted omissions in the hardware options, such as the Nvidia RTX Pro 6000 and certain Apple M3 Ultra configurations.
+
+In the comments, there is a debate about the performance of different GPUs for running AI models. Some users argue that building a dual 3090 workstation is more effective for local AI tasks compared to high-end Macs, while others defend the M3 Ultra's capabilities, emphasizing its unified memory architecture. There are also discussions about the accuracy of the tool's performance estimates and concerns about privacy regarding how the tool gathers system information.
+
+Notable insights include the suggestion for the tool to allow users to select a model and view performance across various processors, as well as comparisons between this tool and existing solutions like LLMFit, which serves different user needs. Overall, the conversation highlights the complexities of running AI locally and the varying opinions on hardware choices.

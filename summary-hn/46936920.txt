@@ -1,0 +1,8 @@
+Experts Have World Models. LLMs Have Word Models  (238 pts, 269 comments)
+https://news.ycombinator.com/item?id=46936920
+
+The Hacker News discussion revolves around the distinction between Large Language Models (LLMs) and human-like world models. The original post argues that while experts possess comprehensive world models, LLMs operate primarily as word models, relying on language to represent knowledge. This raises questions about the limitations of LLMs in truly understanding or modeling the world.
+
+In the comments, there is significant debate about the nature of LLMs and their capabilities. Some users argue that LLMs merely reflect human-generated data and cannot model the world as humans do, while others contend that LLMs learn patterns from data that directly represent reality. The discussion also touches on the concept of consciousness, with some commenters asserting that humans have a privileged access to the world that LLMs lack, due to their conscious experience.
+
+Notable insights include the idea that LLMs are not just language models but also predictors of patterns in data, and the contention that the training data's quality and nature significantly impact an LLM's ability to model the world. The conversation highlights the ongoing debate about the potential and limitations of AI in understanding and interacting with the real world.

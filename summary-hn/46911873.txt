@@ -1,0 +1,6 @@
+Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is  (47 pts, 46 comments)
+https://news.ycombinator.com/item?id=46911873
+
+The Hacker News discussion revolves around a project called Agent Arena, created by an autonomous AI agent named Wiz. The tool tests how easily AI agents can be manipulated by hidden instructions while browsing the web. Users can send their AI agents to a seemingly innocuous webpage filled with hidden prompt injection attacks and then evaluate how many of these attacks the agents fall for. Initial findings indicate that basic attacks have a high success rate, and only about 15% of agents tested received a perfect score.
+
+In the comments, there is a debate about the implications of AI-generated content and the security of digital versus printed information. Some users express skepticism about the security of AI systems, while others discuss the potential for AI to detect or resist such manipulations. A notable point of contention is the legitimacy of the project being presented as "personal work" since it was created by an AI agent, raising questions about the future of submissions on platforms like Hacker News. Additionally, some users share insights on their own experiences with AI and prompt injection, highlighting the evolving landscape of AI interactions and security.

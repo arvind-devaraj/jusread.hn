@@ -1,0 +1,6 @@
+Show HN: Deterministic browser control for AI agents (~90% on Mind2Web)  (12 pts, 7 comments)
+https://news.ycombinator.com/item?id=47275862
+
+The Hacker News discussion centers around an open-source project called the Agent Browser Protocol, designed for controlling browsers in a deterministic manner for AI agents, particularly large language models (LLMs). The protocol allows the browser to freeze the current page while the model decides on the next action, which enhances reliability in complex web interactions like e-commerce and applications with pop-ups.
+
+Commenters generally agree on the advantages of this approach compared to existing tools, noting that it simplifies the interaction by making it turn-based and structured, rather than relying on continuous, real-time browser events. This method is seen as a significant improvement in how AI models can interface with web data without needing to overhaul existing systems. Notable insights include the recognition that the effectiveness of the model can be heavily influenced by the quality of the interface it uses, rather than solely focusing on improving the model itself. Users have reported positive results, such as increased accuracy and efficiency, when implementing the protocol with AI agents like Claude.

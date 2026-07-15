@@ -1,0 +1,8 @@
+Starlink users must opt out of all browsing data being used to train xAI models  (97 pts, 28 comments)
+https://news.ycombinator.com/item?id=46684788
+
+The Hacker News discussion revolves around a Twitter post highlighting that Starlink users must actively opt out of having their browsing data used to train xAI models. This raises concerns about privacy and data usage, particularly in the context of corporate practices regarding user data.
+
+In the comments, users express skepticism about Starlink's data policies, comparing them to those of other ISPs, which are often seen as exploitative. Some users share their experiences with Starlink's latency and performance, noting that it can vary significantly based on location. There is a debate about the actual usefulness of the browsing data for AI training, with some commenters suggesting that the encrypted nature of most web traffic limits what can be gleaned from user data.
+
+Notable opinions include a sense of distrust towards corporate data practices, with some users preferring established ISPs over newer ones like Starlink due to concerns about potential data mining. Others highlight the irony of privacy concerns in the context of broader issues surrounding data collection in the tech industry. Overall, the discussion reflects a mix of technical insights and ethical considerations regarding user privacy and corporate responsibility.

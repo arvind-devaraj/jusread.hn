@@ -1,0 +1,8 @@
+Ask HN: How do you know if AI agents will choose your tool?  (38 pts, 11 comments)
+https://news.ycombinator.com/item?id=47127532
+
+The Hacker News discussion revolves around the concept of the "agent economy," where AI agents autonomously select tools and services without human intervention. The original poster (OP) seeks insights on optimizing for agent discovery, questioning how documentation and tool descriptions influence an agent's choice among various options.
+
+In the comments, there is a consensus that the quality and specificity of tool descriptions significantly impact an agent's decision-making. One commenter emphasizes the importance of clearly defining when not to use a tool, as this helps agents make confident choices. Others discuss the challenges posed by overlapping tool capabilities and the ambiguity that can arise from unclear descriptions. Some participants also touch on the idea that agents may favor tools familiar from their training data, complicating the introduction of new products.
+
+Notable insights include the suggestion that the marketing approach for AI tools may evolve, with terms like "GEO" emerging to describe SEO for chatbots. Additionally, there is a recognition of the need for better understanding of how agents process and choose tools, highlighting the potential for reverse-engineering their decision-making processes. Overall, the discussion reflects a growing interest in how to effectively position tools for AI agents in an increasingly autonomous landscape.

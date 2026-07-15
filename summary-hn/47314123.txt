@@ -1,0 +1,6 @@
+Things I've Done with AI  (87 pts, 140 comments)
+https://news.ycombinator.com/item?id=47314123
+
+The Hacker News discussion revolves around a blog post titled "Things I've Done with AI," where the author shares various projects they've created using AI technology. The projects range from a voice note recorder to a whimsical clock that ticks irregularly. The conversation quickly shifts to a debate about the value and utility of AI-generated projects, with some commenters expressing skepticism about whether these creations genuinely enhance productivity or are merely "useless" endeavors.
+
+Key points of contention include the perception that many AI projects lack originality or meaningful impact, with some commenters arguing that they are just iterations of existing tools. Others defend the creative aspect of building with AI, emphasizing that personal projects can be valuable even if they don't meet commercial standards. Notable insights include the idea that the rapid generation of code can lead to a better understanding of one's ideas, as well as the notion that the definition of "value" in AI applications is subjective and varies among users. Overall, the discussion reflects a broader tension between AI enthusiasts and skeptics regarding the technology's role in innovation and productivity.

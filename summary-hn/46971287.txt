@@ -1,0 +1,8 @@
+Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV  (43 pts, 31 comments)
+https://news.ycombinator.com/item?id=46971287
+
+The Hacker News discussion centers around a project where the creator, Vincent Kaufmann, developed a server called MCP that enables local language models (LLMs) to access Google search and vision capabilities without requiring API keys. The latest feature allows the text-only model GPT-OSS-120B to identify objects in images using Google Lens and OpenCV, demonstrating its ability to recognize items like an NVIDIA DGX Spark and a SanDisk USB drive from a photo.
+
+In the comments, users debate the effectiveness of different LLMs, particularly comparing GPT-OSS-120B with Llama and other models. Some express concerns about the legality of scraping Google directly, suggesting that the approach could violate terms of service and pose risks for broader use. Others question the value of using GPT-OSS-120B for vision tasks since the actual identification is performed by Google Lens, not the model itself.
+
+Notable insights include discussions about the implications of using external APIs for cognitive tasks, with some commenters arguing that this undermines the learning aspect of the model. There are also suggestions for future improvements, such as integrating vision capabilities directly into the LLM rather than relying on external tools. Overall, the conversation reflects a mix of enthusiasm for the project's innovation and caution regarding its practical and ethical implications.

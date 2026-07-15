@@ -1,0 +1,8 @@
+OpenAI's GPT-5.2 model cites Grokipedia  (49 pts, 20 comments)
+https://news.ycombinator.com/item?id=46750118
+
+The Hacker News discussion centers around a report that OpenAI's GPT-5.2 model cites "Grokipedia," a controversial online encyclopedia. The conversation highlights concerns about the reliability and credibility of Grokipedia as a source, with some users expressing frustration over the model's tendency to reference it, especially when it may contain misinformation or biased content.
+
+In the comments, there is a divide between those who believe Grokipedia offers a valuable alternative to Wikipedia and those who criticize it for potentially spreading harmful or inaccurate information. Some users argue that Grokipedia's lack of editorial oversight could lead to the dissemination of extremist views, while others appreciate its breadth of content and claim it can be more accurate than Wikipedia. Notably, there are concerns about the implications of AI models relying on sources that may not be trustworthy, as many users may not verify the citations provided.
+
+Overall, the discussion reflects a broader debate about the quality of information in the age of AI and the responsibilities of developers in ensuring that their models do not propagate misinformation.

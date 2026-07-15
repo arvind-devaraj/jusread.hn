@@ -1,0 +1,8 @@
+NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)  (49 pts, 11 comments)
+https://news.ycombinator.com/item?id=47131689
+
+The Hacker News discussion centers around a request for public comments from the National Institute of Standards and Technology (NIST) regarding security considerations for AI agents, which are autonomous systems capable of impacting real-world operations. The deadline for comments is set for March 9, 2026. Key focus areas include identifying novel threats such as prompt injection and behavioral hijacking, adapting existing security frameworks, and implementing technical controls.
+
+In the comments, there is a consensus on the need for improved security measures, particularly around the concept of "blast radius"—the potential impact of an agent's actions. Several commenters emphasize the importance of runtime behavioral monitoring over mere registration of agents, arguing that understanding an agent's actions is crucial for security. There is also a notable concern about the lack of tools to measure and manage these risks effectively, with discussions on the need for third-party verifiability and the challenges of auditing agent actions across multiple vendors.
+
+Overall, the discussion highlights a shared recognition of the complexities involved in securing AI agents and the necessity for innovative approaches to address emerging threats, as well as the importance of developing reliable metrics and tools for assessing security risks.

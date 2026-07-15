@@ -1,0 +1,8 @@
+Show HN: FaceTime-style calls with an AI Companion (Live2D and long-term memory)  (34 pts, 24 comments)
+https://news.ycombinator.com/item?id=46759627
+
+The Hacker News discussion centers around a web app called Beni, which enables real-time video calls with an AI companion that features a Live2D avatar, real-time voice interaction, and long-term memory for context retention. The creator emphasizes the challenge of synchronizing the various components—audio input, model responses, and animations—to create a seamless user experience. Currently, the app requires sign-in for memory persistence, but a guest mode is in development.
+
+In the comments, there is a debate about the implications of AI companions, particularly regarding parasocial relationships—where users form emotional connections with entities that do not reciprocate awareness. Some commenters express concerns about the potential for unhealthy dependencies or misuse of the technology, while others highlight the unique interactive dynamic that Beni offers compared to traditional parasocial interactions. The creator acknowledges these concerns and emphasizes the importance of establishing boundaries and safety measures within the app.
+
+Notable insights include discussions on the nature of consciousness in AI and the need for new terminology to describe the interactive experience Beni provides. The conversation also touches on technical aspects, such as improving lip sync and response latency, with suggestions for tools and methods to enhance the app's performance. Overall, the discussion reflects a mix of excitement for the technology and caution regarding its social implications.

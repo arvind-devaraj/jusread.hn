@@ -1,0 +1,8 @@
+Ask HN: What Online LLM / Chat do you use?  (12 pts, 16 comments)
+https://news.ycombinator.com/item?id=47227046
+
+The Hacker News discussion revolves around users sharing their experiences and recommendations for various online large language models (LLMs) and chat services beyond the popular ones like ChatGPT, Anthropic, and Grok. The original poster is seeking alternatives to explore different functionalities and perspectives offered by these models.
+
+In the comments, users express their preferences for specific LLMs such as DeepSeek, Gemini, Kimi, and Qwen, highlighting features like speed, reasoning capabilities, and customization options. A recurring theme is the desire for efficient, direct responses without unnecessary filler, with some users discussing how they customize prompts to achieve this. There is also a debate about the effectiveness of LLMs compared to traditional search engines, particularly regarding cognitive load and context maintenance.
+
+Notable insights include the appreciation for privacy-focused models like Lumo and the mixed reviews on DeepSeek's coding capabilities. Users also mention the importance of quick response times and the impact of service infrastructure on their experiences with these models. Overall, the discussion reflects a growing interest in exploring diverse LLM options and optimizing their use for various tasks.

@@ -1,0 +1,8 @@
+Show HN: Play poker with LLMs, or watch them play against each other  (163 pts, 93 comments)
+https://news.ycombinator.com/item?id=46569061
+
+The Hacker News discussion revolves around a project that allows users to play or spectate poker games featuring large language models (LLMs) playing no-limit Texas Hold'em. The website, LLMHoldem.com, enables users to watch different LLMs compete against each other or create their own tables to play against these AI agents.
+
+In the comments, there is considerable debate about the capabilities of LLMs in poker compared to traditional poker solvers. Many users agree that LLMs are stateless and lack memory of previous hands, which limits their strategic depth. Some commenters argue that while LLMs can mimic human-like play, they would likely be outperformed by established poker solvers like Pluribus, which have demonstrated superior performance against human players. Others discuss the implications of imperfect information in poker and how it affects strategy, with some expressing skepticism about the LLMs' ability to play optimally.
+
+Notable insights include the distinction between LLMs and traditional poker AI, with LLMs focusing on human-like reasoning while solvers utilize mathematical optimization. There is also a recognition that while LLMs might not excel in competitive scenarios, they could still provide an interesting and entertaining experience for casual players.

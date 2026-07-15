@@ -1,0 +1,8 @@
+Why AI Doesn't Think: We Need to Stop Calling It "Cognition"  (19 pts, 18 comments)
+https://news.ycombinator.com/item?id=46664030
+
+The Hacker News discussion revolves around the article titled "Why AI Doesn't Think: We Need to Stop Calling It 'Cognition,'" which argues against anthropomorphizing AI by labeling its processes as "thinking" or "cognition." The author emphasizes that AI operates through large-scale computations rather than genuine cognitive processes, which can mislead public understanding and expectations.
+
+In the comments, there is a consensus on the dangers of anthropomorphizing AI, with users expressing frustration over how this terminology can confuse even knowledgeable individuals. Some commenters highlight the importance of distinguishing between human cognition and AI operations, while others debate the definitions and implications of cognition in psychological and neuroscientific contexts. Notably, one user points out the irony of discussing AI cognition in an article potentially edited by an AI, and another mentions the disconnect between technical definitions and common usage.
+
+Overall, the discussion underscores a shared concern about the implications of mislabeling AI capabilities, with calls for clearer communication about what AI can and cannot do. The conversation also touches on the broader implications of AI's operational nature, suggesting that understanding AI as a computational tool rather than a thinking entity could reshape how we approach its development and application.

@@ -1,0 +1,8 @@
+Show HN: I trained a 9M speech model to fix my Mandarin tones  (469 pts, 153 comments)
+https://news.ycombinator.com/item?id=46832074
+
+The Hacker News discussion centers around a project where the author trained a 9 million parameter speech model to help improve their Mandarin pronunciation, specifically focusing on tones, which they found challenging. The model, a Conformer-CTC, was trained on approximately 300 hours of Mandarin data and runs entirely in-browser. Users can test the model's ability to grade their pronunciation and tones.
+
+In the comments, several users express enthusiasm for the project, noting its potential to facilitate language learning. There is a discussion about the challenges of learning other languages, such as Farsi, and the importance of tone in Mandarin. Some commenters share personal experiences and techniques for mastering tones, like exaggerating pronunciation or using hand gestures. Others provide feedback on the model's performance, with some noting that it struggles with regional accents or rapid speech.
+
+Notable insights include the idea that over-exaggeration can aid in learning pronunciation, a technique that resonates across different languages and skills. Additionally, the conversation highlights the importance of user feedback in refining the model, as several commenters share their experiences and suggestions for improvement. Overall, the discussion reflects a collaborative spirit among language learners and developers, emphasizing the value of innovative tools in overcoming language barriers.

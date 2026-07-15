@@ -1,0 +1,8 @@
+Show HN: Satellite imagery object detection using text prompts  (53 pts, 23 comments)
+https://news.ycombinator.com/item?id=47305979
+
+The Hacker News discussion revolves around a new browser-based tool that utilizes vision-language models (VLMs) for detecting objects in satellite imagery. Users can select an area on a map, input a text prompt (like "swimming pools" or "buses"), and the tool scans the area to return detections displayed as GeoJSON on the map. The creator seeks feedback on detection quality, performance comparisons with specialized detectors, and potential real-world applications.
+
+In the comments, users generally express enthusiasm for the tool, with some noting challenges in the mobile user interface, which the creator has since addressed. There are discussions about the feasibility of tracking ships from space and the quality of satellite imagery for such tasks. Users share their experiences with the tool, highlighting its successes in identifying objects but also noting limitations, such as missed detections and issues with less common search terms.
+
+Notable insights include the potential for the tool to solve unique problems, like locating submerged vehicles, and suggestions for future features, such as image-based searches and change detection over time. The conversation reflects a mix of excitement about the technology's capabilities and curiosity about its practical applications and limitations.

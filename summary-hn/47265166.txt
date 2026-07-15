@@ -1,0 +1,8 @@
+Sam Altman asks if government can nationalize artificial general intelligence  (31 pts, 13 comments)
+https://news.ycombinator.com/item?id=47265166
+
+The Hacker News discussion revolves around Sam Altman's suggestion about the potential for government nationalization of artificial general intelligence (AGI). The conversation explores the implications of such a move, particularly regarding ownership, innovation, and the future of AI development.
+
+In the comments, there is a mix of skepticism and critique regarding the feasibility and desirability of nationalizing AGI. Some users express concerns that this could devalue individual creativity and innovation, while others argue that if multiple labs develop AGI simultaneously, there may be nothing substantial to nationalize. There are also comments questioning Altman's motives, suggesting he is seeking publicity for his company, OpenAI.
+
+Notable insights include the idea that nationalization might only be relevant if AGI creates a monopoly, and the debate about whether governments can effectively coordinate their actions before commoditization occurs. Overall, the discussion highlights the complexities and uncertainties surrounding the future of AGI and its governance.

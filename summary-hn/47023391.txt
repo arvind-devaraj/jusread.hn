@@ -1,0 +1,8 @@
+Large Language Models for Mortals: A Practical Guide for Analysts with Python  (60 pts, 16 comments)
+https://news.ycombinator.com/item?id=47023391
+
+The Hacker News discussion centers around a blog post titled "Large Language Models for Mortals: A Practical Guide for Analysts with Python." The post aims to provide practical insights for analysts on effectively using large language models (LLMs) in their work, particularly focusing on evaluation techniques and structured outputs.
+
+In the comments, there is a consensus on the importance of systematic evaluation of LLMs, with users expressing concern that many guides overlook this critical aspect. One commenter highlights that while getting prompts to work on a few examples is straightforward, assessing their generalizability is much more challenging. The author of the guide responds by confirming that the book includes dedicated sections on testing and evaluation metrics, such as accuracy and precision/recall.
+
+Notable opinions include a discussion on data privacy concerns when using third-party LLMs versus local models, with some users advocating for local solutions to avoid data leakage. Additionally, there is interest in the book's applicability for data journalism students, with the author suggesting that it covers best practices for workflows involving unstructured data and automated pipelines. Overall, the discussion reflects a strong interest in practical applications and rigorous evaluation methods for LLMs in analytical contexts.

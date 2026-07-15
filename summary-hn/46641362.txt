@@ -1,0 +1,8 @@
+Show HN: Gambit, an open-source agent harness for building reliable AI agents  (91 pts, 24 comments)
+https://news.ycombinator.com/item?id=46641362
+
+The Hacker News discussion centers around Gambit, an open-source agent harness designed to facilitate the development of reliable AI agents. Gambit aims to streamline the process of building AI agents by managing tool calls, planning, and context window management, allowing developers to focus on defining agent behaviors through markdown files or TypeScript programs. The architecture emphasizes chaining agents together in a way that prioritizes decision-making over traditional orchestration frameworks.
+
+In the comments, users express interest in Gambit's architecture, comparing it favorably to existing frameworks like LangChain and Mastra. Some commenters highlight the importance of context management between agent calls and raise concerns about potential security issues, such as prompt injection. The developer, Randall, engages with these points, acknowledging current limitations and discussing future improvements, including schema validation and context handling.
+
+Notable insights include the recognition of Gambit's potential for creating open-source agents that can be easily shared and improved upon by the community, as well as the emphasis on rubric-based grading to mitigate risks like leaking personally identifiable information (PII). Overall, the discussion reflects a mix of enthusiasm for Gambit's innovative approach and critical examination of its current capabilities and security considerations.

@@ -1,0 +1,8 @@
+Steering interpretable language models with concept algebra  (77 pts, 8 comments)
+https://news.ycombinator.com/item?id=47159833
+
+The Hacker News discussion revolves around a post introducing "concept algebra," a method for steering language models by injecting, suppressing, and composing human-understandable concepts during inference without the need for retraining or prompt engineering. The author invites feedback on potential benchmarking tasks, failure cases, and the practical utility of this compositional control.
+
+In the comments, users express interest in quantifying the effectiveness of this steering method compared to traditional prompt engineering, particularly regarding the suppression of unwanted outputs. One commenter is eager for a concept dictionary to explore moral scenarios using the framework, while another inquires about the method's applicability in maintaining focus for function-calling agents. The author acknowledges these requests and indicates that further technical details and resources will be shared soon.
+
+Overall, the discussion highlights a mix of curiosity and skepticism about the practical applications and effectiveness of concept algebra in language models, with a strong emphasis on the need for empirical validation and resources to facilitate its use.

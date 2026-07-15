@@ -1,0 +1,8 @@
+Turning books to courses using AI  (10 pts, 10 comments)
+https://news.ycombinator.com/item?id=46932010
+
+The Hacker News discussion revolves around a new platform called Book2Course, which uses AI to transform books into structured courses for private study. Users upload books they already own, and the AI processes the material to create course content, akin to notes or summaries. 
+
+In the comments, there is concern about potential copyright issues, with some users questioning whether the platform might face legal challenges from publishers. However, the creator reassures that the service operates within fair use boundaries. There is also curiosity about the technical workings of the platform, with the creator explaining the AI's processing pipeline. Additionally, users discuss the common user interface design of AI-generated websites, attributing it to the influence of Tailwind CSS templates.
+
+Overall, the discussion highlights both enthusiasm for the innovative concept and caution regarding legal implications, as well as a desire for more unique design elements in AI-driven applications.

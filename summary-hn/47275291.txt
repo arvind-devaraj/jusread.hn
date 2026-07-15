@@ -1,0 +1,8 @@
+A tool that removes censorship from open-weight LLMs  (219 pts, 80 comments)
+https://news.ycombinator.com/item?id=47275291
+
+The Hacker News discussion revolves around a tool called OBLITERATUS, designed to remove censorship from open-weight language models (LLMs). The tool is intended for local models only, and its effectiveness is debated among users. Some commenters express skepticism about its utility, suggesting that it may degrade model performance, leading to nonsensical outputs instead of the intended uncensored responses.
+
+Key points of contention include the tool's methodology and its comparison to existing solutions like Heretic, which some users claim is more effective. Critics argue that OBLITERATUS may oversimplify the complexities of LLMs by indiscriminately removing layers or components, potentially harming the model's overall functionality. Others highlight the ongoing evolution in understanding and manipulating LLMs, suggesting that while the tool may not be perfect, it represents a step toward greater transparency in AI.
+
+Notable insights include concerns about the implications of removing censorship, with some commenters likening the process to a "lobotomy" of the model. There is also a recognition that as tools like OBLITERATUS emerge, the community may need to adopt a more skeptical approach to claims about AI capabilities and performance.

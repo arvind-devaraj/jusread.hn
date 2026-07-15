@@ -1,0 +1,8 @@
+Starting from scratch: Training a 30M Topological Transformer  (144 pts, 58 comments)
+https://news.ycombinator.com/item?id=46666963
+
+The Hacker News discussion revolves around a post detailing the development of a 30M parameter model called the Topological Transformer, which aims to improve the efficiency of attention mechanisms in transformers by using a fixed graph Laplacian matrix. The author, "tuned," argues that this approach could enhance the model's ability to handle complex relationships in data while reducing computational costs.
+
+In the comments, there is a mix of skepticism and curiosity. Some users, like "lostmsu," express disappointment over the lack of direct comparisons with existing models, while others, such as "oofbey," question the scalability of the proposed method. There is a general consensus that while the architectural changes may offer benefits, the results should be treated cautiously until further peer review and testing are conducted. Notably, "liteclient" highlights the potential for reduced memory and compute requirements, but emphasizes the need for more robust benchmarks beyond the initial 30M parameter model.
+
+Overall, the discussion reflects a blend of interest in innovative approaches to transformer architecture and a cautious approach to claims of improved performance, underscoring the importance of empirical validation in machine learning research.

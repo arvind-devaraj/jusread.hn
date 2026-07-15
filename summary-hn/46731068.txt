@@ -1,0 +1,8 @@
+Ask HN: What's the current best local/open speech-to-speech setup?  (265 pts, 71 comments)
+https://news.ycombinator.com/item?id=46731068
+
+The Hacker News discussion revolves around finding the best local and open speech-to-speech setups for voice assistants, focusing on low latency and real-time performance. The original poster expresses frustration at the lack of comprehensive guides for achieving a fully local speech-to-speech system, particularly with the Qwen3 Omni model, and seeks recommendations for effective combinations of tools and hardware that work well together.
+
+In the comments, users share various tools and models they have experimented with, such as Whisper, Parakeet, and Nvidia's PersonaPlex, highlighting their experiences with local setups. There is a consensus that while end-to-end speech models are promising, many users still rely on a pipeline approach that involves separate speech-to-text (ASR), language models (LLM), and text-to-speech (TTS) components. Some commenters note the challenges of achieving real-time performance and the need for tuning and configuration.
+
+Notable insights include the recognition that the current state of speech-to-speech technology often requires a combination of models rather than a single solution, with some users advocating for the flexibility of using tools like pipecat to integrate various components. Additionally, there is a discussion about the importance of maintaining a text layer for complex tasks, suggesting that fully end-to-end models may not yet be ideal for all applications.

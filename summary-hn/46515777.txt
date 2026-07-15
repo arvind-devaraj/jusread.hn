@@ -1,0 +1,8 @@
+Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery  (85 pts, 20 comments)
+https://news.ycombinator.com/item?id=46515777
+
+The Hacker News discussion revolves around the launch of Tamarind Bio, a startup that provides AI inference tools for drug discovery, particularly for biopharma companies. Founded by Deniz and Sherry, Tamarind aims to streamline the use of open-source AI models, like AlphaFold, for computational biology, making it accessible to scientists without technical backgrounds. The platform allows users to run multiple models, fine-tune them with proprietary data, and integrate them into workflows, addressing the inefficiencies of traditional computational biology processes.
+
+In the comments, users express support for the project while raising questions about the challenges of onboarding major pharma companies, the effectiveness of current AI tools in drug discovery, and the security concerns associated with using cloud-based solutions. Some commenters highlight the need for clarity on pricing and the diversity of models available, while others discuss the competitive landscape of AI applications in biology.
+
+Notable insights include the recognition that the demand for software in biopharma has increased, with AI now having management buy-in. However, there are concerns about the saturation of tools in the market and the long-term viability of selling API calls for protein-related tasks. Overall, the discussion reflects a mix of enthusiasm for Tamarind's potential and skepticism about the broader implications of AI in drug discovery.

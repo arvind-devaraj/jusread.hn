@@ -1,0 +1,6 @@
+Show HN: Hyper – A stupidly non-corporate voice AI app for IRL conversations  (16 pts, 5 comments)
+https://news.ycombinator.com/item?id=47339465
+
+The Hacker News discussion centers around the launch of Hyper, an iOS voice AI app designed for capturing spontaneous, unstructured conversations without the need for manual note-taking. The app records conversations, provides real-time transcriptions, and generates summaries and actionable items that integrate with tools like Calendar and Gmail. The founders, Shalin and Kanyes, emphasize the app's focus on capturing the essence of informal discussions, which they believe are crucial for decision-making.
+
+In the comments, there is interest in the app's potential, with some users asking about the extent of on-device processing for voice AI. One commenter offers resources for developers interested in similar use cases, while another expresses skepticism about the reliability of voice-activated technology on personal devices. Overall, the conversation reflects a mix of enthusiasm for the app's innovative approach and caution regarding its implementation and potential issues.

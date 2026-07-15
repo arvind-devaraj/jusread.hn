@@ -1,0 +1,8 @@
+What if AI is both good and not that disruptive?  (45 pts, 77 comments)
+https://news.ycombinator.com/item?id=46711615
+
+The Hacker News discussion revolves around the idea that AI could be beneficial in healthcare without being overly disruptive. The original post raises the question of whether AI can improve health outcomes, especially given the current shortage of doctors and the prevalence of chronic illnesses in the U.S. 
+
+In the comments, there is a mix of skepticism and cautious optimism. Some users, like pedalpete, argue that AI could help alleviate the burden on overworked doctors by handling routine tasks, while others, like JohnFen and nephihaha, express concerns about trust and the loss of the human element in healthcare. There is a consensus that while AI might streamline certain processes, it cannot replace the empathy and support that human doctors provide, especially in sensitive situations.
+
+Notable insights include the idea that AI could serve as a tool to enhance preventative care by encouraging individuals to seek medical advice, as mentioned by Quarrelsome. However, there is also a cautionary note about the potential for AI to merely perpetuate existing issues in the healthcare system rather than solve them, as highlighted by toomuchtodo. Overall, the discussion reflects a nuanced view of AI's role in healthcare, balancing potential benefits with significant ethical and practical concerns.

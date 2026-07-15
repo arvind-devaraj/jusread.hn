@@ -1,0 +1,8 @@
+You need to rewrite your CLI for AI agents  (163 pts, 67 comments)
+https://news.ycombinator.com/item?id=47252459
+
+The Hacker News discussion centers around a blog post arguing that command-line interfaces (CLIs) need to be redesigned for better compatibility with AI agents. The author suggests that traditional human-centric CLI designs may not effectively support the unique requirements of AI agents, which prioritize predictability and structured input over human-friendly features like discoverability and forgiveness.
+
+In the comments, there is a mix of agreement and skepticism regarding the need for a complete rewrite of CLIs. Some commenters argue that AI agents can already handle various CLI formats effectively, while others express concerns about the practicality and future-proofing of designing specifically for AI. Notably, there are discussions about the effectiveness of using JSON for agent interactions and the potential for agents to struggle with poorly designed APIs. Additionally, some users highlight the importance of maintaining accessibility in user-facing programs, emphasizing that CLIs still hold significant value for many users, including those with disabilities.
+
+Overall, the conversation reflects a broader debate about the evolving role of AI in software development and the balance between optimizing for human users versus AI agents.

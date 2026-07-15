@@ -1,0 +1,8 @@
+Altman says OpenAI agrees with Anthropic's red lines in Pentagon dispute  (62 pts, 11 comments)
+https://news.ycombinator.com/item?id=47187488
+
+The Hacker News discussion revolves around a statement made by Sam Altman, CEO of OpenAI, indicating that OpenAI aligns with Anthropic's stance regarding certain ethical boundaries in their negotiations with the Pentagon. The article highlights concerns about the military's interest in AI applications, particularly in surveillance and autonomous weapons.
+
+In the comments, users debate the implications of Altman's agreement, with some suggesting it may be a strategic move to negotiate better terms. Others express skepticism about the Pentagon's claims of not wanting to use AI for mass surveillance, questioning the transparency of projects like Project Stargate. There are also discussions about the military's capability to develop its own AI models, with some commenters sarcastically noting the tendency to appropriate technology rather than create it from scratch.
+
+Overall, the conversation reflects a mix of skepticism about government intentions, strategic negotiation tactics in the tech industry, and broader concerns about the ethical implications of AI in military applications.

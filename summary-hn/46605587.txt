@@ -1,0 +1,8 @@
+Let's be honest, Generative AI isn't going all that well  (232 pts, 334 comments)
+https://news.ycombinator.com/item?id=46605587
+
+The Hacker News discussion centers around a post by Gary Marcus titled "Let's be honest, Generative AI isn't going all that well," which critiques the current state of generative AI technologies. The post is primarily composed of screenshots from various articles, leading to criticism from commenters who feel it lacks original commentary or depth.
+
+In the comments, there is a mix of agreement and disagreement regarding Marcus's claims. Some users, like emp17344, argue that while generative AI has its uses, it is not the revolutionary technology it is often portrayed to be, viewing it more as a tool rather than a precursor to artificial general intelligence (AGI). Others, like sghiassy and mattmaroon, highlight the practical benefits they have experienced from generative AI, such as increased productivity in coding and design tasks, suggesting that the technology is indeed valuable.
+
+Notable insights include a debate about the nature of code as an asset versus a liability, with some commenters arguing that code can be both, depending on its functionality and maintenance needs. This discussion reflects broader concerns about the sustainability and long-term implications of relying on generative AI technologies. Overall, the conversation reveals a divide between skepticism about the transformative potential of generative AI and recognition of its current practical applications.

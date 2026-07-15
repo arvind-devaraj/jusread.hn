@@ -1,0 +1,6 @@
+Ask HN: How are you using multi-agent AI systems in your daily workflow?  (16 pts, 13 comments)
+https://news.ycombinator.com/item?id=47270020
+
+The Hacker News discussion revolves around the use of multi-agent AI systems in daily workflows, initiated by a user who has been operating a 13-agent system called PAI Family for various tasks like research and finance. The poster is interested in learning about others' experiences with multiple AI agents, including what architectures work well and what fails.
+
+In the comments, users share their setups and insights. Key points of agreement include the importance of agent role clarity and the challenges of state coordination, with some noting that agents can struggle with real-time conflict resolution. Several commenters emphasize that the arrangement of checks between agents is crucial for success, while others discuss the benefits of asynchronous patterns and job libraries for efficiency. Notable insights include the recognition that consensus can be problematic in asynchronous environments and the need for clear protocols to prevent agents from overwriting each other's work. Overall, the discussion highlights both the potential and the complexities of implementing multi-agent AI systems.

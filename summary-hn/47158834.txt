@@ -1,0 +1,8 @@
+Deterministic Programming with LLMs  (72 pts, 32 comments)
+https://news.ycombinator.com/item?id=47158834
+
+The Hacker News discussion centers around the concept of deterministic programming with large language models (LLMs). The original post explores how LLMs can be utilized to generate code and the implications of their non-deterministic nature, which contrasts with traditional programming methods that rely on explicitly defined logic.
+
+In the comments, there is a significant debate about the relationship between LLMs and genetic algorithms, with several users drawing parallels between the two. They discuss how LLMs can be seen as a more refined search mechanism due to their rich prior knowledge, which narrows the search space for generating code. A key point of contention is the nature of determinism in LLM outputs, with some commenters arguing that while LLMs can produce consistent results under certain conditions (like using fixed seeds), true determinism is complicated by factors such as batching and the inherent randomness in their operation.
+
+Notable insights include the idea that programming with LLMs may shift the focus from writing explicit code to defining constraints and environments that guide the model's output. Additionally, some users suggest that the future of programming could involve more structured and deterministic approaches to interacting with LLMs, potentially leading to more reliable and predictable outcomes. Overall, the discussion reflects a blend of technical considerations and philosophical questions about the nature of programming and machine learning.

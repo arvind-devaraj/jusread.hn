@@ -1,0 +1,8 @@
+Show HN: What if AI agents had Zodiac personalities?  (29 pts, 18 comments)
+https://news.ycombinator.com/item?id=46581832
+
+The Hacker News discussion revolves around a project where the creator has developed a game that features 12 AI agents, each embodying a different zodiac personality. The aim is to explore moral dilemmas in a fun way, using the same language model (LLM) but varying the personality prompts based on zodiac traits.
+
+In the comments, users express a mix of enthusiasm and skepticism. Some find the experiment fascinating and suggest its potential applications in various contexts, such as simulating different professional perspectives. Others question the relevance of zodiac signs, proposing that any personality framework, like Myers-Briggs, could serve a similar purpose. A notable point of discussion is the concept of "mode-collapse," where the AI responses may show more consistency across different personalities than expected, raising questions about the effectiveness of the zodiac framework in influencing behavior.
+
+Overall, the conversation highlights both the playful nature of the project and deeper inquiries into the implications of personality modeling in AI, with some commenters sharing insights from cognitive science and game design.

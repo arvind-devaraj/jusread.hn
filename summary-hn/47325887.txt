@@ -1,0 +1,8 @@
+Gemini Embedding 2: natively multimodal embedding model  (36 pts, 4 comments)
+https://news.ycombinator.com/item?id=47325887
+
+The Hacker News discussion revolves around the announcement of Gemini Embedding 2, a new multimodal embedding model developed by Google that can create embeddings for various formats, including video, audio, and documents. Users express excitement about its capabilities, noting that it represents a significant advancement, although some mention that the context size is still smaller compared to traditional text embeddings.
+
+In the comments, there is a mix of curiosity and comparison with other models. One user inquires about pricing and how Gemini Embedding 2 stacks up against zembed-1, while another provides pricing details, indicating it costs 20 cents per million tokens for text and 0.012 cents per image. A notable point of debate arises when a user compares Gemini to Qwen's open weight multimodal embedding model, suggesting that Qwen offers superior embeddings and more control through steerability, which they find particularly impressive.
+
+Overall, the discussion highlights enthusiasm for Gemini Embedding 2's capabilities but also raises questions about its pricing and effectiveness compared to existing models, with some users expressing a preference for alternatives that offer more control and better performance.

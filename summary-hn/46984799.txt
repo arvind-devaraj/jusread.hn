@@ -1,0 +1,8 @@
+GLM-5 was trained entirely on Huawei chips  (20 pts, 16 comments)
+https://news.ycombinator.com/item?id=46984799
+
+The Hacker News discussion revolves around the announcement that GLM-5, a new AI model, was trained entirely on Huawei chips. Users are evaluating its performance, with some noting that it performs comparably to existing models like Opus 4.5/4.6, although there are concerns about its speed and previous versions being flawed.
+
+The comments reflect a debate about Nvidia's position in the market, with some suggesting that the company may be losing its competitive edge as major tech players like Google, Amazon, and Meta develop custom silicon to reduce reliance on Nvidia's technology. There is a discussion about Nvidia's "moat," primarily its CUDA architecture, and whether it can maintain its dominance as competitors innovate. Some users express skepticism about the legitimacy of the GLM-5 website, questioning its affiliation and suggesting it may be a spam site.
+
+Overall, the conversation highlights a mix of optimism about GLM-5's capabilities, concerns about Nvidia's future, and doubts regarding the credibility of the information source.

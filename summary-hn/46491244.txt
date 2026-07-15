@@ -1,0 +1,8 @@
+Agentic Patterns  (171 pts, 46 comments)
+https://news.ycombinator.com/item?id=46491244
+
+The Hacker News discussion revolves around a GitHub repository titled "awesome-agentic-patterns," which compiles various patterns related to agentic approaches in technology, particularly in the context of AI and machine learning. The repository aims to serve as a resource for developers interested in these patterns, although its effectiveness and clarity are questioned by some commenters.
+
+In the comments, there is a mix of appreciation for the list and skepticism regarding its practical utility. Some users, like "aranchelk," share positive experiences with specific patterns, while others, such as "solomatov" and "greatgib," express doubts about the originality and complexity of the concepts presented, suggesting that many are simply rebranded existing ideas. There is also a debate about the repository's structure, with some preferring a curated approach over a simple list of links, and others criticizing it for lacking depth and clarity.
+
+Notable insights include the observation that many patterns predate the current boom in large language models (LLMs), and a humorous take on the tendency to use complex terminology for straightforward concepts. Overall, the discussion highlights a blend of enthusiasm for innovative patterns and critical reflection on their actual value and presentation.

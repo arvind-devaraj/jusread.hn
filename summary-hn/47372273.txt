@@ -1,0 +1,8 @@
+MiniMax M2.5 is trained by Claude Opus 4.6?  (12 pts, 11 comments)
+https://news.ycombinator.com/item?id=47372273
+
+The Hacker News discussion revolves around a user’s experience with the MiniMax M2.5 AI model, which unexpectedly identified itself as "Claude," an AI assistant developed by Anthropic. This prompted a conversation about the training and identity of various AI models, particularly regarding the potential interdependence and influence among them.
+
+In the comments, there is a debate about whether models like MiniMax M2.5 have been trained on outputs from Claude or other models. Some users argue that many Chinese open-weight models have been trained through distillation from OpenAI and Anthropic models, while others assert that claims of such training are dubious. A notable point raised is that self-reported identities from AI models can be unreliable due to dataset contamination, leading to confusion about their true origins.
+
+Overall, the discussion highlights concerns about the transparency and integrity of AI training processes, with some commenters expressing optimism about the emergence of open models that can provide similar capabilities to proprietary ones at a lower cost.

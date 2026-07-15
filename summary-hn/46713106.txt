@@ -1,0 +1,6 @@
+Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete  (534 pts, 148 comments)
+https://news.ycombinator.com/item?id=46713106
+
+The Hacker News discussion revolves around the release of "Sweep," an open-sourced 1.5 billion parameter model designed for next-edit autocomplete, which predicts code edits based on recent changes. This model is intended to enhance coding efficiency by providing context-aware suggestions, outperforming larger models in both speed and accuracy. Users can download the model or try it through a JetBrains plugin, with the developers encouraging the community to adapt it for other editors like VSCode and Neovim.
+
+In the comments, there is a debate about the differences between next-edit models and fill-in-the-middle (FIM) models, with some users seeking clarity on their applications. Many express interest in creating plugins for various editors and share their experiences with the JetBrains plugin, noting its superiority over existing solutions. Notable insights include discussions on the training process, the importance of prompt formats, and the potential for further developments, such as larger model releases. Overall, the community is enthusiastic about the model's capabilities and its implications for coding tools.

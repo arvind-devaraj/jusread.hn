@@ -1,0 +1,8 @@
+I need AI that scans every PR and issue and de-dupes  (22 pts, 24 comments)
+https://news.ycombinator.com/item?id=47026773
+
+The Hacker News discussion revolves around a tweet from a developer seeking AI solutions to scan and de-duplicate numerous pull requests (PRs) and issues in their project. The developer noted a staggering increase in commits, raising questions about the sustainability and quality of code reviews when handling such a high volume.
+
+Commenters debated the feasibility and effectiveness of using AI for this task. Some expressed skepticism about the quality of AI-assisted reviews, suggesting that the sheer volume of commits (600 in a day) raises concerns about thoroughness. Others pointed out that while filtering out noise might not seem profitable now, it could become valuable as the volume of irrelevant information increases. There were also suggestions for practical approaches, such as using existing AI tools or developing custom solutions to manage and summarize issues more effectively.
+
+Notable insights included the recognition that while AI can assist in code generation and review, it may not always provide the nuanced understanding needed for effective quality control. Additionally, some commenters highlighted the challenges of implementing effective de-duplication techniques, suggesting that the task is more complex than it appears. Overall, the discussion reflects a mix of optimism about AI's potential and caution regarding its limitations in software development contexts.

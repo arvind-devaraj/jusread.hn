@@ -1,0 +1,8 @@
+Extracting books from production language models (2026)  (75 pts, 22 comments)
+https://news.ycombinator.com/item?id=46569799
+
+The Hacker News discussion revolves around a paper titled "Extracting books from production language models," which raises concerns about the potential for large language models (LLMs) to reproduce copyrighted texts. The central question posed is whether the ability to extract entire copyrighted works from these models undermines the purpose of copyright protection.
+
+In the comments, there is a heated debate about the legality and ethics of training LLMs on copyrighted material. Some users argue that current copyright laws are outdated and fail to address the realities of AI training, while others maintain that as long as the data is legally obtained, training does not violate copyright. Suggestions for mitigating copyright infringement include implementing n-gram filters or training on synthetic data, though some commenters argue that these solutions merely mask the underlying issue without resolving it.
+
+Notable insights include the idea that copyright law should evolve to better reflect modern technology and the assertion that existing laws may infringe on consumer rights. Additionally, there is a consensus that LLMs are likely trained on copyrighted material, with some users expressing frustration over the filters that limit the models' ability to provide accurate and useful outputs. Overall, the discussion highlights the tension between technological advancement and intellectual property rights.

@@ -1,0 +1,8 @@
+Show HN: Try Archetype 360 – AI‑powered personality test, 3× deeper than MBTI  (10 pts, 9 comments)
+https://news.ycombinator.com/item?id=47219487
+
+The Hacker News discussion revolves around a new AI-powered personality test called Archetype 360, which claims to offer a more nuanced analysis than traditional tests like MBTI or DiSC by using 24 traits across 12 opposing pairs. The creator, Daniel, invites users to try the test for free and provide feedback on the accuracy and relevance of the generated reports, which are designed to be context-specific and ephemeral, meaning they aren't stored online.
+
+In the comments, there is a notable debate about the need for validation of the test's framework before further development. Some users express skepticism, comparing it to MBTI and suggesting that without proper validation, it may lack scientific rigor. Others raise questions about the independence and predictive value of the dimensions used in the test. Daniel acknowledges these concerns and indicates plans to simplify the test by reducing the number of trait pairs and improving the question format based on user feedback.
+
+Overall, while there is interest in the concept, many commenters emphasize the importance of validation and the need for a more robust framework to ensure the test's effectiveness and credibility.

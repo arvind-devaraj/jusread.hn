@@ -1,0 +1,8 @@
+Show HN: DeepDream for Video with Temporal Consistency  (72 pts, 27 comments)
+https://news.ycombinator.com/item?id=46540660
+
+The Hacker News discussion revolves around a project that enhances a PyTorch implementation of DeepDream to support video generation while maintaining temporal consistency. The creator has added features that reduce flickering and allow for smooth transitions in the generated videos, which can utilize various pretrained image classifiers. The repository includes sample videos showcasing these capabilities.
+
+In the comments, users express a mix of fascination and skepticism. Some reminisce about the early days of DeepDream and its potential impact on media production, while others worry that such technology might lead to a homogenization of visual styles in filmmaking, likening it to the aesthetics of major franchises like Marvel and Pixar. There are debates about the role of AI in creative fields, with some arguing it could foster a new era of experimentation, while others caution against the risks of oversaturation and loss of originality.
+
+Notably, there are discussions about the future of video compression and the potential for AI to revolutionize how films are created and experienced. Some users also critique the credibility of popular YouTube channels in the visual effects space, highlighting a divide between traditional industry professionals and content creators. Overall, the conversation reflects a blend of excitement for technological advancements and concern over their implications for creativity and originality in the arts.

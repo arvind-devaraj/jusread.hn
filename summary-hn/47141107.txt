@@ -1,0 +1,8 @@
+Learnings from 4 months of Image-Video VAE experiments  (129 pts, 16 comments)
+https://news.ycombinator.com/item?id=47141107
+
+The Hacker News discussion revolves around a post detailing the authors' experiences and findings from four months of experiments with an Image-Video Variational Autoencoder (VAE). The authors, affiliated with Linum, share insights on the model's development, its open-source release, and the challenges faced during training, particularly regarding data quality and the limitations of existing video generation models.
+
+In the comments, there is a mix of appreciation for the authors' work and inquiries about specific aspects of the model, such as the potential for training with higher image bit depths and the use of original art for fine-tuning. Some commenters express curiosity about the iterative process of experimentation and the difficulties in shortening feedback loops in model training. Notably, there is a discussion about the effectiveness of different architectures, with some users advocating for transformer-based models over convolutional ones due to scalability issues.
+
+Overall, the conversation highlights the collaborative spirit of the machine learning community, with participants sharing insights, asking questions, and reflecting on their own experiences in the field. The authors' willingness to engage and share their findings fosters a constructive dialogue about the future of VAE applications and improvements in video generation technology.

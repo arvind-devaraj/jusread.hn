@@ -1,0 +1,8 @@
+Starlink updates Privacy Policy to allow AI model training with personal data  (55 pts, 11 comments)
+https://news.ycombinator.com/item?id=46647716
+
+The Hacker News discussion revolves around Starlink's recent update to its privacy policy, which now permits the use of personal data for training AI models. This change has raised concerns among users regarding the extent of data that Starlink can access and how it might be used.
+
+Commenters express a range of opinions, with many highlighting the potential risks associated with the ISP's access to personal information, including DNS queries and location data. Some users question the clarity and sincerity of the language used in the policy, suggesting it is filled with vague terms. There is also frustration over the lack of communication from Starlink about this change, with one user noting difficulties in opting out of the new policy. Additionally, some commenters advocate for using VPNs as a protective measure against potential misuse of data by ISPs.
+
+Overall, the discussion reflects a general unease about privacy and data security in the context of evolving policies from tech companies, emphasizing the need for transparency and user control over personal information.

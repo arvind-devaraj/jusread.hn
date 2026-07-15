@@ -1,0 +1,8 @@
+DeepSeek withholds latest AI model from Nvidia, AMD  (34 pts, 8 comments)
+https://news.ycombinator.com/item?id=47161026
+
+The Hacker News discussion revolves around DeepSeek's decision to withhold its latest AI model from major chipmakers Nvidia and AMD, potentially to give Huawei a competitive edge. The article suggests that this move may be perceived as an attempt to circumvent sanctions, but some commenters argue it could simply be a strategy to bolster Huawei's position in the AI hardware market.
+
+In the comments, there is a debate about the implications of this decision for Nvidia and AMD. Some users question how withholding the model affects these companies, noting that models are becoming more of a commodity compared to hardware. Others highlight that hardware manufacturers typically optimize their products to work well with popular AI models, suggesting that this could impact future hardware sales and development.
+
+Notable insights include the idea that DeepSeek's actions may be part of a broader strategy to strengthen domestic chip ecosystems in China, as well as the recognition that while models are easily interchangeable, the hardware has a longer lifecycle, making the competition more complex. Overall, the discussion reflects a mix of technical understanding and geopolitical considerations regarding the AI landscape.

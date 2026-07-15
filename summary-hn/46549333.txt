@@ -1,0 +1,8 @@
+Show HN: Various shape regularization algorithms  (78 pts, 5 comments)
+https://news.ycombinator.com/item?id=46549333
+
+The Hacker News discussion centers around a GitHub project titled "Various shape regularization algorithms," created by a user who works with geometry in computer vision and photogrammetry. The project aims to clean up geometric data using shape regularization techniques, which involve balancing the cost of modifying geometry with the desire for "niceness" or aesthetic constraints. The author implemented several methods in pure Python, inspired by existing algorithms in CGAL.
+
+In the comments, users express appreciation for the project, with one land surveyor highlighting a related interest in automatic label positioning around shapes. Others share resources, such as blog posts from Redblobgames on effective map labeling and a GitHub project called Polylabel. Additionally, a commenter suggests using Numba for performance improvements, indicating a shared interest in optimizing the implementation.
+
+Overall, the discussion reflects a collaborative spirit, with users exchanging insights and resources related to geometry and visualization, while expressing enthusiasm for the author's work.

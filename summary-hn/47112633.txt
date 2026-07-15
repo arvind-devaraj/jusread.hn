@@ -1,0 +1,8 @@
+Altman on AI energy: it also takes 20 years of eating food to train a human  (55 pts, 118 comments)
+https://news.ycombinator.com/item?id=47112633
+
+The Hacker News discussion revolves around a comment made by Sam Altman regarding the energy consumption of AI training, where he likens it to the 20 years it takes for a human to grow and develop, suggesting that significant energy is required for both processes. This comparison sparked a debate about the ethical implications of AI development and the value of human life in the context of technological advancement.
+
+In the comments, there is a mix of agreement and disagreement. Some users express skepticism about the motivations of billionaires and the potential for wealth to corrupt, questioning whether it is possible to be both wealthy and value human life. Others highlight historical examples of philanthropy among the wealthy, while some criticize the notion that Altman's comparison is dismissive of human life. Notably, there are discussions about the ethical responsibilities of those in the AI field and concerns about the potential consequences of AI development.
+
+Overall, the conversation reflects a broader concern about the intersection of technology, ethics, and human values, with participants debating the implications of prioritizing AI advancement over human considerations.

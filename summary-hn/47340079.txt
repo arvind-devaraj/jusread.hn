@@ -1,0 +1,6 @@
+Don't post generated/AI-edited comments. HN is for conversation between humans  (4229 pts, 1628 comments)
+https://news.ycombinator.com/item?id=47340079
+
+The Hacker News discussion revolves around a new guideline discouraging the posting of comments generated or edited by AI, emphasizing that HN should be a platform for human conversation. The guideline raises questions about enforcement and verification, with users debating the feasibility of distinguishing between human and AI-generated content.
+
+Key points of agreement include the belief that HN should prioritize genuine human interaction, while many commenters express skepticism about the ability to effectively enforce such a guideline. Some argue that relying on self-censorship has historically failed, while others draw parallels to laws that are difficult to enforce, like the fictional "Bathroom Singing Prohibition Act." Notable insights include the observation that AI-generated comments can sometimes be identified through patterns, and the discussion touches on broader concerns about the implications of AI in communication and the nature of human interaction in digital spaces.

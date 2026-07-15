@@ -1,0 +1,8 @@
+Trinity large: An open 400B sparse MoE model  (231 pts, 82 comments)
+https://news.ycombinator.com/item?id=46789561
+
+The Hacker News discussion revolves around the release of "Trinity Large," a new 400 billion parameter sparse mixture of experts (MoE) model designed for research and practical applications in AI. The model is noted for its rapid training time of 33 days and a cost of approximately $20 million, which includes infrastructure and salaries. Users express excitement about its potential for various applications, including conversational AI.
+
+In the comments, there is a mix of enthusiasm and skepticism regarding the model's performance compared to existing benchmarks. Some users highlight the decreasing costs of training large models but note that achieving significantly better performance is becoming increasingly challenging. There is also debate about the relevance of benchmarks like LM Arena, with some arguing that they do not accurately reflect real-world capabilities. Others emphasize that improvements in AI are not solely due to better models but also advancements in tooling and harnesses.
+
+Notable insights include discussions about the complexities of training large models, the importance of considering failed experiments in cost assessments, and the ongoing challenges of running these models effectively due to high hardware requirements. Overall, the conversation reflects a blend of optimism for the future of AI research and critical examination of current metrics and methodologies.

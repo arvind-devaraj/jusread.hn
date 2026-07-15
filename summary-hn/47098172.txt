@@ -1,0 +1,8 @@
+How an inference provider can prove they're not serving a quantized model  (69 pts, 48 comments)
+https://news.ycombinator.com/item?id=47098172
+
+The Hacker News discussion revolves around a blog post that explains how an inference provider can demonstrate that they are not serving a quantized model. The article details a method involving hardware-based attestation, where the model's weights and system image are verified against a transparency log to ensure integrity and authenticity.
+
+In the comments, there is a mix of agreement and skepticism regarding the effectiveness of the proposed verification method. Some users express concerns about the potential for providers to manipulate the system, questioning whether the attestation process can truly prevent cheating. Others clarify that the attestation relies on trusted hardware, which generates keys and certificates that are difficult for providers to tamper with. There is also debate about the reliability of using seed determinism for model outputs across different hardware setups, with some arguing that variations in floating-point arithmetic could lead to discrepancies.
+
+Notable insights include the emphasis on the importance of open-source components in the verification process, which allows for greater transparency and trust. Additionally, some commenters suggest that running comparative evaluations across different model providers could serve as a practical method for detecting inconsistencies, highlighting the challenges of ensuring model integrity in a competitive landscape.

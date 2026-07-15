@@ -1,0 +1,8 @@
+OpenAI is developing alternative to Microsoft's GitHub  (41 pts, 15 comments)
+https://news.ycombinator.com/item?id=47241272
+
+The Hacker News discussion revolves around a Reuters article reporting that OpenAI is developing an alternative to Microsoft's GitHub. There is uncertainty about whether this new service will be a hosted platform or a self-hostable solution, with some commenters suggesting it could resemble existing platforms like Gitea or ForgeJo. 
+
+In the comments, users express a mix of skepticism and humor regarding OpenAI's potential offering. Some debate the merits of acquiring existing platforms like GitLab versus creating a new service from scratch. There is a general concern about the implications of AI-driven platforms on existing services, with some commenters fearing that OpenAI's involvement could compromise the quality of established tools. Notably, one user points out that many large language models (LLMs) currently lack direct access to GitHub, highlighting the importance of code repositories for AI development.
+
+Overall, the discussion reflects a blend of curiosity and caution about OpenAI's plans, with a desire for reliable alternatives to GitHub amid concerns about its recent performance.

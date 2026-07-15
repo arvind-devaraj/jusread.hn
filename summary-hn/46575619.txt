@@ -1,0 +1,8 @@
+Show HN: Is AI hijacking your intent? A formal control algorithm to measure it  (10 pts, 19 comments)
+https://news.ycombinator.com/item?id=46575619
+
+The Hacker News discussion revolves around a post by an independent researcher introducing "State Discrepancy," a proposed metric to quantify how much AI systems alter user intent, referred to as "the Ghost." The researcher aims to provide a concrete engineering variable to replace vague notions of manipulation, addressing concerns about AI's regulatory challenges and societal trust. The post includes a formal algorithm to measure this discrepancy and links to a white paper detailing the concept.
+
+In the comments, there is a mix of support and skepticism. Some users appreciate the attempt to formalize the discussion around AI's influence on human agency, while others question the paper's depth and originality, suggesting it may contain excessive boilerplate without substantial content. A few commenters express concerns about the potential for AI to mislead users, with one noting the prevalence of similar "breakthroughs" in open-access repositories, hinting at a trend of AI-generated academic work lacking rigor.
+
+Notable insights include the acknowledgment of the challenges in implementing the proposed algorithm in real-time AI systems and the broader philosophical implications of AI's role in shaping human decision-making. The discussion reflects a tension between innovation in AI research and the need for critical scrutiny to avoid contributing to "AI-generated debris."

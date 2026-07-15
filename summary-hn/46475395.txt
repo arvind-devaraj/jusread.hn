@@ -1,0 +1,8 @@
+Recursive Language Models  (161 pts, 23 comments)
+https://news.ycombinator.com/item?id=46475395
+
+The Hacker News discussion revolves around a paper titled "Recursive Language Models," which explores a novel approach to handling long prompts in language models (LLMs). The key insight presented in the paper is that instead of feeding long prompts directly into the neural network, they should be treated as part of the environment that the LLM can interact with symbolically. This approach raises questions about its relationship to existing methods like Retrieval-Augmented Generation (RAG).
+
+In the comments, there is significant debate about the distinctions between the proposed recursive approach and RAG. Some commenters argue that the recursive nature and the "agentic" aspect of the new model set it apart from traditional workflows. Others express skepticism, suggesting that the concept of subagents and recursive calls is not fundamentally new and may not offer substantial advancements. There are also discussions about the lack of training mechanisms in the proposed model, with some commenters highlighting that it primarily involves repeated calls to the base model without differentiation.
+
+Notable insights include a call for clearer definitions and terminology in the field, as well as a desire for more transparency from major AI organizations regarding their methodologies. Overall, the discussion reflects a mix of curiosity about the potential of recursive language models and skepticism about their novelty and practical implications.

@@ -1,0 +1,8 @@
+Ask HN: What is the best way to provide continuous context to models?  (73 pts, 42 comments)
+https://news.ycombinator.com/item?id=46626639
+
+The Hacker News discussion revolves around the best methods for providing continuous context to AI models, particularly in the context of large language models (LLMs). The original poster seeks insights into effective strategies for context management and references Cursor, a company that specializes in this area.
+
+In the comments, there is a consensus that "continuous context" is a misnomer; instead, context must be explicitly included in each interaction. Users discuss techniques for optimizing context usage, such as appending new information while managing token costs and caching. Some commenters highlight the importance of where context is placed in prompts to enhance efficiency and speed. There is also debate about the effectiveness of various AI models, with some praising Gemini for its search capabilities while others criticize its framework and performance.
+
+Notable insights include the idea of using "agentic search" to manage context more effectively by utilizing subagents for information retrieval, as well as the potential for creating specialized agents for different tasks. The discussion reflects a broader interest in how to balance context retention with performance and cost in AI applications.

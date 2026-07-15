@@ -1,0 +1,8 @@
+LLMs work best when the user defines their acceptance criteria first  (461 pts, 422 comments)
+https://news.ycombinator.com/item?id=47283337
+
+The Hacker News discussion revolves around the effectiveness of large language models (LLMs) in generating code, particularly when users clearly define their acceptance criteria. The original post highlights that LLMs perform better when given detailed instructions, as vague requests often lead to subpar results. 
+
+In the comments, users share their experiences with various LLMs like Claude and Codex, noting that while some can produce decent code, they often struggle with complex tasks or visual outputs. A common theme is the importance of specificity in prompts; many users agree that providing detailed requirements can significantly improve the quality of the generated code. However, some express skepticism about the models' capabilities, suggesting that even with clear instructions, the results can still be disappointing. 
+
+Notable insights include the recognition that LLMs may not inherently understand visual tasks, as they are primarily trained on text. Users also discuss the challenges of using LLMs in specialized fields with limited public domain knowledge, indicating that the effectiveness of these tools can vary widely based on the context and complexity of the task. Overall, the conversation underscores the need for users to refine their prompts to achieve better outcomes with LLMs.

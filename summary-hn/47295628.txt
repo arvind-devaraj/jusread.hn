@@ -1,0 +1,8 @@
+Ask HN: Why there are no actual studies that show AI is more productive?  (40 pts, 86 comments)
+https://news.ycombinator.com/item?id=47295628
+
+The Hacker News discussion centers around the lack of concrete studies demonstrating that AI significantly boosts productivity in companies, despite anecdotal evidence from users claiming productivity gains. The original poster expresses frustration that skeptics demand empirical studies to validate AI's effectiveness, while many companies, including their own, report positive experiences.
+
+In the comments, there is a mix of skepticism and optimism regarding AI's impact on productivity. Some users question why there hasn't been a noticeable increase in app development or quality if AI is indeed enhancing productivity. Others argue that the technology is still evolving and that significant improvements may take time to materialize. A few comments reference studies indicating modest gains in effectiveness but also highlight increased instability in outputs. Notably, some participants suggest that while current productivity metrics may not show dramatic improvements, the trajectory of AI development suggests future potential.
+
+Overall, the discussion reflects a broader debate about the tangible benefits of AI in the workplace, the challenges of measuring productivity accurately, and the need for more rigorous studies to substantiate claims of enhanced efficiency.

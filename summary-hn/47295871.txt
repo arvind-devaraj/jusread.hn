@@ -1,0 +1,8 @@
+Ask HN: Can I repurpose a Bluetooth voice remote as input device for a PC?  (15 pts, 21 comments)
+https://news.ycombinator.com/item?id=47295871
+
+The Hacker News discussion revolves around a user's inquiry about repurposing a Bluetooth voice remote, such as those used for FireTV, as an input device for a PC. The user seeks alternatives to traditional typing and mouse use, especially while working on a treadmill, and is looking for handheld devices that combine trackpad functionality with voice input.
+
+In the comments, there is a consensus that while repurposing such remotes is possible, it may require significant trial and error to find compatible devices that send usable commands. Several users suggest alternatives like the MX3 air mouse, modern game controllers with built-in microphones, and specialized dictation microphones. Notably, one user highlights the effectiveness of Windows 11's "voice access" feature, which offers robust voice command capabilities. Others share their experiences with various input devices, emphasizing the importance of programmability and ease of use.
+
+Overall, the discussion reveals a shared interest in finding innovative and ergonomic input solutions for PC use, particularly for those who want to avoid traditional setups. Users express a mix of optimism and caution regarding the feasibility of using existing consumer electronics for this purpose, with some advocating for dedicated devices designed for accessibility.

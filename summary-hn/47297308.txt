@@ -1,0 +1,6 @@
+Show HN: Detect any object in satellite imagery using a text prompt  (22 pts, 7 comments)
+https://news.ycombinator.com/item?id=47297308
+
+The Hacker News discussion centers around a newly developed browser-based tool that utilizes Vision-Language Models (VLMs) to detect objects in satellite imagery based on natural language prompts. Users can specify what they want to find (like "swimming pools" or "solar panels") by drawing a polygon on a map, and the tool processes the imagery to project bounding boxes of the detected objects. The demo is accessible without login, but while it performs well for distinct structures, it struggles with dense or occluded objects.
+
+In the comments, there is a mix of appreciation for the tool's capabilities and concerns about its novelty, as some users point out that a similar tool was posted recently, leading to discussions about potential duplicate submissions. Some users express interest in practical applications, such as identifying solar rooftops in their area, while others criticize the repeated submissions as a marketing tactic. Notably, one commenter shares a link to a video of a similar application they created, highlighting the competitive nature of such tools in the tech landscape.

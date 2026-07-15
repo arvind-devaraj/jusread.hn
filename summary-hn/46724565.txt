@@ -1,0 +1,6 @@
+Show HN: CLI for working with Apple Core ML models  (48 pts, 5 comments)
+https://news.ycombinator.com/item?id=46724565
+
+The Hacker News discussion centers around a GitHub project titled "coreml-cli," which is a command-line interface (CLI) designed for working with Apple Core ML models. The creator, schappim, highlights that while the CLI does not handle model conversion or quantization from frameworks like PyTorch, users can utilize Apple's "coremltools" library for those purposes.
+
+In the comments, there is some debate about the capabilities of coremltools, particularly regarding its support for TensorFlow Lite and ONNX, with one user expressing skepticism about its current functionality. Another commenter appreciates the CLI's use of Swift for potentially better performance and suggests that the JSON output could be beneficial for integration with other frameworks. However, there are concerns about latency, as the CLI may reload models for each invocation, which could hinder performance compared to a persistent service. Overall, users express interest in trying out the tool, with one asking for resources to learn more about available Core ML models.

@@ -1,0 +1,6 @@
+Ask HN: 10 months since the Llama-4 release: what happened to Meta AI?  (55 pts, 12 comments)
+https://news.ycombinator.com/item?id=46909060
+
+The Hacker News discussion revolves around the perceived stagnation of Meta AI following the disappointing release of Llama 4, which has left its API in a waitlist-only state for 10 months. The original poster seeks insights into what has transpired at Meta since then.
+
+Commenters express a consensus that internal dysfunction and poor leadership are significant factors contributing to the lack of progress. Some suggest that high-profile hires are not delivering results due to a culture of complacency, while others note that Meta's restructuring under CEO Mark Zuckerberg may have stifled innovation. There are also references to the broader AI landscape, with some suggesting that the excitement around AI is waning. Notably, several comments reflect skepticism about Zuckerberg's influence on projects, implying that his personal involvement often leads to setbacks. Overall, the discussion highlights a mix of disappointment and concern regarding Meta's direction in AI development.

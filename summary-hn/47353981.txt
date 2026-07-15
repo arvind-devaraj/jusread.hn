@@ -1,0 +1,8 @@
+Show HN: LogClaw – Open-source AI SRE that auto-creates tickets from logs  (19 pts, 34 comments)
+https://news.ycombinator.com/item?id=47353981
+
+The Hacker News discussion revolves around LogClaw, an open-source AI platform designed to automate the creation of incident tickets from logs, developed by Robel. LogClaw ingests logs via OpenTelemetry and employs a sophisticated anomaly detection system that uses signal-based composite scoring to identify operational failures. It aims to reduce alert fatigue by filtering out noise and quickly generating actionable tickets in response to critical failures.
+
+In the comments, users express a mix of curiosity and skepticism about LogClaw's value proposition compared to existing solutions. Some question the necessity of a new tool when established anomaly detection and ticketing systems already exist. Others highlight the potential benefits of LogClaw's automated approach, particularly for organizations overwhelmed by log data. There is also debate about the platform's SOC 2 compliance claims and the effectiveness of using LLMs (Large Language Models) for root cause analysis.
+
+Notable insights include the emphasis on LogClaw's ability to handle large volumes of logs efficiently and its focus on improving the quality of incident response without requiring extensive manual setup. Users are particularly interested in how well the system can triage issues and whether it can genuinely enhance operational efficiency in production environments.

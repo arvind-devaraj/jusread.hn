@@ -1,0 +1,8 @@
+Ask HN: What's it like working in big tech recently with all the AI tools?  (28 pts, 15 comments)
+https://news.ycombinator.com/item?id=47160641
+
+The Hacker News discussion revolves around the impact of AI coding tools on day-to-day work in big tech companies. The original poster seeks insights on whether these tools have accelerated development, affected code quality, and influenced team productivity.
+
+Many commenters agree that the use of AI tools has led to a faster pace of development, with some reporting significant increases in pull requests (PRs). However, there is a consensus that this speed comes at the cost of code quality, with an uptick in bugs and a tendency for code reviews to become more superficial. Some users express concern about the shift in job expectations, where developers are now seen more as editors of AI-generated code rather than creators, leading to increased mental fatigue and decision-making challenges.
+
+Notable insights include the idea that while AI tools can enhance productivity, they also introduce complexities in code integration and architectural decisions. Some commenters highlight a growing dependency on AI, which may hinder the development of a deep understanding of codebases. Overall, the discussion reflects a mix of enthusiasm for the potential of AI tools and caution regarding their implications for software development practices.

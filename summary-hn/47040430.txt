@@ -1,0 +1,6 @@
+SkillsBench: Benchmarking how well agent skills work across diverse tasks  (364 pts, 167 comments)
+https://news.ycombinator.com/item?id=47040430
+
+The Hacker News discussion revolves around the paper titled "SkillsBench: Benchmarking how well agent skills work across diverse tasks," which explores the effectiveness of using large language models (LLMs) for automating various tasks. The conversation highlights concerns about the degradation of output quality when LLMs are used in a multi-layered approach, where the output of one LLM serves as input for another. 
+
+Commenters express differing views on this issue. Some argue that without proper feedback mechanisms, the quality of outputs deteriorates with each successive layer, akin to the "Telephone" game where messages become distorted. Others counter that with adequate metrics and self-adjustment capabilities, LLMs can maintain performance across layers. A notable insight is the importance of clear, specific prompts when asking LLMs to generate code or design, as vague instructions can lead to poor results. Additionally, the discussion touches on the role of human feedback in refining LLM outputs, suggesting that the interaction between human input and LLM capabilities is crucial for achieving better outcomes.

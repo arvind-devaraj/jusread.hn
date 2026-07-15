@@ -1,0 +1,8 @@
+Show HN: Timber – Ollama for classical ML models, 336x faster than Python  (207 pts, 33 comments)
+https://news.ycombinator.com/item?id=47212576
+
+The Hacker News discussion revolves around a project called Timber, which claims to be 336 times faster than Python for executing classical machine learning (ML) models. The creator, kossisoroyce, aims to provide a simpler and more efficient way to deploy these models, particularly for edge and latency-critical applications.
+
+In the comments, there is a mix of enthusiasm and skepticism. Some users express excitement about the potential of Timber, while others debate its comparison to Ollama, a tool for large language models (LLMs). Critics argue that Ollama is not a fitting analogy, as it primarily serves as a wrapper for existing models. There are discussions about the performance benefits of Timber, with some users questioning the choice of using a separate process for execution instead of shared libraries, while others appreciate the abstraction it provides.
+
+Notable insights include the recognition that traditional ML still plays a significant role in real-world applications, despite the current focus on generative AI. Additionally, there are suggestions for future improvements, such as incorporating raw input handling and comparisons with existing frameworks like ONNX. Overall, the conversation highlights both the excitement for Timber's capabilities and the complexities involved in deploying classical ML models efficiently.

@@ -1,0 +1,8 @@
+Claude Code Voice Mode  (24 pts, 13 comments)
+https://news.ycombinator.com/item?id=47354164
+
+The Hacker News discussion revolves around the introduction of a "voice mode" feature in Claude Code, which allows users to input speech-to-text commands. The original post links to a support article detailing how to use this feature, but many commenters express confusion and frustration regarding its functionality and limitations.
+
+Key points of debate include the accuracy of the voice recognition compared to other tools, with several users noting that Claude Code's voice mode is not as effective as existing speech-to-text solutions. Some commenters suggest that the feature is not particularly innovative, as similar capabilities are already available in many operating systems. There is also a discussion about the staged rollout of the feature, with some users unable to access it yet.
+
+Notable insights include suggestions for improving the voice mode, such as adding a custom dictionary for better recognition of specific terms. Additionally, users share their experiences with alternative tools and methods for voice input, highlighting a desire for more robust and seamless integration of voice features in coding environments. Overall, the discussion reflects a mix of skepticism and hope for future improvements in voice recognition technology within coding applications.

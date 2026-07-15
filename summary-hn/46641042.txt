@@ -1,0 +1,8 @@
+Tldraw pauses external contributions due to AI slop  (192 pts, 107 comments)
+https://news.ycombinator.com/item?id=46641042
+
+The Hacker News discussion centers around Tldraw's decision to pause external contributions due to concerns about the quality of AI-generated code, referred to as "AI slop." The main issue raised is that while AI can quickly generate pull requests (PRs), the time-consuming task of reviewing and understanding this code remains a significant burden for maintainers.
+
+Commenters largely agree that the influx of AI-generated contributions could lead to increased burnout among open-source maintainers, as they face the challenge of sifting through potentially low-quality submissions. There is a debate about the nature of code review, with some arguing that reviewing AI-generated code lacks the satisfaction of mentoring human contributors and building trust. Others suggest that AI can be beneficial in specific contexts, such as generating boilerplate code or assisting with poorly written codebases.
+
+Notable insights include the idea that AI may shift the focus of software development from writing elegant solutions to producing code quickly, potentially diminishing the quality of collaboration and craftsmanship in coding. Some commenters express skepticism about the long-term impact of AI on productivity, suggesting that while it may speed up code generation, it complicates the understanding and review processes, ultimately making developers less productive.

@@ -1,0 +1,8 @@
+The Problem with LLMs  (59 pts, 87 comments)
+https://news.ycombinator.com/item?id=46984021
+
+The Hacker News discussion revolves around an essay titled "The Problem with LLMs," which critiques large language models (LLMs) primarily for their tendency to produce plagiarized content. The author argues that LLMs are fundamentally built on existing works, raising ethical concerns about copyright and originality. 
+
+In the comments, there is significant debate over the validity of the plagiarism argument. Some users express skepticism about its importance, suggesting that society has largely accepted this issue. Others emphasize the real impact on creators and the translation industry, noting that many artists and translators feel threatened by AI technologies. The conversation also touches on the nature of intelligence, with some commenters arguing that LLMs should not be equated with human thought processes, while others suggest that the distinction may not be as clear-cut.
+
+Notable insights include a call for more nuanced discussions about AI, rather than binary views of "AI is great" or "AI sucks." Some commenters advocate for a deeper exploration of the ethical implications and practical applications of LLMs, while others criticize the essay for being overly simplistic or biased. Overall, the discussion reflects a mix of concern, curiosity, and skepticism regarding the future of LLMs and their societal implications.

@@ -1,0 +1,8 @@
+Provide agents with automated feedback  (169 pts, 84 comments)
+https://news.ycombinator.com/item?id=46656897
+
+The Hacker News discussion revolves around the concept of providing agents, particularly AI coding tools, with automated feedback to improve their performance and reliability in software development. The original post critiques the term "back pressure" used in this context, suggesting that a more appropriate term might be "feedback." The author emphasizes the importance of automated testing and validation methods, such as fuzzing and property-based testing, to ensure code quality.
+
+In the comments, there is a consensus on the value of automated feedback mechanisms, with users sharing various tools and techniques they have found effective, such as using AI to generate property tests, incorporating checks into commit hooks, and leveraging type hints based on OpenAPI specifications. Some commenters debate the effectiveness of different AI tools and their ability to understand and execute tasks based on natural language instructions, highlighting the need for clearer formal specifications.
+
+Notable insights include the recognition that while AI tools can assist in coding, they still require precise constraints to produce reliable outputs. There is also a discussion about the terminology used, with many expressing confusion over the term "back pressure" and advocating for clearer language to describe the feedback mechanisms in software development. Overall, the conversation underscores the ongoing evolution of AI in coding and the importance of robust testing and validation practices.

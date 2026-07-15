@@ -1,0 +1,8 @@
+DuckDuckGo is asking for a Yes or No vote on AI  (48 pts, 29 comments)
+https://news.ycombinator.com/item?id=46651155
+
+The Hacker News discussion revolves around DuckDuckGo's recent poll asking users whether they support the integration of AI into their services, with options for "Yes AI" or "No AI." The poll has garnered significant attention, particularly due to its perceived lack of representativeness and clarity regarding what each option entails.
+
+Commenters express a range of opinions, with some criticizing the poll as a marketing gimmick that fails to capture a true cross-section of DuckDuckGo's user base. Many highlight concerns about sampling bias, suggesting that the poll primarily attracts anti-AI sentiment. Others argue that offering users a choice about AI is a positive move, emphasizing the importance of transparency and user control. Notably, some users express skepticism about AI's reliability and corporate involvement in its development, advocating for a cautious approach.
+
+Overall, the discussion reflects a broader debate about AI's role in technology and user autonomy, with participants divided on the implications of DuckDuckGo's poll and the potential consequences of AI integration in search services.

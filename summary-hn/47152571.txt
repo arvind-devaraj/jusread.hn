@@ -1,0 +1,6 @@
+Show HN: CivBench a long-horizon AI benchmark for multi-agent games  (12 pts, 24 comments)
+https://news.ycombinator.com/item?id=47152571
+
+The Hacker News discussion centers around the launch of CivBench, an AI benchmarking platform created by the user "mbh159." CivBench allows various AI agents to compete in long-horizon strategy games like Civilization, with live streaming of matches and a focus on evaluating agent performance over extended gameplay. The initial season features a 200-turn limit and includes eight top-performing agents, with ongoing updates and additional environments planned.
+
+In the comments, users express enthusiasm for the project, with some questioning the choice of Civilization as a testbed and the potential for emergent behaviors in AI strategies. There is a consensus on the importance of continuous benchmarking over static evaluations, with discussions about the economic efficiency of models and the potential for smaller models to outperform larger ones with the right skills. Notably, "mbh159" shares insights on the current limitations of the AI agents, indicating that they are still underperforming compared to human players but are expected to improve over time. The community is also curious about future game environments and the insights they might provide.

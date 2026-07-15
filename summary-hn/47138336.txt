@@ -1,0 +1,8 @@
+Ask HN: Who has seen productivity increases from AI  (12 pts, 17 comments)
+https://news.ycombinator.com/item?id=47138336
+
+The Hacker News discussion titled "Ask HN: Who has seen productivity increases from AI" revolves around seeking examples of how AI has significantly improved productivity across various industries and roles. The original poster mentions a friend's experience at a consulting firm where AI has transformed the processing of large volumes of documentation, prompting a request for more stories about AI's positive impact.
+
+In the comments, there is a mix of agreement and skepticism. Some users share personal experiences where AI has streamlined their workflows, such as in marketing and cloud consulting, allowing them to handle tasks that previously required larger teams. Others express doubts about the authenticity of productivity claims, suggesting that the discussion may be biased or disingenuous. Notably, some commenters highlight the potential risks of using AI, particularly regarding confidentiality and the quality of decision-making in complex scenarios.
+
+Overall, while many contributors acknowledge AI's role in enhancing efficiency and reducing workload, there is a significant debate about the implications of relying on AI, especially in sensitive or high-stakes environments. The conversation reflects a broader tension between embracing technological advancements and maintaining critical oversight in their application.

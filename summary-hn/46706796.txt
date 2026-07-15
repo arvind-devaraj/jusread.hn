@@ -1,0 +1,8 @@
+Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets  (60 pts, 68 comments)
+https://news.ycombinator.com/item?id=46706796
+
+The Hacker News discussion centers around a project called "yolo-cage," created by a developer who sought to manage AI coding agents in a secure environment that prevents them from exfiltrating sensitive information. The tool aims to reduce decision fatigue by allowing AI agents to operate within a sandbox that limits their access and potential damage, while still enabling the developer to review their actions more efficiently.
+
+In the comments, there is a mix of support and skepticism regarding the security implications of using AI-generated code and the effectiveness of the containment system. Some commenters express concern about the inherent risks of relying on AI to write its own security measures, while others argue that the layered approach of using a sandbox provides a necessary barrier against potential mishaps. Notably, there is debate about the adequacy of current container technologies versus virtual machines, with some users advocating for more robust solutions to manage the risks associated with AI agents.
+
+Overall, the discussion highlights the tension between leveraging AI for coding efficiency and ensuring robust security practices, with participants sharing insights on the complexities of managing AI tools in software development.

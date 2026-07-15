@@ -1,0 +1,8 @@
+Show HN: Figr – AI that thinks through product problems before designing  (10 pts, 5 comments)
+https://news.ycombinator.com/item?id=46724567
+
+The Hacker News discussion centers around Figr, an AI tool designed to enhance product design by prioritizing problem-solving before visual design. The creator expresses frustration with existing AI design tools that jump straight to screen creation without adequately addressing the underlying product challenges. Figr aims to facilitate this initial thinking phase by analyzing existing products, identifying edge cases, and mapping user flows, ultimately leading to more informed design decisions.
+
+In the comments, users generally agree on the importance of thorough problem analysis before design, with some emphasizing that many designers rush from problem identification to ideation too quickly. One commenter appreciates Figr's approach as an "AI PM that happens to design," highlighting the value of maintaining a decision log to document the reasoning behind design choices. Another user notes that while Figr provides decision logs and stores user preferences, there are challenges in translating UX insights into practical applications, particularly in complex enterprise environments.
+
+Overall, the discussion reveals a shared recognition of the need for deeper problem exploration in product design and the potential of Figr to address this gap, while also acknowledging the complexities involved in applying these insights effectively in real-world scenarios.

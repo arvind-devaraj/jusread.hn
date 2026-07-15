@@ -1,0 +1,8 @@
+GLM-5: From Vibe Coding to Agentic Engineering  (378 pts, 4 comments)
+https://news.ycombinator.com/item?id=46977210
+
+The Hacker News discussion revolves around the blog post titled "GLM-5: From Vibe Coding to Agentic Engineering," which likely explores advancements in generative language models (GLMs) and their implications for software development and engineering practices. The title suggests a shift from informal or intuitive coding methods ("vibe coding") to more structured and intentional approaches ("agentic engineering").
+
+In the comments, users reference a related discussion, indicating that there are overlapping themes and insights between the two threads. There is a consensus among commenters that the conversations should be merged for clarity and continuity. The dialogue reflects a shared interest in the evolution of coding practices and the potential impact of GLMs on the field.
+
+Notable opinions include the recognition of the transformative potential of GLMs in enhancing coding efficiency and creativity, as well as concerns about the implications for traditional programming roles. Overall, the discussion highlights a growing curiosity about how these technologies will shape the future of software development.

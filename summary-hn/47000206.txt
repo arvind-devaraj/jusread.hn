@@ -1,0 +1,8 @@
+Ask HN: Why is my Claude experience so bad? What am I doing wrong?  (84 pts, 118 comments)
+https://news.ycombinator.com/item?id=47000206
+
+The Hacker News discussion revolves around a user expressing frustration with their experience using Claude, an AI tool, to build a simple grid visualization tool. The user details multiple attempts to get the tool to function correctly, encountering issues such as syntax errors and layout problems, leading to a sense of disappointment.
+
+In the comments, there is a mix of agreement and debate regarding the user's expectations and approach. Many commenters suggest that the user may not be providing detailed enough prompts or planning adequately before using Claude. Some emphasize that AI tools like Claude should be viewed as sophisticated autocomplete systems rather than fully autonomous programmers. Others share their own experiences, highlighting the importance of iterative prompting and the need for a solid understanding of programming concepts to effectively utilize AI assistance.
+
+Notable insights include the idea that successful use of AI tools often requires extensive planning and specification, as well as the recognition that the hype surrounding AI capabilities can lead to unrealistic expectations. Commenters stress that while AI can assist in coding, it still requires human guidance and knowledge to achieve satisfactory results.

@@ -1,0 +1,8 @@
+AI is supercharging fake work  (13 pts, 6 comments)
+https://news.ycombinator.com/item?id=47347983
+
+The Hacker News discussion revolves around the impact of AI on the workforce, particularly how it may exacerbate the prevalence of "fake work"—tasks that appear productive but do not contribute meaningfully to actual productivity. The original post highlights that many employees in tech companies engage in activities driven by optics and visibility rather than genuine productivity. It argues that while AI can generate a lot of this "fake work," its overall impact on productivity will depend on the balance between real and fake work already present in organizations.
+
+In the comments, there is agreement on the irony of AI-generated content often being indistinguishable from the "slop" produced by human workers. Some commenters emphasize the difficulty in defining and measuring fake work, suggesting that it often serves unobservable goals that justify its existence. Others note the disconnect between AI developers' reassurances about job security and the realities faced by employees in corporate environments.
+
+Notable insights include the idea that AI could potentially enhance productivity in companies focused on measurable outcomes, while it may worsen conditions in organizations where fake work is prevalent. The discussion underscores a broader skepticism about whether AI will genuinely improve productivity or simply perpetuate existing inefficiencies.

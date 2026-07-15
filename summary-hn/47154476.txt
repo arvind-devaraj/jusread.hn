@@ -1,0 +1,8 @@
+Claude Status – Elevated error rates across multiple models  (11 pts, 12 comments)
+https://news.ycombinator.com/item?id=47154476
+
+The Hacker News discussion revolves around a status update from Claude, indicating elevated error rates across multiple models, including issues with the API and Claude Code. Users are experiencing outages and error messages, particularly a "500" error, leading to frustration among those relying on the service for various tasks.
+
+In the comments, there is a consensus that the recent instability is concerning, with users expressing a desire for more competition in the AI space to drive improvements. Some commenters note that the service has been buggy for several days, suggesting a potential trade-off between introducing new features and maintaining stability. There are humorous remarks about the situation, including one user joking about the backend team’s response to the outage. Additionally, some users speculate about possible underlying issues, such as AWS problems affecting service availability.
+
+Overall, the discussion highlights user dissatisfaction with the current reliability of Claude, emphasizing the need for consistent uptime and better performance to meet user expectations.

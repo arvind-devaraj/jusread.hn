@@ -1,0 +1,8 @@
+OpenAI will start testing ads in ChatGPT free and Go tiers  (21 pts, 13 comments)
+https://news.ycombinator.com/item?id=46659990
+
+The Hacker News discussion centers around OpenAI's announcement that it will begin testing advertisements in the free and Go tiers of ChatGPT. This move is seen as a way for OpenAI to recover financial losses, as several commenters speculate about the company's financial struggles and the implications of introducing ads.
+
+The main points of debate include concerns about "enshittification," a term used to describe the degradation of user experience due to intrusive ads. Some commenters argue that adding ads to a previously ad-free service is a clear example of this phenomenon, while others believe that ads are a reasonable trade-off for free services. There is also discussion about the potential influence of user queries on the types of ads displayed, raising questions about privacy and data usage.
+
+Notable opinions include skepticism about the future of free AI services, with some users expressing a desire to delete their accounts in protest. Others highlight the competitive landscape, noting that OpenAI is under pressure from both free alternatives and well-funded competitors. Overall, the conversation reflects a mix of frustration, nostalgia for ad-free experiences, and a recognition of the financial realities facing tech companies.

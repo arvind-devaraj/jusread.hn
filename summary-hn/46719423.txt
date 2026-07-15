@@ -1,0 +1,6 @@
+Show HN: I've been using AI to analyze every supplement on the market  (94 pts, 47 comments)
+https://news.ycombinator.com/item?id=46719423
+
+The Hacker News discussion revolves around a project called Pillser, which aims to analyze and provide transparency in the supplement market by indexing every supplement and relevant research paper. The creator, who recently revived the project after a hiatus, focuses on separating scientifically-backed information from marketing fluff. They face challenges such as legal threats from companies, technical issues with AI performance, and uncertainties about monetization.
+
+In the comments, users express enthusiasm for the project, with some sharing their experiences and suggesting ways to improve data prioritization and browsing ease. There is a debate about the project's scope, with some commenters advocating for more rigorous testing of supplements to ensure they contain what they claim. Others note existing platforms like Consumer Labs that offer similar services. Notably, the creator emphasizes their goal of educating consumers rather than promoting supplement use, and they acknowledge the challenges posed by the lack of regulatory oversight in the supplement industry. Overall, the discussion highlights both the potential and the complexities of using AI in this space.

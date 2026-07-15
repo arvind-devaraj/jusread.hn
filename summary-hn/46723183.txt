@@ -1,0 +1,8 @@
+Skill.md: An open standard for agent skills  (48 pts, 12 comments)
+https://news.ycombinator.com/item?id=46723183
+
+The Hacker News discussion revolves around the announcement of Skill.md, an open standard for agent skills by Mintlify. The post highlights the rapid development and deprecation of related standards, specifically mentioning the recent discontinuation of install.md due to low adoption.
+
+In the comments, there is significant debate about the frequency of new standards being introduced, with some users expressing skepticism about the stability and reliability of Mintlify's offerings. Critics argue that the quick turnaround from announcement to deprecation undermines confidence in the company's commitment to creating a lasting standard. Others point out that the ecosystem is becoming cluttered with too many competing standards, which could lead to confusion and a lack of trust in the process.
+
+Notable insights include concerns about the sustainability of such rapid changes in standards and the perception that Mintlify may not be a reliable player in the space. Some commenters suggest that a more experimental label would be appropriate for rapidly iterating projects, while others question how Skill.md differentiates itself from existing standards, such as one previously published by Anthropic. Overall, the discussion reflects a mix of skepticism and a desire for more stable and reliable standards in the tech ecosystem.

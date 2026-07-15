@@ -1,0 +1,8 @@
+Ask HN: How is AI-assisted coding going for you professionally?  (434 pts, 533 comments)
+https://news.ycombinator.com/item?id=47388646
+
+The Hacker News discussion titled "Ask HN: How is AI-assisted coding going for you professionally?" seeks to gather real-world experiences from developers using AI tools in their coding work. The original poster aims to cut through polarized opinions about AI's effectiveness, asking users to share specific tools, successes, challenges, and context about their projects.
+
+In the comments, there is a mix of perspectives. Some users report positive experiences, noting that AI tools like Copilot can save time and assist with complex tasks, while others express skepticism about their reliability and effectiveness in professional settings. A recurring theme is the variability in AI's performance, with some developers finding it useful for specific tasks like bug fixing or boilerplate code, while others struggle to integrate it into their workflows. Notably, some commenters highlight the importance of understanding the codebase and context to effectively leverage AI tools, suggesting that experience plays a significant role in their utility.
+
+Overall, the discussion reflects a nuanced view of AI in coding, with users recognizing both its potential benefits and limitations, and emphasizing the need for developers to adapt and critically assess AI's role in their work.

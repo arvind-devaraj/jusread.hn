@@ -1,0 +1,8 @@
+AI2: Open Coding Agents  (253 pts, 38 comments)
+https://news.ycombinator.com/item?id=46783017
+
+The Hacker News discussion revolves around the AI2 blog post announcing their "Open Coding Agents," which introduces a new coding model designed to enhance code generation capabilities. The model is claimed to outperform previous open-source coding models while providing open training data, weights, and the training pipeline.
+
+In the comments, there is a mix of agreement and debate. Some users praise the speed and potential of the new model, while others challenge the claims made in the article, particularly regarding the performance comparisons with existing models like Meta's CWM and Devstral. There is a notable discussion about the importance of open training data versus just open weights, with some commenters emphasizing that having access to the training data is crucial for reproducibility and research advancement. Additionally, there are insights into the effectiveness of fine-tuning models on specific codebases versus relying on large-scale models that have seen diverse coding patterns.
+
+Overall, the conversation highlights both excitement for advancements in open-source coding agents and skepticism regarding the claims made about their performance and utility in practical applications.

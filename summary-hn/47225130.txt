@@ -1,0 +1,8 @@
+Meta’s AI smart glasses and data privacy concerns  (1448 pts, 771 comments)
+https://news.ycombinator.com/item?id=47225130
+
+The Hacker News discussion revolves around Meta's new AI smart glasses and the associated data privacy concerns. The article highlights worries about the potential for these glasses to record people without their consent, particularly in countries with strict privacy laws like Switzerland and Germany. Users express skepticism about Meta's accountability and the effectiveness of privacy regulations in preventing misuse.
+
+In the comments, there is a mix of agreement and debate regarding privacy measures. Some users share humorous takes on personal privacy practices, like taping over webcams, while others discuss the challenges of ensuring privacy with devices that have built-in cameras. A recurring theme is the social implications of wearing such devices, with some commenters suggesting that the glasses could lead to social ostracization similar to what happened with Google Glass.
+
+Notable insights include concerns about the invisibility of recording indicators on the glasses, which could lead to unintentional privacy violations. Additionally, there is skepticism about the effectiveness of legal frameworks to protect individuals from being recorded in public spaces, with some arguing that existing laws are difficult to enforce. Overall, the discussion reflects a deep-seated anxiety about the intersection of technology, privacy, and social norms.

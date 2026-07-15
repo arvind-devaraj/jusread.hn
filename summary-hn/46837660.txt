@@ -1,0 +1,8 @@
+Browser Agent Benchmark: Comparing LLM models for web automation  (13 pts, 5 comments)
+https://news.ycombinator.com/item?id=46837660
+
+The Hacker News discussion revolves around a post titled "Browser Agent Benchmark," which compares various large language models (LLMs) for web automation tasks. The benchmark aims to evaluate the performance of different models in this specific application.
+
+In the comments, there is a notable debate regarding the exclusion of the Opus 4.5 model from the benchmark, with some users suggesting that this omission may be biased, as it could potentially affect the rankings of the benchmark's creators' own product. While one commenter acknowledges that even being ranked second would be impressive, others express skepticism about the integrity of the benchmark due to the perceived conflict of interest. Additionally, a user inquires about recommendations for AI-based tools suitable for exploratory web testing, indicating a broader interest in practical applications of LLMs in web automation.
+
+Overall, the discussion highlights concerns about bias in benchmarking practices while also seeking practical solutions for web testing using AI technologies.

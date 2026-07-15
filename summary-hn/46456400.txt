@@ -1,0 +1,8 @@
+Ask HN: When do we expose "Humans as Tools" so LLM agents can call us on demand?  (48 pts, 31 comments)
+https://news.ycombinator.com/item?id=46456400
+
+The Hacker News discussion revolves around the concept of integrating humans as tools within agentic LLM (Large Language Model) systems, where AI agents could call upon humans for tasks requiring judgment, creativity, or physical actions. The original poster (OP) raises questions about the implications of this approach, including its inevitability, potential economic and ethical consequences, and whether marketplaces would accept this model of "human execution layers" for AI.
+
+In the comments, there is a mix of agreement and concern regarding the dehumanization and ethical implications of treating humans as mere tools for AI. Some commenters reference existing platforms like Amazon Mechanical Turk as precursors to this idea, highlighting the ethical dilemmas already present in such systems. Others express skepticism about the future of work and the potential for exploitation, while some suggest that a "human-in-the-loop" model could still maintain human agency.
+
+Notable insights include the recognition that while this model may optimize certain processes, it risks undermining human dignity and trust in society. There is also a discussion about the potential for a shift towards local-first AI, where humans retain control rather than becoming dependent tools for centralized AI systems. Overall, the conversation reflects a deep concern about the future of human roles in an increasingly automated world.

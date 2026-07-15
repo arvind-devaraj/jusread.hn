@@ -1,0 +1,8 @@
+What if AI just makes us work harder?  (49 pts, 12 comments)
+https://news.ycombinator.com/item?id=47281443
+
+The Hacker News discussion revolves around the implications of AI on work dynamics, particularly the concern that AI may lead to increased workloads rather than easing them. The original post highlights the paradox of AI tools making tasks easier but potentially resulting in more demanding work environments.
+
+In the comments, several users agree that while AI can automate mundane tasks, it often shifts the burden to more complex and mentally taxing activities. This leads to longer hours and less satisfying work, as tasks that once provided quick wins are replaced by more challenging responsibilities. Some commenters draw analogies between fast-paced gaming and work, suggesting that the ease of engaging with AI can lead to overcommitment without meaningful reflection or learning.
+
+Notable insights include a reference to a study indicating that AI has contributed to longer working hours and a shift in focus from development to bug fixing. There is a consensus that while AI can enhance productivity, it may also make workers feel more replaceable and increase pressure to keep up with peers, ultimately detracting from the overall quality of work life.

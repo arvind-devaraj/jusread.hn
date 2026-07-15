@@ -1,0 +1,8 @@
+nanochat can now train GPT-2 grade LLM for –$73 (3 hours on single 8XH100 node)  (15 pts, 5 comments)
+https://news.ycombinator.com/item?id=46844411
+
+The Hacker News discussion centers around a tweet by Andrej Karpathy announcing that nanochat can now train a GPT-2 grade language model for just $73 using a single 8XH100 node in three hours. This highlights advancements in making AI model training more accessible and cost-effective.
+
+In the comments, users engage in various tangents. One user questions the discrepancy between the URL showing "twitter.com" while linking to "x.com," sparking a brief discussion about the platform's branding. Another user raises a technical question about the theoretical minimum computing power needed to target GPT-2, while others discuss the performance differences between CPUs and GPUs, emphasizing the significant advantage of GPUs in AI computations. A humorous suggestion is made about calculating gradients manually, illustrating the complexity of the task.
+
+Overall, the conversation reflects a mix of curiosity about the technical aspects of AI training, the evolving nature of social media platforms, and the community's engagement with the implications of reduced costs in AI development.

@@ -1,0 +1,8 @@
+Comparing AI agents to cybersecurity professionals in real-world pen testing  (125 pts, 92 comments)
+https://news.ycombinator.com/item?id=46518996
+
+The Hacker News discussion revolves around a WSJ article that highlights a study comparing AI agents to human cybersecurity professionals in penetration testing (pen testing). The AI, named Artemis, reportedly outperformed most human testers in identifying vulnerabilities at a significantly lower cost, raising questions about the future role of human experts in this field.
+
+In the comments, there is a debate about the accuracy of the claims made in the study, particularly regarding the AI's performance and the prevalence of false positives in automated testing. Some commenters argue that while AI may excel at routine tasks, it may struggle with more complex vulnerabilities that require human intuition and creativity. Others point out that the industry has been working on automating pen testing for years, suggesting that AI could handle a substantial portion of the work, especially in checklist-type tasks.
+
+Notable insights include skepticism about the AI's ability to find novel exploits and the potential for AI to complement rather than replace human testers. Some commenters emphasize that while AI tools can improve efficiency and reduce costs, the nuanced understanding and critical thinking skills of human experts remain essential for tackling more sophisticated security challenges.

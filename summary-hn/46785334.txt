@@ -1,0 +1,6 @@
+Twin – The AI Company Builder  (12 pts, 7 comments)
+https://news.ycombinator.com/item?id=46785334
+
+The Hacker News discussion revolves around the launch of Twin, an AI company builder that recently went public after a month-long beta period. The company claims to have deployed over 100,000 fully autonomous agents and has secured a $10 million seed round of funding. However, users are expressing confusion about the platform's functionality and its relationship to WorkOS, as the login process redirects to WorkOS's site, which appears to offer a different service.
+
+Commenters highlight several points of contention, including the unclear messaging around the term "No Prompting," which seems contradictory to the platform's reliance on user prompts. Others criticize the website's lack of informative content, as it primarily offers a video and a login option without explaining the product's purpose or benefits. Additionally, there are lighthearted remarks about the marketing choices, such as the use of a Justice song in the trailer, and a general sentiment that the site feels uninviting or overly simplistic. Overall, the discussion reflects skepticism about Twin's clarity and usability, alongside curiosity about its potential in the AI space.

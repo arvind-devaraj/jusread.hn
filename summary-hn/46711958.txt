@@ -1,0 +1,6 @@
+Show HN: Grov – Multiplayer for AI coding agents  (24 pts, 8 comments)
+https://news.ycombinator.com/item?id=46711958
+
+The Hacker News discussion revolves around Grov, an open-source tool created by Tony Stef that aims to enhance collaboration among AI coding agents by providing them with a shared, persistent memory. The tool addresses the limitations of current AI coding assistants, which operate in isolation and lose context when sessions are closed. Grov captures decision-level memories, allowing teams to maintain an audit trail of architectural choices and enabling agents to access relevant insights without redundant explanations.
+
+In the comments, users express interest in Grov's functionality, with some highlighting its potential usefulness for managing multiple sessions. There are inquiries about memory compaction and comparisons to similar tools like Byterover and exe.dev's Shelley, indicating a competitive landscape. Notably, some commenters have attempted similar projects but found challenges that led to abandonment, suggesting that while the concept is appealing, execution may be complex. Overall, the discussion reflects enthusiasm for Grov's approach while acknowledging existing alternatives and potential hurdles in the space.

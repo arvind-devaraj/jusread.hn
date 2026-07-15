@@ -1,0 +1,8 @@
+Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis  (48 pts, 19 comments)
+https://news.ycombinator.com/item?id=46964162
+
+The Hacker News discussion centers around the launch of LiveDocs, an AI-native data analysis notebook designed for teams to conduct real-time data analysis and automate complex queries. The founder, Arsalan, explains that LiveDocs has evolved from a no-code analytics tool to a reactive notebook environment that integrates various data sources and allows for collaborative, real-time editing. The platform features an AI agent that assists with multi-step analyses and can create custom UIs for data visualization.
+
+In the comments, users express a mix of enthusiasm and skepticism. Some praise the accessible pricing and features, while others compare LiveDocs to existing tools like Hex, questioning its unique value proposition. Concerns are raised about the login requirement to access the platform and the potential costs associated with using it, particularly when connecting to data warehouses like Snowflake. Notably, some users suggest that the product could benefit from showcasing pre-cooked examples to attract users without barriers.
+
+Overall, the discussion highlights both excitement for the innovative features of LiveDocs and caution regarding its usability and pricing structure, with users seeking clarity on how it differentiates itself from competitors.

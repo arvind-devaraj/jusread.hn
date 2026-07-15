@@ -1,0 +1,8 @@
+Show HN: I turned Claude Code into a personal assistant  (11 pts, 3 comments)
+https://news.ycombinator.com/item?id=47220057
+
+The Hacker News discussion centers around OpenPaw, an open-source toolkit that transforms Claude Code into a personal assistant with various functionalities, including managing emails, calendars, and smart home devices. Users can activate it with a single command, and it operates without the need for a daemon or cloud services, relying solely on an existing Claude subscription.
+
+In the comments, there is a comparison between OpenPaw and another project called OpenClaw. One user questions the differences, particularly regarding the reliance on Claude Code. The creator of OpenPaw clarifies that while both projects are similar, OpenPaw avoids the need for a separate daemon and utilizes Claude Code's native OAuth, making it more streamlined. Another user shares a link to a related project, indicating interest in expanding the toolkit's capabilities.
+
+Overall, the discussion highlights the advantages of OpenPaw's design, emphasizing its simplicity and integration with Claude Code, while also sparking curiosity about potential variations and alternatives in the personal assistant space.

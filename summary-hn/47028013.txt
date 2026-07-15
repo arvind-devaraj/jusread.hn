@@ -1,0 +1,8 @@
+I’m joining OpenAI  (1449 pts, 1088 comments)
+https://news.ycombinator.com/item?id=47028013
+
+The post titled "I’m joining OpenAI" discusses the author's transition from leading a project called OpenClaw to joining OpenAI. The author reflects on their journey and the potential future of both OpenClaw and OpenAI, suggesting that the move may be strategic for both personal and professional growth.
+
+In the comments, there is significant debate about the valuation of OpenClaw and whether the author's move to OpenAI was financially beneficial. Some commenters speculate on the potential signing bonus, with opinions ranging from skepticism about the project's long-term viability to the idea that the author's unique position and the current AI hype could justify a high valuation. Others argue that OpenClaw's success may be fleeting and that the lack of network effects in AI products could lead to rapid shifts in user preference.
+
+Notable insights include discussions on the nature of value in tech, with some commenters suggesting that technology alone does not determine a company's success. The conversation also touches on the idea of platform lock-in versus network effects, highlighting the competitive landscape of AI products and the ease with which users can switch between them. Overall, the discussion reflects a mix of optimism and skepticism about the future of AI projects and the dynamics of the tech industry.

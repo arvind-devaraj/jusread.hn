@@ -1,0 +1,8 @@
+I guess I kinda get why people hate AI  (164 pts, 249 comments)
+https://news.ycombinator.com/item?id=47037628
+
+The Hacker News discussion revolves around a blog post reflecting on the growing concerns and criticisms surrounding AI technology. The author expresses a sense of unease about the potential job displacement caused by AI, citing comments from prominent figures in the tech industry who warn of its disruptive impact. The post highlights a general feeling of anxiety among developers and technologists regarding the rapid advancement of AI and its implications for the workforce.
+
+In the comments, there is a mix of agreement and debate. Some users share their apprehensions about AI's potential to take jobs and the marketing strategies employed by AI companies, which they view as alarmist or manipulative. Others argue that while AI can be beneficial for productivity, its implementation often leads to failures due to unrealistic expectations set by its proponents. Notably, some commenters discuss the anthropomorphism of AI, with differing views on whether it's appropriate to express gratitude towards AI systems, reflecting broader societal attitudes towards technology.
+
+Overall, the discussion reveals a complex landscape of opinions on AI, balancing its potential benefits against the risks and ethical considerations it raises. Many contributors acknowledge the utility of AI in their work while remaining skeptical about its long-term impact on employment and productivity.

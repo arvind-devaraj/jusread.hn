@@ -1,0 +1,8 @@
+Show HN: AI in SolidWorks  (191 pts, 106 comments)
+https://news.ycombinator.com/item?id=46591100
+
+The Hacker News discussion revolves around LAD (Language-Aided Design), an add-in for SolidWorks developed by Will and Jorge that utilizes large language models (LLMs) to generate CAD sketches, features, assemblies, and macros from conversational inputs. The creators highlight the current limitations of LLMs in 3D modeling compared to their capabilities in coding, but they express optimism about future improvements. The add-in includes various tools for creating and managing SolidWorks files, as well as features for user permissioning and context awareness.
+
+In the comments, users discuss the effectiveness of the LLMs in CAD applications, with some pointing out flaws in the demo, particularly regarding dimensional accuracy and the challenges of translating text prompts into precise 3D designs. There is a debate about whether text is the best interface for CAD, with some suggesting that visual or gesture-based interfaces might be more intuitive. Notably, there is a consensus that while LLMs show potential in 3D modeling, they currently struggle with spatial reasoning and the nuances of CAD terminology.
+
+Overall, the discussion reflects a mix of curiosity and skepticism about the integration of AI in CAD workflows, with participants sharing insights on their experiences and suggesting improvements for future iterations of the technology.

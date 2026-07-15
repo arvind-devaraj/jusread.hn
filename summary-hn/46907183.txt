@@ -1,0 +1,8 @@
+Show HN: Total Recall – write-gated memory for Claude Code  (67 pts, 29 comments)
+https://news.ycombinator.com/item?id=46907183
+
+The Hacker News discussion revolves around a project called "Total Recall," which aims to improve memory management for Claude Code by implementing a "write-gated" memory system. The creator, Dave Goldblatt, developed this tool to avoid the repetitive onboarding experience of reintroducing context, preferences, and decisions in every session. Total Recall only saves information that is deemed likely to change future behavior, thus preventing clutter and enhancing retrieval efficiency.
+
+In the comments, users express a mix of enthusiasm and critique. Many appreciate the concept of a write gate, emphasizing the importance of human curation over automated memory systems. Some users suggest improvements, such as adding a quick start guide to the README and addressing potential issues with concurrent sessions writing to the same daily log. There is also a discussion about the balance between project-specific and global memory, with some users advocating for a more integrated approach.
+
+Notable insights include the recognition of the challenges posed by AI-generated content in documentation, which can dilute clarity and usability. Additionally, users share their own experiences and alternative solutions, highlighting a broader interest in effective memory management tools for AI interactions. Overall, the conversation reflects a collaborative spirit, with constructive feedback aimed at refining the Total Recall project.

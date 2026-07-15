@@ -1,0 +1,8 @@
+Show HN: Agent Passport – OAuth-like identity verification for AI agents  (14 pts, 15 comments)
+https://news.ycombinator.com/item?id=47096131
+
+The Hacker News discussion centers around "Agent Passport," an open-source identity verification system designed for AI agents, akin to OAuth for human users. The creator, samerismail, highlights the growing prevalence of AI agents and the security risks associated with identity impersonation. Agent Passport aims to address these issues through features like Ed25519 authentication, JWT identity tokens, and a risk scoring engine.
+
+In the comments, there is a mix of support and skepticism. Some users draw parallels to existing standards like EIP-8004 and SPIFFE/SPIRE, while others criticize Agent Passport as lacking robust security measures, particularly regarding JWT theft and the potential for impersonation. A notable point of contention arises from a claim by Rebecca Tedder, co-founder of a different entity also named "Agent Passport," asserting that the project discussed is a copycat, leading to debates about the legitimacy and originality of the name.
+
+Overall, the discussion reflects a broader concern about security in AI identity verification and the challenges of establishing trust in decentralized environments, with participants emphasizing the need for collaboration rather than gatekeeping in this emerging field.

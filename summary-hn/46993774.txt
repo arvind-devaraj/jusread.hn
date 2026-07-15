@@ -1,0 +1,6 @@
+Show HN: What is HN thinking? Real-time sentiment and concept analysis  (37 pts, 23 comments)
+https://news.ycombinator.com/item?id=46993774
+
+The Hacker News discussion centers around a new open-source tool called Ethos, created to visualize discourse on Hacker News by extracting entities, tracking sentiment, and grouping discussions by concept. The developer shares that the project was built on a minimal budget of under $1 in infrastructure costs and discusses the challenges faced with model selection, particularly switching from `qwen3` to `llama-3.1` for improved performance.
+
+In the comments, users express a mix of appreciation and critique. Some find the entity tracking feature exciting, while others point out flaws in the sentiment analysis, suggesting it lacks sophistication and accuracy. There is a debate about the effectiveness of the current prompting strategy for the language model, with suggestions for improvement. Notably, one commenter highlights a bug in sentiment tracking related to GitHub, indicating a disconnect between sentiment and community perception. Overall, the discussion reflects a collaborative spirit, with users offering feedback and suggestions for enhancements, as well as expressing curiosity about the tool's historical sentiment analysis capabilities.

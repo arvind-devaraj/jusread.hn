@@ -1,0 +1,6 @@
+Meta patents AI that takes over a dead person account to keep posting-chatting  (30 pts, 17 comments)
+https://news.ycombinator.com/item?id=47041765
+
+The Hacker News discussion revolves around Meta's recent patent for an AI system designed to take over the accounts of deceased individuals, allowing them to continue posting and chatting as if they were still alive. The concept raises ethical concerns and has sparked a mix of humor and outrage among commenters.
+
+Many users express discomfort with the idea, likening it to scenarios from the dystopian series "Black Mirror." Some find the notion of simulating deceased individuals for engagement purposes morbidly amusing, while others criticize it as a disturbing trend in technology. A few comments highlight the absurdity of creating AI personas from superficial memories, suggesting that this reflects a broader societal obsession with digital interactions. Overall, the discussion underscores a general consensus that while the technology may be innovative, it raises significant ethical questions about consent and the implications of "necromancy" in social media.

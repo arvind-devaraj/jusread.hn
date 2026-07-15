@@ -1,0 +1,6 @@
+Show HN: Free audiobooks with synchronized text for language learning  (22 pts, 14 comments)
+https://news.ycombinator.com/item?id=47341970
+
+The Hacker News discussion revolves around a project called Discovox, which offers free audiobooks with synchronized text to aid language learning. The audiobooks are sourced from the public domain, and the platform includes translations alongside the audio. The creator, identified as "floo," shares their excitement about the project and discusses the technical challenges faced, particularly with audio alignment and translation quality.
+
+In the comments, users express interest in the tool, with some requesting additional features such as beginner-level stories and support for different dialects of Spanish. There is a consensus on the need for more accessible content for language learners, and several users suggest improvements and resources for creating similar projects. Notably, "floo" acknowledges the feedback and expresses a willingness to explore dialect variations and enhance the platform based on user suggestions. Overall, the discussion highlights a collaborative spirit among language learners and developers, with a focus on improving educational resources.

@@ -1,0 +1,8 @@
+Signal leaders warn agentic AI is an insecure, unreliable surveillance risk  (349 pts, 104 comments)
+https://news.ycombinator.com/item?id=46605553
+
+The Hacker News discussion centers around a warning from Signal's leadership regarding the risks associated with "agentic AI," which they describe as insecure, unreliable, and a potential surveillance threat. The post raises concerns about the implications of deploying AI technologies that can access private information, particularly in the context of messaging apps like Signal.
+
+In the comments, there is a mix of agreement and skepticism. Some users express support for Signal's stance, emphasizing the importance of privacy and ethical responsibility in technology. Others question the motivations behind Signal's warnings, suggesting that the company may be positioning itself to gain a competitive advantage or to maintain user trust amid growing concerns about AI. Notably, some commenters highlight the broader issues of security in operating systems and the challenges of balancing speed and security in software development.
+
+Overall, the discussion reflects a deep concern about the intersection of AI, privacy, and security, with participants debating the responsibilities of tech companies in addressing these challenges. There is a consensus on the need for more robust security models, but differing opinions on how companies like Signal should navigate the evolving landscape of AI technology.

@@ -1,0 +1,8 @@
+Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)  (158 pts, 24 comments)
+https://news.ycombinator.com/item?id=46721488
+
+The Hacker News discussion revolves around the launch of a new text-to-video model developed by two brothers, Sahil and Manu, over two years. Their model, Linum v2, features 2 billion parameters and can generate short video clips (2-5 seconds) at 360p or 720p resolution. They emphasize that their approach, which involved training the model from scratch, allows for better motion capture and aesthetics compared to existing models. They aim to improve the model further with features like physics post-training, audio capabilities, and model scaling.
+
+In the comments, users express excitement about the project, with some discussing technical aspects such as VRAM requirements and potential optimizations for running the model on consumer hardware. There is a debate about the efficiency of the T5 text encoder used in the model, with suggestions for quantization to reduce memory usage. Additionally, the developers plan to share their learnings and insights from the development process in future blog posts, which has garnered interest from those looking to build their own models.
+
+Overall, the discussion highlights the challenges and innovations in developing AI models, the importance of ownership in the development process, and the community's eagerness to learn from the creators' experiences.

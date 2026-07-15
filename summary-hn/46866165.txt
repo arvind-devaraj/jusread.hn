@@ -1,0 +1,8 @@
+Ask HN: Anyone else struggle with how to learn coding in the AI era?  (54 pts, 67 comments)
+https://news.ycombinator.com/item?id=46866165
+
+The Hacker News discussion revolves around a user expressing their struggle with learning coding in the era of AI tools, particularly feeling like they might be relying too much on AI and not truly learning programming. They seek advice on balancing the use of AI with traditional coding practices to ensure they are genuinely developing their skills.
+
+In the comments, there is a mix of agreement and debate. Many users suggest that while AI can be a helpful tool, it's crucial to understand the underlying code and concepts independently. Some recommend using AI for research or as a supplementary resource rather than a primary learning method. Others emphasize the importance of hands-on practice, breaking down problems, and engaging deeply with coding concepts to foster true understanding.
+
+Notable insights include the idea that relying solely on AI might hinder one's ability to debug or understand complex issues, while others argue that AI can enhance productivity and allow for more focus on higher-level problem-solving. The conversation reflects a broader concern about the evolving nature of programming skills in the age of AI, with some participants advocating for a balance between leveraging AI and maintaining foundational coding knowledge.

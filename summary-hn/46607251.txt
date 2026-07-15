@@ -1,0 +1,8 @@
+AI isn't "just predicting the next word" anymore  (24 pts, 22 comments)
+https://news.ycombinator.com/item?id=46607251
+
+The Hacker News discussion revolves around an article that argues AI, particularly large language models (LLMs), has evolved beyond merely "predicting the next word." The post highlights advancements in AI capabilities, especially in context-aware applications like coding in VS Code, suggesting that LLMs now operate with a deeper understanding of context rather than just statistical word prediction.
+
+In the comments, there is a debate about whether LLMs can truly be considered more than just word predictors. Some users argue that while LLMs have improved, they fundamentally still rely on predicting the next word based on training data. Others counter that this perspective is reductive and overlooks the complexity of how LLMs generate language. Notably, some commenters emphasize the distinction between human thought processes and LLM operations, suggesting that human cognition involves a deeper understanding of concepts that LLMs lack.
+
+Overall, the discussion reflects a mix of optimism about AI's progress and skepticism about its limitations, with participants exploring the nuances of AI capabilities and the implications for understanding intelligence, both artificial and human.

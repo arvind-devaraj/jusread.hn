@@ -1,0 +1,8 @@
+1% vs. 67%: What happened when we stopped trusting embeddings alone  (16 pts, 7 comments)
+https://news.ycombinator.com/item?id=46520456
+
+The Hacker News discussion revolves around a blog post titled "1% vs. 67%: What happened when we stopped trusting embeddings alone," which critiques the reliance on embeddings in AI models, particularly in the context of language models (LLMs). The author suggests that solely depending on embeddings can lead to biases and a lack of nuanced understanding, advocating for a more hybrid approach to information retrieval.
+
+In the comments, there is a consensus that while embeddings are useful, they are insufficient on their own. Several commenters express frustration with the hype surrounding AI, labeling the post as "AI slop" and criticizing the trend of overselling simplistic solutions. Concerns are raised about potential biases introduced by user feedback loops and the risk of model collapse or poisoning. Notably, some commenters highlight the proliferation of "AI Agent Memory" modules on platforms like GitHub, which they argue are often misrepresented as innovative when they are essentially skills-based solutions.
+
+Overall, the discussion reflects skepticism towards the current AI hype and emphasizes the need for more robust methodologies beyond basic embeddings to ensure effective and unbiased AI systems.

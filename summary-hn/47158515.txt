@@ -1,0 +1,8 @@
+'Probably' doesn't mean the same thing to your AI as it does to you  (12 pts, 6 comments)
+https://news.ycombinator.com/item?id=47158515
+
+The Hacker News discussion revolves around the interpretation of probabilistic language by AI, specifically how terms like "probably" may not convey the same meaning to AI models as they do to humans. The original article suggests that AI's understanding of such terms is influenced by the data it was trained on, which may not encompass the full range of human cultural contexts.
+
+In the comments, users debate the implications of this discrepancy. Some, like OkayPhysicist, suggest that cultural differences in language use could affect AI interpretations, particularly due to the predominance of American English in training datasets. Others, like selridge, argue that the context of probabilistic statements varies significantly between different scenarios, making alignment between human and AI interpretations challenging. dTal counters that while the nuances are complex, it doesn't necessarily mean alignment is impossible.
+
+Notable insights include jadenPete's observation that the differences in probabilistic language use may relate to AI's tendency to generate the most likely response without expressing uncertainty, which can lead to misinterpretations. Additionally, Noumenon72 expresses a desire for clearer examples and comparisons of how humans and AI interpret terms like "maybe" and "probably," highlighting the need for more nuanced understanding in AI language processing.

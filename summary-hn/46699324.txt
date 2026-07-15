@@ -1,0 +1,8 @@
+Ask HN: Why are so many rolling out their own AI/LLM agent sandboxing solution?  (32 pts, 18 comments)
+https://news.ycombinator.com/item?id=46699324
+
+The Hacker News discussion revolves around the trend of developers creating custom sandboxing solutions for AI/LLM agents, such as Claude Code, instead of relying on existing tools like Docker or VMs. The original poster questions why this DIY approach is prevalent and what a "good enough" standard for sandboxing might look like.
+
+In the comments, there is a consensus that while DIY sandboxing can be appealing, it carries risks similar to rolling out custom cryptography, as it may be vulnerable to bypasses. Several commenters highlight the complexity of existing solutions, noting that specific needs often drive the desire to create tailored environments. For instance, one user expressed frustration with existing tools not meeting their requirements, leading them to build a more suitable solution. Others pointed out that sandboxing is just one aspect of a broader need for reliable environments for agents, emphasizing that many failures stem from environmental issues rather than the agents themselves.
+
+Notably, a key insight shared is the lack of a standardized solution for managing permissions in sandboxed environments, akin to "OAuth for syscalls." This gap suggests that while DIY solutions can be effective, they may not be sustainable or secure in the long run. Overall, the discussion reflects a mix of innovation and caution regarding the development of custom AI agent environments.

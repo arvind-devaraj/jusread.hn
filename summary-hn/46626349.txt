@@ -1,0 +1,8 @@
+X to stop Grok AI from undressing images of real people after backlash  (22 pts, 8 comments)
+https://news.ycombinator.com/item?id=46626349
+
+The Hacker News discussion revolves around the decision by X (formerly Twitter) to halt Grok AI's capability to undress images of real people following public backlash. This move comes after concerns about privacy and the ethical implications of AI technology in manipulating images of individuals without consent.
+
+In the comments, users express a mix of skepticism and criticism regarding the AI's ability to identify real people and the broader implications of such technology. Some commenters argue that the feature should never have been implemented in the first place, highlighting the challenges of having meaningful discussions about AI ethics when major companies engage in questionable practices. Others note that the halt only applies in jurisdictions where such actions are illegal, raising questions about the adequacy of regulations.
+
+Notably, some comments reflect a satirical take on the situation, with users joking about the absurdity of the AI's capabilities and the implications for public figures. Overall, the discussion underscores the tension between technological advancement and ethical considerations in AI development.

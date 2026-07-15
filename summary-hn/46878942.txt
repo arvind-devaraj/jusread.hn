@@ -1,0 +1,8 @@
+Selection rather than prediction  (43 pts, 20 comments)
+https://news.ycombinator.com/item?id=46878942
+
+The Hacker News discussion revolves around a blog post titled "Selection rather than prediction," which explores the idea of using multiple AI models to generate outputs and selecting the best results, rather than relying on a single model's predictions. The author suggests that this approach can yield higher quality solutions, particularly for complex tasks.
+
+In the comments, users debate the effectiveness of different multi-agent architectures, such as competitive versus hierarchical models, and the implications of using multiple models for generating outputs. Some commenters express concerns about the potential biases in evaluating outputs from different models, suggesting that blinding the judges could improve the validity of results. Others discuss practical aspects of orchestrating experiments and comparing outputs, with suggestions for automation and review processes.
+
+Notable insights include the idea that viewing AI development as an evolutionary process—where various models are tested and selected based on their fitness—can lead to better outcomes. There is also a consensus that while using multiple models can enhance results, the cost and complexity of managing these models must be carefully considered. Overall, the discussion highlights a growing interest in collaborative approaches to AI output generation and the need for rigorous evaluation methods.

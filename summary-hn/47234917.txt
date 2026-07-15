@@ -1,0 +1,8 @@
+When AI writes the software, who verifies it?  (305 pts, 282 comments)
+https://news.ycombinator.com/item?id=47234917
+
+The post discusses the implications of AI-generated software and the critical need for effective verification processes to keep pace with the rapid output of AI systems. Leonardo de Moura argues that traditional methods like testing and code review are insufficient for ensuring the reliability of AI-generated code, suggesting that a new approach to verification is necessary as AI takes on a larger role in software development.
+
+In the comments, there is a lively debate about the effectiveness of AI in coding and the potential risks of relying on it without adequate oversight. Some commenters express skepticism about the quality of AI-generated code, emphasizing the importance of human review and critical thinking in the development process. Others highlight the temptation to prioritize speed over quality, suggesting that this could lead to significant failures in critical systems. Notably, some participants see an opportunity for startups to emerge that focus on balancing AI efficiency with necessary human oversight.
+
+Overall, the discussion reflects a mix of optimism and caution regarding AI's role in software development, with many emphasizing the need for a thoughtful approach to verification to prevent potential pitfalls.

@@ -1,0 +1,8 @@
+Ask HN: When do you expect ChatGPT moment in robotics?  (10 pts, 20 comments)
+https://news.ycombinator.com/item?id=47213310
+
+The Hacker News discussion revolves around the potential for a "ChatGPT moment" in robotics, where humanoid robots become commercially viable and capable of performing useful household tasks, similar to how ChatGPT transformed the landscape of AI. The original poster suggests that advancements in robotics are progressing rapidly, with some startups already demonstrating capabilities akin to GPT-3. They predict that within the next few years, we could see robots that can handle tasks like cooking, cleaning, and elderly care, albeit with limitations in reliability and functionality.
+
+In the comments, there is a mix of optimism and skepticism. Some users agree that significant advancements are on the horizon, but debate the cost and accessibility of such robots. Opinions vary on what price point would lead to widespread adoption, with suggestions ranging from $5,000 to $50,000. Others express doubts about the feasibility of achieving the necessary technological breakthroughs in the short term, citing challenges such as data availability and the complexities of real-world environments. Notably, some commenters highlight the difference between advancements in language models and robotics, emphasizing that robotics faces unique challenges that may delay progress.
+
+Overall, the discussion reflects a cautious yet hopeful outlook on the future of robotics, with participants weighing the potential for transformative change against the practical hurdles that remain.

@@ -1,0 +1,8 @@
+Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT  (300 pts, 409 comments)
+https://news.ycombinator.com/item?id=46816539
+
+The Hacker News discussion revolves around OpenAI's decision to retire older models, specifically GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini, in favor of newer models like GPT-5.2. The announcement highlights that only 0.1% of users are still using GPT-4o daily, which translates to around 800,000 users if the total active user count remains at 800 million.
+
+In the comments, there is a significant debate about the implications of this retirement, particularly concerning users who have formed emotional attachments to AI, especially in the context of romantic relationships with chatbots. Some commenters express concern about the mental health of these users, while others defend their right to engage with AI in this manner. There is also discussion about the subreddit dedicated to AI relationships, with some noting that it has a mix of users who are both aware of the fictional nature of their interactions and those who may be more vulnerable.
+
+Notable insights include the recognition of the complex emotional dynamics involved in human-AI interactions, with some users sharing their experiences and the potential psychological impacts. The conversation reflects broader societal questions about the role of AI in personal relationships and the ethics of providing access to technology that can influence vulnerable individuals.

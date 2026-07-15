@@ -1,0 +1,8 @@
+Show HN: KeyID – Free email and phone infrastructure for AI agents (MCP)  (11 pts, 9 comments)
+https://news.ycombinator.com/item?id=47378241
+
+The Hacker News discussion centers around KeyID, a service designed to provide free email and phone infrastructure for AI agents, addressing the challenge of needing real email addresses for signups, verification, and communication. The creator, Vasilyt, explains that existing solutions are either manual, disposable, or paid, which limits scalability for AI applications.
+
+In the comments, users raise concerns about potential abuse of the service, questioning how it prevents spam and the feasibility of its authentication methods. Some commenters argue that the proposed security measures, such as tying accounts to Ed25519 key pairs, may not effectively prevent the creation of multiple accounts. Others inquire about the service's pricing model beyond a limit of 1,000 accounts and the specific use cases for AI agents needing their own email addresses.
+
+Overall, the discussion highlights a mix of skepticism and curiosity about the practicality and security of KeyID, with some commenters acknowledging the complexity of the problem it aims to solve while seeking clarity on its operational details and potential for misuse.

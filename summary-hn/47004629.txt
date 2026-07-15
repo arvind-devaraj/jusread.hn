@@ -1,0 +1,8 @@
+How teaching molecules to think is revealing what a 'mind' is  (71 pts, 60 comments)
+https://news.ycombinator.com/item?id=47004629
+
+The Hacker News discussion revolves around an article titled "How teaching molecules to think is revealing what a 'mind' is," which explores the implications of teaching molecules to exhibit intelligent behavior and what this might reveal about the nature of consciousness and the mind. 
+
+In the comments, there is a lively debate about the terminology used to describe intelligence and agency, particularly in relation to artificial intelligence (AI). Some users express discomfort with the term "agent," arguing that it implies a level of autonomy that AI does not possess, likening AI to slaves that lack true agency. Others counter that the term "agent" can apply to any entity that interacts with its environment, including animals and even enslaved individuals, suggesting that agency is not inherently tied to freedom.
+
+Notable insights include references to science fiction, particularly Greg Bear's "Blood Music," which touches on themes of intelligence and consciousness in biological entities. Additionally, some commenters critique modern journalism for its sensationalism and lack of depth, expressing frustration with the quality of popular science writing. Overall, the discussion reflects a mix of philosophical inquiry, skepticism about AI, and critiques of media quality.

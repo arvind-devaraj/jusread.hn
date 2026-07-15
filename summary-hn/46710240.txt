@@ -1,0 +1,8 @@
+Microsoft CEO warns AI must 'do something useful' or lose 'social permission'  (11 pts, 8 comments)
+https://news.ycombinator.com/item?id=46710240
+
+The Hacker News discussion centers around a statement made by Microsoft CEO Satya Nadella, who emphasized that AI technologies must provide tangible benefits to society or risk losing public support and "social permission" to operate. The article highlights concerns about the utility and integration of AI in everyday applications.
+
+In the comments, users express a mix of skepticism and frustration regarding AI's current functionality. Some commenters, like rolph and bigfatkitten, point out issues with AI features in Microsoft products, such as unwanted interruptions and lack of user control. Others, like expedition32, share their desire for AI to be more engaging or entertaining, while saubeidl questions the lack of consent for AI's presence in their tools. There is a general sentiment that while AI has potential, its current implementation often falls short of user expectations.
+
+Notably, some commenters critique Microsoft's approach, suggesting that the company has not fully addressed its own challenges with AI integration, leading to a disconnect between the technology's promise and its practical application. Overall, the discussion reflects a cautious optimism about AI's future, tempered by concerns over its current utility and user experience.

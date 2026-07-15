@@ -1,0 +1,8 @@
+Show HN: Learn Arabic with spaced repetition and comprehensible input  (70 pts, 24 comments)
+https://news.ycombinator.com/item?id=47378251
+
+The post on Hacker News introduces AbjadPro, a new web application designed for learning Arabic using methods like spaced repetition and comprehensible input. The developer, who is a friend of the poster, aims to create a resource that addresses the scarcity of Arabic learning tools.
+
+In the comments, users express appreciation for the app but raise concerns about audio functionality, dialect specificity, and the quality of vocalizations. The developer responds to queries, clarifying that the app teaches various Arabic dialects, with stories in Modern Standard Arabic and videos categorized by dialect. There is also a discussion about alternative Arabic learning resources, with some users recommending Language Transfer for its effectiveness.
+
+Notably, there is a debate about the app's payment model, with suggestions for a one-time payment option instead of a subscription model. Overall, the discussion highlights both the potential of AbjadPro and the community's desire for high-quality language learning tools.

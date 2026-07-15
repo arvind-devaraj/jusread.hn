@@ -1,0 +1,8 @@
+OpenAI to begin testing ads on ChatGPT in the U.S.  (63 pts, 120 comments)
+https://news.ycombinator.com/item?id=46649644
+
+The Hacker News discussion revolves around OpenAI's announcement to start testing advertisements on ChatGPT in the U.S. This move has sparked a variety of reactions among users, with many expressing concerns about the implications of integrating ads into a platform designed for personal interaction. 
+
+Key points of debate include the potential for advertisers to influence user conversations and the broader impact of advertising on the integrity of AI interactions. Some users fear that this could lead to a decline in the quality of service, with a shift towards prioritizing advertisers' interests over user experience. Others discuss the mechanics of how ads might be tracked and billed, questioning the transparency of the advertising model.
+
+Notable opinions include a strong backlash from some users who have canceled their subscriptions in protest, while others argue that advertising is a necessary part of sustaining the platform. There are also discussions about the ethical implications of advertising in AI, with some users asserting that it could undermine the mission of AI to benefit humanity. Overall, the conversation reflects a mix of skepticism, concern, and a desire for clarity on how ads will affect the ChatGPT experience.

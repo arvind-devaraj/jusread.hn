@@ -1,0 +1,8 @@
+Ask HN: How are people doing AI evals these days?  (30 pts, 42 comments)
+https://news.ycombinator.com/item?id=47319587
+
+The Hacker News discussion titled "Ask HN: How are people doing AI evals these days?" revolves around how companies are evaluating various AI models to determine their suitability for specific use cases amidst the rapid development of new AI technologies. The original poster seeks insights into the methods and tools being used for these evaluations.
+
+In the comments, participants express a range of experiences and approaches. Many note the diversity in evaluation practices, with some teams lacking structured evaluations altogether, while others employ a mix of automated benchmarking, manual scoring, and ad-hoc methods. A common challenge highlighted is the difficulty in measuring non-binary outputs, particularly for applications like chatbots and coding agents, where subjective assessments are often necessary. Some users mention using tools like Promptfoo and LangFuse, while others emphasize the need for comprehensive benchmarks, criticizing existing ones as inadequate.
+
+Notable insights include the recognition that effective evaluation requires a deep understanding of the problem space and careful definition of inputs and outputs. Several commenters also point out that the evaluation process can be tedious and resource-intensive, leading some teams to rely on informal methods or "vibes" to assess model performance. Overall, the discussion underscores the evolving nature of AI evaluation and the ongoing challenges faced by teams in this fast-paced field.

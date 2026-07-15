@@ -1,0 +1,8 @@
+Two kinds of AI users are emerging  (355 pts, 338 comments)
+https://news.ycombinator.com/item?id=46850588
+
+The Hacker News discussion revolves around a blog post that identifies two distinct types of AI users emerging in various fields, particularly in finance and technology. The post highlights concerns about users employing AI-generated models without sufficient expertise to verify their accuracy, leading to potential risks and failures.
+
+In the comments, there is a significant debate about the reliability of AI-generated outputs compared to traditional methods like Excel. Some users express alarm over the lack of understanding and verification of AI models, arguing that this could lead to catastrophic errors, especially in critical areas like finance and healthcare. Others counter that users can cross-check AI outputs against existing models, though many acknowledge that this verification process is often inadequate. Notably, some commenters suggest that the reliance on AI could lead to a false sense of security, as users may overlook fundamental flaws in the models they create or utilize.
+
+Overall, the discussion reflects a mix of skepticism and pragmatism regarding the integration of AI in professional settings. Many participants emphasize the importance of understanding the underlying assumptions of models and the potential consequences of blindly trusting AI outputs, while others seem resigned to the inevitability of AI's role in various industries, regardless of the risks involved.

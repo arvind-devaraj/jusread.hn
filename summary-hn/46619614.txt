@@ -1,0 +1,8 @@
+Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR  (123 pts, 49 comments)
+https://news.ycombinator.com/item?id=46619614
+
+The Hacker News discussion centers around the announcement of Sparrow-1, an advanced audio-native conversational model developed by Tavus. This model aims to improve turn-taking in conversations by predicting conversational floor ownership rather than relying on traditional automatic speech recognition (ASR). Key features include human-timed responses with minimal latency and the ability to capture non-verbal cues that ASR typically misses.
+
+In the comments, users express a mix of excitement and skepticism. Some users are eager to try Sparrow-1 but encounter issues with the sign-up process, while others share their positive experiences with earlier versions of the model. There is a debate about the reliability of the benchmarks presented by Tavus, with some commenters urging caution and suggesting that the model's performance should be tested in real-world scenarios. Notably, several users highlight the importance of effective turn-taking in AI conversations, sharing frustrations with existing models that interrupt or fail to accommodate pauses for thought.
+
+Overall, the discussion reflects a strong interest in improving conversational AI, with many users recognizing the potential of Sparrow-1 while also advocating for transparency and thorough testing of its capabilities.

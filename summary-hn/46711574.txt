@@ -1,0 +1,6 @@
+eBay explicitly bans AI "buy for me" agents in user agreement update  (340 pts, 353 comments)
+https://news.ycombinator.com/item?id=46711574
+
+The Hacker News discussion centers around eBay's recent update to its user agreement, which explicitly bans AI "buy for me" agents. This move is seen as a response to potential issues arising from automated purchases, such as chargebacks and customer support complications due to errors made by AI. Many commenters speculate that eBay's motivation may also include a desire to control the market for AI purchasing tools, possibly by offering exclusive access or charging fees for API use.
+
+The comments reflect a mix of agreement and skepticism regarding the enforceability of eBay's ban. Some users believe that while the policy may not be strictly enforceable, it serves as a protective measure against the complications of AI-driven purchases. Others argue that the ban could be ineffective, as sophisticated AI systems can mimic human behavior convincingly. Notably, there is a debate about the double standards in eBay's treatment of different types of bots, such as sniping bots, which are tolerated despite their disruptive nature. Overall, the discussion highlights the complexities and challenges eBay faces in regulating automated purchasing behavior in an evolving digital landscape.

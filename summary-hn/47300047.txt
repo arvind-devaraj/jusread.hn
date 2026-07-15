@@ -1,0 +1,8 @@
+OpenAI might end up on the right side of history  (12 pts, 11 comments)
+https://news.ycombinator.com/item?id=47300047
+
+The Hacker News discussion revolves around the implications of AI companies, particularly OpenAI and Anthropic, resisting military contracts and government oversight. The original poster expresses concern that allowing one AI company to dictate terms could set a precedent for future companies to resist governmental control, potentially leading to powerful corporations that could challenge state authority by the 2030s. They argue that while current AI companies may seem small compared to government budgets, future valuations could reach trillions, enabling them to wield significant influence.
+
+In the comments, there is a mix of agreement and skepticism. Some users acknowledge the potential for AI companies to grow powerful and challenge regulatory frameworks, while others argue that the idea of companies resisting oversight is overstated. A few commenters highlight the difference between refusing contracts and outright resisting government authority, suggesting that current dynamics do not necessarily lead to a power struggle. Notably, one user draws parallels between the current AI landscape and the early internet, emphasizing the uncertainty and potential for significant shifts in how tools and products are developed.
+
+Overall, the discussion reflects a broader concern about the balance of power between corporations and governments in the rapidly evolving AI landscape, with varying opinions on the feasibility and implications of such a shift.

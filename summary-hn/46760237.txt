@@ -1,0 +1,8 @@
+Clawdbot - open source personal AI assistant  (405 pts, 261 comments)
+https://news.ycombinator.com/item?id=46760237
+
+The Hacker News discussion revolves around Clawdbot, an open-source personal AI assistant available on GitHub. Users share their experiences with the installation process, functionality, and overall performance of the tool. Many commenters express a mix of enthusiasm and frustration, noting that while Clawdbot has potential, it can be buggy and challenging to set up. Some users report issues with context retention during conversations, while others find it useful for organizing tasks and schedules.
+
+A significant point of debate is the perceived hype surrounding Clawdbot, with some users suggesting that its popularity may be driven by marketing rather than genuine utility. Concerns about security and data privacy are also raised, particularly regarding the permissions required for the assistant to function effectively. Notably, some users appreciate Clawdbot's hands-off approach to permissions, while others caution against the risks of prompt injection and data exfiltration.
+
+Overall, the discussion highlights a blend of skepticism and optimism about Clawdbot, with users weighing its capabilities against the challenges of implementation and security.

@@ -1,0 +1,8 @@
+Show HN: AxonFlow, governing LLM and agent workflows  (11 pts, 14 comments)
+https://news.ycombinator.com/item?id=46692499
+
+The Hacker News discussion revolves around AxonFlow, a control plane designed for teams managing large language models (LLMs) and agent workflows in production environments. The tool aims to address common execution issues that arise after moving past demo phases, such as retries causing side effects, partial failures, and challenges in monitoring and intervening during execution. AxonFlow is self-hosted and can integrate with existing orchestrators like LangChain and CrewAI.
+
+In the comments, users express interest in the tool's capabilities, particularly regarding policy enforcement, access control, and latency. There is a consensus on the importance of having robust governance for LLMs and agents, especially as organizations scale. Some users highlight the need for features like image redaction to protect sensitive information, while others emphasize the necessity of a lightweight solution that doesn't disrupt existing workflows.
+
+Notable insights include the recognition that many failures in production are not due to model quality but rather execution issues, underscoring the relevance of AxonFlow. Users appreciate the pragmatic approach of providing inline control without replacing existing systems, and there is a call for further development in security features to ensure safe deployment in real-world applications. Overall, the discussion reflects a strong interest in enhancing the governance of LLM and agent workflows in production settings.

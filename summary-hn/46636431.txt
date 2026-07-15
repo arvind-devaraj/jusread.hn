@@ -1,0 +1,8 @@
+Proving (literally) that ChatGPT isn't conscious  (12 pts, 8 comments)
+https://news.ycombinator.com/item?id=46636431
+
+The Hacker News discussion revolves around a post that attempts to prove that ChatGPT is not conscious. The author explores the philosophical implications of consciousness, particularly referencing Thomas Nagel's famous essay "What Is It Like to Be a Bat?" to argue that if there is nothing it is like to be ChatGPT, then it cannot be considered conscious.
+
+In the comments, users debate the clarity and effectiveness of the author's argument. Some find the initial sentence confusing, while others suggest that the phrasing is misleading but not broken. There is a discussion about the nature of consciousness and whether theories about it should be falsifiable. A few commenters express skepticism about the complexity of the paper, suggesting it complicates rather than clarifies the argument.
+
+Notably, one user questions the validity of the rules in neuroscience regarding consciousness, expressing doubt about the ability to find a substitute for AI that can "hallucinate" like it does. Overall, the conversation reflects a mix of philosophical inquiry and skepticism about the definitions and implications of consciousness in AI.

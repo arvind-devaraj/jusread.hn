@@ -1,0 +1,8 @@
+I wrote the manual Karpathy said was missing for agentic AI  (43 pts, 40 comments)
+https://news.ycombinator.com/item?id=46469780
+
+The Hacker News discussion revolves around a GitHub post by a user who claims to have created a manual for "agentic AI," inspired by a comment from AI researcher Andrej Karpathy. The manual outlines concepts like morphability, abstraction, recursion, internal consistency, and reproducibility, which the author believes are essential for effectively utilizing AI agents.
+
+In the comments, there is a mix of support and skepticism. Some users, like nick2837, share their positive experiences with AI tools, emphasizing the productivity gains from these concepts. Others question the authenticity of the author's claim, pointing out that the manual was AI-generated and suggesting that the title is misleading. There are also humorous exchanges about the exaggerated enthusiasm for AI and the challenges of maintaining precision in language amidst the hype.
+
+Notable insights include the recognition of the evolving role of AI in programming and the debate over the balance between human input and AI assistance. Some commenters express concern about the quality and effort behind the manual, while others appreciate the attempt to share knowledge in a rapidly changing field. Overall, the discussion highlights both the excitement and the critical scrutiny surrounding the integration of AI in software development.

@@ -1,0 +1,8 @@
+The AI hater's guide to code with LLMs  (37 pts, 12 comments)
+https://news.ycombinator.com/item?id=47007593
+
+The post titled "The AI hater's guide to code with LLMs" discusses the use of large language models (LLMs) for coding, particularly from the perspective of those skeptical about AI technology. The author emphasizes a preference for technical terminology over marketing jargon and critiques the political implications of AI discourse.
+
+In the comments, there is a lively debate about the intersection of politics and technology. Some users argue that everything is inherently political, while others express a desire for a world where politics does not dominate discussions. There are also discussions about the author's knowledge of LLMs, with some commenters praising their expertise despite their anti-AI stance, while others question the validity of their claims.
+
+Notable insights include a critique of the current state of political discourse, with some commenters suggesting that the prevalence of politics in discussions about technology reflects broader societal issues. Additionally, there are practical discussions about the feasibility of running LLMs on personal hardware, with one user sharing their positive experience using a lower-cost setup. Overall, the conversation highlights the complexities of the relationship between AI, coding, and societal values.

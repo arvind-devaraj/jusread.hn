@@ -1,0 +1,8 @@
+Sam Altman responds to Anthropic's "Ads are coming to AI. But not to Claude" ads  (92 pts, 110 comments)
+https://news.ycombinator.com/item?id=46894151
+
+The Hacker News discussion revolves around Sam Altman's response to Anthropic's advertising campaign that claims "Ads are coming to AI. But not to Claude," which implies that Anthropic's AI, Claude, will remain ad-free. Altman's reaction suggests he feels threatened by this marketing strategy, leading to a debate about the future of advertising in AI and the ethical implications of such practices.
+
+In the comments, users express differing views on the nature of advertising, particularly contrasting Anthropic's fundraising efforts with traditional advertising. Some argue that fundraising for a non-profit like Wikipedia is fundamentally different from commercial advertising, while others contend that any solicitation for funds can be considered advertising. There is also a discussion about Altman's perceived defensiveness and whether his response was appropriate for someone in his position.
+
+Notable insights include concerns about the potential for ads to manipulate users and diminish their agency, as well as skepticism about the integrity of companies that engage in aggressive marketing tactics. Some commenters highlight the irony of Altman criticizing another company for authoritarian practices, given OpenAI's own controversial actions. Overall, the conversation reflects broader anxieties about the commercialization of AI and the ethical responsibilities of tech companies.

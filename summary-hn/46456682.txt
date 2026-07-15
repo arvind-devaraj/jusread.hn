@@ -1,0 +1,8 @@
+Building an internal agent: Code-driven vs. LLM-driven workflows  (75 pts, 34 comments)
+https://news.ycombinator.com/item?id=46456682
+
+The Hacker News discussion revolves around the challenges and considerations of building internal agents using either code-driven (deterministic) workflows or LLM-driven (probabilistic) workflows. The original post highlights the trade-offs between these approaches, particularly in terms of reliability, ease of implementation, and the nature of decision-making required in various tasks.
+
+In the comments, there is a debate about the merits of starting workflows with LLMs versus traditional coding. Some users argue that LLMs can simplify initial implementations and handle unexpected scenarios effectively, while others caution that relying on LLMs can lead to unpredictability and inefficiency in the long run. A notable point raised is the potential for LLMs to generate code that may include proprietary or GPL-licensed components, raising concerns about transparency and legal implications.
+
+Several commenters emphasize the importance of defining when to use LLMs versus deterministic code, suggesting that LLMs excel in handling ambiguous or complex situations, while straightforward tasks are better suited for scripted solutions. Overall, the discussion reflects a nuanced understanding of balancing innovation with reliability in software development workflows.

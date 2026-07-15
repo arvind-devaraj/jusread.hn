@@ -1,0 +1,8 @@
+Show HN: Off Grid – Run AI text, image gen, vision offline on your phone  (124 pts, 62 comments)
+https://news.ycombinator.com/item?id=47019133
+
+The Hacker News discussion revolves around "Off Grid," an open-source mobile app that enables users to run AI text, image generation, vision, and voice transcription directly on their phones without needing an internet connection. The app leverages the powerful GPUs in modern smartphones to perform these tasks offline, addressing privacy concerns associated with cloud-based AI services. It is designed for various scenarios, such as traveling without Wi-Fi or in areas with internet censorship.
+
+In the comments, users express enthusiasm for the app's offline capabilities and privacy focus, while also pointing out some technical issues, such as broken links and bugs related to keyboard visibility on certain devices. There is a mix of appreciation for the app's design and functionality, alongside skepticism about the effectiveness of running AI models on mobile hardware. Some users inquire about similar solutions for Linux desktops, while others highlight the challenges of model performance on limited hardware.
+
+Notable insights include a strong emphasis on user empowerment and data privacy, with several commenters praising the ethos behind the app. However, there is also a cautionary tone regarding the limitations of mobile AI models, suggesting that while the concept is promising, practical applications may be constrained by hardware capabilities.

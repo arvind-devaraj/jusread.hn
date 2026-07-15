@@ -1,0 +1,8 @@
+The preposterous notion of AI automating "repetitive" work  (12 pts, 8 comments)
+https://news.ycombinator.com/item?id=46821097
+
+The Hacker News discussion centers around the idea that AI is often touted as a solution for automating "repetitive" work, a notion the original poster finds misguided. They argue that repetitive tasks have already been automated through traditional means for years, and the true potential of AI lies in automating non-repetitive, more complex tasks. The post questions the origins of this narrative and why it resonates with people.
+
+In the comments, there is a mix of skepticism and acknowledgment of AI's utility. Some users share their experiences with automating repetitive coding tasks using AI, while others emphasize that many jobs may be more repetitive than they appear, suggesting that AI could still play a role in those areas. A few commenters propose innovative applications of AI, such as automating inventory management, indicating a broader vision for AI's capabilities beyond mere task repetition.
+
+Overall, the discussion highlights a tension between traditional automation methods and the evolving role of AI, with participants exploring both the limitations and potential of AI in various contexts.

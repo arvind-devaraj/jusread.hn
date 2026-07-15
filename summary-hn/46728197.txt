@@ -1,0 +1,8 @@
+Talking to LLMs has improved my thinking  (186 pts, 143 comments)
+https://news.ycombinator.com/item?id=46728197
+
+The post discusses how interacting with large language models (LLMs) has enhanced the author's thinking and understanding of various topics. The author highlights that LLMs help clarify ideas, provide relevant information, and guide users through complex subjects, akin to having a conversational encyclopedia.
+
+In the comments, many users agree with the author's experience, noting that LLMs can facilitate deeper exploration of ideas and serve as valuable tools for learning. However, there are concerns about the potential commercialization of LLMs, which could lead to biased information or manipulation for profit. Some commenters debate the role of government versus private entities in managing LLMs, with differing opinions on whether a government-run model would be beneficial or detrimental to public understanding.
+
+Notable insights include the comparison of LLMs to early Wikipedia, the potential for open-source models to improve in the future, and the idea that LLMs could serve as public infrastructure. There is also a cautionary tone regarding the risks of centralization and the influence of corporations or governments on the information provided by LLMs.

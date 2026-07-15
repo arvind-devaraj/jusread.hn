@@ -1,0 +1,8 @@
+The state of modern AI text to speech systems for screen reader users  (102 pts, 47 comments)
+https://news.ycombinator.com/item?id=46730346
+
+The Hacker News discussion revolves around the current state of AI text-to-speech (TTS) systems, particularly in relation to their usability for screen reader users. The original post highlights that while modern TTS systems aim for a human-like, conversational sound, they often sacrifice accuracy, leading to issues such as skipped words and incorrect pronunciations. The post raises concerns about the lack of advancements in TTS technology that meet the specific needs of blind users, especially as older systems like Eloquence become outdated.
+
+In the comments, there is a debate about the feasibility of reverse engineering Eloquence to improve or modernize it, with some users suggesting that AI could assist in this process. Others express frustration with the current state of TTS technology, noting that many modern systems still struggle with basic accuracy and intelligibility, particularly at high speeds. There are also discussions about the ownership of Eloquence and the lack of updates since 2003, with some attributing this to a general neglect of accessibility by major tech companies.
+
+Notable insights include skepticism about the effectiveness of new TTS models, with some users reporting better experiences than those described in the original post. The conversation reflects a broader concern about the intersection of technology and accessibility, emphasizing the need for solutions that genuinely cater to the requirements of screen reader users.

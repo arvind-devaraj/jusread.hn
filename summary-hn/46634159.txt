@@ -1,0 +1,8 @@
+Ask HN: What to teach my kid if AI does math and CS?  (12 pts, 22 comments)
+https://news.ycombinator.com/item?id=46634159
+
+The Hacker News discussion centers around a parent who is home-schooling their child with a focus on math and computer science (CS). The parent expresses concern about the relevance of these subjects in light of advancements in AI, which is increasingly capable of performing complex mathematical tasks and coding. They question whether they should continue emphasizing these areas or pivot to other subjects, especially given their child's interests and the potential for AI to overshadow human skills.
+
+In the comments, there is a consensus that foundational skills in math and logic remain essential, regardless of AI's capabilities. Many commenters argue that understanding these subjects is crucial for effectively interacting with AI and for broader problem-solving skills. Some suggest incorporating a well-rounded education that includes humanities and social skills, while others emphasize the importance of teaching children how to learn and adapt. Notably, several commenters highlight that AI's current limitations mean that human oversight and creativity will still be valuable in the future.
+
+Overall, the discussion reflects a balance between acknowledging the impact of AI on traditional education and the enduring importance of critical thinking, adaptability, and foundational knowledge in preparing children for an uncertain future.

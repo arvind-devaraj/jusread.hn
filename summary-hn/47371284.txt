@@ -1,0 +1,6 @@
+Show HN: Simple plugin to get Claude Code to listen to you  (18 pts, 7 comments)
+https://news.ycombinator.com/item?id=47371284
+
+The Hacker News discussion revolves around a new plugin developed by Ankur and his cofounder that enhances the Claude Code (CC) AI's ability to remember and respond to user-specific context. The plugin aims to automatically capture and inject relevant memories and corrections based on previous interactions, addressing the challenge of CC ignoring markdown files after the planning phase. The developers are seeking feedback on the plugin's effectiveness and how others manage CC's understanding of their context.
+
+In the comments, there is significant concern about data privacy, as users note that prompts and conversation data are sent to the developers' servers. Ankur acknowledges this issue and mentions plans for implementing whitelists, blacklists, and potentially local storage options to address privacy concerns. Some users express skepticism about the plugin's utility, while others criticize the proliferation of memory solutions in the AI space. Ankur invites constructive feedback and suggestions for improving their approach, emphasizing their intent to solve a personal problem that may resonate with others.

@@ -1,0 +1,8 @@
+Show HN: GitAgent – An open standard that turns any Git repo into an AI agent  (147 pts, 39 comments)
+https://news.ycombinator.com/item?id=47376584
+
+The Hacker News discussion revolves around GitAgent, a new open standard designed to transform any Git repository into an AI agent. The creators of GitAgent aim to address the fragmentation in agent frameworks by providing a unified specification that includes three core files: `agent.yaml` (configuration), `SOUL.md` (personality/instructions), and `SKILL.md` (capabilities). This structure allows for easy portability across various AI platforms, enabling version control, branching, and human oversight through Git's existing features.
+
+In the comments, users express both enthusiasm and skepticism. Some appreciate the clean design and potential for standardization, while others raise concerns about the project's branding, particularly the name "Gitclaw," which some find unprofessional. There is also debate about the practical challenges of agent discovery and runtime execution, with some commenters suggesting that the focus should be on how agents find the right tools rather than just defining them. Notably, the maintainer of GitAgent actively engages with feedback, clarifying the project's goals and addressing criticisms regarding security practices related to secret management.
+
+Overall, the discussion highlights a mix of excitement for the innovative approach of GitAgent and caution regarding its implementation and branding, reflecting broader concerns in the AI agent development community.

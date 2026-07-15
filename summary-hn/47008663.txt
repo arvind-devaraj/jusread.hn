@@ -1,0 +1,8 @@
+Show HN: Rover – Embeddable web agent  (32 pts, 18 comments)
+https://news.ycombinator.com/item?id=47008663
+
+The Hacker News discussion revolves around Rover, an embeddable web agent designed to enhance user interaction on websites by automating tasks like filling forms, clicking buttons, and guiding onboarding processes. Developed by two ex-Google engineers, Rover operates with a simple script tag and a DOM-only architecture, which allows it to function without extensive API integration or ongoing code maintenance. The creators argue that websites need their own conversational agents to prevent users from being redirected to competitors like Google or ChatGPT.
+
+In the comments, there is a mix of support and skepticism. Some users appreciate Rover's potential to simplify user engagement without the complexities of traditional API setups. However, others raise concerns about data ownership, the risks of relying on AI-generated code, and the operational risks associated with the agent's actions, such as potential errors during transactions. Notably, one commenter questions the security implications of syncing browser sessions, while another emphasizes the importance of transparency and reliability in the agent's operations.
+
+Overall, the discussion highlights both the innovative aspects of Rover and the critical considerations regarding data privacy, operational risks, and the reliability of AI-driven solutions in web environments.

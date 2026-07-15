@@ -1,0 +1,8 @@
+Show HN: Agent framework that generates its own topology and evolves at runtime  (107 pts, 35 comments)
+https://news.ycombinator.com/item?id=46979781
+
+The Hacker News discussion centers around a project called Hive, developed by Vincent from Aden, which aims to create a more robust agent framework for enterprise resource planning (ERP) automation. The framework addresses limitations of existing agent systems, which often fail in production due to their reliance on synchronous sessions and rigid structures. Vincent proposes a new approach that treats exceptions as observations, allowing the system to adapt and evolve dynamically rather than crashing when faced with errors.
+
+In the comments, users express interest in the innovative concepts presented, particularly the idea of using an OODA (Observe, Orient, Decide, Act) loop for managing stochastic behavior and the notion of treating exceptions as feedback rather than failures. Some commenters share their own related projects or ideas, while others raise concerns about the potential for "astro-turfing" and question the authenticity of the discussion. Notably, there are mixed opinions on the project's viability, with some praising its potential to move beyond traditional frameworks, while others criticize it as overly complex or even a scam.
+
+Overall, the conversation highlights a growing interest in developing more resilient and adaptive AI systems, with a focus on real-world applications in business workflows, alongside skepticism about the project's legitimacy and execution.

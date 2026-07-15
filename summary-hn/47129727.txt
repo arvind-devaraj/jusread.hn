@@ -1,0 +1,8 @@
+Making Wolfram tech available as a foundation tool for LLM systems  (308 pts, 170 comments)
+https://news.ycombinator.com/item?id=47129727
+
+The Hacker News discussion revolves around a post by Stephen Wolfram proposing to make Wolfram technology a foundational tool for large language model (LLM) systems. The post highlights the potential of integrating Wolfram's computational capabilities with LLMs to enhance their functionality.
+
+In the comments, users express a mix of admiration and critique regarding Wolfram's writing style, particularly his use of em-dashes and the "it's not just X, it's Y" phrasing, which some find stale and overly verbose. There is a broader debate about the effectiveness of Wolfram's tools compared to alternatives like Python, with some users noting that while Mathematica excels in certain mathematical tasks, LLMs may not perform as well with it due to limited training data.
+
+Notable insights include reflections on the evolution of writing styles influenced by AI, with some commenters feeling that they subconsciously adopt AI-like patterns. Others emphasize the importance of using effective tools for LLMs, suggesting that the choice of programming language can significantly impact performance and usability. Overall, the discussion highlights both the excitement and skepticism surrounding the integration of Wolfram's technology with LLMs.

@@ -1,0 +1,8 @@
+Ask HN: Is it better to have no Agent.md than a bad one?  (10 pts, 7 comments)
+https://news.ycombinator.com/item?id=47124103
+
+The Hacker News discussion revolves around the question of whether it's better to have no Agent.md documentation than to have a poorly crafted one. The original poster seeks real-world experiences and definitions of what constitutes a "bad" Agent.md.
+
+In the comments, there is a consensus that having minimal documentation is preferable to having none at all, as long as it is kept up to date. One commenter suggests using a table of contents and brief summaries to maintain clarity. Others emphasize that incorrect or outdated information can lead to significant issues, particularly in AI contexts, where it can result in faulty outputs. A few commenters advocate for starting with no documentation and gradually refining it based on observed mistakes, highlighting the importance of iterative improvement.
+
+Notable insights include the idea that zero instructions can be better than misleading ones, as incorrect context can hinder performance. Overall, the discussion underscores the balance between having some guidance and ensuring that it is accurate and useful.

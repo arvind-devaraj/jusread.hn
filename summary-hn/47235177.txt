@@ -1,0 +1,8 @@
+My accent costs me 30 IQ points on Zoom. So we built an ML model to fix it  (40 pts, 29 comments)
+https://news.ycombinator.com/item?id=47235177
+
+The Hacker News discussion revolves around a blog post from Krisp, introducing a machine learning model designed to modify accents for listeners on video calls, particularly benefiting non-native English speakers. The co-founder highlights the significant number of non-native speakers in the workforce and the challenges faced in communication due to accent biases, emphasizing the model's ability to run on-device with low latency.
+
+In the comments, there is a mix of enthusiasm and concern. Many users express excitement about the potential of the technology to enhance communication and reduce misunderstandings, particularly in professional settings. However, some raise concerns about misuse, such as scammers exploiting the technology. There is also discussion about the technical challenges of developing the model, including the lack of parallel training data and the importance of preserving the speaker's voice identity while modifying the accent.
+
+Notable insights include the recognition of the model's real-time capabilities and the emphasis on privacy, as it operates on-device. Users also inquire about the model's performance metrics and the ability to control the degree of accent modification, indicating a desire for customization and effectiveness in diverse communication scenarios.

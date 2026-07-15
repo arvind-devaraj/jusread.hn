@@ -1,0 +1,8 @@
+Ask HN: Has your whole engineering team gone big into AI coding? How's it going?  (24 pts, 13 comments)
+https://news.ycombinator.com/item?id=46896309
+
+The Hacker News discussion revolves around the experiences of engineering teams that have adopted AI coding tools like Claude Code, Cursor, and Codex. The original poster is interested in understanding how these tools are impacting team dynamics, productivity, and the quality of code produced, particularly in teams of five or more engineers.
+
+In the comments, there is a mix of positive and negative experiences. Some users report significant productivity gains, with tasks being completed much faster than estimated, while others express concerns about the quality of AI-generated code, citing issues like increased complexity and hidden technical debt. A recurring theme is that while AI can accelerate initial coding efforts, it often leads to more review work and potential pitfalls in code quality. Some commenters suggest that AI should be treated like a junior developer, useful for generating boilerplate code but requiring careful oversight.
+
+Notably, there is skepticism about the sustainability of these productivity gains, with some users pointing out that the benefits may not be as widespread as claimed and that failures in AI-driven projects are often underreported. Overall, the discussion highlights a nuanced view of AI's role in software development, balancing its potential advantages against the challenges it introduces.

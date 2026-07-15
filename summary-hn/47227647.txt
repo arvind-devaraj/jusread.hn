@@ -1,0 +1,8 @@
+Elevated Errors in Claude.ai  (205 pts, 170 comments)
+https://news.ycombinator.com/item?id=47227647
+
+The Hacker News discussion revolves around a recent incident report from Claude.ai, which highlighted elevated error rates and a reported uptime of 98.92%. Many commenters expressed dissatisfaction with this level of reliability, with some humorously debating the implications of "two nines" versus "three nines" in uptime metrics. 
+
+A significant portion of the conversation focused on the reasons users are migrating from OpenAI to Claude.ai, with some attributing this shift to OpenAI's controversial partnerships and perceived ethical concerns, while others noted that Claude.ai's performance has been superior for their needs. Users shared their experiences with both platforms, with some preferring Claude.ai for its capabilities despite the recent issues.
+
+Notable insights included discussions about the operational challenges of maintaining AI systems, with some commenters joking about the need for an internal AI to fix the main AI when it fails. Others pointed out that alternative platforms like AWS Bedrock and Google Vertex are still functioning well, suggesting that Claude.ai has backup solutions in place. Overall, the discussion reflects a mix of technical concerns, user experiences, and the broader implications of AI ethics and reliability.

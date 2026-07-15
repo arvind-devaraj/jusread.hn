@@ -1,0 +1,8 @@
+Ask HN: AI music covers in 2026?  (17 pts, 9 comments)
+https://news.ycombinator.com/item?id=46641627
+
+The Hacker News discussion revolves around the future of AI-generated music covers in 2026, with the original poster seeking high-quality voice and instrumentation cloning that incorporates human creativity, rather than the simpler outputs from tools like SUNO. 
+
+In the comments, there is a debate about the quality and effort involved in AI music generation. Some users argue that while there is a lot of low-quality output ("slop"), there are also opportunities for creating intricate music when users invest effort into the process. Others contend that the essence of art goes beyond effort, suggesting that low-effort creations risk being dismissed as inferior. A notable point raised is the concern over copyright issues, as AI companies may avoid facilitating covers of copyrighted music to mitigate legal risks.
+
+Overall, the discussion highlights differing perspectives on the value of effort in artistic creation, the potential of AI tools, and the implications of copyright in the evolving landscape of AI music.

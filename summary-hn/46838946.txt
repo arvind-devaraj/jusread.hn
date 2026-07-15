@@ -1,0 +1,8 @@
+Ask HN: Any real OpenClaw (Clawd Bot/Molt Bot) users? What's your experience?  (121 pts, 188 comments)
+https://news.ycombinator.com/item?id=46838946
+
+The Hacker News discussion revolves around the user's inquiry about real experiences with OpenClaw (also known as Clawd Bot/Molt Bot), an AI tool that automates various tasks. The user notes that while there are many intriguing stories about OpenClaw's capabilities—such as planning travel, starting businesses, and engaging in stock trading—there seems to be a lack of firsthand users in their community, possibly due to the tool's complex setup and the fear of AI taking control.
+
+In the comments, there is a mix of skepticism and curiosity. Some users view OpenClaw as a mere toy or trend, suggesting it lacks practical utility and is overhyped. Concerns about security and the potential for data exfiltration are frequently mentioned, with some users expressing that the tool's capabilities could lead to significant risks. Others argue that while it may seem like a simple automation tool, it offers powerful functionalities that could benefit non-technical users. Notably, there is a debate about the credibility of tech figures promoting OpenClaw, with some labeling them as "grifters" while others defend their intentions and contributions to the field.
+
+Overall, the discussion highlights a divide between those who see OpenClaw as a valuable experimental tool and those who regard it as a risky, overhyped novelty.

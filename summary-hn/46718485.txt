@@ -1,0 +1,8 @@
+Satya Nadella: "We need to find something useful for AI"  (162 pts, 216 comments)
+https://news.ycombinator.com/item?id=46718485
+
+The Hacker News discussion centers around Microsoft CEO Satya Nadella's statement that the tech industry must find practical applications for AI or risk losing societal acceptance for its energy consumption. The article highlights concerns about the current state of AI, suggesting that significant investments have yet to yield widely recognized benefits for everyday users.
+
+In the comments, there is a mix of skepticism and support regarding Nadella's perspective. Some commenters argue that the onus is on consumers to find value in AI, while others believe that the technology is still struggling to demonstrate its utility, indicating a potential bubble. There are references to historical tech trends, such as the dot-com bubble and the early days of personal computers, suggesting that transformative applications may emerge over time, but not without challenges.
+
+Notable insights include the idea that AI's current offerings may not be opening new avenues for users, and concerns about the sustainability of the massive investments in AI technology. Some commenters express frustration that the industry seems to be waiting for consumers to catch up, rather than innovating in ways that resonate with a broader audience. Overall, the discussion reflects a critical view of the current AI landscape and the urgency for meaningful advancements.

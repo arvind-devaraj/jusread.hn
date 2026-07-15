@@ -1,0 +1,6 @@
+Ask HN: Help with LLVM  (33 pts, 9 comments)
+https://news.ycombinator.com/item?id=46465866
+
+The Hacker News discussion revolves around a user seeking assistance with LLVM while developing a new programming language. The user is encountering issues with LLVM automatically linking in CRT (C Runtime) symbols, specifically the `_fltused` symbol, which conflicts with their own library definition. They are looking for compiler or linker flags to prevent LLVM from including these CRT symbols so they can create a custom runtime.
+
+In the comments, several users share their insights and suggestions. There is a consensus that LLVM may inject references to CRT functions based on certain operations in the code, and some users recommend using verbose flags to identify the linking process. Others suggest potential linker flags like `/NODEFAULTLIB` for MSVC or the `-ffreestanding` option in LLVM to avoid CRT dependencies. A few comments express frustration with the reliance on Discord for support, highlighting the difficulty of finding information in non-indexed platforms. Overall, the discussion emphasizes the challenges of working with LLVM in a custom runtime context and the need for deeper exploration of the toolchain's behavior.

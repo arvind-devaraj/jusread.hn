@@ -1,0 +1,8 @@
+Show HN: Goal.md, a goal-specification file for autonomous coding agents  (31 pts, 7 comments)
+https://news.ycombinator.com/item?id=47390228
+
+The Hacker News discussion centers around "Goal.md," a project created by jmilinovich that serves as a goal-specification file for autonomous coding agents. The tool aims to address the challenge of measuring the trustworthiness of test infrastructure, particularly in the context of broken Playwright tests. Jmilinovich explains that he developed this file to define a composite metric for evaluating tests, which includes an improvement loop and constraints.
+
+In the comments, there is a mix of appreciation for the project's utility and critique regarding its clarity and usability. Some users, like derwiki, compare it to another tool called autoresearch, questioning which is more effective. Liamwire raises concerns about the complexity of understanding what Goal.md does, suggesting that clearer documentation is necessary for broader adoption. Additionally, skwuwu inquires about the enforcement of constraints within the tool, highlighting a need for structural safeguards rather than relying solely on prompt-level instructions.
+
+Overall, the discussion reflects a balance between enthusiasm for the innovative approach of Goal.md and the need for improved clarity and practical implementation to enhance user adoption.

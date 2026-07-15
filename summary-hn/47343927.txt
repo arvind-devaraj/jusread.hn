@@ -1,0 +1,8 @@
+Show HN: A context-aware permission guard for Claude Code  (127 pts, 93 comments)
+https://news.ycombinator.com/item?id=47343927
+
+The Hacker News discussion centers around a project called "nah," which is a context-aware permission guard for Claude Code. The tool aims to provide a more nuanced permission system that avoids the pitfalls of existing methods, such as the risky `--dangerously-skip-permissions` option. Nah classifies tool calls based on their actions (e.g., filesystem reads, database writes) and applies policies like allow, ask, or block. It operates with sensible defaults and can be customized if needed, all while being built with standard Python libraries.
+
+In the comments, users express both interest and skepticism about the tool. Some appreciate its deterministic approach compared to other solutions that rely heavily on LLMs, while others raise concerns about the potential for malicious code execution and the challenges of maintaining a comprehensive permissions system. There is also discussion about the upcoming "auto mode" for Claude Code, which may overlap with nah's functionality. Notably, some users advocate for more robust isolation methods, such as using Docker, to enhance security further.
+
+Overall, the conversation highlights a shared interest in improving permission systems for coding tools, with varying opinions on the best approaches to balance safety and usability.

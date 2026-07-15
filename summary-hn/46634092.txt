@@ -1,0 +1,6 @@
+Wikipedia signs AI training deals with Microsoft, Meta, and Amazon  (16 pts, 5 comments)
+https://news.ycombinator.com/item?id=46634092
+
+The Hacker News discussion revolves around Wikipedia's recent decision to enter into licensing agreements with major tech companies like Microsoft, Meta, and Amazon, allowing them to access Wikipedia's content for AI training purposes. This move is seen as a way for Wikipedia to monetize its vast repository of information while ensuring that these companies pay for the bandwidth used to access the data.
+
+In the comments, users express a mix of skepticism and pragmatism. Some believe that these companies would scrape Wikipedia's data regardless, so it's better for Wikipedia to charge them. Others highlight that the licensing does not involve royalties since Wikipedia's content is already freely licensed, but rather focuses on managing data access to prevent overwhelming their servers. Notably, one commenter suggests that users might eventually bear the costs of these corporate investments, indicating a concern about the long-term implications of such partnerships. Overall, the discussion reflects a blend of support for Wikipedia's monetization strategy and caution about the potential consequences for users and the platform itself.

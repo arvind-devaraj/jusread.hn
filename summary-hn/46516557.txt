@@ -1,0 +1,8 @@
+A leading roboticist punctures the hype of driverless cars, LLMs, humanoids  (11 pts, 5 comments)
+https://news.ycombinator.com/item?id=46516557
+
+The Hacker News discussion revolves around an article that critiques the hype surrounding driverless cars, large language models (LLMs), and humanoid robots, as articulated by a leading roboticist. The article suggests that while these technologies have made significant strides, they still face substantial challenges and limitations that are often overlooked in public discourse.
+
+In the comments, there is a mix of agreement and skepticism. One user shares a personal experience with a driverless car that performed well, while another dismisses this account as hyperbole, questioning the reliability of such technology. Additionally, a commenter points out that LLMs, driverless cars, and humanoid robots represent fundamentally different challenges, with LLMs being more advanced in their specific domain.
+
+Notably, the discussion highlights a tension between personal anecdotes of technological success and a more critical view of the broader implications and readiness of these technologies. Some users express frustration with the perceived exaggeration of capabilities, while others defend the advancements made in these fields.

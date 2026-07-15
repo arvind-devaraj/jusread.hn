@@ -1,0 +1,8 @@
+Why do people still talk about AGI?  (42 pts, 64 comments)
+https://news.ycombinator.com/item?id=46851953
+
+The Hacker News discussion centers around skepticism regarding the pursuit of Artificial General Intelligence (AGI). The original poster expresses doubt about the viability of AGI, pointing out that current AI models struggle with basic tasks and are prone to errors, leading them to question whether investments in AI are justified. They feel that claims about imminent AGI are undermining their confidence in AI technology.
+
+In the comments, there is a mix of perspectives. Some users argue that while current AI tools can be useful, they are not reliable enough to be considered AGI. Others suggest that the term AGI is misused, with some believing that what we have today could be classified as a form of general intelligence, albeit limited. A few commenters emphasize that serious researchers do not view large language models (LLMs) as a pathway to AGI, suggesting that the hype around AGI is often driven by those with vested interests.
+
+Notable insights include the idea that current AI capabilities are impressive but still far from human-level intelligence. Some users draw analogies between AI tools and traditional tools like power drills, highlighting the importance of user engagement and oversight. Overall, the discussion reflects a broader debate about the future of AI and the realistic expectations surrounding AGI.

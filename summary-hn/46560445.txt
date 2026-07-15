@@ -1,0 +1,8 @@
+“Erdos problem #728 was solved more or less autonomously by AI”  (619 pts, 336 comments)
+https://news.ycombinator.com/item?id=46560445
+
+The Hacker News discussion revolves around the recent achievement of AI in solving a specific mathematical problem, Erdos problem #728, largely autonomously. The original post highlights the implications of AI's capabilities in mathematics, particularly how it can reconfigure existing proofs and assist mathematicians in novel ways, potentially transforming the field.
+
+In the comments, there is a consensus on the potential of AI to enhance mathematical research by automating tedious tasks and providing new perspectives. Some users express excitement about the concept of "scientific refactoring," where AI could explore alternative mathematical frameworks or constants, like using tau instead of pi. However, there is also skepticism regarding the practicality of such changes and the challenges of verifying AI-generated proofs. Notably, discussions touch on the limitations of academic publishing and the vast amount of unrecorded knowledge in science, suggesting that AI could help bridge these gaps.
+
+Overall, the conversation reflects a mix of optimism about AI's role in advancing mathematics and caution regarding the complexities of integrating AI-generated insights into established academic practices.

@@ -1,0 +1,8 @@
+Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts  (58 pts, 9 comments)
+https://news.ycombinator.com/item?id=47160526
+
+The Hacker News discussion revolves around the introduction of ZSE (Z Server Engine), an open-source LLM inference engine designed to improve memory efficiency and reduce cold start times for large language models (LLMs). The creator highlights that ZSE can run a 32B model using only 19.3 GB of VRAM, significantly less than the typical requirement, and achieves cold start times of 3.9 seconds for a 7B model and 21.4 seconds for a 32B model, which is a substantial improvement over existing solutions.
+
+In the comments, users express enthusiasm for ZSE's capabilities, particularly its memory efficiency and cold start performance, which are critical for production deployments. Some users inquire about specific technical details, such as GPU support for Apple M series processors and the nature of the quantization used. There is also a discussion about the challenges faced in related online communities, with some commenters lamenting the decline in quality discussions on platforms like Reddit.
+
+Overall, the sentiment is positive, with many users eager to try ZSE for their projects, while also seeking clarifications on its technical aspects and compatibility with different hardware setups.

@@ -1,0 +1,8 @@
+Claws are now a new layer on top of LLM agents  (412 pts, 866 comments)
+https://news.ycombinator.com/item?id=47096253
+
+The Hacker News discussion revolves around the concept of "Claws," a new layer on top of LLM (Large Language Model) agents, as introduced by Andrej Karpathy. The term refers to AI agents that operate on personal hardware, utilizing messaging protocols to execute tasks autonomously. The discussion highlights the potential benefits and limitations of using Claws, particularly in relation to local versus cloud-based LLMs.
+
+In the comments, there is a debate about the practicality of running Claws on personal devices like Mac Minis versus cloud solutions. Some users argue that local models are slow and cumbersome, while others emphasize the advantages of unified memory in Apple Silicon for handling large models. There is also skepticism about the term "Claws," with some commenters believing it lacks appeal and may not endure in the long term.
+
+Notable insights include the idea that Claws could automate mundane tasks like email sorting, thus functioning in the background rather than requiring constant supervision. However, there are concerns about the reliability and quality of LLMs, with some users preferring to experiment with frontier research models for better output. Overall, the discussion reflects a mix of enthusiasm and skepticism about the future of Claws and their integration into everyday technology.

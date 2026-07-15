@@ -1,0 +1,8 @@
+Large Language Model Reasoning Failures  (40 pts, 82 comments)
+https://news.ycombinator.com/item?id=47098839
+
+The Hacker News discussion revolves around a paper titled "Large Language Model Reasoning Failures," which examines the limitations of large language models (LLMs) in reasoning tasks. The authors argue that LLMs fail in various areas typically associated with human-like reasoning, such as moral reasoning and basic counting, emphasizing that these models should not be anthropomorphized or expected to exhibit human-like cognitive abilities.
+
+In the comments, there is a mix of agreement and debate regarding the expectations placed on LLMs. Some users argue that it is unreasonable to expect LLMs to reason like humans, given their static nature post-training. Others highlight the dangers of over-anthropomorphizing these systems, suggesting that they are marketed as more capable than they truly are. There are also discussions about the potential for combining LLMs with neurosymbolic systems to enhance reasoning capabilities, though opinions vary on the feasibility and effectiveness of such approaches.
+
+Notable insights include the recognition that while LLMs can exhibit some form of reasoning, it is fundamentally different from human reasoning and often fragile. Some commenters express skepticism about the claims made in the paper, arguing that the limitations observed may not apply universally to all LLMs, especially as new models continue to emerge. Overall, the discussion reflects a critical examination of the capabilities and limitations of LLMs in the context of reasoning.

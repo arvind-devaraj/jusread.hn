@@ -1,0 +1,8 @@
+How to choose between Hindley-Milner and bidirectional typing  (153 pts, 49 comments)
+https://news.ycombinator.com/item?id=47025885
+
+The Hacker News discussion revolves around the article "How to choose between Hindley-Milner and bidirectional typing," which explores the trade-offs between these two type inference systems in programming languages. The author discusses when to use each approach, particularly in relation to features like generics and subtyping.
+
+In the comments, there is a mix of agreement and debate regarding the suitability of Hindley-Milner (HM) versus bidirectional typing. Some commenters suggest that HM can be limiting in languages that require generics or subtyping, while others argue that HM can handle subtyping effectively with techniques like row polymorphism. There is also a discussion about the practical implications of type systems in popular languages, with some suggesting that messy type systems often arise from historical design choices rather than conscious decisions.
+
+Notable insights include the importance of understanding type systems for language design and the complexities involved in implementing type inference. Some commenters reflect on their personal experiences with type theory, emphasizing the value of academic exploration in this field. Overall, the conversation highlights the nuanced considerations developers must weigh when choosing a type system for their programming languages.

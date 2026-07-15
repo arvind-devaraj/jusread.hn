@@ -1,0 +1,8 @@
+Show HN: I built a tool to create AI agents that live in iMessage  (54 pts, 32 comments)
+https://news.ycombinator.com/item?id=46484808
+
+The post introduces Flux, a tool that allows users to create AI agents that operate within iMessage. The creator, frustrated with the clutter of AI apps on their phone, designed Flux to leverage the frequent use of iMessage for seamless interaction with AI. Users can define a personality for the agent and have it ready in about two minutes without needing to download an app.
+
+In the comments, users express mixed feelings about the tool. Some are curious about its functionality and security, with concerns about permissions and the verification process. Others critique the AI's responses, describing them as overly casual or unhelpful, likening the agents to teenagers in their conversational style. There are also discussions about the potential risks of using such a tool within iMessage, including possible violations of Apple's terms of service.
+
+Notable insights include the recognition that while the concept of integrating AI into messaging is appealing, the execution may need refinement. Users also highlight the importance of user experience and the need for clearer communication about how the tool works. Overall, the discussion reflects a blend of curiosity, skepticism, and a desire for improvement in AI interactions.

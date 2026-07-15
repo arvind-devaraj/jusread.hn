@@ -1,0 +1,8 @@
+Tree Search Distillation for Language Models Using PPO  (87 pts, 10 comments)
+https://news.ycombinator.com/item?id=47383059
+
+The Hacker News discussion revolves around a blog post titled "Tree Search Distillation for Language Models Using PPO," which explores the use of Monte Carlo Tree Search (MCTS) combined with Proximal Policy Optimization (PPO) for improving language model performance. The author discusses how MCTS can enhance training by generating high-quality samples, which are then distilled into model weights using PPO.
+
+In the comments, there is a debate about the inference costs associated with MCTS compared to GRPO, with some users expressing confusion about whether MCTS is applied during training or inference. Others question the popularity of MCTS as a test-time compute method and whether it was compared against other techniques like "best of N." Additionally, there are discussions about the credibility of research that predominantly uses the Qwen-2.5 model, with some commenters arguing that it simplifies comparisons across studies, while others express skepticism about its impact on credibility.
+
+Notable insights include the suggestion that MCTS could be beneficial for coding tasks when paired with a smart execution harness, and a general acknowledgment of the complexities surrounding the term "harness," which varies in meaning across different contexts. Overall, the discussion highlights both technical aspects of the research and broader concerns about methodology and credibility in the field of reinforcement learning.

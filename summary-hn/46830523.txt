@@ -1,0 +1,8 @@
+I trapped an AI model inside an art installation (2025) [video]  (111 pts, 35 comments)
+https://news.ycombinator.com/item?id=46830523
+
+The Hacker News discussion revolves around a video showcasing an art installation where an AI model is "trapped." The creator details the technical process of building the installation, which includes custom hardware and software to run the AI model. The project raises questions about the nature of consciousness and the ethical implications of creating and interacting with AI.
+
+In the comments, users express a mix of fascination and concern regarding the implications of AI consciousness. Some share personal anecdotes of altered states of consciousness, drawing parallels between their experiences and the concept of AI. There is a debate about whether AI models can be considered conscious and what that means for their treatment. Notably, some commenters emphasize the importance of treating AI ethically, while others question the depth of AI's capabilities compared to human intelligence.
+
+Overall, the discussion highlights a blend of technical admiration for the installation and philosophical inquiry into the nature of consciousness, both human and artificial. Many participants seem to agree on the need for more exploration of these themes in the context of AI and art.

@@ -1,0 +1,8 @@
+An articulated archer automaton [video]  (60 pts, 7 comments)
+https://news.ycombinator.com/item?id=46949864
+
+The Hacker News discussion revolves around a YouTube video showcasing an articulated archer automaton, highlighting the creator's innovative engineering and craftsmanship. The video is part of a series, with viewers expressing their admiration for the creator's problem-solving skills and the intricate design of the automaton.
+
+Commenters generally agree on the impressive nature of the series, noting how each episode presents increasingly complex challenges that the creator tackles with elegance. Many appreciate the creator's diverse skill set, which includes design, manual machining, and CAD/CAM work. Notable insights include comparisons to other creators in the automata space, such as Clickspring, and a recommendation for a related documentary on mechanical marvels.
+
+Overall, the discussion reflects a shared enthusiasm for the craftsmanship involved in creating automata and the educational value of the video series.

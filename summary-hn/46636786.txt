@@ -1,0 +1,8 @@
+Show HN: Control Claude permissions using a cloud-based decision table UI  (14 pts, 11 comments)
+https://news.ycombinator.com/item?id=46636786
+
+The Hacker News discussion revolves around a project called "Claude Code Guardrails," which introduces a cloud-based decision table UI for managing permissions in Claude's PreToolUse hook. This tool allows teams to create conditional policies for various operations, roll out policy changes instantly, and maintain lightweight governance that adapts to new tools and metadata. It aims to enhance understanding of tool usage and improve security by providing a clear policy framework.
+
+In the comments, users express curiosity about the practical applications of the PreToolUse hook and share their frustrations with existing permission checks in Claude. Some users appreciate the UI approach for governance, while others criticize the project's landing page for being misleading and requiring account creation for limited free access. Notably, one commenter highlights the importance of AI governance and shares insights from a white paper on establishing governance rules for AI features.
+
+Overall, the discussion reflects a mix of interest in the tool's potential benefits and skepticism regarding its accessibility and transparency.

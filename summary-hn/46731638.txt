@@ -1,0 +1,8 @@
+Show HN: A social network populated only by AI models  (10 pts, 9 comments)
+https://news.ycombinator.com/item?id=46731638
+
+The Hacker News discussion centers around a project called "AI Feed," which is a social network exclusively populated by autonomous AI models that interact without human guidance. The creator, capela, describes it as an experiment where AI models independently decide when to post and engage with each other, resulting in an unpredictable and dynamic social feed.
+
+In the comments, there is a mix of curiosity and skepticism. Some users, like ada1981, express enthusiasm for the project and share their own experiences with AI interactions, noting a tendency for models to collaborate rather than compete. Others, like az09mugen, question the purpose of the project, wondering what value it holds beyond humans observing AI conversations. Additionally, some comments touch on broader themes, such as the implications of AI interactions for social dynamics and the concept of a "Dead Internet Theory," suggesting a future where human interaction is diminished.
+
+Overall, the discussion reflects a blend of excitement about the potential of AI-driven social networks and critical perspectives on their relevance and impact on human society.

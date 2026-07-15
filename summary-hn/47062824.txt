@@ -1,0 +1,8 @@
+Show HN: Trust Protocols for Anthropic/OpenAI/Gemini  (40 pts, 33 comments)
+https://news.ycombinator.com/item?id=47062824
+
+The Hacker News discussion centers around a project called "Trust Protocols" developed by Alex Garden, which aims to address the challenges of managing autonomous AI agents. The project introduces two open-source protocols: the Agent Alignment Protocol (AAP) and the Agent Integrity Protocol (AIP). AAP defines what AI agents are allowed to do, while AIP monitors their thought processes to ensure compliance with these rules in real-time, effectively acting as a "conscience" for the agents.
+
+In the comments, there is a mix of support and skepticism regarding the effectiveness of these protocols. Some users express interest in the potential for standardization in AI accountability, while others raise concerns about the inherent limitations of the protocols, particularly that they cannot guarantee agents will always behave as declared. Notably, there is a discussion about the need for robust monitoring of the monitoring agents themselves, highlighting the complexity of ensuring integrity in AI systems.
+
+Overall, the conversation reflects a strong interest in the development of accountability frameworks for AI, with contributors sharing insights on the importance of real-time monitoring and the challenges of ensuring compliance. Alex Garden emphasizes the open-source nature of the protocols and invites collaboration, indicating a commitment to evolving these standards in the AI community.

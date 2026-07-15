@@ -1,0 +1,8 @@
+If AI writes code, should the session be part of the commit?  (497 pts, 391 comments)
+https://news.ycombinator.com/item?id=47212355
+
+The Hacker News discussion revolves around the idea proposed by a user named mandel_x, who created a tool called git-memento that attaches AI session transcripts to Git commits. This aims to preserve the context of AI-assisted code generation, which is often lost over time, leaving only the code diff for future reference. The tool is intended to help developers understand the reasoning and process behind the code, especially when debugging or reviewing changes months later.
+
+The comments reflect a mix of agreement and skepticism. Some users argue that while preserving AI session data could be beneficial, it may not be practical since many developers do not read code thoroughly. Others suggest that the existing tools for documenting changes, such as commit messages and code comments, are sufficient. There is also a debate about the non-deterministic nature of AI outputs, which complicates the idea of using session transcripts as definitive artifacts of the coding process.
+
+Notable insights include the recognition that AI's role in coding is evolving, and tools like git-memento could play a significant part in this transition. However, there is concern about whether developers will engage with these tools effectively, given the tendency to prioritize speed over thoroughness in coding practices. Overall, the discussion highlights the challenges and potential of integrating AI into software development workflows.

@@ -1,0 +1,8 @@
+Intelligence is a commodity. Context is the real AI Moat  (126 pts, 107 comments)
+https://news.ycombinator.com/item?id=47205009
+
+The Hacker News discussion revolves around the idea presented in the article "Intelligence is a commodity. Context is the real AI Moat," which argues that while AI models are becoming commoditized, the unique context and accumulated knowledge within organizations are what will provide competitive advantages. The article highlights the importance of capturing and encoding this context to enhance enterprise AI applications.
+
+In the comments, there is a consensus that the decreasing costs of AI models raise questions about the sustainability of traditional competitive moats based solely on model quality. Users debate the nature of the "context layer" that adds value, with some suggesting it involves structured artifacts like process documents and decision logs. Others express skepticism about the commoditization narrative, pointing to the continued growth and profitability of leading AI companies.
+
+Notable insights include the recognition that the future of AI may lead to significant societal changes, including the potential for a class hierarchy based on social abilities rather than economic value. Some commenters express concerns about the implications of an AI-dominated society, questioning the role of humans and the potential for societal decay in the absence of meaningful human interaction. Overall, the discussion reflects a mix of optimism about AI's capabilities and apprehension about its societal impacts.

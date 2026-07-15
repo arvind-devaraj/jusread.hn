@@ -1,0 +1,8 @@
+Agent Skills  (544 pts, 258 comments)
+https://news.ycombinator.com/item?id=46871173
+
+The Hacker News discussion revolves around the concept of "skills" in the context of large language models (LLMs) and their integration into products. The original post emphasizes a shift in perspective, suggesting that LLMs should be viewed as users of products rather than just features. This change in mindset highlights the importance of making products discoverable and usable by agents, akin to SEO and accessibility.
+
+In the comments, there is a mix of agreement and debate regarding the effectiveness of skills. Some users express frustration that agents often do not utilize skills as expected, even when they are available. Others argue that the design and organization of skill documentation play a crucial role in their usability. Notably, there is a consensus that better documentation and clearer categorization can enhance the effectiveness of skills, with some users sharing their own approaches to improving skill accessibility.
+
+Overall, the discussion reveals a growing recognition of the need for improved technical writing and documentation in the age of LLMs, as well as the challenges faced in ensuring that agents effectively leverage these skills.

@@ -1,0 +1,8 @@
+Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)  (71 pts, 42 comments)
+https://news.ycombinator.com/item?id=46557823
+
+The Hacker News discussion centers around a project called EuConform, an open-source tool designed to help developers comply with the EU AI Act. The tool emphasizes offline functionality and includes features like risk classification, bias evaluation, and automated reporting, all without relying on cloud services. The creator seeks feedback on the practicality of this technical approach to AI regulation.
+
+In the comments, there is a mix of appreciation for the project's relevance and concerns about its name, which some interpret as having a negative connotation. Discussions also touch on the use of coding assistants in development, with differing opinions on whether this should be disclosed. Some commenters express skepticism about the EU's regulatory environment, labeling it as "anti-business," while others argue that regulations are essential for consumer protection and fair competition.
+
+Notable insights include a recognition of the cultural differences in regulatory perceptions between Europe and other regions, as well as a humorous take on the bureaucratic nature of compliance tools. Overall, the conversation reflects a blend of support for the project's goals and critique of the regulatory landscape it aims to navigate.

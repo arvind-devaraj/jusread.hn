@@ -1,0 +1,8 @@
+The First Fully General Computer Action Model  (345 pts, 79 comments)
+https://news.ycombinator.com/item?id=47125014
+
+The Hacker News discussion revolves around a post detailing a new model for computer action prediction, termed the "First Fully General Computer Action Model." This model is trained on a vast dataset of 11 million hours of computer video, aiming to understand and predict user actions across various applications. The developers emphasize the model's ability to handle complex input types, including mouse movements and keyboard actions, and its potential for generalization across different software environments.
+
+In the comments, users express curiosity about specific technical choices, such as the use of masked diffusion and the performance of different loss functions like CTC and cross-entropy. There is a consensus on the model's impressive capabilities, particularly in its handling of mouse movements and its potential applications in CAD and gaming. However, some commenters question the lack of benchmark comparisons with existing models and seek clarity on the model's training process and fine-tuning data.
+
+Notable insights include discussions on the importance of generative approaches for modeling user actions and the challenges of generalizing across different user interfaces. Commenters also highlight the innovative techniques used, such as exponential binning for mouse input, and express excitement about the model's future applications and potential for further development. Overall, the discussion reflects a mix of enthusiasm and critical inquiry into the model's methodologies and implications.

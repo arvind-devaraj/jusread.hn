@@ -1,0 +1,8 @@
+Top AI models fail at >96% of tasks  (24 pts, 10 comments)
+https://news.ycombinator.com/item?id=46928172
+
+The Hacker News discussion revolves around a study that found top AI models, including popular large language models (LLMs) like Opus, GPT, Gemini, and Grok, failed to complete over 96% of tasks sourced from the freelance platform Upwork. The study aimed to establish a benchmark for AI performance on real-world remote work tasks, highlighting significant limitations in current AI capabilities.
+
+In the comments, there is some debate about the specific models tested, with one commenter noting that Opus was not included in the initial analysis. Others express skepticism about the models' ability to handle programming tasks, suggesting that AI is not yet ready to replace human programmers. A few commenters argue that the poor performance across the board indicates randomness rather than any meaningful capability, while others point out that the least known model performed better than expected, raising questions about the rapid advancements in AI technology.
+
+Overall, the discussion reflects a mix of skepticism about current AI performance, acknowledgment of the rapid evolution of AI capabilities, and a recognition that while AI may struggle with complex tasks today, it is still evolving quickly.

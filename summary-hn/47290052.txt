@@ -1,0 +1,8 @@
+OpenAI robotics leader resigns over concerns on surveillance and auto-weapons  (25 pts, 5 comments)
+https://news.ycombinator.com/item?id=47290052
+
+The Hacker News discussion centers around the resignation of Caitlin Kalinowski, OpenAI's robotics leader, who left due to concerns regarding the implications of AI in surveillance and autonomous weapons, particularly in relation to military applications. This resignation is part of a broader trend of talent leaving OpenAI, as noted by a commenter tracking such moves.
+
+In the comments, there is a consensus on the long-standing challenges of AI alignment and governance, with some users reflecting on how these issues have evolved over time. One commenter highlights the shift from theoretical concerns about superintelligence to real-world applications that could lead to dangerous outcomes. There is also a sense of urgency regarding the pace of decision-making in AI development, suggesting that the integration of AI into critical areas like military technology may outstrip our ability to manage its consequences effectively.
+
+Overall, the discussion underscores a growing unease within the AI community about the ethical implications of AI technologies, particularly in contexts that could lead to surveillance and warfare.

@@ -1,0 +1,8 @@
+Why I don't think AGI is imminent  (138 pts, 306 comments)
+https://news.ycombinator.com/item?id=47028923
+
+The post titled "Why I don't think AGI is imminent" argues against the idea that artificial general intelligence (AGI) is on the verge of being achieved. The author suggests that while advancements in AI are significant, true AGI—capable of performing any intellectual task that a human can—remains a decade or more away.
+
+In the comments, there is a lively debate about the current state of AI and its potential trajectory. Some users, like mikewarot and ryanSrich, argue that we may already have forms of weak AGI or that AGI is closer than we think, particularly in the realm of white-collar work. Others, such as hermitShell and dimitri-vs, express skepticism about the immediacy of AGI, suggesting that it may be a gradual evolution rather than a sudden leap. A recurring theme is the distinction between weak and strong AI, with some commenters emphasizing that current AI lacks the self-improving capabilities that define true AGI.
+
+Notable insights include the recognition that while AI can outperform humans in specific tasks, it still lacks the general intelligence and adaptability of human cognition. Additionally, there are concerns about the societal implications of AI, including job displacement and the potential for a future where humans are relegated to menial tasks. Overall, the discussion reflects a mix of optimism and caution regarding the future of AI and its impact on humanity.

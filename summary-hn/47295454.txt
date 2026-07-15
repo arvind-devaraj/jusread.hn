@@ -1,0 +1,8 @@
+New Research Reassesses the Value of Agents.md Files for AI Coding  (20 pts, 25 comments)
+https://news.ycombinator.com/item?id=47295454
+
+The Hacker News discussion revolves around a recent research paper that reevaluates the effectiveness of AGENTS.md files—context files intended to guide AI coding agents. The research suggests that while human-generated context can enhance performance, machine-generated AGENTS.md files may lead to decreased efficiency, as they can increase token usage without providing meaningful benefits.
+
+In the comments, there is a mix of agreement and debate regarding the utility of AGENTS.md files. Some users argue that these files are beneficial when crafted well, while others believe they may become obsolete as AI agents evolve to possess better judgment. A recurring theme is the need for human oversight in creating these files, as poorly generated context can lead to inefficiencies and "fake thinking." Notably, some commenters emphasize the importance of project-specific documentation to prevent confusion and ensure consistency, while others advocate for more focused, task-specific instructions rather than broad AGENTS.md files.
+
+Overall, the discussion highlights the complexity of integrating AI into coding practices and the ongoing need for research and refinement in how context files are utilized to optimize AI performance.

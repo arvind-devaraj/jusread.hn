@@ -1,0 +1,8 @@
+Why I Joined OpenAI  (222 pts, 183 comments)
+https://news.ycombinator.com/item?id=46920487
+
+The Hacker News discussion revolves around Brendan Gregg's blog post titled "Why I Joined OpenAI," where he shares his motivations for joining the organization. The post highlights his extensive interview process with various AI companies and his belief in the potential for AI to address significant global challenges, including environmental issues.
+
+In the comments, there is a mix of agreement and skepticism regarding Gregg's motivations. Some users express admiration for his talent and the notion that he could choose any opportunity, while others question the sincerity of his claims about joining for altruistic reasons, suggesting that financial incentives played a significant role. A recurring theme is the belief that improvements in AI efficiency will not necessarily lead to reduced resource consumption, as increased efficiency often drives greater demand.
+
+Notable insights include a critique of the tech industry's tendency to frame profit-driven motives as efforts to "save the planet," with some commenters drawing parallels to other industries that have made similar claims. The discussion reflects a broader concern about the ethical implications of AI development and the potential for companies to prioritize profit over societal benefits.

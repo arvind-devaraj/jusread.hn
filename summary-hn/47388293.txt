@@ -1,0 +1,8 @@
+Pretraining Language Models via Neural Cellular Automata  (92 pts, 18 comments)
+https://news.ycombinator.com/item?id=47388293
+
+The Hacker News discussion revolves around a blog post titled "Pretraining Language Models via Neural Cellular Automata," which explores a novel approach to training language models. The post suggests shifting the focus from traditional token prediction to modeling state evolution through neural cellular automata, allowing for emergent structures from local updates rather than predefined encodings.
+
+In the comments, there is a debate about the implications of this approach, particularly regarding the nature of reasoning and knowledge acquisition. Some users express concern about the assumption that all knowledge is learned post-birth, with others arguing that organisms come with innate understandings or instincts. There is also discussion about the importance of structure versus semantics in pre-training models, with some commenters emphasizing that understanding logical structures (like "If A then B") may be more critical than grasping the meanings of specific terms.
+
+Notable insights include the idea that pre-training could benefit from synthetic data to avoid human biases, and the recognition that the model's ability to infer latent rules in context is crucial for its reasoning capabilities. Overall, the conversation reflects a blend of theoretical exploration and practical considerations in the evolving field of language model training.

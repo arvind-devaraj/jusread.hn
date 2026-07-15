@@ -1,0 +1,8 @@
+Show HN: I'm building an AI-proof writing tool. How would you defeat it?  (24 pts, 30 comments)
+https://news.ycombinator.com/item?id=46799402
+
+The Hacker News discussion revolves around a project titled "AI-proof writing tool," which aims to create a system that can detect AI-generated text. The creator seeks feedback on potential methods to defeat this tool, prompting a lively exchange among commenters about the feasibility of such defenses.
+
+The main points of debate include the effectiveness of the tool's tracking mechanisms, such as monitoring typing speed and pauses, and whether these can be circumvented. Many commenters suggest various methods to bypass the tool, including using scripts to simulate human typing, employing hardware solutions like microcontrollers, and even using smartphones to input AI-generated text discreetly. There is a consensus that while the tool may deter casual users, motivated individuals can easily find ways to cheat.
+
+Notable insights include the acknowledgment that no electronic system can be completely foolproof against determined users. Some commenters humorously suggest that the only truly "AI-proof" writing method is traditional pen and paper. Others highlight the potential for advanced techniques like eye tracking, though concerns about privacy and accessibility arise. Overall, the discussion underscores the challenges of distinguishing between human and AI-generated content in a digital age.

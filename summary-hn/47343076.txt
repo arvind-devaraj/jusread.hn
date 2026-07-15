@@ -1,0 +1,8 @@
+Nvidia Will Spend $26B to Build Open-Weight AI Models  (28 pts, 9 comments)
+https://news.ycombinator.com/item?id=47343076
+
+The Hacker News discussion revolves around Nvidia's announcement that it will invest $26 billion to develop open-weight AI models. This move is seen as a strategy to maintain momentum in the AI sector, which some participants view as a bubble. 
+
+In the comments, there is a debate about the current state of AI advancements, with some users expressing skepticism about recent progress, while others highlight significant developments, particularly with models like Claude Code. There is a consensus that Nvidia's investment could encourage more open-source models from Western companies, especially in light of concerns about reliance on Chinese models. 
+
+Notably, one commenter emphasizes the distinction between "open-weight" and "open-training," advocating for transparency and modifiability in AI models rather than treating them as opaque black boxes. Overall, the discussion reflects a mix of optimism about AI's potential and caution regarding its commercialization and accessibility.

@@ -1,0 +1,8 @@
+Ask HN: What serious task have you accomplished with Moltbot / OpenClaw?  (12 pts, 6 comments)
+https://news.ycombinator.com/item?id=46850907
+
+The Hacker News discussion revolves around a user asking for examples of serious tasks accomplished using Moltbot or OpenClaw, tools designed to automate various tasks. The original poster is interested in hearing about impactful uses beyond simple automation, such as filing taxes or organizing travel plans.
+
+In the comments, users share personal experiences that highlight the practical benefits of these bots. For instance, one user mentions how their wife now uses a bot to send calendar invites, which has improved their scheduling. Another user describes how OpenClaw automates the extraction of important information from school emails, making it easier to stay organized. There is some debate about whether these tasks are "serious" enough, with one commenter expressing concern that if a simple bot can handle these tasks, it may not justify the deployment of more complex solutions.
+
+Overall, the discussion showcases a mix of enthusiasm for the automation capabilities of Moltbot and OpenClaw, along with a recognition of their potential to simplify everyday life, allowing users to focus on more meaningful activities.

@@ -1,0 +1,8 @@
+Golden Sets: Regression Engineering for Probabilistic Systems  (12 pts, 6 comments)
+https://news.ycombinator.com/item?id=47359822
+
+The Hacker News discussion revolves around a blog post titled "Golden Sets: Regression Engineering for Probabilistic Systems," which explores the concept of using "golden sets" as a method for evaluating and testing AI systems. The author emphasizes the importance of structured testing in AI development, contrasting it with the prevalent practice of shipping products without adequate evaluation.
+
+In the comments, there is a mix of agreement and critique. Some users appreciate the author's candid acknowledgment of the risks associated with shipping AI without proper testing, while others express frustration over the lack of clarity and coherence in the writing. One commenter highlights the common issue of developers relying on manual testing due to a lack of structured procedures, indicating a need for better tools and methodologies. Another commenter offers constructive feedback on the writing style, suggesting that the piece could benefit from a clearer format and tighter prose.
+
+Overall, the discussion underscores the tension between the necessity of rigorous testing in AI development and the reality that many practitioners still operate without it. There is a consensus on the need for improvement in both testing practices and the communication of ideas within the field.

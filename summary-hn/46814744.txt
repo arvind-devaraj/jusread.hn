@@ -1,0 +1,8 @@
+Show HN: Transcribee: YouTube transcriber that builds a knowledge base  (22 pts, 5 comments)
+https://news.ycombinator.com/item?id=46814744
+
+The Hacker News discussion centers around "Transcribee," a tool designed to transcribe YouTube videos and build a knowledge base. The creator, Fabio Roma, recently updated the tool to also support Instagram Reels and shared his enthusiasm for its performance, particularly in integration with other bots like Clawdbot and Moltbot.
+
+In the comments, there are a few key points of debate. One user expressed disappointment over the absence of an open-source software (OSS) license, prompting Fabio to commit to adding an MIT license. Another commenter raised concerns about the tool's reliance on a paid third-party transcription service, questioning its classification as a true transcribing app. Fabio clarified that while he chose ElevenLabs for its quality, users are free to implement other options, inviting contributions to enhance the tool's flexibility.
+
+Overall, the discussion highlights a mix of enthusiasm for the tool's functionality and concerns about its licensing and dependency on external services. Fabio's openness to feedback and collaboration is a notable aspect, as he encourages community involvement in improving Transcribee.

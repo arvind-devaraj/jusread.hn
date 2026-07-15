@@ -1,0 +1,8 @@
+Show HN: Figma-use – CLI to control Figma for AI agents  (115 pts, 37 comments)
+https://news.ycombinator.com/item?id=46665169
+
+The Hacker News discussion centers around a project called Figma-use, a command-line interface (CLI) developed by Dan that enables AI agents to design in Figma. The CLI offers around 100 commands for creating and modifying design elements, significantly improving performance compared to existing solutions. Dan created this tool to overcome limitations of Figma's official API, which is read-only and cumbersome for AI-driven design tasks.
+
+In the comments, users express a mix of curiosity and skepticism about the CLI's capabilities. Some users inquire about specific design tasks, such as generating complex SVGs, while others discuss the broader implications of using CLI tools versus traditional methods. There is agreement on the efficiency of CLI tools, especially in terms of token usage compared to verbose JSON from Figma's MCP servers. However, concerns are raised about security and session management when using CLI tools, as well as the need for designers to adapt to new workflows involving AI.
+
+Notable insights include the potential for AI to streamline design processes and the importance of balancing technical knowledge with design expertise. Users also highlight the excitement around rapid prototyping using AI, suggesting that this could transform how designers work with tools like Figma. Overall, the discussion reflects a growing interest in integrating AI into design workflows, alongside caution regarding the challenges it may present.

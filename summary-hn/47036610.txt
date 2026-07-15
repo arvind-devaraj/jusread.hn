@@ -1,0 +1,8 @@
+Show HN: I built a "Socratic" AI to stop my daughter from copy-pasting homework  (35 pts, 39 comments)
+https://news.ycombinator.com/item?id=47036610
+
+The Hacker News discussion revolves around a developer and father who created an AI tool called Qurio, designed to help his daughter learn by engaging her in a Socratic questioning method rather than allowing her to simply copy-paste answers from AI like ChatGPT. The tool aims to introduce "Healthy Friction" into the learning process, encouraging children to think critically and solve problems independently.
+
+In the comments, there is a consensus on the importance of active engagement in learning, with users discussing the effectiveness of Socratic methods and the challenges of maintaining a balance between guidance and independence. Some commenters share their experiences with similar tools and emphasize the need for feedback mechanisms to assess user engagement and learning outcomes. Notably, the developer highlights the difficulty of testing multi-turn conversations and the concept of "Instruction Drift," where the AI might deviate from its intended purpose.
+
+Overall, the discussion showcases a shared interest in enhancing educational tools through AI while addressing the challenges of ensuring that these tools promote genuine learning rather than mere information retrieval. The developer's commitment to refining Qurio based on user feedback and his candidness about the tool's limitations resonate with the community's focus on practical applications of technology in education.

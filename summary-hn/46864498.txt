@@ -1,0 +1,8 @@
+How does misalignment scale with model intelligence and task complexity?  (242 pts, 77 comments)
+https://news.ycombinator.com/item?id=46864498
+
+The Hacker News discussion revolves around the complexities of AI alignment, particularly how misalignment scales with increasing model intelligence and task complexity. The original post highlights that as AI models become smarter, they tend to exhibit less coherent behavior, which raises questions about the nature of intelligence and coherence in decision-making.
+
+In the comments, there is a debate about the concepts of "domain valleys" and "tunneling" in cognitive processes, with some users interpreting these as the ability to connect disparate ideas across different fields. Others argue that true intelligence involves not just making connections but also discerning which connections are valid. There is a consensus that coherence in reasoning requires balancing opposing forces, and some commenters emphasize the importance of peer review and collaboration in achieving this coherence.
+
+Notable insights include the idea that larger models may improve accuracy but do not necessarily reduce incoherence, and the suggestion that effective reasoning involves a dynamic interplay of generating and pruning possibilities. Overall, the discussion reflects a deep engagement with the philosophical and practical implications of AI alignment and intelligence.

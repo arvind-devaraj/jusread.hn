@@ -1,0 +1,6 @@
+The Human Root of Trust – public domain framework for agent accountability  (32 pts, 15 comments)
+https://news.ycombinator.com/item?id=47100935
+
+The post discusses the "Human Root of Trust," a public domain framework aimed at addressing accountability in digital systems where AI agents operate autonomously, bypassing traditional human-centric identity checks. The author, Eduardo Vega, outlines a structure based on three pillars: proof of humanity, hardware-rooted device identity, and action attestation, along with a six-step trust chain leading to cryptographic receipts. He emphasizes that the framework is intended for public use without any commercial interests.
+
+In the comments, there is a mix of support and skepticism. Some users appreciate the framework's direction but question the practicality of its cryptographic elements in enterprise settings, arguing that current compliance frameworks do not support such measures. Others express concerns about the lack of accountability and traceability for actions taken by AI agents, highlighting the challenge of linking agent actions back to human authorization. Notably, Vega defends his work and clarifies that he intentionally omitted his name to allow the ideas to stand independently, while also addressing concerns about the framework's legitimacy and potential misuse for profit.

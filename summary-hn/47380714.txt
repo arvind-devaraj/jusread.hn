@@ -1,0 +1,8 @@
+Book: The Emerging Science of Machine Learning Benchmarks  (138 pts, 12 comments)
+https://news.ycombinator.com/item?id=47380714
+
+The Hacker News discussion centers around the book "The Emerging Science of Machine Learning Benchmarks," which explores the evolving landscape of benchmarks in machine learning. The preface of the book is available online, and several users express interest in reading it, particularly highlighting the credibility of the author, Moritz Hardt, a respected figure in the field.
+
+In the comments, there is a mix of admiration for Hardt's work and some light-hearted banter about his recognition. Users discuss the implications of benchmark overfitting and the importance of real-world applications in validating machine learning methods. One commenter notes that despite issues with benchmarks, the field continues to progress because ineffective methods tend to be discarded in practice. Another user suggests that the book's content could be condensed into a blog post, questioning the necessity of the term "crisis" used in the preface.
+
+Overall, the discussion reflects a shared respect for Hardt's contributions, a recognition of the challenges in benchmarking within machine learning, and varying opinions on the book's format and presentation.

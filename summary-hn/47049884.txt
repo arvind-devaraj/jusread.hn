@@ -1,0 +1,8 @@
+Ask HN: How do you motivate your humans to stop AI-washing their emails?  (30 pts, 35 comments)
+https://news.ycombinator.com/item?id=47049884
+
+The Hacker News discussion revolves around a user's concern about colleagues, including the CEO, relying on AI-generated content in their communications, which they refer to as "AI-washing." The user seeks strategies to encourage more authentic communication without directly confronting individuals, as this often leads to defensiveness.
+
+In the comments, there is a mix of agreement and skepticism regarding the feasibility of changing this behavior. Some commenters argue that the fear of job security drives employees to use AI, while others suggest that laziness and exhaustion are significant factors. A few propose practical solutions, such as establishing a "Clarity Standard" to promote clearer communication without explicitly banning AI use. Others highlight the need for cultural shifts within organizations to normalize transparency about AI usage and celebrate human contributions.
+
+Notable insights include the idea that the pressure to conform to AI usage stems from a broader workplace culture that values efficiency over authenticity. Additionally, some commenters emphasize that simply capping work hours or reducing expectations may not address the underlying issues, as employees might still resort to AI for productivity gains. Overall, the discussion reflects a complex interplay of fear, cultural norms, and the challenges of fostering genuine communication in an increasingly AI-driven environment.

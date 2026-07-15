@@ -1,0 +1,8 @@
+Every company building your AI assistant is now an ad company  (315 pts, 165 comments)
+https://news.ycombinator.com/item?id=47092203
+
+The Hacker News discussion revolves around an article titled "Every company building your AI assistant is now an ad company," which critiques the trend of integrating advertising into AI technologies. The post argues that as companies develop AI assistants, they increasingly prioritize ad revenue, raising concerns about privacy and trust.
+
+In the comments, there is a strong consensus that advertising in AI should be regulated or banned to prevent manipulative practices. Many users express distrust in corporations, fearing they will exploit user data for profit. Some commenters argue that government regulation is necessary, while others believe that both technology and regulation must work together to protect user privacy. Notably, there is skepticism about the ability of lawmakers, particularly older generations, to effectively regulate rapidly evolving technologies.
+
+Overall, the discussion highlights a growing concern about the implications of AI assistants becoming ad-driven, emphasizing the need for robust privacy protections and thoughtful regulation to safeguard users' rights in an increasingly digital landscape.

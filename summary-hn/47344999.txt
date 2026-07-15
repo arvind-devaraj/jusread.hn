@@ -1,0 +1,6 @@
+How much of HN is AI?  (102 pts, 56 comments)
+https://news.ycombinator.com/item?id=47344999
+
+The Hacker News discussion revolves around the increasing prevalence of AI-related content on the platform, as highlighted in a post questioning how much of HN is focused on AI. Users reflect on the noticeable shift in topics over the past two years, with many agreeing that AI has become a dominant theme, surpassing even the peak interest in crypto. Some commenters suggest that while the quantity of AI content has surged, the overall quality and type of discussions remain consistent with HN's ethos.
+
+A key point of debate is whether HN should create a separate category for AI posts, with some arguing that it would undermine the site's unique structure that avoids content silos. Others express concern about the potential impact of AI on human writing styles and the authenticity of user-generated content, pondering whether language might converge towards AI-generated mannerisms. Notably, there are worries about the implications of AI on creative expression and the future of human communication, as well as the broader societal effects of AI replacing certain jobs. Overall, the conversation reflects a mix of curiosity, concern, and a desire to maintain the integrity of discussions on HN amidst the AI boom.

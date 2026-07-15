@@ -1,0 +1,8 @@
+Show HN: WeaveMind – AI Workflows with human-in-the-loop  (15 pts, 5 comments)
+https://news.ycombinator.com/item?id=46932505
+
+The Hacker News discussion centers around WeaveMind, a new tool designed to create AI workflows that incorporate human oversight. The creator, who has extensive experience with large language models (LLMs), identified a common issue where AI workflows fail in production due to a lack of effective human intervention and flexibility in deployment options. WeaveMind aims to address these challenges by allowing human and AI nodes to work interchangeably within a visual workflow builder, pausing for human judgment when necessary. The tool is currently in early beta and is free to use with users' own API keys, with plans to open source it by Q2 2026.
+
+In the comments, users expressed curiosity and enthusiasm for the concept, highlighting the importance of human oversight in AI applications. There were questions about API compatibility, specifically whether users need to create an account with OpenRouter or can use existing OpenAI or Anthropic keys. The creator provided a workaround for using Anthropic keys through OpenRouter, indicating ongoing efforts to expand compatibility with other providers.
+
+Overall, the discussion reflects a positive reception of WeaveMind's approach to integrating human judgment into AI workflows, with users eager to learn more and provide feedback as the tool develops.

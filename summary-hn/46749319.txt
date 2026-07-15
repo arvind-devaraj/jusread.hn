@@ -1,0 +1,8 @@
+Tesla unsupervised Robotaxis are nowhere to be found  (69 pts, 38 comments)
+https://news.ycombinator.com/item?id=46749319
+
+The Hacker News discussion revolves around the absence of truly unsupervised Tesla Robotaxis, with users expressing skepticism about the company's claims regarding their autonomous capabilities. The original post highlights that reports suggest Tesla's Robotaxis are still being monitored by safety drivers in chase cars, rather than operating completely autonomously.
+
+In the comments, there is a consensus that Tesla's claims may be exaggerated, with users questioning the effectiveness of its Full Self-Driving (FSD) technology compared to competitors like Waymo. Some commenters suggest that the stock's high valuation is driven more by hype and speculation than by actual technological advancements. Others point out the emotional and irrational nature of market behavior, likening Tesla's situation to that of a "meme stock" or "snake oil salesman" scenario.
+
+Notable insights include the idea that public perception and belief in Elon Musk's vision may overshadow the reality of Tesla's technological progress. Some commenters also draw parallels between the current admiration for billionaires and historical religious fervor, suggesting a societal tendency to place faith in charismatic figures despite a lack of tangible results. Overall, the discussion reflects a mix of skepticism, frustration, and analysis of the broader implications of Tesla's claims and market performance.

@@ -1,0 +1,8 @@
+Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU  (360 pts, 123 comments)
+https://news.ycombinator.com/item?id=46546113
+
+The Hacker News discussion centers around Sopro TTS, a 169M model capable of zero-shot voice cloning that operates on CPU. The creator, Samuel Vitorino, shares the project on GitHub, highlighting its ability to generate speech without needing extensive training data for specific voices.
+
+In the comments, users express a mix of admiration and critique regarding the model's voice quality. Some users appreciate its capabilities, especially for projects without GPU access, while others argue that alternatives like Chatterbox-TTS offer significantly better output quality. There is a consensus that while Sopro TTS is impressive for a hobby project, it could benefit from further development to reduce artifacts and improve fidelity. The discussion also touches on the economics of training such models and the technical nuances of "zero-shot" voice cloning, with users seeking clarity on its definition and implications.
+
+Notably, the creator acknowledges the feedback and expresses openness to improving the model based on community response, indicating a willingness to iterate on the project despite its current limitations.

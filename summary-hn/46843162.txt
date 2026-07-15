@@ -1,0 +1,8 @@
+Show HN: OpenJuris – AI legal research with citations from primary sources  (18 pts, 10 comments)
+https://news.ycombinator.com/item?id=46843162
+
+The Hacker News discussion centers around OpenJuris, a new AI legal research tool that connects large language models (LLMs) directly to case law databases, aiming to reduce inaccuracies or "hallucinations" in legal citations by verifying them against primary sources. The tool is designed to provide lawyers with reliable legal references instead of relying solely on the model's training data.
+
+In the comments, users express skepticism about the tool's effectiveness and ethical implications, particularly questioning whether it is merely a superficial application of existing technology. Concerns are raised about the broader issue of hallucinations in AI, which can manifest not only in citations but also in the interpretation of legal cases. Some commenters emphasize the importance of grounding AI outputs in actual legal texts, while others highlight the challenges of vetting AI-generated information without extensive legal resources.
+
+Notable insights include the acknowledgment that while OpenJuris aims to address hallucinations, the complexity of legal language and the potential for errors remain significant challenges. Additionally, the discussion touches on the difficulties of accessing comprehensive legal databases, with users sharing their experiences and the need for innovative solutions in legal tech.

@@ -1,0 +1,8 @@
+Show HN: Retain – A unified knowledge base for all your AI coding conversations  (45 pts, 16 comments)
+https://news.ycombinator.com/item?id=46710756
+
+The Hacker News discussion revolves around a new tool called Retain, developed by Bayram Annakov. Retain is a macOS application designed to serve as a unified knowledge base for users who frequently engage in AI coding conversations with tools like Claude Code, ChatGPT, and Codex. It builds on the earlier CLI tool, claude-reflect, by offering features such as conversation aggregation and instant full-text search, all while keeping user data local in an SQLite database without relying on external servers.
+
+In the comments, users express interest in the tool, with some wishing for cross-platform compatibility, as they are on Windows or Linux. There is a general appreciation for the conversation aggregation and search capabilities, with some users finding it potentially superior to existing tools. However, there is some debate about the "local-first" approach, with questions about its implications and the nature of data handling. Bayram clarifies that the tool does not store user data on external servers, addressing concerns about data privacy.
+
+Overall, the discussion highlights a positive reception for Retain's features, with users eager to try it out, while also raising important questions about data privacy and cross-platform accessibility.

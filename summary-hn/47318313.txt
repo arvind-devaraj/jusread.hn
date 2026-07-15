@@ -1,0 +1,8 @@
+More agent tools and AI tools should be pricing on outcomes (2025)  (19 pts, 9 comments)
+https://news.ycombinator.com/item?id=47318313
+
+The Hacker News discussion revolves around the idea that AI and agent tools should adopt outcome-based pricing models, where customers pay based on the success or revenue generated from using these tools. The original post suggests that aligning company incentives with customer success could lead to better monetization strategies and overall growth.
+
+In the comments, there is a mix of agreement and skepticism. Some users, like _doctor_love, highlight that while companies often prioritize revenue growth, true customer success should be the ultimate goal. Others, like scuff3d, argue that current LLM companies are incentivized to keep users engaged for longer, rather than providing optimal outcomes quickly, which can lead to a "slot machine" effect. There are also discussions about the feasibility of implementing a royalty or contingency model, with some commenters noting that such models are common in industries like game development but may not translate well to AI tools due to the costs involved.
+
+Notable insights include the recognition that the effectiveness of outcome-based pricing depends heavily on the user's skill in utilizing the tools, as pointed out by quantum_state. Overall, the conversation reflects a broader debate about aligning business models with customer success in the rapidly evolving landscape of AI technologies.

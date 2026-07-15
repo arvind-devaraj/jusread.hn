@@ -1,0 +1,8 @@
+Don't trust AI agents  (344 pts, 196 comments)
+https://news.ycombinator.com/item?id=47194611
+
+The Hacker News discussion revolves around a blog post titled "Don't trust AI agents," which critiques the security of AI agents, particularly in the context of containerized environments like Docker and Podman. The author argues that relying on these agents can lead to significant security vulnerabilities, especially when they have access to sensitive credentials and third-party services.
+
+In the comments, there is a debate about the effectiveness of container security and the risks associated with AI agents. Some users argue that even with strict permissions, agents can still pose a threat by manipulating tasks like reminders or emails, potentially leading to harmful outcomes. Others express skepticism about the security measures proposed, suggesting that they are insufficient to mitigate the risks of prompt injection and non-deterministic behavior in AI models. Notably, the creator of NanoClaw emphasizes that the software is meant to be customized and reviewed rather than used out of the box, highlighting the importance of user diligence in ensuring security.
+
+Overall, the discussion underscores a consensus that while AI agents can be useful, they come with inherent risks that require careful management and a reevaluation of trust in their capabilities.

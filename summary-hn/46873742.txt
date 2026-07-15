@@ -1,0 +1,8 @@
+Show HN: I built "AI Wattpad" to eval LLMs on fiction  (32 pts, 24 comments)
+https://news.ycombinator.com/item?id=46873742
+
+The post introduces "Narrator," a platform designed to evaluate large language models (LLMs) based on their ability to generate engaging serialized fiction. The creator, who has a background in webfiction, highlights the challenges of assessing creative writing, noting that traditional benchmarks often isolate aspects of storytelling rather than considering the holistic reader experience. Narrator aims to fill this gap by measuring reader engagement through metrics like views, time spent reading, and ratings, effectively creating an "AI Wattpad" for LLM-generated stories.
+
+In the comments, users express mixed opinions about the platform. Some criticize the user interface and the quality of the generated stories, describing them as poorly written and incoherent. Others appreciate the concept but question the reliability of the evaluation methods and the selection of models used. Notably, there is a debate about the value of AI-generated content versus human creativity, with some commenters advocating for human involvement in the writing process to ensure quality.
+
+Overall, the discussion reflects a broader skepticism about the capabilities of AI in creative writing, with some users acknowledging the potential for improvement while others remain unconvinced of its viability. The creator is actively seeking feedback and collaboration to enhance the platform and its outputs.

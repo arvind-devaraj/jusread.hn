@@ -1,0 +1,8 @@
+Building voice agents with Nvidia open models  (126 pts, 20 comments)
+https://news.ycombinator.com/item?id=46528045
+
+The Hacker News discussion revolves around building voice agents using Nvidia's open models, as highlighted in a blog post. Users share their experiences with various text-to-speech (TTS) tools, comparing older systems like Festival with modern alternatives such as Piper and Magpie-TTS. The conversation touches on the capabilities of these tools, particularly in enhancing voice interactions and their application in personal projects.
+
+A key point of agreement is the effectiveness of newer models in providing smoother command-by-voice interactions, with several users expressing excitement about integrating these technologies into their own frameworks. There is also a debate about hardware compatibility, particularly regarding support for Nvidia's Ampere architecture, with some users successfully modifying existing setups to run on newer GPUs. Notably, a user shared their experience of forking a repository to achieve better performance on their 3090 rig, while others discussed the nuances of speech versus voice recognition, emphasizing the importance of clarity in terminology.
+
+Overall, the discussion reflects a growing interest in leveraging advanced voice technologies for practical applications, with users eager to explore their potential in various contexts, including language learning and personal assistant frameworks.

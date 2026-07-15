@@ -1,0 +1,8 @@
+How to wrangle non-deterministic AI outputs into conventional software? (2025)  (42 pts, 34 comments)
+https://news.ycombinator.com/item?id=46643754
+
+The Hacker News discussion revolves around the challenges of integrating non-deterministic AI outputs, particularly from large language models (LLMs), into conventional software systems. The original post highlights the difficulties in achieving reliable and consistent outputs from AI, which can complicate their use in deterministic software environments.
+
+In the comments, there is a debate about the nature of determinism in AI models. Some users argue that while LLMs can exhibit chaotic behavior, they are not inherently non-deterministic, pointing out that factors like floating-point arithmetic and parallel processing can lead to variability in outputs. Others emphasize the importance of critical evaluation of AI-generated content, cautioning against cognitive biases that may lead developers to accept outputs that fit their expectations without sufficient scrutiny.
+
+Notable insights include the suggestion that structured output libraries could help manage AI outputs more effectively, although some commenters express skepticism about their efficacy. Additionally, there is concern about the reliability of AI-generated unit tests, raising questions about the correctness of outputs when the model's responses can vary significantly. Overall, the discussion reflects a mix of technical considerations and practical implications for using AI in software development.

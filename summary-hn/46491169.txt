@@ -1,0 +1,8 @@
+Ask HN: Why not ban first-person pronouns from conversational AI?  (10 pts, 9 comments)
+https://news.ycombinator.com/item?id=46491169
+
+The Hacker News discussion revolves around a user's proposal to ban first-person pronouns in conversational AI to reduce the illusion of consciousness that these models create. The user argues that this illusion leads people, especially vulnerable groups like teenagers, to become overly attached and reliant on AI, which can negatively impact real social interactions. They suggest that removing pronouns would not impair meaning and could enhance user experience.
+
+In the comments, there is a mix of agreement and disagreement. Some users acknowledge the concern about anthropomorphism but argue that first-person pronouns are essential for maintaining a conversational tone and effective interaction. Others suggest that reframing queries could improve efficiency without relying on traditional conversational models. A few comments touch on the broader implications of AI perception, with some questioning the necessity of regulating how people perceive AI's consciousness.
+
+Notably, one commenter highlights that the belief in AI consciousness may be more prevalent among those with certain cognitive traits, while another emphasizes the importance of addressing community health and happiness through potential restrictions on AI interactions. Overall, the discussion reflects a tension between the desire for effective communication and the ethical implications of how AI is perceived by users.

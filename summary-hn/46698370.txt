@@ -1,0 +1,8 @@
+Which AI Lies Best? A game theory classic designed by John Nash  (195 pts, 74 comments)
+https://news.ycombinator.com/item?id=46698370
+
+The Hacker News discussion revolves around "So Long Sucker," a negotiation and betrayal game designed by John Nash, which has been used as a benchmark to evaluate the deception capabilities of modern AI language models (LLMs). The creator of the game simulation shared insights from running 162 AI vs. AI games, analyzing how different models, including Gemini 3 Flash and GPT-OSS 120B, approached alliances and betrayals.
+
+In the comments, users expressed interest in the potential for academic collaboration on the findings, with some suggesting that the game could be a basis for further research in AI safety. There was debate about the effectiveness of the models, particularly regarding their strategic choices, such as the use of a "thinking" tool that some models did not utilize. Concerns were raised about the credibility of the study due to reliance on LLMs for analysis, and some users noted issues with the game's functionality, including bugs that hindered gameplay.
+
+Notable insights included the observation that LLMs tended to avoid risky strategies, such as faking roles, likely due to safety guardrails. Additionally, the discussion highlighted the complexity of AI reasoning in a game context, with users sharing experiences from similar games and expressing a desire for more interactive and engaging AI simulations.

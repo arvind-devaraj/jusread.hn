@@ -1,0 +1,8 @@
+Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)  (205 pts, 54 comments)
+https://news.ycombinator.com/item?id=46962641
+
+The Hacker News discussion revolves around Rowboat, an open-source AI coworker designed to transform work into a dynamic knowledge graph. This application connects to various sources like Gmail and meeting notes, extracting key information and organizing it in editable Markdown files. Rowboat can perform tasks based on this context, such as creating presentations or audio briefs, and aims to provide a more efficient alternative to traditional search methods by continuously updating its knowledge base.
+
+In the comments, users express enthusiasm for Rowboat's concept, with some asking about the flexibility of the context graph and how background tasks are managed. There is a notable interest in comparing Rowboat to existing tools like Logseq and Graphiti, with discussions about the importance of handling contradictions in information and the potential for the system to flag inconsistencies as attention points. Users also suggest improvements, such as supporting more email and calendar providers beyond Google.
+
+Overall, the discussion highlights a shared excitement for the potential of Rowboat to enhance productivity through AI-driven knowledge management, while also addressing concerns about usability, integration, and the handling of complex information.

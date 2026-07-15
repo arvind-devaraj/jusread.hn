@@ -1,0 +1,6 @@
+Show HN: Online OCR Free – Batch OCR UI for Tesseract, Gemini and OpenRouter  (14 pts, 6 comments)
+https://news.ycombinator.com/item?id=47238255
+
+The Hacker News discussion centers around a new tool called Online OCR Free, designed for batch processing of documents using Optical Character Recognition (OCR) technologies like Tesseract, Google Vision, and Gemini. The creator built this tool to address the lack of free options for users handling large document sets. The service allows users to upload documents and export the results in various formats (TXT, JSON, XML, PDF) while supporting custom prompts for enhanced functionality.
+
+In the comments, users express appreciation for the tool, particularly noting the representation of Bangladeshi developers. However, there is a cautionary note from one commenter about the potential for abuse of free services, highlighting concerns about how such tools may attract misuse once they gain popularity. The creator acknowledges this concern, indicating a willingness to consider it moving forward. Overall, the discussion reflects a positive reception of the tool while also addressing the challenges of maintaining quality and security in free services.

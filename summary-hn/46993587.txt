@@ -1,0 +1,8 @@
+Show HN: Moltis – AI assistant with memory, tools, and self-extending skills  (131 pts, 52 comments)
+https://news.ycombinator.com/item?id=46993587
+
+The Hacker News discussion revolves around Moltis, an AI assistant developed by Fabien, a principal engineer with extensive experience in software development. Moltis is designed to be a self-hosted, extensible AI assistant built in Rust, emphasizing security, ease of installation, and user control over data. It features multi-provider LLM routing, sandboxed execution, and a web UI, with no telemetry and built-in observability. Fabien encourages feedback and discussions about its architecture and security model.
+
+In the comments, users express interest in Moltis and compare it to OpenClaw, another AI assistant. Key points of debate include the differences between the two projects, particularly regarding memory management and security features. Some users highlight concerns about prompt injection attacks and the cost of using AI models, while others appreciate Moltis's single binary structure and ease of setup. Notably, Fabien addresses technical questions and clarifies that Moltis can modify its own configurations and skills, which is a significant aspect of its functionality.
+
+Overall, the discussion reflects a mix of enthusiasm for Moltis and curiosity about its capabilities compared to existing solutions, with a strong focus on security and user autonomy in AI applications.

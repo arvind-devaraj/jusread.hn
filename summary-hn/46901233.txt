@@ -1,0 +1,8 @@
+Show HN: Smooth CLI – Token-efficient browser for AI agents  (109 pts, 74 comments)
+https://news.ycombinator.com/item?id=46901233
+
+The Hacker News discussion revolves around the introduction of Smooth CLI, a browser designed for AI agents like Claude Code to navigate the web more efficiently and cost-effectively. The tool aims to simplify web interactions by allowing agents to specify tasks in natural language, rather than dealing with complex UI actions. It also offers features like using the user's IP address to bypass roadblocks such as CAPTCHAs, and operates in a secure, sandboxed environment.
+
+In the comments, users debate the effectiveness of Smooth CLI compared to existing tools like Vercel's Agent Browser and Playwright. Key points of discussion include the need for higher-level abstractions in AI browsing, security concerns regarding data handling, and the cost-effectiveness of Smooth CLI. Some users express skepticism about the security of using a third-party service for sensitive tasks, while others highlight the potential for AI agents to improve frontend quality assurance processes.
+
+Notable insights include the recognition that traditional automation tools may not be suitable for AI applications due to their low-level interfaces, and the belief that the demand for AI-first online services will grow as users increasingly delegate tasks to agents. Overall, the conversation reflects a mix of enthusiasm for the potential of Smooth CLI and caution regarding its implementation and security.

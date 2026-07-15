@@ -1,0 +1,8 @@
+Apple to Revamp Siri as a Built-In iPhone, Mac Chatbot to Fend Off OpenAI  (10 pts, 5 comments)
+https://news.ycombinator.com/item?id=46710668
+
+The Hacker News discussion centers around a Bloomberg article announcing Apple's plans to revamp Siri into a more advanced chatbot for iPhones and Macs, aiming to compete with OpenAI's offerings. The article suggests that this update is part of Apple's strategy to enhance Siri's functionality and relevance in the rapidly evolving AI landscape.
+
+In the comments, there is a consensus of frustration regarding Siri's current performance. Users express disappointment with its limited capabilities, often highlighting issues such as poor accuracy in executing commands and difficulties in handling tasks like messaging or navigation. Some commenters share their hope that the revamp will finally address these shortcomings, while others remain skeptical based on past experiences.
+
+Notably, one commenter provides a detailed analysis of how the news spread across various platforms, indicating a high level of interest in the topic. Overall, the discussion reflects a mix of cautious optimism and skepticism about Apple's ability to improve Siri significantly.

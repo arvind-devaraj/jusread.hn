@@ -1,0 +1,8 @@
+Show HN: llmgame.ai – The Wikipedia Game but with LLMs  (28 pts, 24 comments)
+https://news.ycombinator.com/item?id=46508299
+
+The post introduces **llmgame.ai**, a game inspired by the Wikipedia Game, where players navigate from one concept to another using a language model (LLM). The creator invites users to try the game while noting that the LLM may not always provide coherent connections between topics.
+
+In the comments, users share their experiences and strategies for finding paths between concepts, often highlighting the game's difficulty and the LLM's unpredictable behavior. Many players celebrate their successful paths, with some achieving impressive results in fewer moves, while others express frustration at getting stuck in circular loops. There is a consensus that the game is engaging and challenging, prompting discussions about how to improve the LLM's responses for better gameplay.
+
+Notable insights include suggestions for enhancing the game, such as adding new features like an intersection action for combining topics and a leaderboard for tracking the fastest paths. Players also appreciate the creativity involved in steering the LLM, indicating a blend of strategy and luck in navigating the game. Overall, the discussion reflects a mix of enjoyment, challenge, and constructive feedback on the game's mechanics.

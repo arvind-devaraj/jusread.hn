@@ -1,0 +1,8 @@
+Running Neural Amp Modeler on embedded hardware  (35 pts, 9 comments)
+https://news.ycombinator.com/item?id=47183793
+
+The Hacker News discussion revolves around the implementation of the Neural Amp Modeler (NAM) on embedded hardware, specifically the Daisy Seed Arm Cortex-M7. The post highlights the challenges and innovations involved in optimizing the neural network for real-time audio processing, including the use of custom GEMM kernels for small matrices.
+
+In the comments, there is a consensus on the excitement of working with assembly code and the technical intricacies of running neural networks on limited hardware. Some users express curiosity about the neural aspect of the model, with explanations provided about how NAM uses trained neural networks to emulate the sound of classic guitar amplifiers and effects pedals. There is a debate about whether traditional methods, like deconvolution, could achieve similar results, with one commenter noting the computational challenges of real-time processing for non-linear effects.
+
+Notable insights include the potential for creating dedicated microcontroller setups for guitar effects, which could lead to a modular approach for musicians. However, there is also interest in the idea of a virtual pedalboard that would offer more flexibility and affordability for live performances. Overall, the discussion reflects a blend of technical enthusiasm and practical considerations in the realm of audio processing technology.

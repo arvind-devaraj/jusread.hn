@@ -1,0 +1,8 @@
+How to use AI to augment learning without losing critical thinking skills?  (24 pts, 14 comments)
+https://news.ycombinator.com/item?id=46461356
+
+The Hacker News discussion centers around the use of AI as a learning tool while maintaining critical thinking skills. The original poster shares their experience of using AI for tasks like generating code, simplifying complex concepts, and fact-checking, but expresses concern about becoming overly reliant on it. They seek advice on how to enhance their AI usage without compromising their cognitive abilities.
+
+In the comments, there is a consensus that using AI blindly can lead to a decline in critical thinking skills. Many users suggest strategies to mitigate this risk, such as introducing "friction" by delaying AI responses, using AI for review rather than initial problem-solving, and ensuring a deep understanding of AI-generated solutions. Some commenters emphasize the importance of balancing AI assistance with independent learning and problem-solving to foster critical thinking.
+
+Notable insights include the idea that incorrect AI outputs can prompt users to question and verify information, potentially reinforcing critical thinking. Others highlight the need for a structured approach to using AI, such as treating it as a brainstorming partner or a tutor, rather than a crutch. Overall, the discussion reflects a nuanced view of AI's role in education, advocating for mindful and strategic usage.

@@ -1,0 +1,8 @@
+Show HN: Aventos – An experiment in cheap AI SEO  (19 pts, 16 comments)
+https://news.ycombinator.com/item?id=46642490
+
+The Hacker News discussion revolves around the launch of Aventos, a tool designed to track company mentions in large language models (LLMs) like ChatGPT. The creators aim to offer a more affordable alternative to existing SEO tools, which often charge high fees despite relying on similar underlying data sources. They emphasize that their pricing strategy is based on the actual costs of API usage and infrastructure, challenging the norm of high subscription fees in the industry.
+
+In the comments, users express mixed feelings about the legitimacy of AI tools, with some questioning whether Aventos is a genuine product or merely a low-effort creation. There is a debate about the appropriateness of pricing strategies, with some suggesting that businesses should charge more for valuable features, while others argue for maintaining lower prices to attract users. Technical feedback is also provided, highlighting issues with user experience and mobile compatibility.
+
+Notable insights include concerns about trust and authenticity in AI products, as well as discussions on the complexities of SEO in the context of AI-generated content. The creators acknowledge the challenges of the SEO landscape and the need for effective content strategies, indicating a willingness to adapt their offerings based on user feedback.

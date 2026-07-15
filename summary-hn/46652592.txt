@@ -1,0 +1,8 @@
+We’re more patient with AI than with each other  (21 pts, 13 comments)
+https://news.ycombinator.com/item?id=46652592
+
+The Hacker News discussion revolves around the idea that people tend to be more patient and forgiving with AI systems than with each other. The original post argues that since AI lacks judgment and ego, users often attribute its shortcomings to their own input quality rather than viewing it as a failure of the AI itself.
+
+In the comments, there is a mix of agreement and debate. Some users, like CharlieDigital, suggest that this patience reflects a broader self-forgiveness, while others, like Grimblewald, argue that AI often fails to meet expectations, making it inefficient in certain tasks. Several commenters highlight the competitive nature of human interactions, contrasting it with the non-judgmental nature of AI. Others, like lovich, point out that AI is fundamentally different from humans, as it does not operate within social hierarchies, which influences how we perceive and interact with it.
+
+Notable insights include the observation that people may be more willing to iterate on AI prompts than repeat themselves to humans, suggesting a need for greater patience in interpersonal communication. Additionally, some commenters express concern about the potential loss of human-centric communication as people adapt their writing styles to cater more to AI systems. Overall, the discussion reflects a complex interplay between technology, human behavior, and social expectations.

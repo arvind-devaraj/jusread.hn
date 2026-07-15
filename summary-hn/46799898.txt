@@ -1,0 +1,8 @@
+Show HN: A MitM proxy to see what your LLM tools are sending  (218 pts, 116 comments)
+https://news.ycombinator.com/item?id=46799898
+
+The Hacker News discussion revolves around a project called "Sherlock," a Man-in-the-Middle (MitM) proxy designed to monitor and log the requests sent from LLM (Large Language Model) tools like Claude Code to their APIs. The creator, jmuncor, built this tool out of curiosity and found it satisfying to observe token usage in real-time. Sherlock provides a live dashboard and auto-saves prompts in markdown and JSON formats.
+
+In the comments, users express interest in the tool's potential for improving data governance and optimizing token usage. Some users share their own experiences with similar projects, highlighting the lack of comprehensive enterprise solutions for monitoring LLM interactions. There are discussions about the challenges of steering LLMs to reduce verbosity and manage token consumption effectively. Notably, some users suggest that the ease of use and setup of Sherlock could make it appealing for developers looking to better understand their interactions with LLMs without extensive configuration.
+
+Overall, the conversation reflects a growing interest in tools that enhance transparency and efficiency in working with AI, as well as a recognition of the evolving landscape of AI governance and usage within organizations.

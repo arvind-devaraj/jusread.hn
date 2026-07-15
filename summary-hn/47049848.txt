@@ -1,0 +1,8 @@
+Show HN: Continue – Source-controlled AI checks, enforceable in CI  (44 pts, 7 comments)
+https://news.ycombinator.com/item?id=47049848
+
+The Hacker News discussion centers around a new product called Continue, which automates AI checks for pull requests (PRs) in software development. The tool addresses issues of review fatigue and consistency by running checks as source-controlled markdown files that can read, write, and execute commands. These checks help identify potential bugs that could distort metrics without triggering errors, thereby enhancing code quality and reliability.
+
+In the comments, users express curiosity about Continue's evolution from a local AI coding agent to a more comprehensive checks product. There is a consensus that Continue offers a more configurable and focused solution compared to existing code review tools, emphasizing the importance of consistency over breadth. Some users inquire about features like metric exporting and request demonstrations, while others draw comparisons to similar tools, noting that Continue's specific focus on checks sets it apart.
+
+Overall, the discussion highlights the growing need for automated solutions in code review processes, with Continue positioned as a valuable tool for maintaining code integrity and standards in high-volume development environments.

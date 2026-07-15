@@ -1,0 +1,6 @@
+The Future of AI  (152 pts, 110 comments)
+https://news.ycombinator.com/item?id=47193476
+
+The Hacker News discussion titled "The Future of AI" revolves around the ethical frameworks that should guide the development and implementation of artificial intelligence. The original post emphasizes the challenges of establishing a shared ethical consensus, with many commenters referencing the Golden Rule—treating others as one would like to be treated—as a foundational principle. However, the discussion quickly reveals significant debate over the applicability and limitations of this rule, with some arguing that it fails to account for individual differences in desires and needs.
+
+Key points of contention include the idea that the Golden Rule may not be universally applicable, as people's preferences can vary widely. Commenters suggest alternatives, such as John Rawls' "Veil of Ignorance," which advocates for considering others' perspectives without bias. There is also a recognition that AI lacks a sense of self and empathy, raising questions about how to instill moral frameworks in machines. Notable insights include the acknowledgment that ethical considerations are complex and often influenced by societal norms, and the realization that many people may not actively question their existence or ethical beliefs, complicating the discourse on morality in AI.

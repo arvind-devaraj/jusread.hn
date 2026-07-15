@@ -1,0 +1,8 @@
+Learnings from paying artists royalties for AI-generated art  (169 pts, 166 comments)
+https://news.ycombinator.com/item?id=47318421
+
+The Hacker News discussion revolves around a blog post detailing the experiences of a company, Kapwing, in paying artists royalties for AI-generated art. The post highlights the challenges and insights gained from this initiative, including the low participation rate of artists in utilizing the tools provided for their own productivity.
+
+In the comments, there is a significant debate about intellectual property (IP) laws and how they apply to AI-generated content. Some users argue that current copyright laws are outdated and struggle to address the complexities introduced by AI, particularly regarding the protection of artistic styles. Others express concern that requiring AI companies to license training data could lead to unsustainable economic models, while some believe that consumers generally support compensating artists for their styles being used by AI.
+
+Notable insights include the acknowledgment of burnout among engineers involved in the project, the suggestion of adapting existing royalty models like ASCAP for artists, and the recognition that the legal framework surrounding copyright needs to evolve to keep pace with technological advancements. Overall, the discussion reflects a mix of optimism for fair compensation and skepticism about the feasibility of implementing such systems in the current economic landscape.

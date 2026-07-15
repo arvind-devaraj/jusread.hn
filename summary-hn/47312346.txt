@@ -1,0 +1,6 @@
+Promptfoo Is Joining OpenAI  (28 pts, 5 comments)
+https://news.ycombinator.com/item?id=47312346
+
+The Hacker News discussion centers around the announcement that Promptfoo, a tool designed for testing AI, is joining OpenAI. Michael, the co-founder of Promptfoo, reassures users that the open-source project will continue to be maintained, remain public under the same license, and support multiple providers. 
+
+In the comments, there is a strong consensus of support for Promptfoo's decision to stay open source, with users expressing appreciation for the tool's impact and effectiveness. Commenters congratulate the founders on their acquisition and inquire about the motivations behind the decision, particularly regarding the timing and the potential for greater impact within OpenAI. Overall, the discussion highlights a positive reception of the acquisition and a commitment to maintaining the open-source ethos of Promptfoo.

@@ -1,0 +1,8 @@
+Show HN: Free noise evidence generator for tenant complaints  (24 pts, 28 comments)
+https://news.ycombinator.com/item?id=46554013
+
+The post introduces a free, no-registration noise evidence generator designed for tenants dealing with noise complaints. It supports 27 US cities, offers real-time recording, generates professional court-ready PDF reports, and processes data locally to ensure privacy. The creator aimed to provide a tool that avoids subscription fees and data uploads, addressing frustrations with existing solutions.
+
+In the comments, users expressed concerns about the app's name, suggesting it could imply the creation of fake evidence. There were discussions about the accuracy of noise measurements, with several commenters questioning how the app calibrates different device microphones and whether it can provide reliable legal evidence. Some users pointed out discrepancies in the reported noise ordinances, emphasizing the importance of accurate legal information.
+
+Notable insights included the need for a calibration feature to improve measurement reliability and the suggestion to consult legal experts to avoid potential pitfalls in using the app for legal purposes. Overall, while the app addresses a legitimate need, its effectiveness and legal standing remain points of contention among commenters.

@@ -1,0 +1,8 @@
+Ask HN: How to bullet proof yourself from AI?  (21 pts, 23 comments)
+https://news.ycombinator.com/item?id=46668819
+
+The Hacker News discussion revolves around the original poster's concerns about the impact of AI, particularly large language models (LLMs), on the tech industry and how individuals can "bulletproof" themselves against potential job displacement. The poster acknowledges their previous skepticism about LLMs' capabilities in creating full-stack applications but now seeks advice on adapting to a future dominated by AI tools.
+
+In the comments, there is a consensus that completely bulletproofing oneself from AI is unrealistic. Many contributors emphasize the importance of adaptability, continuous learning, and developing soft skills, such as communication and understanding user needs, which AI currently struggles with. Some suggest that roles involving physical work or complex human interactions may be safer from AI encroachment. Others argue that as AI improves, the lines between roles like software engineering and product management will blur, necessitating a shift in focus from pure coding to risk management and ownership of outcomes.
+
+Notable insights include the idea that while AI can generate code, it lacks the ability to manage complex systems and human relationships effectively. Participants also highlight the importance of foundational skills and the need for developers to embrace entrepreneurship and innovation to remain relevant in an evolving job market. Overall, the discussion reflects a mix of caution and optimism about the future of work in the age of AI.

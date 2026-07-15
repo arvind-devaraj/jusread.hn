@@ -1,0 +1,8 @@
+Learning athletic humanoid tennis skills from imperfect human motion data  (177 pts, 39 comments)
+https://news.ycombinator.com/item?id=47388273
+
+The Hacker News discussion revolves around a project that demonstrates a humanoid robot learning tennis skills from imperfect human motion data. The video showcases the robot's ability to mimic human-like movements in playing tennis, sparking excitement about the potential for advanced robotics in sports training.
+
+In the comments, users express a mix of admiration and skepticism. Many agree that while the robot's performance is impressive, it still exhibits distinctly robotic movements, lacking the fluidity of human play. Some commenters speculate about the future of robotic tennis instructors, suggesting that such technology could make elite training more accessible. However, others caution that this is just a demo and that real-world applications may be far more complex, highlighting the challenges of state estimation and the limitations of current robotics.
+
+Notable insights include discussions on the potential for robots to automate repetitive training tasks, the contrast between wealthy individuals hiring human coaches versus using robotic instructors, and the broader implications for robotics in everyday tasks. Some commenters also ponder what a "perfect" robot player would look like, suggesting it might behave very differently from humans. Overall, the conversation reflects both excitement for advancements in robotics and a recognition of the hurdles that remain before these technologies can be widely implemented.

@@ -1,0 +1,8 @@
+Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering  (298 pts, 68 comments)
+https://news.ycombinator.com/item?id=46882389
+
+The Hacker News discussion revolves around the announcement of the Ghidra MCP Server, a toolset designed for AI-assisted reverse engineering, featuring 110 tools aimed at simplifying the process of analyzing software across different versions. The creator, xerzes, highlights the challenges of reverse engineering when software updates cause function addresses to shift, making previous work obsolete. The tool employs a normalized function hashing system to address this issue.
+
+In the comments, users express interest in the tool's capabilities, particularly regarding its support for decompiling Android binaries and how it compares to existing tools like ReVa and Ghidra's built-in features. There is a debate about the effectiveness of the function-hashing system versus other methods, with some users sharing their experiences with AI models like OpenAI Codex in reverse engineering tasks. Notably, several commenters emphasize the potential of AI to enhance productivity in reverse engineering, while others raise concerns about the complexity and performance of tools with extensive interfaces.
+
+Overall, the discussion showcases a mix of enthusiasm for the Ghidra MCP Server and a critical examination of its place within the broader landscape of reverse engineering tools, highlighting both its innovative approach and the challenges that remain in the field.

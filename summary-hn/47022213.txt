@@ -1,0 +1,6 @@
+DjVu and its connection to Deep Learning (2023)  (85 pts, 21 comments)
+https://news.ycombinator.com/item?id=47022213
+
+The Hacker News discussion revolves around the DjVu file format and its connection to deep learning, as highlighted in a blog post. DjVu is praised for its superior compression and quality compared to PDF, making it particularly useful for archiving documents and performing OCR (Optical Character Recognition). However, the format has struggled with adoption due to poor software support and a negative connotation associated with piracy, which has led many users to prefer PDF.
+
+In the comments, users express a mix of nostalgia and frustration regarding DjVu. Some highlight its efficiency and quality, especially for specific applications like e-comics and academic materials, while others lament its decline in favor of PDF, which has become the standard despite its larger file sizes. Notably, there is a consensus that the lack of awareness and support for DjVu has contributed to its underutilization, with many users converting DjVu files to PDF for compatibility reasons. Additionally, some commenters discuss technical aspects of file compression and the potential for improving PDF tools to match DjVu's efficiency.

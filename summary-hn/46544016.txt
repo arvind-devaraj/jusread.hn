@@ -1,0 +1,8 @@
+Nvidia Kicks Off the Next Generation of AI with Rubin  (55 pts, 46 comments)
+https://news.ycombinator.com/item?id=46544016
+
+The Hacker News discussion centers around Nvidia's announcement of its new AI supercomputer platform, Rubin, which features a highly integrated design involving various components like the Vera CPU and Rubin GPU. The platform aims to significantly reduce training times and costs associated with AI inference.
+
+In the comments, there is a mix of technical discussion and critiques of Nvidia's marketing approach. Some users express confusion over the term "extreme codesign," clarifying that it refers to co-design rather than code-signing. Others debate the significance of endorsements from high-profile tech leaders, with some suggesting that the absence of Apple’s Tim Cook indicates a lack of financial ties to Nvidia. The conversation also touches on the implications of reduced inference costs on GPU depreciation schedules, with users noting that companies are extending the lifespan of GPUs for financial reasons.
+
+Notable insights include skepticism about the marketing language used in the press release, with some commenters perceiving it as lacking substance. Additionally, there is a recognition that the evolving landscape of AI technology and GPU utilization is leading companies to rethink their depreciation strategies, reflecting broader trends in the tech industry.

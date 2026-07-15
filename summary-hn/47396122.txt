@@ -1,0 +1,8 @@
+A curated list of AI slops  (16 pts, 8 comments)
+https://news.ycombinator.com/item?id=47396122
+
+The Hacker News discussion revolves around a GitHub repository titled "A curated list of AI slops," which compiles examples of poorly executed AI code or projects. The initial post has garnered attention for its brevity, prompting some users to suggest that it could be expanded with more entries.
+
+In the comments, there is a mix of humor and critique regarding the quality of AI-generated code. Some users, like Retr0id, express a desire for the list to grow, while others, such as JodieBenitez, question the criteria for what constitutes "slop," suggesting that not all AI-generated code is inherently bad. There are also lighthearted suggestions, like adding Windows OS to the list, and a mention of a particularly impressive AI-generated JavaScript engine that challenges the notion of poor quality in AI projects.
+
+Overall, the discussion highlights a blend of skepticism and curiosity about AI's role in coding, with some commenters defending the capabilities of AI while others maintain a critical stance on its outputs.

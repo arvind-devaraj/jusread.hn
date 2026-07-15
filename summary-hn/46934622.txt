@@ -1,0 +1,8 @@
+Ask HN: How to get started with robotics as a hobbyist?  (202 pts, 95 comments)
+https://news.ycombinator.com/item?id=46934622
+
+The Hacker News discussion revolves around a user seeking advice on how to start a hobby in robotics, expressing a desire to engage in more hands-on activities beyond coding. They have basic knowledge of embedded programming and are looking for guidance on where to begin.
+
+In the comments, there is a consensus that the best way to dive into robotics is through practical experience, such as building a robot or working with kits. Some commenters advocate for starting with established frameworks like ROS (Robot Operating System), while others caution that it may complicate the learning process for beginners. There are suggestions to focus on specific projects or goals to guide the learning process, emphasizing that having a clear objective can help streamline the necessary skills to acquire.
+
+Notable insights include the idea that learning by doing is crucial, with many commenters sharing personal experiences that highlight the importance of hands-on tinkering. There is also a debate about the role of AI in learning robotics, with some suggesting it can be a helpful tool, while others argue that it should not replace foundational skills. Overall, the discussion underscores the diverse paths one can take in the robotics hobby, with an emphasis on exploration and personal interest.

@@ -1,0 +1,8 @@
+Claudetop – htop for Claude Code sessions (see your AI spend in real-time)  (52 pts, 28 comments)
+https://news.ycombinator.com/item?id=47380203
+
+The Hacker News discussion revolves around "claudetop," a tool designed to provide real-time visibility into costs associated with using Claude Code, an AI coding assistant. The creator, liorwn, developed this tool after experiencing unexpected charges, revealing that context compaction was obscuring significant token usage. Claudetop offers features like a status line displaying burn rates, cache efficiency, and alerts for optimizing usage.
+
+In the comments, users debate the billing structure of Claude Code, with some expressing confusion over charges despite using subscription plans, while others note that heavy usage can lead to exceeding limits. There’s a consensus that Anthropic, the company behind Claude, is subsidizing the service, which raises questions about the sustainability of their pricing model. Some users prefer paying per token for greater flexibility, while others find the subscription plans sufficient for their needs. Notably, there are concerns about the accuracy of cost estimations in claudetop, with suggestions for improvements in handling token calculations.
+
+Overall, the discussion highlights the complexities of AI usage costs, the varying experiences of users based on their usage patterns, and the need for better transparency in billing practices.

@@ -1,0 +1,8 @@
+Ask HN: What's a standard way for apps to request text completion as a service?  (50 pts, 25 comments)
+https://news.ycombinator.com/item?id=46506261
+
+The Hacker News discussion revolves around the inquiry of how applications can standardly request text completion services from users' operating systems, particularly using LLM (Large Language Model) technology. The original poster is developing a lightweight application that aims to incorporate natural language parsing and seeks to understand if there is an established method for this integration.
+
+In the comments, several users discuss the availability of built-in text completion models across different operating systems. Windows and macOS have some capabilities, but there is no consensus on a unified standard, especially for Linux, where each distribution seems to be pursuing its own approach. Some users suggest using APIs like Ollama or LiteLLM for cross-platform compatibility. Others propose the idea of creating environment variables (like `$LLM`) to standardize how applications can access LLM services.
+
+Notable insights include the recognition that while small models are improving, they may still require significant resources, and the need for a more cohesive standard is evident. There is a general agreement that establishing a common framework could facilitate broader adoption and integration of LLM capabilities in applications, potentially prompting operating systems to provide these services natively.
