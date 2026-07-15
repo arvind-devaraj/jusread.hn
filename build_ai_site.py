@@ -4,11 +4,13 @@ import requests
 
 from hn_fetch import LOOKBACK_DAYS, get_past_month_hn_posts
 from new_feed import get_ai_probabilities, AI_THRESHOLD
+from summarize import save_summary
 
 TEMPLATE_FILE = "ai_site_template.html"
 OUTPUT_FILE = "ai_index.html"
 SUMMARY_DIR = "summary-hn"
 CACHE_FILE = "classification-cache.json"
+MIN_COMMENTS_FOR_SUMMARY = 5
 
 
 def load_summary(item_id):
@@ -59,19 +61,33 @@ def main():
     print(f"Classified {len(uncached_posts)} new posts ({len(popular_posts) - len(uncached_posts)} from cache).")
 
     ai_posts = [
-        (post, cache[post["objectID"]]["probability"]) for post in popular_posts
+        post for post in popular_posts
         if cache[post["objectID"]]["probability"] >= AI_THRESHOLD
     ]
 
+    missing = [
+        post for post in ai_posts
+        if post.get("num_comments", 0) >= MIN_COMMENTS_FOR_SUMMARY
+        and load_summary(post["objectID"]) is None
+    ]
+    print(f"{len(missing)} posts missing summaries.")
+    for post in missing:
+        item_id = post["objectID"]
+        try:
+            save_summary(item_id)
+            print(f"Saved {item_id}: {post['title'][:60]}")
+        except Exception as e:
+            print(f"FAILED {item_id}: {e}")
+
     data = []
-    for post, probability in ai_posts:
+    for post in ai_posts:
         item_id = post.get("objectID")
         data.append({
             "title": post.get("title") or "",
             "points": post.get("points", 0),
             "author": post.get("author") or "",
             "num_comments": post.get("num_comments", 0),
-            "probability": round(probability, 3),
+            "probability": cache[item_id]["probability"],
             "url": post.get("url"),
             "hn_link": f"https://news.ycombinator.com/item?id={item_id}",
             "created_at": post.get("created_at"),

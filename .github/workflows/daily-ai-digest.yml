@@ -22,27 +22,17 @@ jobs:
       - name: Install dependencies
         run: pip install requests openai python-dotenv
 
-      - name: Fetch + classify
+      - name: Build AI digest (fetch, classify, summarize)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python3 build_ai_site.py
 
-      - name: Summarize new posts
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python3 summarize_new.py
-
-      - name: Rebuild digest with new summaries
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python3 build_ai_site.py
-
-      - name: Commit updated summaries and digest
+      - name: Commit updated summaries and classification cache
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add summary-hn ai_index.html classification-cache.json
-          git diff --cached --quiet || git commit -m "Auto-update AI digest and summaries"
+          git add summary-hn classification-cache.json
+          git diff --cached --quiet || git commit -m "Auto-update summaries and classification cache"
           git push
 
       - name: Prepare deploy folder
