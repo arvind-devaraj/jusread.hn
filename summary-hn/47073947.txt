@@ -1,0 +1,8 @@
+Measuring AI agent autonomy in practice  (119 pts, 47 comments)
+https://news.ycombinator.com/item?id=47073947
+
+The Hacker News discussion revolves around a research post from Anthropic titled "Measuring AI agent autonomy in practice." The post explores how to assess the autonomy of AI agents, particularly focusing on metrics like task duration and complexity. 
+
+In the comments, there is significant debate about the validity of the metrics used to measure autonomy. Some users argue that measuring task length, especially at the extreme 99.9th percentile, is misleading and does not accurately reflect an agent's capability or autonomy. Others emphasize the importance of considering the context of tasks, such as authorization boundaries, rather than just speed or duration. Concerns about privacy and data collection practices by Anthropic are also prevalent, with several commenters expressing distrust in how the company handles user data.
+
+Notably, there is a discussion about the presence of bot accounts on the platform, with some users suggesting that these accounts may be artificially inflating discussions or opinions. This has led to concerns about the integrity of the conversation and the potential for manipulation within the community. Overall, the discussion highlights a mix of skepticism about measurement practices and broader concerns about privacy and the influence of automated agents in online discourse.

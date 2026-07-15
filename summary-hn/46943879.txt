@@ -1,0 +1,8 @@
+Ask HN: Open Models are 9 months behind SOTA, how far behind are Local Models?  (11 pts, 12 comments)
+https://news.ycombinator.com/item?id=46943879
+
+The Hacker News discussion revolves around the question of how far behind local models are compared to state-of-the-art (SOTA) models, particularly in the context of open-source versus closed-source models. The original poster suggests that open models are approximately nine months behind SOTA, and they seek to understand the lag for local models that can run on typical consumer hardware.
+
+In the comments, there is a consensus that local models, which are smaller and designed for personal computers, are generally behind SOTA models by a few years, especially when considering ordinary retail hardware. Some commenters argue that the gap may not be as significant as nine months for open models, while others emphasize that local models can be quite capable but come with limitations. There is also a discussion about the potential for future advancements in hardware that could make local models more competitive.
+
+Notably, some participants highlight that local models can excel in specific tasks that closed models may not handle as well, suggesting that the landscape of AI is evolving and that local models have unique advantages. Overall, the conversation reflects a nuanced understanding of the capabilities and limitations of local versus SOTA models, as well as the impact of hardware on their performance.

@@ -1,0 +1,8 @@
+Rentahuman – The Meatspace Layer for AI  (155 pts, 111 comments)
+https://news.ycombinator.com/item?id=46868675
+
+The Hacker News discussion revolves around "Rentahuman," a platform that proposes to connect AI agents with human workers for real-world tasks. The concept raises questions about the implications of outsourcing tasks traditionally done by humans to AI systems, and whether this represents a new frontier in labor or merely a rebranding of existing ideas like Amazon's Mechanical Turk.
+
+Commenters express a mix of skepticism and concern, with some questioning the legitimacy of the platform and others noting that the idea of renting human labor isn't new. A significant point of debate is the potential for exploitation, as many fear that this could lead to a dystopian future where humans are reduced to mere cogs in an AI-driven economy. Some suggest that workers should unionize to protect their interests, while others highlight the ethical implications of AI delegating tasks to humans without proper compensation or recognition.
+
+Notable insights include the recognition that this model could evolve rapidly, potentially leading to a new economy controlled by AI entities. The discussion reflects broader anxieties about the future of work in an age increasingly dominated by artificial intelligence.

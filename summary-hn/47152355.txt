@@ -1,0 +1,8 @@
+Ask HN: Have top AI research institutions just given up on the idea of safety?  (81 pts, 88 comments)
+https://news.ycombinator.com/item?id=47152355
+
+The Hacker News discussion revolves around the question of whether top AI research institutions have abandoned genuine efforts toward safety in AI development. The original poster expresses skepticism about the sincerity of these institutions' safety initiatives, likening them to superficial efforts made by casinos to address gambling addiction.
+
+In the comments, there is a mix of agreement and debate. Some users argue that safety measures have become more about branding than actual commitment, suggesting that companies are prioritizing profit over ethical considerations. Others contend that while safety may not be the primary focus, many researchers still genuinely care about existential risks posed by AI. There are also discussions about the ethical dilemmas faced by researchers when pressured by government interests, particularly in military applications.
+
+Notable insights include the idea that safety in AI is often treated as a marketing tool rather than a core value, and the acknowledgment that researchers are aware of the potential for AI to exceed human control, raising serious ethical concerns. The conversation highlights a tension between the pursuit of profit and the responsibility to ensure safe AI development.

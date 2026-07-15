@@ -1,0 +1,8 @@
+AI-generated password isn't random, it just looks that way  (20 pts, 22 comments)
+https://news.ycombinator.com/item?id=47061468
+
+The Hacker News discussion revolves around an article that highlights how AI-generated passwords, particularly those created by large language models (LLMs), are not truly random but rather follow predictable patterns based on their training data. The article suggests that when prompted multiple times, LLMs tend to produce similar outputs, leading to a lack of genuine randomness in the passwords they generate.
+
+In the comments, there is a consensus that LLMs inherently lack randomness, with several users pointing out that they often converge on the same plausible answers when given identical prompts. Some commenters share alternative methods for generating truly random passwords using command-line tools, emphasizing that LLMs should not be relied upon for secure password generation. There is also a debate about the effectiveness of LLMs in generating strong passwords compared to human-created ones, with some arguing that the focus should be on the overall strength of passwords rather than the method of generation.
+
+Notable insights include the idea that while LLMs can produce seemingly random outputs, they often fail to meet the criteria for true randomness, which is crucial for security. Additionally, some users highlight the importance of understanding how to effectively prompt LLMs to achieve better results, suggesting that with the right instructions, LLMs can generate code to create secure passwords. Overall, the discussion underscores the limitations of LLMs in generating truly random content and the need for users to be cautious in their reliance on AI for security-related tasks.

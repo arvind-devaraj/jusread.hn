@@ -1,0 +1,8 @@
+Where did you think the training data was coming from?  (50 pts, 14 comments)
+https://news.ycombinator.com/item?id=47335369
+
+The Hacker News discussion revolves around a blog post that questions the sources of training data for AI systems, particularly in the context of Meta's AR/VR initiatives, such as their Ray-Ban glasses. The post suggests that Meta's interest in developing these technologies may be driven by a need to gather vast amounts of visual data, potentially circumventing privacy regulations imposed by competitors like Google and Apple.
+
+In the comments, users express a mix of skepticism and concern regarding Meta's intentions. Some argue that the company is trying to capture data to enhance its AI capabilities, while others believe that Meta already has sufficient public data from its social networks and doesn't need to invade privacy further. There is also a debate about the implications of AR/VR technology and the potential for privacy invasions, with some commenters advocating for hardware solutions that allow users to disable cameras and microphones.
+
+Notable insights include the idea that Meta's push into AR/VR is a strategic move to establish a foothold in what they see as the next major tech platform, as well as the recognition that users have been unknowingly contributing to machine learning training data through various online interactions for years. Overall, the discussion highlights a broader concern about privacy in the age of advanced technology and the ethical implications of data collection practices.

@@ -1,0 +1,8 @@
+Can random experimental choice lead to better theories?  (38 pts, 29 comments)
+https://news.ycombinator.com/item?id=47074083
+
+The Hacker News discussion revolves around a paper suggesting that random experimental choices can lead to better scientific theories. The paper challenges traditional views that emphasize theory-driven experimentation, proposing that a more exploratory approach might yield richer insights.
+
+In the comments, there is a debate about the merits and drawbacks of different scientific methodologies, particularly induction versus deduction. Some commenters criticize grounded theory for producing superficial explanations, while others argue for the value of both inductive and deductive reasoning in scientific progress. There is also a discussion about the inherent biases in choosing experiments and the practical challenges of implementing random experimentation in established fields.
+
+Notable insights include the acknowledgment that many significant discoveries arise from serendipity and unplanned exploration, as exemplified by historical breakthroughs like penicillin and superglue. Some commenters express skepticism about the feasibility of random experimentation in practice, citing the need for theoretical frameworks to guide experimental design. Overall, the conversation highlights a tension between structured scientific inquiry and the potential benefits of a more chaotic, exploratory approach.

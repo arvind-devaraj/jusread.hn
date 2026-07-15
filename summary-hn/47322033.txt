@@ -1,0 +1,8 @@
+PgAdmin 4 9.13 with AI Assistant Panel  (98 pts, 37 comments)
+https://news.ycombinator.com/item?id=47322033
+
+The Hacker News discussion revolves around the release of PgAdmin 4 version 9.13, which introduces an AI Assistant Panel designed to assist users with SQL queries. While some users appreciate the potential of AI to generate queries, many express concerns about its presence in a database management tool, fearing it could lead to data loss or unreliable results due to automation bias.
+
+Key points of debate include the ability to disable the AI features, with some users noting that the default setting is "None," while others report encountering the AI panel despite not enabling it. Concerns about data security and the necessity of providing API keys for AI functionality are also raised. Notably, some users prefer traditional methods of querying databases and express frustration with the AI integration, while others see value in using AI for complex query generation, especially for those less proficient in SQL.
+
+Overall, the discussion highlights a divide between those who are skeptical of AI in database management and those who see it as a useful tool, along with a general sentiment that the integration could be distracting or unnecessary for many users.

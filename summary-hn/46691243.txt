@@ -1,0 +1,8 @@
+Ask HN: Do you have any evidence that agentic coding works?  (461 pts, 433 comments)
+https://news.ycombinator.com/item?id=46691243
+
+The Hacker News discussion revolves around the concept of "agentic coding," where users leverage AI tools to write code. The original poster expresses frustration with the disparity between the promising claims of agentic coding and their own experiences, which have led to technical debt and low-quality code. They question whether there is substantial evidence that this approach yields positive results and share their struggles with using AI tools like Codex to develop a simple iOS app.
+
+In the comments, there is a debate about the effectiveness of agentic coding versus the necessity of code reviews. Some users argue that while AI can be a net positive, it still requires human oversight to ensure code quality. Others highlight the recurring costs of code reviews compared to the one-time cost of writing code, suggesting that neglecting reviews can lead to accumulating technical debt. There are differing opinions on whether AI can truly enhance productivity across various domains, with some asserting that it works best for simpler projects while others believe it can be useful in more complex applications if guided properly.
+
+Notable insights include the recognition that agentic coding is not a panacea and that it requires a learning curve, much like traditional programming. Some commenters emphasize the importance of writing detailed specifications and tests to guide AI effectively, while others caution against over-reliance on AI without proper oversight, as this can lead to poor-quality code that may be difficult to maintain in the long run.

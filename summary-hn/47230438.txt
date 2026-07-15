@@ -1,0 +1,8 @@
+Show HN: Open-Source Article 12 Logging Infrastructure for the EU AI Act  (42 pts, 10 comments)
+https://news.ycombinator.com/item?id=47230438
+
+The Hacker News discussion revolves around an open-source TypeScript library designed to meet the EU AI Act's Article 12 requirements for logging AI decision-making processes. The library captures inference calls as an append-only log, ensuring tamper-evidence through SHA-256 hash chaining and enforcing a 180-day retention period. The creator emphasizes the need for robust logging to reconstruct past AI decisions, especially in regulated industries.
+
+In the comments, users debate the library's approach to tamper-evidence versus tamper-proofing, with suggestions for timestamping and encryption methods to handle GDPR erasure requests. Some commenters highlight that the AI Act provides a legal basis for retaining logs, which can exempt them from immediate deletion under GDPR. Notably, one user proposes a simpler method of "crypto-shredding" to manage data retention efficiently, which sparks further discussion on the merits of different data handling strategies.
+
+Overall, the conversation reflects a strong interest in compliance with emerging regulations and the technical challenges of implementing effective logging solutions in AI systems.

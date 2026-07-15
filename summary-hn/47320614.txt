@@ -1,0 +1,8 @@
+Levels of Agentic Engineering  (277 pts, 120 comments)
+https://news.ycombinator.com/item?id=47320614
+
+The Hacker News discussion revolves around a blog post titled "Levels of Agentic Engineering," which explores the evolving roles of AI in software development and the concept of "agentic engineering." The author presents a framework that categorizes different levels of AI involvement in coding, suggesting a progression from human-led coding with AI assistance to fully autonomous AI systems that can write code independently.
+
+In the comments, there is significant debate about the validity of categorizing these levels as a hierarchy, with some users arguing that it implies a value judgment that higher levels are inherently better. Others express skepticism about the practicality of fully autonomous AI systems, questioning whether software engineering can be entirely delegated to AI. Notably, some commenters highlight the potential for AI to disrupt traditional software companies, while others caution that the complexities of sales and customer interaction still require human involvement.
+
+Overall, the discussion reflects a mix of optimism and skepticism regarding the future of AI in software development, with insights into the potential for AI to streamline processes and the challenges that remain in integrating AI into existing workflows.

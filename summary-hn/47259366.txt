@@ -1,0 +1,8 @@
+Grammarly is offering ‘expert’ AI reviews from famous dead and living writers  (132 pts, 200 comments)
+https://news.ycombinator.com/item?id=47259366
+
+The Hacker News discussion revolves around Grammarly's new feature that offers AI-generated reviews styled after famous writers, both living and deceased. The article raises concerns about the ethical implications of using these writers' identities without permission.
+
+In the comments, there is a significant debate about the capabilities and limitations of large language models (LLMs). Some users argue that LLMs can only produce outputs based on existing professional work without truly understanding the processes behind them. Others contend that LLMs can infer processes and learn from context, although this claim is met with skepticism. The discussion also touches on the terminology used to describe LLMs, with some participants arguing that calling it "learning" is misleading, as LLMs do not learn in the same way humans do.
+
+Notable insights include a critique of the AI industry's tendency to anthropomorphize LLMs, which some commenters believe undermines the unique qualities of human intelligence. There is also a call for clearer distinctions between human learning and the statistical pattern-matching that LLMs perform, highlighting the ongoing confusion and debate surrounding AI capabilities.

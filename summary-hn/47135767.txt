@@ -1,0 +1,8 @@
+AI Will Never Be Conscious  (36 pts, 43 comments)
+https://news.ycombinator.com/item?id=47135767
+
+The Hacker News discussion centers around an article by Michael Pollan, which argues that AI will never achieve consciousness, primarily rejecting the idea of computational functionalism—the notion that consciousness can be replicated through computational processes. The conversation explores the complexities of consciousness, the nature of AI, and the philosophical implications of simulating human-like behavior without genuine awareness.
+
+In the comments, there is a mix of agreement and debate. Some users, like "in-silico," support Pollan's view, while others, such as "asdfbank," caution against the finality of the term "never," suggesting that future definitions of AI could evolve. Key points of contention include the distinction between human consciousness and AI's lack of true agency or value assignment, with users like "adamzwasserman" emphasizing that human decision-making is shaped by evolutionary pressures, a quality absent in current AI models.
+
+Notable insights include the idea that consciousness may be an emergent phenomenon tied to the ability to fantasize (as mentioned by "Merrill") and the suggestion that our understanding of consciousness is still developing, with many users acknowledging the philosophical complexities surrounding the topic. Some commenters express skepticism about the author's perspective, arguing that it reflects a limited understanding of computation and consciousness. Overall, the discussion highlights the ongoing debate about the nature of consciousness and the potential future of AI.

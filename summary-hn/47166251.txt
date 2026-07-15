@@ -1,0 +1,8 @@
+Is AI Making Us Dumb?  (16 pts, 10 comments)
+https://news.ycombinator.com/item?id=47166251
+
+The Hacker News discussion revolves around the question of whether AI is making people "dumb." The original post argues that while AI is often blamed for cognitive decline, the roots of this issue trace back to the internet and smartphones, which have been influencing learning and attention spans for much longer.
+
+In the comments, there is a mix of opinions. Some users, like garciasn, assert that AI is not the sole culprit, while others, like SideburnsOfDoom, suggest that AI could still be a significant factor among various influences. A recurring theme is the idea that true learning requires effort, and many people prefer shortcuts, which AI can provide. Some commenters, like coderwolf, argue that AI can enhance learning by reducing friction and making niche topics more accessible. Others, like selridge, point to systemic issues in education as a more pressing concern than AI.
+
+Overall, the discussion highlights a nuanced debate about the impact of AI on learning and intelligence, with some viewing it as a tool for empowerment and others as a potential detriment to deep learning and critical thinking.

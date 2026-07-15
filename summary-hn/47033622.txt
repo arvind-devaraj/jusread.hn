@@ -1,0 +1,8 @@
+Anthropic tries to hide Claude's AI actions. Devs hate it  (398 pts, 126 comments)
+https://news.ycombinator.com/item?id=47033622
+
+The Hacker News discussion revolves around Anthropic's AI model, Claude, and its recent changes that limit user visibility into the AI's actions. Developers express frustration over these modifications, which they feel obscure important information about the AI's operations, making it harder to understand its behavior and decisions.
+
+Key points of debate include the effectiveness of the new "verbose mode," which some users find inadequate as it reduces the amount of useful information displayed. There are suggestions for alternative methods to monitor Claude's actions, such as using FUSE-based filesystems or scripting. Some commenters express skepticism about the company's responsiveness to user feedback, while others share anecdotes about the importance of detailed feedback in software development.
+
+Notable insights include a general sentiment that the changes may lead to a disconnect between users and the AI, with some developers contemplating switching to alternative tools like OpenCode. Overall, the discussion highlights a tension between user control and the company's design choices, reflecting broader concerns about transparency in AI systems.

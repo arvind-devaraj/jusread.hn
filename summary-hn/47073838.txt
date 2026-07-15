@@ -1,0 +1,8 @@
+Ask HN: How do you employ LLMs for UI development?  (52 pts, 56 comments)
+https://news.ycombinator.com/item?id=47073838
+
+The Hacker News discussion revolves around the use of large language models (LLMs), specifically Claude, in UI development for fullstack web applications. The original poster expresses that while LLMs are helpful in many aspects of web development, they struggle significantly with interface and user experience (UX) design. They seek insights from others on effective approaches or experiences using LLMs in this area.
+
+In the comments, there is a mix of agreement and debate regarding the capabilities of LLMs in UI design. Some users suggest practical workflows, such as using standard CSS libraries and component libraries, while others highlight the limitations of LLMs in creating aesthetically pleasing layouts. A recurring theme is the need for specificity in prompts; vague requests often lead to unsatisfactory results. Some commenters argue that the challenges faced with LLMs are akin to those encountered when working with inexperienced human designers. Notably, several users share their strategies for improving outcomes, such as using visual comparisons and iterative feedback loops.
+
+Overall, the discussion underscores the evolving role of LLMs in UI development, emphasizing the importance of clear communication and structured workflows to enhance their effectiveness.

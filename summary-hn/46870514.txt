@@ -1,0 +1,8 @@
+Learning from context is harder than we thought  (245 pts, 136 comments)
+https://news.ycombinator.com/item?id=46870514
+
+The Hacker News discussion revolves around the challenges of context learning in AI, particularly how models can adapt to new information without extensive pre-training. The original post highlights that while continual learning (CL) is a complex issue, it is essential for AI to improve in specific domains, similar to how humans learn over time.
+
+In the comments, there is a debate about the effectiveness of continual learning in AI systems. Some users argue that while certain models can achieve CL in narrow contexts (like finance), true CL remains elusive for broader applications. Others point out that human learning is not directly analogous to AI learning, as humans can adapt more quickly to new information. There is also discussion about the limitations of different machine learning approaches, such as K-nearest neighbors (KNN), and the challenges posed by the need for explicit training steps.
+
+Notable insights include the recognition that while AI models can show some capacity for learning from context, achieving true continual learning remains a significant hurdle. Additionally, the conversation touches on philosophical aspects of language and perception, suggesting that the way humans learn and understand the world is fundamentally different from how AI models process information.

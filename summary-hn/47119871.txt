@@ -1,0 +1,8 @@
+Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)  (174 pts, 57 comments)
+https://news.ycombinator.com/item?id=47119871
+
+The Hacker News discussion centers around an interactive timeline showcasing major Large Language Models (LLMs) from the introduction of the Transformer architecture in 2017 to the anticipated GPT-5.3 in 2026. Users can filter the timeline by open or closed source and search through 54 tracked organizations. The timeline aims to provide a comprehensive overview of LLM development.
+
+In the comments, users engage in a mix of constructive feedback and debate. Some commenters point out missing early models like GPT-J and GPT-NeoX, while others suggest improvements for the timeline's visual presentation and accuracy. There is also a discussion about the performance of AI models, particularly regarding their tendency to produce errors in coding tasks, with differing opinions on whether this is a design flaw or a natural outcome of their training.
+
+Notable insights include suggestions for enhancing the timeline's interactivity and visual appeal, as well as a consensus on the importance of accurately representing milestones in LLM development. The conversation reflects a community eager to refine the resource while sharing their experiences and perspectives on LLM capabilities.

@@ -1,0 +1,8 @@
+Show HN: Agent Swarm – Multi-agent self-learning teams (OSS)  (63 pts, 45 comments)
+https://news.ycombinator.com/item?id=47165046
+
+The Hacker News discussion centers around "Agent Swarm," an open-source project focused on creating multi-agent self-learning teams. The project, developed by a user named tarasyarema, aims to enhance the capabilities of agent-based systems by implementing a self-learning core that allows agents to adapt and improve over time. The discussion highlights the project's evolution, particularly in response to the recent advancements in similar technologies like OpenClaw.
+
+In the comments, users express a mix of enthusiasm and skepticism. Some, like marknutter, appreciate the implementation and see potential for learning from it, while others, such as itmitica, raise concerns about the practical applications and the risks of overengineering. There is a debate about the effectiveness of using agent-based systems for various tasks, with some commenters questioning whether the benefits justify the complexity introduced by such systems. Notably, tarasyarema emphasizes the importance of iterative development and finding the right balance between automation and control in programming processes.
+
+Overall, the discussion reflects a broader interest in the potential of self-learning agents while also acknowledging the challenges and uncertainties that come with their implementation. Users are keen to explore the limits of these technologies and share insights on best practices and potential pitfalls.

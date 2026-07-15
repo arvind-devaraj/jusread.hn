@@ -1,0 +1,8 @@
+Evaluating AGENTS.md: are they helpful for coding agents?  (232 pts, 155 comments)
+https://news.ycombinator.com/item?id=47034087
+
+The Hacker News discussion revolves around the evaluation of AGENTS.md files, which are intended to provide context and instructions for coding agents. The linked paper suggests that these context files may actually reduce task success rates and increase inference costs, challenging the assumption that they are beneficial for coding tasks.
+
+In the comments, users express a mix of agreement and skepticism regarding the utility of AGENTS.md files. Some contributors advocate for clear, user-manual-style instructions, while others caution against negative instructions, noting that they can lead to misunderstandings. A recurring theme is the idea of "progressive disclosure," where only relevant information is presented to reduce context clutter, although some argue this could diminish the benefits of token caching.
+
+Notable insights include the perspective that AGENTS.md files may not always enhance performance and could even hinder creativity by imposing rigid rules. Several commenters share personal experiences, suggesting that the effectiveness of these files can vary significantly based on their content and the specific coding agent being used. Overall, the discussion highlights the complexity of integrating context files into coding workflows and the need for further exploration of their impact.

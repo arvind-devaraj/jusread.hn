@@ -1,0 +1,6 @@
+Ask HN: How to measure how much data one can effectively process or understand?  (18 pts, 3 comments)
+https://news.ycombinator.com/item?id=47086423
+
+The Hacker News discussion revolves around the idea of quantifying how much data an individual can effectively process or understand, akin to a "Kardashev scale for data." The original poster references a community call discussing how advancements like AgenticRuntimes and GraphRAG can enhance data insights, making them more accessible to everyone, rather than being controlled by large corporations.
+
+In the comments, there is agreement on the complexity of measuring data processing capabilities. One user, mikewarot, highlights that the density of information and the receiver's cognitive abilities are crucial factors. Another commenter, rgavuliak, suggests that the value of data should be measured by the time it takes to take action based on that data, implying that data without actionable insights is essentially worthless. Overall, the discussion emphasizes the challenges of defining and measuring data processing capabilities while considering cognitive limits and practical applications.

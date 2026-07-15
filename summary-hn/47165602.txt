@@ -1,0 +1,8 @@
+Show HN: Mission Control – Open-source task management for AI agents  (45 pts, 17 comments)
+https://news.ycombinator.com/item?id=47165602
+
+The Hacker News discussion revolves around "Mission Control," an open-source task management tool designed for efficiently delegating work to AI agents like Claude Code. The creator, who faced challenges managing multiple AI agents, built this tool to streamline task organization, provide visibility into agent activities, and automate task handling. Key features include a local-first architecture, an autonomous daemon for managing tasks, and a user-friendly interface tailored for AI collaboration.
+
+In the comments, users express a mix of interest and skepticism. Some appreciate the tool's potential and its modular design, while others question its uniqueness compared to existing agent orchestration software. There are discussions about the importance of debugging and transparency in task management, with some users sharing their own approaches to similar problems. Notably, the creator emphasizes the simplicity of using JSON files for task management, which allows for easy debugging and integration with various agents.
+
+Overall, the conversation highlights the growing interest in tools that facilitate AI collaboration, the challenges of managing multiple agents, and the need for effective task organization in an increasingly automated workflow.

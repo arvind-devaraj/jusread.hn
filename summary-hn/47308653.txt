@@ -1,0 +1,8 @@
+Ask HN: How are you adapting your career in this AI era?  (12 pts, 6 comments)
+https://news.ycombinator.com/item?id=47308653
+
+The Hacker News discussion titled "Ask HN: How are you adapting your career in this AI era?" revolves around how professionals are adjusting their careers and workflows in response to the growing influence of AI technologies. 
+
+In the comments, there is a consensus that AI is becoming a central focus in many fields, with users sharing their experiences of integrating AI tools into their workflows. BitsAndObjects highlights the current obsession with AI, suggesting that this trend may not be sustainable in the long term. Others, like frje1400, mention expanding their responsibilities and learning new technologies, such as Kubernetes, to stay relevant. However, AstroBen expresses skepticism about AI's impact, arguing that it primarily affects junior-level work and emphasizing the importance of well-defined problems and verification processes in AI applications.
+
+Notable insights include the recognition that while AI can enhance productivity, it also raises questions about long-term maintainability and security. The discussion reflects a mix of optimism about AI's potential and caution regarding its limitations, particularly in complex problem-solving scenarios.
