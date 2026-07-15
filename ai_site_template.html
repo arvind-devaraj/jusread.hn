@@ -376,7 +376,8 @@
     <div class="toolbar">
       <input id="search" type="text" placeholder="Filter by title or author&hellip;" aria-label="Filter posts" />
       <div class="sort-group" role="group" aria-label="Sort posts">
-        <button class="sort-btn" data-key="points" aria-pressed="true">Points <span class="arrow">&#8595;</span></button>
+        <button class="sort-btn" data-key="hot" aria-pressed="true">Hot <span class="arrow">&#8595;</span></button>
+        <button class="sort-btn" data-key="points" aria-pressed="false">Points</button>
         <button class="sort-btn" data-key="num_comments" aria-pressed="false">Comments</button>
         <button class="sort-btn" data-key="probability" aria-pressed="false">AI %</button>
       </div>
@@ -434,12 +435,18 @@
   const showMoreBtn = document.getElementById("show-more");
 
   const PAGE_SIZE = 50;
+  const HOT_GRAVITY = 1.8;
 
-  let sortKey = "points";
+  let sortKey = "hot";
   let query = "";
   let dateRange = "all";
   let monthFilter = "";
   let visibleCount = PAGE_SIZE;
+
+  function hotScore(r) {
+    const ageHours = (Date.now() - new Date(r.created_at).getTime()) / 3.6e6;
+    return r.points / Math.pow(Math.max(ageHours, 0) + 2, HOT_GRAVITY);
+  }
 
   function monthKey(iso) {
     const d = new Date(iso);
@@ -483,7 +490,9 @@
       (!q || r.title.toLowerCase().includes(q) || (r.author || "").toLowerCase().includes(q)) &&
       (monthFilter ? monthKey(r.created_at) === monthFilter : (cutoff === null || new Date(r.created_at).getTime() >= cutoff))
     );
-    rows = rows.slice().sort((a, b) => b[sortKey] - a[sortKey]);
+    rows = rows.slice().sort((a, b) =>
+      sortKey === "hot" ? hotScore(b) - hotScore(a) : b[sortKey] - a[sortKey]
+    );
 
     const visibleRows = rows.slice(0, visibleCount);
 
