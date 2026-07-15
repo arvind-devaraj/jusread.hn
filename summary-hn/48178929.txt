@@ -1,0 +1,8 @@
+Hershey Bets on Agentic AI to Rethink $2B in Marketing Spend  (27 pts, 55 comments)
+https://news.ycombinator.com/item?id=48178929
+
+The Hacker News discussion centers around Hershey's recent investment in "agentic AI" to optimize its $2 billion marketing budget, as reported by Adweek. The AI aims to address perceived inefficiencies in their marketing strategies and improve data utilization.
+
+In the comments, there is a strong consensus that Hershey's chocolate quality has declined over the years, with many users criticizing the taste and suggesting that the company has prioritized cost-cutting over product quality. Terms like "enshitification" and "skimpflation" are used to describe the gradual degradation of their products. Some commenters argue that no amount of AI can fix the fundamental issues with the chocolate itself, while others express skepticism about the effectiveness of AI in addressing marketing challenges.
+
+Notable insights include a discussion on the historical reasons behind the unique taste of Hershey's chocolate, with some attributing it to outdated processing methods. Additionally, there are concerns about companies misusing AI to avoid confronting real customer data issues, suggesting that the problem may lie deeper than just marketing strategies. Overall, the conversation reflects a mix of skepticism about both Hershey's product quality and the potential of AI to drive meaningful change.

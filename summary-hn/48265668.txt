@@ -1,0 +1,8 @@
+Seeing Around Corners Using Smartphone-Grade Lidar  (82 pts, 21 comments)
+https://news.ycombinator.com/item?id=48265668
+
+The Hacker News discussion revolves around an article discussing advancements in smartphone-grade lidar technology that enables the ability to "see around corners." This technology utilizes lidar to detect objects that are not directly visible, potentially transforming various applications in consumer technology.
+
+In the comments, users debate the practicality of using mirrors as a simpler alternative to lidar for seeing around corners, with several suggesting that mirrors could enhance lidar's effectiveness. Others point out the limitations of lidar, such as its reliance on reflective surfaces and the need for specific environmental conditions to function optimally. There is also speculation about the broader implications of this technology, with some commenters envisioning military applications and augmented reality systems that could overlay non-line-of-sight threats in real-time.
+
+Notable insights include the recognition that consumer-grade lidar could democratize access to advanced sensing technologies, previously limited to research or military use. Additionally, the conversation touches on the evolution of lidar applications beyond facial recognition, highlighting its potential in various fields, including augmented reality and automotive safety.
