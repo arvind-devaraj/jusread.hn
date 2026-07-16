@@ -17,7 +17,9 @@ Usage:
     python3 investigate_show_hn.py
     python3 investigate_show_hn.py "your question about Show HN posts"
 """
+import ast
 import json
+import operator
 import os
 import re
 import sys
@@ -37,6 +39,56 @@ MAX_COMMENT_CHARS = 500
 
 HEADER_RE = re.compile(r"^(.*?)\s+\((\d+) pts, (\d+) comments\)$")
 
+_BINOPS = {
+    ast.Add: operator.add,
+    ast.Sub: operator.sub,
+    ast.Mult: operator.mul,
+    ast.Div: operator.truediv,
+    ast.FloorDiv: operator.floordiv,
+    ast.Mod: operator.mod,
+    ast.Pow: operator.pow,
+}
+_UNARYOPS = {ast.UAdd: operator.pos, ast.USub: operator.neg}
+_FUNCS = {
+    "sum": sum, "min": min, "max": max, "len": len,
+    "sorted": sorted, "abs": abs, "round": round,
+}
+
+
+def _safe_eval(node, names):
+    if isinstance(node, ast.Expression):
+        return _safe_eval(node.body, names)
+    if isinstance(node, ast.Constant) and isinstance(node.value, (int, float)):
+        return node.value
+    if isinstance(node, ast.Name):
+        if node.id in names:
+            return names[node.id]
+        raise ValueError(f"unknown name: {node.id!r} (available: {sorted(names)})")
+    if isinstance(node, ast.List):
+        return [_safe_eval(el, names) for el in node.elts]
+    if isinstance(node, ast.BinOp) and type(node.op) in _BINOPS:
+        return _BINOPS[type(node.op)](_safe_eval(node.left, names), _safe_eval(node.right, names))
+    if isinstance(node, ast.UnaryOp) and type(node.op) in _UNARYOPS:
+        return _UNARYOPS[type(node.op)](_safe_eval(node.operand, names))
+    if isinstance(node, ast.Call) and isinstance(node.func, ast.Name) and node.func.id in _FUNCS:
+        args = [_safe_eval(a, names) for a in node.args]
+        kwargs = {kw.arg: _safe_eval(kw.value, names) for kw in node.keywords}
+        return _FUNCS[node.func.id](*args, **kwargs)
+    if isinstance(node, ast.Subscript):
+        value = _safe_eval(node.value, names)
+        sl = node.slice
+        if isinstance(sl, ast.Slice):
+            lower = _safe_eval(sl.lower, names) if sl.lower else None
+            upper = _safe_eval(sl.upper, names) if sl.upper else None
+            step = _safe_eval(sl.step, names) if sl.step else None
+            return value[lower:upper:step]
+        return value[_safe_eval(sl, names)]
+    raise ValueError(f"disallowed expression: {ast.dump(node)}")
+
+
+def calculate(expression, names=None):
+    return _safe_eval(ast.parse(expression, mode="eval"), names or {})
+
 DEFAULT_QUESTION = (
     "Which Show HN post got genuinely positive, substantive technical "
     "feedback in the comments -- not just upvotes or generic praise? "
@@ -44,29 +96,45 @@ DEFAULT_QUESTION = (
 )
 
 SYSTEM_PROMPT = """You are an investigative research agent judging Hacker \
-News "Show HN" launches. You have two tools:
+News "Show HN" launches. You have three tools:
 
 - list_show_hn: lists cached Show HN threads (title, points, comment count, \
-a short summary), most recent first. Points and comment count are weak, \
-gameable signals -- a post can rack up points from a flashy demo while the \
-comments are lukewarm or critical, or the reverse.
+a short summary), most recent first, default 20. Use this to browse \
+candidates for qualitative judging, not to gather numbers for statistics -- \
+see calculate below for that. Points and comment count are weak, gameable \
+signals -- a post can rack up points from a flashy demo while the comments \
+are lukewarm or critical, or the reverse.
 - get_full_thread: fetches the full live story text and every comment for \
 one item. This is the only way to actually judge the quality of feedback.
+- calculate: evaluates a numeric Python expression exactly (arithmetic, \
+sum/min/max/len/sorted/abs/round, list literals and slicing). It has two \
+variables already bound to the full cached dataset: `points` and \
+`comments` (one entry per cached Show HN post, same order). ALWAYS use \
+calculate for any aggregate statistic -- averages, percentages, sums, \
+comparisons, deviations -- across more than a couple of posts, and ALWAYS \
+reference the `points`/`comments` variables rather than retyping numbers \
+you saw in a list_show_hn result. Retyping a long list by hand is exactly \
+the kind of transcription error this tool exists to avoid -- do not do it. \
+Do not do the arithmetic yourself either; you will get it wrong.
 
-Do not rank by points or comment count alone. Use list_show_hn to gather \
-candidates, then use get_full_thread on several promising ones to actually \
-read what commenters said -- distinguish substantive technical engagement \
-(specific critiques, comparisons, "I tried this and...") from generic \
-enthusiasm or pile-on negativity. Only after reading real comments should \
-you pick a winner. Justify your pick by quoting or closely paraphrasing \
-specific comments, and give the HN link."""
+For qualitative "which post is best/worst" questions: do not rank by \
+points or comment count alone. Use list_show_hn to gather candidates, then \
+use get_full_thread on several promising ones to actually read what \
+commenters said -- distinguish substantive technical engagement (specific \
+critiques, comparisons, "I tried this and...") from generic enthusiasm or \
+pile-on negativity. Justify your pick by quoting or closely paraphrasing \
+specific comments, and give the HN link.
+
+For quantitative/statistical questions: gather the numbers with \
+list_show_hn, compute with calculate, and report the exact result -- show \
+the calculation, don't just assert a number."""
 
 TOOLS = [
     {
         "type": "function",
         "function": {
             "name": "list_show_hn",
-            "description": "List cached Show HN threads, most recent first, with points/comment counts and a short summary.",
+            "description": "List cached Show HN threads, most recent first, with points/comment counts and a short summary. Default limit is 20; raise it only if you actually need to read more summaries. Do NOT use this to gather numbers for statistics -- the calculate tool already has the full points/comments dataset bound, no need to list everything here.",
             "parameters": {
                 "type": "object",
                 "properties": {
@@ -86,6 +154,20 @@ TOOLS = [
                     "item_id": {"type": "string"},
                 },
                 "required": ["item_id"],
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "calculate",
+            "description": "Evaluate a numeric Python expression exactly: arithmetic operators, sum/min/max/len/sorted/abs/round, list literals and slicing. Two variables are pre-bound to the FULL cached dataset (do not retype numbers by hand, reference these instead): `points` (list of every cached Show HN post's point count) and `comments` (list of every cached Show HN post's comment count), same order, one entry per post. E.g. 'sum(sorted(points, reverse=True)[:5]) / sum(points) * 100' for a top-5 share of total points.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "expression": {"type": "string"},
+                },
+                "required": ["expression"],
             },
         },
     },
@@ -147,6 +229,15 @@ def execute_tool(tool_call, corpus):
         return _do_list_show_hn(corpus, args)
     if name == "get_full_thread":
         return _do_get_full_thread(args)
+    if name == "calculate":
+        names = {
+            "points": [d["points"] for d in corpus],
+            "comments": [d["num_comments"] for d in corpus],
+        }
+        try:
+            return json.dumps({"result": calculate(args["expression"], names)})
+        except Exception as e:
+            return json.dumps({"error": str(e)})
     return json.dumps({"error": f"unknown tool {name}"})
 
 
