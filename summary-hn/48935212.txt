@@ -1,0 +1,8 @@
+Show HN: Nous – give GTM agents one context graph across your tools  (10 pts, 9 comments)
+https://news.ycombinator.com/item?id=48935212
+
+The Hacker News discussion centers around "Nous," an open-source tool designed to enhance the efficiency of go-to-market (GTM) agents by providing a unified context graph across various tools like CRM, inbox, and note-taking applications. The creators of Nous found that deploying multiple agents led to inefficiencies, as each agent started from scratch and often produced conflicting results. Nous aims to resolve this by structuring observations linked to specific individuals and companies, allowing agents to access comprehensive account information in a single call rather than multiple tool interactions.
+
+In the comments, users primarily discuss the differences between Nous and traditional CRMs, with the creator clarifying that while CRMs are designed for human use, Nous is tailored for AI agents to read and write context effectively. There are also inquiries about how the system handles conflicting information and identity resolution, with the creator explaining their methods for prioritizing observations and ensuring accurate entity identification.
+
+Notable insights include the emphasis on the importance of context for AI agents and the potential for Nous to streamline workflows by reducing the need for multiple tool interactions. The discussion highlights a growing interest in optimizing AI interactions in business settings and the challenges of managing data consistency and identity resolution.

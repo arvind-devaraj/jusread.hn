@@ -1,0 +1,8 @@
+How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM  (55 pts, 37 comments)
+https://news.ycombinator.com/item?id=48935687
+
+The Hacker News discussion revolves around a blog post detailing how to train a generative AI model specifically for kick drum sounds on a Linux desktop with 6GB of VRAM. The author, zhinit, shares insights into the process and the unique aspects of the model, emphasizing that the project is more about exploration than solving a specific problem in music production.
+
+In the comments, there is a strong desire from users to hear audio samples of the generated kick drum sounds, leading the author to add a few samples to the post. Some commenters express confusion about the purpose of using machine learning in this context, while others appreciate the novelty of the project. There is also a debate about the accessibility of the hardware used, with some feeling that the author's description of "old" hardware may not resonate with those who have less powerful systems.
+
+Notable insights include discussions on the potential of generative AI in music, the importance of sound synthesis parameters, and the challenges of creating a general model for resynthesizing any instrumental audio. The conversation reflects a blend of technical curiosity and artistic exploration, highlighting the evolving landscape of music production technology.
