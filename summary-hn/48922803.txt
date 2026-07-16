@@ -1,0 +1,8 @@
+J-space comparisons across open models  (20 pts, 5 comments)
+https://news.ycombinator.com/item?id=48922803
+
+The Hacker News discussion revolves around a post titled "J-space comparisons across open models," which explores the concept of "J-space" in relation to AI models, particularly focusing on the Jacobian matrix and its implications for understanding model behavior. The author shares insights from their experiments, which were conducted with the assistance of an AI tool, Fable.
+
+In the comments, there is a debate about the appropriateness of posting AI-generated content on Hacker News, with some users arguing that it violates community guidelines while others defend the sharing of results from AI-assisted work. Additionally, a user clarifies that there is no rule against posting outcomes from AI-assisted sessions, emphasizing the collaborative nature of the work. Notably, another commenter references a book discussing J-space, suggesting that the concepts being explored are actively evolving and relevant to ongoing research in AI.
+
+Overall, the discussion highlights both the innovative use of AI in research and the community's concerns about maintaining human-centric dialogue on the platform.

@@ -1,0 +1,8 @@
+Launch HN: Coasty (YC S26) – An API for computer-use agents  (35 pts, 8 comments)
+https://news.ycombinator.com/item?id=48922706
+
+The Hacker News discussion revolves around Coasty, a startup that has developed an API for computer-use agents capable of automating workflows in legacy desktop software and web applications that lack usable APIs. Founders Nitish and Prateek explain how their agents can execute tasks by interacting with the user interface through screenshots, mouse, and keyboard input, while also verifying results and providing structured logs. They emphasize the challenges of automating complex workflows, particularly in healthcare, where precision is critical.
+
+In the comments, users inquire about Coasty's differentiation from existing computer-use agent APIs, with the founders highlighting their modular approach and the ability to integrate with existing AI models. There are discussions about data storage and compliance, particularly in regulated industries like healthcare, with assurances from the founders regarding HIPAA compliance and data retention policies. Users express appreciation for features like checkpointing and approval gates, which enhance the reliability and auditability of automated workflows.
+
+Overall, the conversation reflects a strong interest in the potential of Coasty's technology, with users sharing insights on the importance of reliability and transparency in automation, especially in sensitive sectors.
