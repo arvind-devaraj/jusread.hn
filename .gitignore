@@ -7,3 +7,4 @@ __pycache__/
 .env
 dist/
 ai_index.html
+rag-embeddings-cache.json
