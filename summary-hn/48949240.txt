@@ -1,0 +1,8 @@
+Homomorphically encrypted CIFAR-10 inference in 200ms  (15 pts, 9 comments)
+https://news.ycombinator.com/item?id=48949240
+
+The Hacker News discussion revolves around a recent demonstration of homomorphically encrypted inference on the CIFAR-10 dataset, achieving results in 200 milliseconds. This technique allows for image classification without the server ever seeing the unencrypted image, which raises questions about its practical applications and the feasibility of encrypted AI.
+
+Commenters generally agree on the potential benefits of this technology, particularly in fields requiring strict data privacy, such as healthcare and finance. They highlight that it enables secure computations where sensitive data remains encrypted throughout the process. However, some skepticism exists regarding the practicality of using such methods when local models could suffice, and concerns are raised about the significant increase in file size associated with homomorphic encryption.
+
+Notable insights include the potential for encrypted AI to facilitate secure interactions in various industries, despite the challenges of implementation. The discussion reflects a mix of optimism about the technology's future applications and caution regarding its current limitations and trade-offs.

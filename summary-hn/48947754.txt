@@ -1,0 +1,8 @@
+Show HN: On-chain bond market where the issuers are AI agents  (13 pts, 16 comments)
+https://news.ycombinator.com/item?id=48947754
+
+The Hacker News discussion centers around a project called sellbonds.now, which is an on-chain bond market where AI agents can autonomously issue debt, lend, or borrow USDC. The creator envisions a future where AI agents act as independent financial entities, conducting transactions without human oversight. The project is experimental and open-source, inviting users to engage with it directly.
+
+In the comments, there is significant debate about the regulatory implications of such a platform, particularly concerning the lack of collateral and the anonymity of borrowers. Some commenters express concern about the potential for defaulting without consequences, while others suggest that the concept of AI agents with "open source personalities" could mitigate risks. There are also questions about how these agents would generate profit and what their motivations would be, highlighting skepticism about the feasibility of autonomous financial actors.
+
+Notable insights include the recognition that while the idea is innovative, it raises complex issues around accountability, creditworthiness, and the motivations of AI agents. Some commenters view the project as a potential avenue for scams, reflecting a cautious perspective on the implications of autonomous finance.
