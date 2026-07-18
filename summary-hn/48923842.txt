@@ -1,0 +1,8 @@
+Show HN: Painterly – Turn pictures into digital paintings without generative AI  (22 pts, 5 comments)
+https://news.ycombinator.com/item?id=48923842
+
+The Hacker News discussion centers around "Painterly," an application that transforms images into digital paintings by applying brush strokes without using generative AI. The creator invites feedback and mentions a free demo available on GitHub.
+
+In the comments, users express curiosity about the algorithm used in Painterly, particularly comparing it to other techniques like compressed sensing. One commenter explains the brush stroke accept/reject algorithm, detailing how it assesses color similarity between the original image and the painting. Another user shares their interest in traditional image processing techniques for street photography, suggesting a desire for creative experimentation.
+
+Notable insights include the technical discussion around the algorithm's effectiveness and the potential for combining various image processing methods to achieve unique artistic effects. Additionally, users share links to related videos, indicating a broader interest in the topic of digital art creation.

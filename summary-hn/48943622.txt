@@ -1,0 +1,8 @@
+Ask HN: I feel like I've lost my identity due to AI  (12 pts, 9 comments)
+https://news.ycombinator.com/item?id=48943622
+
+The Hacker News discussion centers around a self-taught software developer who feels a profound loss of identity and purpose due to the rise of AI, particularly large language models (LLMs). The poster expresses frustration that LLMs can generate ideas and build software more efficiently than they can, leading to feelings of inadequacy and a diminished passion for their work. They worry about job security in a rapidly changing industry and feel that their unique contributions are being overshadowed by AI's capabilities.
+
+In the comments, there is a mix of agreement and differing perspectives. Some commenters encourage the poster to leverage AI as a tool rather than viewing it as a threat, suggesting they can still find success by adapting and using AI to minimize workload. Others express similar frustrations with AI's impact on their careers and identity. Notably, one commenter argues that if the poster's ideas were genuinely novel, they wouldn't feel overshadowed by AI, while another emphasizes the enduring value of human skills and experience despite technological advancements.
+
+Overall, the discussion highlights a common anxiety among tech professionals regarding the implications of AI on their roles and the future of work, while also suggesting potential paths forward that involve embracing AI rather than resisting it.
