@@ -112543,6 +112543,10 @@
     "probability": 0.636,
     "title": "Tell HN: I De-Googled Myself"
   },
+  "48860719": {
+    "probability": 0.499,
+    "title": "Cagire: Live Coding in Forth"
+  },
   "48860804": {
     "probability": 0.139,
     "title": "Estonia Won the War on Fentanyl. What Came Next Was Worse"
@@ -113254,6 +113258,10 @@
   "48875709": {
     "probability": 0.883,
     "title": "OpenAI Forked Git on GitHub"
+  },
+  "48875738": {
+    "probability": 0.493,
+    "title": "Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]"
   },
   "48875743": {
     "probability": 0.462,
@@ -114131,6 +114139,10 @@
     "probability": 0.525,
     "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)"
   },
+  "48891334": {
+    "probability": 0.537,
+    "title": "Land Atlas – soil, farmability, and crop analysis for land listings"
+  },
   "48891463": {
     "probability": 0.444,
     "title": "Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance"
@@ -114330,6 +114342,10 @@
   "48896513": {
     "probability": 0.661,
     "title": "Latent Space as a New Medium"
+  },
+  "48896558": {
+    "probability": 0.182,
+    "title": "How the Elite See Rome"
   },
   "48896576": {
     "probability": 0.61,
@@ -114811,6 +114827,10 @@
     "probability": 0.61,
     "title": "Alternative(s) to run CUDA on non-Nvidia hardware"
   },
+  "48903717": {
+    "probability": 0.561,
+    "title": "Infinities, impossibilities, and the man in the white linen suit"
+  },
   "48903733": {
     "probability": 0.538,
     "title": "Job queues are deceptively tricky"
@@ -114822,6 +114842,10 @@
   "48904095": {
     "probability": 0.871,
     "title": "Demis Hassabis has a plan to harness AI safely"
+  },
+  "48904269": {
+    "probability": 0.455,
+    "title": "Making Software: How to make a font"
   },
   "48904766": {
     "probability": 0.462,
@@ -114910,6 +114934,10 @@
   "48905764": {
     "probability": 0.786,
     "title": "Coding agents think ahead of time"
+  },
+  "48905836": {
+    "probability": 0.435,
+    "title": "Using self-hosted Umami for iOS app analytics"
   },
   "48905914": {
     "probability": 0.7,
@@ -115106,6 +115134,10 @@
   "48910745": {
     "probability": 0.582,
     "title": "The Strange Phenomenon of 'Terminal Lucidity'"
+  },
+  "48911021": {
+    "probability": 0.561,
+    "title": "Blender 5.2 LTS"
   },
   "48911452": {
     "probability": 0.308,
@@ -115507,6 +115539,10 @@
     "probability": 0.799,
     "title": "Show HN: Make senders work to get into your inbox"
   },
+  "48919562": {
+    "probability": 0.862,
+    "title": "Show HN: LoopGain – Stop agent loops with control theory, not max_iterations"
+  },
   "48919589": {
     "probability": 0.427,
     "title": "Microsoft Entra ID Will Retire SMS and Voice Authentication"
@@ -115874,6 +115910,10 @@
   "48925468": {
     "probability": 0.403,
     "title": "Leaked Suno code lists 2,013,545 YouTube Music clips"
+  },
+  "48925613": {
+    "probability": 0.445,
+    "title": "Tell HN: Fable Credits Are 150x More Expensive"
   },
   "48925858": {
     "probability": 0.656,
@@ -116687,6 +116727,10 @@
     "probability": 0.716,
     "title": "The human-in-the-loop is tired"
   },
+  "48942096": {
+    "probability": 0.595,
+    "title": "Ask HN: I built it and nobody came. What got you your first users?"
+  },
   "48942125": {
     "probability": 0.237,
     "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida"
@@ -117019,6 +117063,10 @@
     "probability": 0.375,
     "title": "Meta trying to destroy whistleblower Sarah Wynn-Williams, US senator says"
   },
+  "48951417": {
+    "probability": 0.188,
+    "title": "The Java Story – The Official Documentary [video]"
+  },
   "48951461": {
     "probability": 0.224,
     "title": "The Zilog Z80 has turned 50"
@@ -117299,6 +117347,10 @@
     "probability": 0.676,
     "title": "The Voice of Google"
   },
+  "48958240": {
+    "probability": 0.642,
+    "title": "Claude make Fable 5 permanent"
+  },
   "48958269": {
     "probability": 0.405,
     "title": "EU ban on destruction of unsold clothes and shoes enters into application"
@@ -117427,6 +117479,10 @@
     "probability": 0.327,
     "title": "No President Has Embarrassed This Country the Way Trump Did Last Night"
   },
+  "48961844": {
+    "probability": 0.886,
+    "title": "Ask HN: Do you have any plan for post AGI?"
+  },
   "48961864": {
     "probability": 0.404,
     "title": "SpaceX and the myth of independent Wall St research"
@@ -117446,6 +117502,10 @@
   "48962429": {
     "probability": 0.468,
     "title": "Co-evolution of self-replication and function in a digital primordial soup"
+  },
+  "48962600": {
+    "probability": 0.66,
+    "title": "UnifiedIR for Julia"
   },
   "48962718": {
     "probability": 0.537,
@@ -117499,6 +117559,10 @@
     "probability": 0.35,
     "title": "Codex Resets"
   },
+  "48963472": {
+    "probability": 0.418,
+    "title": "Open-Source Communism"
+  },
   "48963483": {
     "probability": 0.618,
     "title": "Harness Engineering"
@@ -117526,6 +117590,10 @@
   "48964015": {
     "probability": 0.299,
     "title": "Better and Cheaper Than IPTV"
+  },
+  "48964020": {
+    "probability": 0.432,
+    "title": "Cloud providers are out of B200 GPUs after the Inkling release"
   },
   "48964185": {
     "probability": 0.531,
@@ -117562,5 +117630,189 @@
   "48965161": {
     "probability": 0.54,
     "title": "Scrying the AMD GFX1250 LLVM Tea Leaves"
+  },
+  "48965174": {
+    "probability": 0.478,
+    "title": "Inside the Secret Math Society Known Simply as Nicolas Bourbaki"
+  },
+  "48965243": {
+    "probability": 0.308,
+    "title": "Security incident disclosure – July 2026"
+  },
+  "48965585": {
+    "probability": 0.352,
+    "title": "UK to Scrap Digital ID"
+  },
+  "48965719": {
+    "probability": 0.63,
+    "title": "The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]"
+  },
+  "48965850": {
+    "probability": 0.882,
+    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k"
+  },
+  "48965880": {
+    "probability": 0.742,
+    "title": "Ollama: All Aboard Open Models"
+  },
+  "48965886": {
+    "probability": 0.812,
+    "title": "Perforce charges $500 for training training videos.. and it's AI narrated"
+  },
+  "48965906": {
+    "probability": 0.472,
+    "title": "Facebook Down"
+  },
+  "48965914": {
+    "probability": 0.389,
+    "title": "The Mighty Big Array of Finn Jensen LA8YB"
+  },
+  "48965918": {
+    "probability": 0.565,
+    "title": "Mirror your GitHub repos to tangled.org automatically"
+  },
+  "48966016": {
+    "probability": 0.532,
+    "title": "DeepSeek routes your request to Fable5"
+  },
+  "48966022": {
+    "probability": 0.568,
+    "title": "LG Monitors Caught Installing Adware and App with Access to All System Resources"
+  },
+  "48966039": {
+    "probability": 0.641,
+    "title": "Protester calls out Amazon CTO for allowing Israel to use their AI towards Gaza"
+  },
+  "48966044": {
+    "probability": 0.71,
+    "title": "Anthropic runs large-scale code migrations with Claude Code"
+  },
+  "48966120": {
+    "probability": 0.445,
+    "title": "Qwen 3.8"
+  },
+  "48966131": {
+    "probability": 0.518,
+    "title": "Boys' ADHD symptoms linked to addictive social media use in new study"
+  },
+  "48966139": {
+    "probability": 0.486,
+    "title": "Half a Second – a book about the XZ backdoor"
+  },
+  "48966182": {
+    "probability": 0.34,
+    "title": "Valve say there's no end in sight to the memory crisis, prices going to increase"
+  },
+  "48966190": {
+    "probability": 0.66,
+    "title": "Qwen 3.8 Max Preview"
+  },
+  "48966214": {
+    "probability": 0.444,
+    "title": "Trump, not Iran, is the greatest danger"
+  },
+  "48966219": {
+    "probability": 0.515,
+    "title": "Dumber Mini: A Nokia-Style Phone with WhatsApp and Maps"
+  },
+  "48966569": {
+    "probability": 0.529,
+    "title": "Claude Code uses Bun written in Rust now"
+  },
+  "48966712": {
+    "probability": 0.558,
+    "title": "France, Germany vow to develop Palantir rival"
+  },
+  "48966713": {
+    "probability": 0.412,
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard"
+  },
+  "48966754": {
+    "probability": 0.51,
+    "title": "Qwen 3.8 Max"
+  },
+  "48966769": {
+    "probability": 0.173,
+    "title": "The death and rebirth of my home server"
+  },
+  "48966939": {
+    "probability": 0.797,
+    "title": "Show HN: Akashic – A self-hosted intelligence workspace inspired by Palantir"
+  },
+  "48966984": {
+    "probability": 0.318,
+    "title": "I joined the IndieWeb, here's what I learned"
+  },
+  "48967256": {
+    "probability": 0.387,
+    "title": "Minecraft: Java Edition now uses SDL3"
+  },
+  "48967355": {
+    "probability": 0.36,
+    "title": "I burned all my tokens researching how to save tokens"
+  },
+  "48967616": {
+    "probability": 0.761,
+    "title": "The Attention-Span Class Divide"
+  },
+  "48967640": {
+    "probability": 0.375,
+    "title": "Valve Reportedly Sells 12-15K Steam Machine Units per Week"
+  },
+  "48968063": {
+    "probability": 0.214,
+    "title": "Bananas sprout in Rayleigh Garden UK after 15 years"
+  },
+  "48968149": {
+    "probability": 0.174,
+    "title": "What Did We Lose When We Lost the Stars"
+  },
+  "48968348": {
+    "probability": 0.425,
+    "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle"
+  },
+  "48968515": {
+    "probability": 0.461,
+    "title": "Terence McKenna's Mega Bad Trip"
+  },
+  "48968606": {
+    "probability": 0.238,
+    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s"
+  },
+  "48968690": {
+    "probability": 0.255,
+    "title": "Data center opponents stage 142 protests across 42 US states"
+  },
+  "48968949": {
+    "probability": 0.416,
+    "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)"
+  },
+  "48969291": {
+    "probability": 0.575,
+    "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand"
+  },
+  "48969582": {
+    "probability": 0.386,
+    "title": "Texas Police Spent $4.5M on Four Chevy Tahoes"
+  },
+  "48969635": {
+    "probability": 0.457,
+    "title": "The Last MPEG-4 Visual Patent Has Expired"
+  },
+  "48969983": {
+    "probability": 0.638,
+    "title": "HMD Touch 4G"
+  },
+  "48970039": {
+    "probability": 0.462,
+    "title": "Neither GCC nor Clang are compliant with standard C++"
+  },
+  "48970372": {
+    "probability": 0.417,
+    "title": "Less Is More: Why Audio on SoundCloud Looks Different"
+  },
+  "48970684": {
+    "probability": 0.576,
+    "title": "Show HN: How much profit does your employer make per employee?"
   }
 }

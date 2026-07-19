@@ -1,0 +1,6 @@
+Show HN: LoopGain – Stop agent loops with control theory, not max_iterations  (22 pts, 12 comments)
+https://news.ycombinator.com/item?id=48919562
+
+The Hacker News discussion centers around LoopGain, an open-source library developed by Dave that applies control theory to manage multi-agent systems, specifically to prevent agent loops without relying on a maximum iteration limit. Dave shares his experience of discovering that the feedback loops in multi-agent systems resemble electrical circuit diagrams, leading to the development of this tool.
+
+In the comments, there is a debate about the effectiveness and authenticity of Dave's project description, which some users believe appears overly reliant on AI-generated content. Critics argue that this undermines trust in the project, while others acknowledge Dave's passion for AI and his willingness to learn from feedback. Notably, some users express interest in applying LoopGain to their own projects and seek to understand the underlying mechanics of error calculation in real-world scenarios. Overall, the discussion highlights the tension between using AI as a tool and maintaining a personal touch in project communication.

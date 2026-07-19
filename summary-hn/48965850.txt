@@ -1,0 +1,8 @@
+OpenAI reduces Codex Model Context Size from 372k to 272k  (244 pts, 106 comments)
+https://news.ycombinator.com/item?id=48965850
+
+The Hacker News discussion revolves around OpenAI's decision to reduce the context size of the Codex model from 372,000 tokens to 272,000 tokens. This change has sparked a variety of reactions among users, with some expressing concern about the implications for their coding workflows, especially those that rely on larger context sizes for complex projects.
+
+In the comments, there is a mix of agreement and debate regarding the reasons behind the reduction. Some users suggest that the change is primarily a cost and latency trade-off, indicating that many sessions do not require such a large context size. Others, however, express frustration, noting that the smaller context may hinder their ability to work on larger codebases effectively. There are also discussions about the model's compaction capabilities, with some users reporting issues with message dropping and the model's performance after compaction.
+
+Notable insights include a suggestion that OpenAI could benefit from adopting caching technologies used by other models, which could improve efficiency. Additionally, some users reflect on their experiences with context size limitations in earlier versions of Codex, indicating that while improvements have been made, challenges still exist. Overall, the conversation highlights a community grappling with the balance between model performance and practical usability in coding tasks.
