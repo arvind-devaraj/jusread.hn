@@ -1,0 +1,8 @@
+Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample  (895 pts, 512 comments)
+https://news.ycombinator.com/item?id=49010345
+
+The Hacker News discussion revolves around a conversation between mathematician Terence Tao and ChatGPT regarding a counterexample to the Jacobian Conjecture, a long-standing problem in mathematics. The post highlights the significance of this counterexample, produced by Claude Fable, and its implications for the field.
+
+In the comments, users debate the consequences of such discoveries, with some viewing them as incremental steps in mathematics rather than revolutionary breakthroughs. There is a discussion about the role of AI and large language models (LLMs) in mathematical problem-solving, with some commenters suggesting that while LLMs can assist in generating solutions, they still require expert human guidance. Others express skepticism about the notion of AI possessing intelligence, arguing that it functions more as a tool than an independent thinker.
+
+Notable insights include the recognition that the Jacobian Conjecture has stumped many prominent mathematicians for years, and the conversation illustrates how advanced AI can aid in automating complex tasks in mathematics. The discussion also touches on the philosophical implications of AI's role in intellectual work, with differing opinions on whether AI can be considered intelligent or merely a sophisticated tool.
