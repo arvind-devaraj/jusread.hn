@@ -1,0 +1,8 @@
+What happens behind the scenes when we change effort for same LLM models?  (10 pts, 7 comments)
+https://news.ycombinator.com/item?id=49048125
+
+The Hacker News discussion revolves around the differences in performance and behavior when selecting high effort versus medium effort settings for the same large language models (LLMs). The original post prompts an exploration of what changes behind the scenes when these effort levels are adjusted.
+
+In the comments, users share various analogies and insights. One user compares the models to chefs, where the medium effort model is like a fast sous chef, while the high effort model resembles a more meticulous head chef who considers edge cases. There is debate about whether the effort level is a parameter of the LLM or if it corresponds to differently tuned models. Some comments mention specific implementations, such as reasoning budgets and how they affect output, indicating that different models may handle effort levels in unique ways.
+
+Notable insights include the idea that the reasoning effort can be adjusted dynamically based on client requests, and that some models may implement effort levels through specific prefixes or strategies that influence how they process information. Overall, the discussion highlights the complexity of LLM configurations and the varying approaches to managing effort in their responses.

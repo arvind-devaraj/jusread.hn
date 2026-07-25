@@ -118475,6 +118475,10 @@
     "probability": 0.324,
     "title": "US gas prices hit an average of $4 a gallon again"
   },
+  "48976262": {
+    "probability": 0.348,
+    "title": "Stolen Buttons"
+  },
   "48976361": {
     "probability": 0.576,
     "title": "Introduce a memory safe compilation mode inspired by Fil-C"
@@ -119283,6 +119287,14 @@
     "probability": 0.448,
     "title": "Device Hidden in Cars Across US Leaves Them Vulnerable to Hacking and Paralysis"
   },
+  "48991945": {
+    "probability": 0.592,
+    "title": "PartialString – A finite-difference time-domain physical modelling synthesiser"
+  },
+  "48991984": {
+    "probability": 0.592,
+    "title": "GDID Windows – Cut the tracker that follows you even under VPN"
+  },
   "48992039": {
     "probability": 0.483,
     "title": "Mullvad and Daniel Berntsson's Failed Cleanup"
@@ -119354,6 +119366,10 @@
   "48993643": {
     "probability": 0.497,
     "title": "Committing to Git: Rebuilding ReadMe on Git"
+  },
+  "48993731": {
+    "probability": 0.694,
+    "title": "Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas"
   },
   "48993816": {
     "probability": 0.121,
@@ -119943,6 +119959,10 @@
     "probability": 0.643,
     "title": "Writing by Hand is Good for your Brain"
   },
+  "49004464": {
+    "probability": 0.446,
+    "title": "Marimo now runs in PyCharm"
+  },
   "49004485": {
     "probability": 0.207,
     "title": "Monte Kali"
@@ -119987,6 +120007,10 @@
     "probability": 0.881,
     "title": "Ask HN: Alternative Careers in the Age of AI"
   },
+  "49006096": {
+    "probability": 0.458,
+    "title": "How My Images Are Dithered"
+  },
   "49006149": {
     "probability": 0.645,
     "title": "Show HN: Housecat.com – Gmail + durable workflows + sandbox VM"
@@ -120006,6 +120030,10 @@
   "49006862": {
     "probability": 0.827,
     "title": "Show HN: Agent in 9 Lines Python"
+  },
+  "49007018": {
+    "probability": 0.468,
+    "title": "Spatial languages: Writing code in 2D"
   },
   "49007024": {
     "probability": 0.568,
@@ -120254,6 +120282,10 @@
   "49010980": {
     "probability": 0.265,
     "title": "'The Odyssey' Proves It: Audiences Want Movies Made the Hard Way"
+  },
+  "49010993": {
+    "probability": 0.561,
+    "title": "Building a Tiny 3D Renderer for a Tiny Handheld"
   },
   "49011231": {
     "probability": 0.378,
@@ -120542,6 +120574,10 @@
   "49020335": {
     "probability": 0.819,
     "title": "Understanding the AI Economy"
+  },
+  "49020545": {
+    "probability": 0.501,
+    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data"
   },
   "49020751": {
     "probability": 0.343,
@@ -121447,6 +121483,10 @@
     "probability": 0.817,
     "title": "Be skeptical of OpenAI's rogue hacker agent story"
   },
+  "49038078": {
+    "probability": 0.85,
+    "title": "Drone-Bench: Tracking simple drone surveillance capabilities of frontier models"
+  },
   "49038181": {
     "probability": 0.35,
     "title": "The rise and fall of language diversity through the Holocene"
@@ -121543,6 +121583,10 @@
     "probability": 0.649,
     "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says"
   },
+  "49039868": {
+    "probability": 0.713,
+    "title": "Show HN: I made some transistor animations"
+  },
   "49039945": {
     "probability": 0.396,
     "title": "US accuses American of wiping phone using a duress password during border search"
@@ -121595,6 +121639,10 @@
     "probability": 0.659,
     "title": "Dead Internet Theory was right: AI agents are eating Web, growing nearly 8k%"
   },
+  "49041317": {
+    "probability": 0.823,
+    "title": "Show HN: Open-weight OCR got so cheap I had to share it"
+  },
   "49041347": {
     "probability": 0.77,
     "title": "AMD and Cerebras Launch AI Inference Solution"
@@ -121627,25 +121675,49 @@
     "probability": 0.697,
     "title": "AIs don't do what you want. This is bad"
   },
+  "49042436": {
+    "probability": 0.519,
+    "title": "Benchmarking Qwen 3.6 35B MoE (3B active) on an RTX 3090"
+  },
   "49042528": {
     "probability": 0.371,
     "title": "SpaceX Starship Flight 13 livestream [video]"
+  },
+  "49042577": {
+    "probability": 0.684,
+    "title": "Ford Will Use Apple Maps in New Self-Driving System"
   },
   "49042653": {
     "probability": 0.864,
     "title": "Show HN: How well do you use Claude Code?"
   },
+  "49042734": {
+    "probability": 0.186,
+    "title": "Insect submariners survive the depths without imploding"
+  },
   "49042751": {
     "probability": 0.323,
     "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep"
+  },
+  "49042870": {
+    "probability": 0.736,
+    "title": "Amazon cracks down on use of AI images by sellers after New York law"
   },
   "49042884": {
     "probability": 0.76,
     "title": "Open Weights and American AI Leadership"
   },
+  "49042989": {
+    "probability": 0.296,
+    "title": "Stripe closed my account with a 0.18% dispute rate"
+  },
   "49043192": {
     "probability": 0.839,
     "title": "OpenAI did not notice Hugging Face hack for a week"
+  },
+  "49043416": {
+    "probability": 0.403,
+    "title": "Ukraine' Simple But Effective Protection Against Russian Starlink Jamming (2023)"
   },
   "49043708": {
     "probability": 0.595,
@@ -121671,9 +121743,21 @@
     "probability": 0.27,
     "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall"
   },
+  "49044400": {
+    "probability": 0.625,
+    "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI"
+  },
+  "49044425": {
+    "probability": 0.55,
+    "title": "The Productivity Mirage"
+  },
   "49044492": {
     "probability": 0.531,
     "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities"
+  },
+  "49044501": {
+    "probability": 0.783,
+    "title": "An Introduction to Formal Logic(2020) [pdf]"
   },
   "49044746": {
     "probability": 0.325,
@@ -121698,5 +121782,193 @@
   "49045335": {
     "probability": 0.426,
     "title": "Man convicted of child sex crime by added _ char \"Fus Ro Dah\" Skyrim username"
+  },
+  "49045446": {
+    "probability": 0.765,
+    "title": "MouthPad: A Tongue-Controlled Touchpad"
+  },
+  "49046018": {
+    "probability": 0.21,
+    "title": "Codex Is Down"
+  },
+  "49046049": {
+    "probability": 0.461,
+    "title": "ChatGPT Is Down"
+  },
+  "49046192": {
+    "probability": 0.434,
+    "title": "ChatGPT Is Down Worldwide"
+  },
+  "49046200": {
+    "probability": 0.246,
+    "title": "The Iran War threatened a food crisis with soaring fertilizer costs"
+  },
+  "49046303": {
+    "probability": 0.597,
+    "title": "ID requirement to halt freedom of information in Germany"
+  },
+  "49046464": {
+    "probability": 0.328,
+    "title": "Why Debt Is One of Humanity's Most Beautiful Inventions"
+  },
+  "49046525": {
+    "probability": 0.339,
+    "title": "The Fedora 45 Sausage Factory"
+  },
+  "49046628": {
+    "probability": 0.568,
+    "title": "Blade Runner 2099 exclusive first look at the replicant uprising"
+  },
+  "49046683": {
+    "probability": 0.384,
+    "title": "Being Linux Torvalds"
+  },
+  "49046917": {
+    "probability": 0.446,
+    "title": "What if the RAM/GPU shortage is deliberate?"
+  },
+  "49047007": {
+    "probability": 0.45,
+    "title": "Why Would Meta Download So Much Porn?"
+  },
+  "49047198": {
+    "probability": 0.672,
+    "title": "League of Legends designer shares game design field manual"
+  },
+  "49047292": {
+    "probability": 0.494,
+    "title": "HP admits 30% of PCs reject Windows 11, and it's why Microsoft caved on support"
+  },
+  "49047365": {
+    "probability": 0.519,
+    "title": "Bitchat is now on Radicle"
+  },
+  "49047448": {
+    "probability": 0.625,
+    "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI"
+  },
+  "49047449": {
+    "probability": 0.371,
+    "title": "Harddrive Is Probably Full"
+  },
+  "49047488": {
+    "probability": 0.311,
+    "title": "Stripe in talks to acquire OpenRouter in potential $10B deal, WSJ reports"
+  },
+  "49047516": {
+    "probability": 0.352,
+    "title": "My web version of Mars MIPS, now has built-in C compiler"
+  },
+  "49047526": {
+    "probability": 0.807,
+    "title": "The AI Productivity Illusion"
+  },
+  "49047563": {
+    "probability": 0.379,
+    "title": "The Silurian Hypothesis (2020)"
+  },
+  "49047707": {
+    "probability": 0.48,
+    "title": "Scanwheel is a drum style mechanical television you can build yourself"
+  },
+  "49047884": {
+    "probability": 0.696,
+    "title": "Task-centered iproute2 user guide"
+  },
+  "49047969": {
+    "probability": 0.658,
+    "title": "The AI jobs apocalypse probably isn't coming anytime soon"
+  },
+  "49048034": {
+    "probability": 0.621,
+    "title": "Open-weight AI is having its Kubernetes moment"
+  },
+  "49048120": {
+    "probability": 0.248,
+    "title": "Prosecutor Investigating U.S. Boat Strikes Was Murdered in Ecuador"
+  },
+  "49048125": {
+    "probability": 0.92,
+    "title": "What happens behind the scenes when we change effort for same LLM models?"
+  },
+  "49048212": {
+    "probability": 0.235,
+    "title": "Engineering management after the cost of code collapsed"
+  },
+  "49048334": {
+    "probability": 0.227,
+    "title": "New York's small business owners rejoice as Mamdani cuts red tape"
+  },
+  "49048573": {
+    "probability": 0.348,
+    "title": "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info"
+  },
+  "49048584": {
+    "probability": 0.676,
+    "title": "The whole premise of checking for human writing is daft"
+  },
+  "49048645": {
+    "probability": 0.318,
+    "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits"
+  },
+  "49048681": {
+    "probability": 0.342,
+    "title": "The Dark Night of Mathematics"
+  },
+  "49048689": {
+    "probability": 0.725,
+    "title": "Bringing PyTorch Monarch to AMD GPUs"
+  },
+  "49048819": {
+    "probability": 0.458,
+    "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer"
+  },
+  "49048901": {
+    "probability": 0.347,
+    "title": "Writing a (valid) C program without main()"
+  },
+  "49048903": {
+    "probability": 0.47,
+    "title": "The Chuwi MiniBook X N150, One Year Later"
+  },
+  "49048996": {
+    "probability": 0.772,
+    "title": "Politician reads AI prompt during assembly"
+  },
+  "49049015": {
+    "probability": 0.381,
+    "title": "Amen Break"
+  },
+  "49049066": {
+    "probability": 0.574,
+    "title": "Rauno's Field Notes #2"
+  },
+  "49049241": {
+    "probability": 0.729,
+    "title": "Apple Is the King of AI and Nobody Knows It"
+  },
+  "49049281": {
+    "probability": 0.776,
+    "title": "Ask HN: What livestream do you keep open in a tab?"
+  },
+  "49049304": {
+    "probability": 0.904,
+    "title": "A system prompt to get AI to stop pretending to be human"
+  },
+  "49049743": {
+    "probability": 0.422,
+    "title": "Canada is taking an outsized role in the construction of the post-American world"
+  },
+  "49050152": {
+    "probability": 0.404,
+    "title": "Tile's security is so bad it's a feature for stalkers"
+  },
+  "49050538": {
+    "probability": 0.521,
+    "title": "The growing vigilante movement to knock out Flock surveillance cameras"
+  },
+  "49050566": {
+    "probability": 0.515,
+    "title": "Show HN: Bribes.fyi – Know before you go. New feature added"
   }
 }
