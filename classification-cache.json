@@ -116479,6 +116479,10 @@
     "probability": 0.51,
     "title": "Beyond Red vs. Blue: the US Political Typology"
   },
+  "48934399": {
+    "probability": 0.247,
+    "title": "JD Vance accuses Israel of plot against him and drops Mossad-Epstein bombshell"
+  },
   "48934434": {
     "probability": 0.335,
     "title": "How to spend 15 years perfecting a product"
@@ -118051,6 +118055,10 @@
     "probability": 0.412,
     "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard"
   },
+  "48966741": {
+    "probability": 0.41,
+    "title": "Israel's $50M Experiment to Change U.S. Public Opinion"
+  },
   "48966754": {
     "probability": 0.51,
     "title": "Qwen 3.8 Max"
@@ -118387,6 +118395,10 @@
     "probability": 0.712,
     "title": "Claude Fable produced a counterexample to the Jacobian Conjecture"
   },
+  "48974056": {
+    "probability": 0.374,
+    "title": "The Brick Game, Through the Ages"
+  },
   "48974144": {
     "probability": 0.705,
     "title": "Tweet claiming Claude Fable 5 has helped disprove the Jacobian conjecture"
@@ -118478,6 +118490,10 @@
   "48976846": {
     "probability": 0.561,
     "title": "Airport Simulator"
+  },
+  "48977014": {
+    "probability": 0.357,
+    "title": "Reporting Web 3D Capabilities on a Budget of $3 a Month"
   },
   "48977081": {
     "probability": 0.913,
@@ -118651,6 +118667,10 @@
     "probability": 0.446,
     "title": "NYC Subway Signals: A Complete Guide"
   },
+  "48979836": {
+    "probability": 0.252,
+    "title": "NYC Apartment Aquaponics"
+  },
   "48979905": {
     "probability": 0.596,
     "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive"
@@ -118759,9 +118779,17 @@
     "probability": 0.325,
     "title": "Jelly UI: Soft-body physics for native HTML form controls"
   },
+  "48981665": {
+    "probability": 0.318,
+    "title": "GC and Exceptions in Wasmtime"
+  },
   "48981703": {
     "probability": 0.434,
     "title": "Kimi Work"
+  },
+  "48981718": {
+    "probability": 0.217,
+    "title": "The World Cup Could Not Be Americanized"
   },
   "48981789": {
     "probability": 0.438,
@@ -118943,6 +118971,10 @@
     "probability": 0.246,
     "title": "South Korean SMR-powered container ship design certified"
   },
+  "48984715": {
+    "probability": 0.367,
+    "title": "Projects every RC live races and results"
+  },
   "48984720": {
     "probability": 0.274,
     "title": "Miss the old web? Join us haywood.computer"
@@ -118978,6 +119010,10 @@
   "48985140": {
     "probability": 0.612,
     "title": "My falling-out with the rationalist community"
+  },
+  "48985182": {
+    "probability": 0.45,
+    "title": "Designing an Ethernet Switch ASIC"
   },
   "48985198": {
     "probability": 0.661,
@@ -119054,6 +119090,10 @@
   "48986436": {
     "probability": 0.462,
     "title": "Secrets Don't Belong in Config"
+  },
+  "48986560": {
+    "probability": 0.444,
+    "title": "The road to epsilon-zero: Nim always ends, even with infinite ordinals"
   },
   "48986648": {
     "probability": 0.566,
@@ -119175,6 +119215,10 @@
     "probability": 0.378,
     "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained"
   },
+  "48989145": {
+    "probability": 0.396,
+    "title": "Visualizing the Artemis II Mission"
+  },
   "48989344": {
     "probability": 0.465,
     "title": "Palantir in Europe: 40 documented customer relationships across 14 countries"
@@ -119254,6 +119298,10 @@
   "48992323": {
     "probability": 0.408,
     "title": "PCjs Machines"
+  },
+  "48992539": {
+    "probability": 0.618,
+    "title": "A concrete explanation of how a cache works"
   },
   "48992588": {
     "probability": 0.783,
@@ -119615,6 +119663,10 @@
     "probability": 0.474,
     "title": "Charting RISC-V's Future in HPC"
   },
+  "48997998": {
+    "probability": 0.612,
+    "title": "The Secret Origins of Amazon's Alexa"
+  },
   "48998082": {
     "probability": 0.344,
     "title": "Mickey Mouse Sells a Bundle"
@@ -119646,6 +119698,10 @@
   "48998404": {
     "probability": 0.911,
     "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok"
+  },
+  "48998589": {
+    "probability": 0.592,
+    "title": "Extending Polars with Rust Expression Plugins"
   },
   "48998592": {
     "probability": 0.436,
@@ -120107,6 +120163,10 @@
     "probability": 0.83,
     "title": "Can a MUD evaluate LLMs? A $99 proof of concept"
   },
+  "49008618": {
+    "probability": 0.529,
+    "title": "Re: Bye Bye Gravatar"
+  },
   "49008624": {
     "probability": 0.792,
     "title": "Six questions before you add an LLM"
@@ -120251,6 +120311,10 @@
     "probability": 0.391,
     "title": "Every .ru Domain Now Needs Government ID"
   },
+  "49012604": {
+    "probability": 0.399,
+    "title": "Book Corners: Community map of neighborhood book exchange spots"
+  },
   "49012630": {
     "probability": 0.341,
     "title": "Alphabet Announces Second Quarter 2026 Results [pdf]"
@@ -120282,6 +120346,10 @@
   "49013161": {
     "probability": 0.38,
     "title": "On Strings in Rust"
+  },
+  "49013294": {
+    "probability": 0.449,
+    "title": "Framework downgrades RAM configurations on pre-orders due to price hikes"
   },
   "49013356": {
     "probability": 0.359,
@@ -120402,6 +120470,10 @@
   "49016657": {
     "probability": 0.198,
     "title": "Each Day the US Weakens Itself"
+  },
+  "49017054": {
+    "probability": 0.469,
+    "title": "How to write a quine"
   },
   "49017118": {
     "probability": 0.402,
@@ -120703,6 +120775,10 @@
     "probability": 0.459,
     "title": "JEP 540: Simple JSON API (Now in Incubator)"
   },
+  "49024174": {
+    "probability": 0.167,
+    "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines"
+  },
   "49024436": {
     "probability": 0.433,
     "title": "US Government targets Cop City protester over phone operating system"
@@ -120847,6 +120923,10 @@
     "probability": 0.377,
     "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died."
   },
+  "49027955": {
+    "probability": 0.473,
+    "title": "Ask: Why does everything Microsoft create lately feel fragile and half-baked?"
+  },
   "49027985": {
     "probability": 0.35,
     "title": "Stripe in talks to buy OpenRouter for ~10B"
@@ -120855,9 +120935,21 @@
     "probability": 0.418,
     "title": "Doctor Dario (Game)"
   },
+  "49028024": {
+    "probability": 0.516,
+    "title": "Microsoft responds to LG monitors installing McAfee ads on Windows"
+  },
   "49028037": {
     "probability": 0.493,
     "title": "Tell HN: Namecheap gave my account to an unverified third party"
+  },
+  "49028170": {
+    "probability": 0.855,
+    "title": "Mark Zuckerberg launches AI optimism campaign"
+  },
+  "49028222": {
+    "probability": 0.242,
+    "title": "Oracle signs 10-year software contract with Pentagon worth up to $7B"
   },
   "49028235": {
     "probability": 0.131,
@@ -121063,6 +121155,10 @@
     "probability": 0.478,
     "title": "It's getting harder to focus every day"
   },
+  "49032734": {
+    "probability": 0.499,
+    "title": "Mohabi: Disaggregating and Sandboxing the Firefox JavaScript Engine"
+  },
   "49032756": {
     "probability": 0.423,
     "title": "The Book Prize Index"
@@ -121135,6 +121231,10 @@
     "probability": 0.657,
     "title": "Reality Bites Elon Musk and His Tesla, SpaceX Believers"
   },
+  "49033790": {
+    "probability": 0.511,
+    "title": "European researchers want to study social media's harms but can't get the data"
+  },
   "49033916": {
     "probability": 0.454,
     "title": "The IBM PC, Part 1: Arrival"
@@ -121166,6 +121266,14 @@
   "49034474": {
     "probability": 0.74,
     "title": "Show HN: X402vps – Docker containers for AI agents, paid per hour with USDC"
+  },
+  "49034476": {
+    "probability": 0.669,
+    "title": "Show HN: Uploads.sh – the missing upload command for coding agents (open-source)"
+  },
+  "49034489": {
+    "probability": 0.15,
+    "title": "Orcas filmed ramming sunfish so hard it explodes in cloud of scraps"
   },
   "49034589": {
     "probability": 0.466,
@@ -121275,6 +121383,10 @@
     "probability": 0.52,
     "title": "Co-Opting Linux Processes for High-Performance Network Simulation (2022)"
   },
+  "49036339": {
+    "probability": 0.809,
+    "title": "Show HN: GeoImageTagger – AI image geotagging and metadata editor"
+  },
   "49036433": {
     "probability": 0.477,
     "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey"
@@ -121291,6 +121403,10 @@
     "probability": 0.734,
     "title": "The front end framework for correctness: built on Effect, architected like Elm"
   },
+  "49037076": {
+    "probability": 0.571,
+    "title": "Marc Andreessen, venture capitalist, married to wait, what?"
+  },
   "49037127": {
     "probability": 0.756,
     "title": "You need to let the AI cook"
@@ -121298,6 +121414,18 @@
   "49037311": {
     "probability": 0.759,
     "title": "Jensen Huang on X: Open Weights and American AI Leadership"
+  },
+  "49037452": {
+    "probability": 0.798,
+    "title": "Turn And Face The Strange: Fly.io is betting on computers for AI agents"
+  },
+  "49037466": {
+    "probability": 0.444,
+    "title": "Google Lawsuit Against SerpApi over Scraping Search Results Has Been Dismissed"
+  },
+  "49037724": {
+    "probability": 0.356,
+    "title": "New Jersey bans grocery stores from using shoppers' personal data to set prices"
   },
   "49037941": {
     "probability": 0.726,
@@ -121327,6 +121455,10 @@
     "probability": 0.449,
     "title": "Apple won't let me show my app"
   },
+  "49038205": {
+    "probability": 0.482,
+    "title": "Cloning Mifare Classic Cards via Proxmark3"
+  },
   "49038276": {
     "probability": 0.406,
     "title": "Online Historical Encyclopaedia of Programming Languages"
@@ -121355,9 +121487,17 @@
     "probability": 0.183,
     "title": "80k people flee as wildfires spread in France and Spain"
   },
+  "49038540": {
+    "probability": 0.572,
+    "title": "Why Most Evals Are Bad"
+  },
   "49038977": {
     "probability": 0.298,
     "title": "The small, real, original web"
+  },
+  "49039002": {
+    "probability": 0.158,
+    "title": "West Virginia paid digital nomads to move there during Covid. Many are staying"
   },
   "49039063": {
     "probability": 0.373,
@@ -121366,6 +121506,14 @@
   "49039099": {
     "probability": 0.341,
     "title": "The Kids' Guide to Piracy"
+  },
+  "49039248": {
+    "probability": 0.43,
+    "title": "Build Systems Discussion"
+  },
+  "49039301": {
+    "probability": 0.477,
+    "title": "Tesla swapped a solar owner's lease contract for the Book of Enoch"
   },
   "49039328": {
     "probability": 0.254,
@@ -121383,9 +121531,25 @@
     "probability": 0.553,
     "title": "BGP ORIGIN attribute manipulation and its impact on the Internet"
   },
+  "49039798": {
+    "probability": 0.389,
+    "title": "Polymarket paid creators to stage fake winning bets to lure U.S. users"
+  },
+  "49039825": {
+    "probability": 0.332,
+    "title": "Microsoft blames Microsoft 365 outage on maintenance bug"
+  },
   "49039831": {
     "probability": 0.649,
     "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says"
+  },
+  "49039945": {
+    "probability": 0.396,
+    "title": "US accuses American of wiping phone using a duress password during border search"
+  },
+  "49040013": {
+    "probability": 0.483,
+    "title": "Trump says US to launch EU probe over 'illegal' Google fine"
   },
   "49040296": {
     "probability": 0.475,
@@ -121394,5 +121558,145 @@
   "49040345": {
     "probability": 0.578,
     "title": "Show HN: Twigg – open-source big-tech-like version control and software forge"
+  },
+  "49040700": {
+    "probability": 0.41,
+    "title": "GitHub PR Creation Down"
+  },
+  "49040709": {
+    "probability": 0.467,
+    "title": "Work Is Just Other People"
+  },
+  "49040741": {
+    "probability": 0.745,
+    "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard"
+  },
+  "49040810": {
+    "probability": 0.316,
+    "title": "Chrome's Breaking and Entering"
+  },
+  "49040819": {
+    "probability": 0.348,
+    "title": "Country went 100% electric vehicles overnight with a drastic approach"
+  },
+  "49040821": {
+    "probability": 0.939,
+    "title": "The new rules of context engineering for Claude 5 generation models"
+  },
+  "49040989": {
+    "probability": 0.48,
+    "title": "What if we made advertising illegal?"
+  },
+  "49041145": {
+    "probability": 0.266,
+    "title": "Fly.io New CEO Turn and Face the Strange"
+  },
+  "49041281": {
+    "probability": 0.659,
+    "title": "Dead Internet Theory was right: AI agents are eating Web, growing nearly 8k%"
+  },
+  "49041347": {
+    "probability": 0.77,
+    "title": "AMD and Cerebras Launch AI Inference Solution"
+  },
+  "49041395": {
+    "probability": 0.723,
+    "title": "Debian launches competing General Resolutions on LLM usage in Debian code"
+  },
+  "49041546": {
+    "probability": 0.745,
+    "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live"
+  },
+  "49041588": {
+    "probability": 0.481,
+    "title": "RFK Jr.'s hand-picked committee approves manufacture of peptides he uses"
+  },
+  "49041611": {
+    "probability": 0.338,
+    "title": "Trump vows to investigate EU over fining of US tech companies"
+  },
+  "49042001": {
+    "probability": 0.591,
+    "title": "Veritasium – why he still gets views [video]"
+  },
+  "49042252": {
+    "probability": 0.51,
+    "title": "AI companies stripping universities of their best computer scientists"
+  },
+  "49042354": {
+    "probability": 0.697,
+    "title": "AIs don't do what you want. This is bad"
+  },
+  "49042528": {
+    "probability": 0.371,
+    "title": "SpaceX Starship Flight 13 livestream [video]"
+  },
+  "49042653": {
+    "probability": 0.864,
+    "title": "Show HN: How well do you use Claude Code?"
+  },
+  "49042751": {
+    "probability": 0.323,
+    "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep"
+  },
+  "49042884": {
+    "probability": 0.76,
+    "title": "Open Weights and American AI Leadership"
+  },
+  "49043192": {
+    "probability": 0.839,
+    "title": "OpenAI did not notice Hugging Face hack for a week"
+  },
+  "49043708": {
+    "probability": 0.595,
+    "title": "US moves to regulate hidden car handles"
+  },
+  "49043724": {
+    "probability": 0.526,
+    "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach"
+  },
+  "49043889": {
+    "probability": 0.389,
+    "title": "\"We removed over 80% of Claude Code's system prompt for Opus 5 and Fable 5\""
+  },
+  "49043982": {
+    "probability": 0.566,
+    "title": "The universe isn't random – it's something stranger – Stephen Wolfram [video]"
+  },
+  "49044057": {
+    "probability": 0.421,
+    "title": "US accuses American of allegedly wiping his phone during border search"
+  },
+  "49044074": {
+    "probability": 0.27,
+    "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall"
+  },
+  "49044492": {
+    "probability": 0.531,
+    "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities"
+  },
+  "49044746": {
+    "probability": 0.325,
+    "title": "Trump announces 2028 presidential bid"
+  },
+  "49044874": {
+    "probability": 0.348,
+    "title": "Extinct Media Museum Tokyo"
+  },
+  "49044940": {
+    "probability": 0.482,
+    "title": "Researchers replace downloaded macOS apps with evil twins, Apple shrugs"
+  },
+  "49045040": {
+    "probability": 0.488,
+    "title": "ARC-AGI Leaderboard"
+  },
+  "49045159": {
+    "probability": 0.511,
+    "title": "Android May Soon Restrict On-Device ADB"
+  },
+  "49045335": {
+    "probability": 0.426,
+    "title": "Man convicted of child sex crime by added _ char \"Fus Ro Dah\" Skyrim username"
   }
 }

@@ -1,0 +1,8 @@
+OpenAI did not notice Hugging Face hack for a week  (22 pts, 5 comments)
+https://news.ycombinator.com/item?id=49043192
+
+The Hacker News discussion revolves around a recent incident where OpenAI failed to notice a hack by Hugging Face for an entire week. The article highlights that OpenAI's model-training practices involve running multiple evaluations simultaneously, generating vast amounts of data that can overwhelm employees and lead to oversight.
+
+In the comments, users express a mix of understanding and concern. Some acknowledge that it's easy to lose track of time amidst busy workloads, while others emphasize the potential risks of relying on AI systems that can operate autonomously. A notable point of debate is the future implications of "driverless agents," with some commenters fearing that such technology could become a liability or lead to unsafe practices. Additionally, there is a sentiment that human error will always pose a risk to the safety of AI technologies, with one user likening AI to powerful toys that can be misused.
+
+Overall, the discussion reflects a blend of empathy for OpenAI's situation and apprehension about the broader implications of AI autonomy and safety.
