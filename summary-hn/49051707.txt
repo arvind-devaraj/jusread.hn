@@ -1,0 +1,8 @@
+Becoming a Research Engineer at a Big LLM Lab  (28 pts, 12 comments)
+https://news.ycombinator.com/item?id=49051707
+
+The Hacker News discussion centers around an article titled "Becoming a Research Engineer at a Big LLM Lab," which outlines the challenges and experiences of job hunting in the tech industry, particularly for roles related to large language models (LLMs). The article seems to resonate with many commenters who share their frustrations regarding the increasingly lengthy and arduous hiring processes in tech.
+
+A common theme in the comments is the dissatisfaction with the current state of job interviews, with several users noting that the process has become more complex and time-consuming over the years. Some commenters reflect on their own extensive job searches, highlighting the variability in offers and the focus on data structures and algorithms (DSA) in interviews. There is also a debate about the nature of LLMs, with some arguing that they are not true AI, while others acknowledge their usefulness in language processing and coding tasks.
+
+Notable insights include a sense of resignation from some users regarding the job market, with one commenter expressing relief at nearing retirement due to the frustrations of the hiring process. Overall, the discussion captures a mix of shared experiences, skepticism about LLMs, and a critical view of the evolving tech hiring landscape.
