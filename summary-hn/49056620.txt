@@ -1,0 +1,8 @@
+Terence Tao: Mathematics in the Age of AI [pdf]  (71 pts, 28 comments)
+https://news.ycombinator.com/item?id=49056620
+
+The Hacker News discussion centers around Terence Tao's recent talk titled "Mathematics in the Age of AI," which explores the implications of artificial intelligence on the field of mathematics. The linked PDF contains slides from the presentation, and some users also mention a video recording of the talk. The discussion highlights the need for a vocabulary to discuss the future of mathematics in light of AI advancements.
+
+In the comments, there is a mix of agreement and debate regarding the impact of AI on mathematics. Some users express optimism about AI's potential to enhance mathematical research and education, while others voice concerns about the commodification of knowledge and the risk of creating a new feudal system. Notably, some commenters emphasize the importance of the process of knowledge discovery and sharing, arguing that AI could undermine the joy and collaborative spirit inherent in mathematics. Others predict that AI might lead to a more closed-off culture in research, contrasting the traditional openness of the mathematical community.
+
+Overall, the discussion reflects a broader tension between embracing technological advancements and preserving the values of creativity, collaboration, and enjoyment in the pursuit of knowledge.
