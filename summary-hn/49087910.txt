@@ -1,0 +1,8 @@
+The AI Future Is for Everyone  (14 pts, 6 comments)
+https://news.ycombinator.com/item?id=49087910
+
+The Hacker News discussion revolves around an opinion piece titled "The AI Future Is for Everyone," authored by Mark Zuckerberg and published in the Wall Street Journal. The article advocates for the democratization of AI technology, suggesting that it should be accessible to everyone rather than being monopolized by a few companies.
+
+In the comments, users express a mix of skepticism and support for Zuckerberg's stance. Some, like andy99, acknowledge the positive aspects of his message while recalling Meta's past practices that contradict this vision, such as restricting access to certain AI models. Others, like JohnFen and joebuckwilliams, view the article as a combination of a sales pitch and a strategic move to regain public trust, questioning Zuckerberg's sincerity given Meta's history of closed practices.
+
+Overall, the discussion highlights a tension between the ideal of open AI access and the reality of corporate interests, with commenters urging Zuckerberg to demonstrate genuine commitment through actionable changes at Meta.

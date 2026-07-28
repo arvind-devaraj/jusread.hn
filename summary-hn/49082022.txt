@@ -1,0 +1,8 @@
+Kimi Linear: An Expressive, Efficient Attention Architecture (2025)  (239 pts, 102 comments)
+https://news.ycombinator.com/item?id=49082022
+
+The Hacker News discussion revolves around the paper titled "Kimi Linear: An Expressive, Efficient Attention Architecture," which was released in 2025. The conversation highlights the advancements in the Kimi K3 model, particularly its use of 69 KDA layers compared to previous models that utilized only MLA layers. Commenters discuss the differences between the KDA used in Kimi Linear and Kimi K3, referencing specific sections of the K3 technical report for clarification.
+
+A significant portion of the debate centers on the implications of model training techniques, particularly the use of reinforcement learning (RL) and the ethical considerations surrounding data usage. Some commenters express skepticism about the claims made by companies like Anthropic regarding intellectual property (IP) and the legitimacy of their training methods, especially in comparison to Chinese AI companies that may not adhere to the same IP standards. There is a consensus that the landscape of AI development is influenced by these differing approaches to data and model training, with some advocating for a more equitable treatment of IP across the board.
+
+Notable insights include the recognition that the success of AI models often hinges on the late-phase training with RL techniques, as well as the acknowledgment of the hypocrisy in the IP claims made by Western companies. The discussion reflects a broader concern about the competitive dynamics in AI development, particularly between Western and Chinese companies, and the ethical implications of their respective practices.

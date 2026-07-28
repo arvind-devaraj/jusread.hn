@@ -1,0 +1,8 @@
+Show HN: Segue – Save context in one AI, load it in another by a short handle  (28 pts, 21 comments)
+https://news.ycombinator.com/item?id=49082779
+
+The Hacker News discussion revolves around a new tool called Segue, which allows users to save context from one AI session and load it into another using a short handle. The concept aims to facilitate context migration between different AI platforms, addressing a common pain point for users who work with multiple AI tools.
+
+The comments reflect a mix of skepticism and curiosity. Many users express concerns about the security implications of sending context data to a third-party server in plain text, with suggestions that a local or self-hosted solution would be preferable. Some commenters question the necessity of the tool, arguing that existing methods, such as using Markdown files or asking AIs to summarize context, are sufficient. Others highlight the potential utility of the tool for specific use cases, particularly for those who frequently switch between AI platforms and need a more streamlined way to manage context.
+
+Notable insights include the recognition that while context management is a real issue, the demand for a paid solution may be limited. Some users suggest that a more open-source approach or integration with existing storage solutions could enhance the tool's appeal. Overall, the discussion underscores a tension between the desire for convenience and the need for security and control over personal data.
