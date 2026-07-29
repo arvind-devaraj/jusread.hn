@@ -1,0 +1,8 @@
+GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?  (61 pts, 13 comments)
+https://news.ycombinator.com/item?id=49098388
+
+The Hacker News discussion revolves around a comparison of GPT-5.6 and Claude Fable 5 in the context of physical AI performance. The original post critiques the evaluation methods used in the comparison and highlights the lack of certain models, such as Codex and Kimi 3, in the analysis.
+
+In the comments, users express a mix of skepticism and curiosity about the benchmarks presented. Some believe that Google’s models, particularly Gemini, may excel in multimodal tasks but are not reliable for coding. Others question the validity of the benchmarks, suggesting they are incomplete or biased. There is also a debate about the emerging concept of "world models," with some commenters arguing that they are more akin to video generative models rather than true physical AI.
+
+Notable insights include concerns about the cost-effectiveness of the models, with one user pointing out that Fable's performance comes at a significantly higher price compared to GPT-5.6. Overall, the discussion reflects a cautious optimism about advancements in AI while highlighting the need for more rigorous and comprehensive evaluations.

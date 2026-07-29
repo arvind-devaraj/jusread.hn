@@ -1,0 +1,8 @@
+TokenTown: A visual way to understand how LLMs work  (68 pts, 20 comments)
+https://news.ycombinator.com/item?id=49097003
+
+The post introduces "TokenTown," an interactive tool designed to help users visualize how large language models (LLMs) tokenize text, showing token IDs, counts, and other relevant details. The creator, laurentiurad, developed it to simplify explanations of tokenization for friends and identified a lack of accessible resources on the topic.
+
+In the comments, there is a mix of feedback. Some users appreciate the concept but criticize the execution, suggesting that the tool is overly complex and filled with jargon, making it difficult for the average user to understand. Others express skepticism about the creator's intentions, with one commenter labeling them a "tech grifter." There are also suggestions for improvements, such as simplifying the content, enhancing mobile compatibility, and incorporating more engaging visualization styles.
+
+Notably, some commenters recommend alternative resources for learning about LLMs, indicating that while TokenTown has potential, it may not yet meet the needs of all users. The creator acknowledges the feedback and expresses a willingness to make adjustments to improve the tool.
