@@ -1,0 +1,8 @@
+Claude: Elevated errors across all models – Resolved  (263 pts, 246 comments)
+https://news.ycombinator.com/item?id=49102150
+
+The Hacker News discussion revolves around a recent incident report from Claude, an AI model by Anthropic, which experienced elevated errors across all its models. The issue has since been resolved, but many users expressed their frustrations and concerns regarding the reliability of AI coding tools.
+
+In the comments, there is a mix of nostalgia for the pre-AI coding days and a recognition of the dependency many have developed on AI tools for programming. Some users shared their struggles with coding without AI assistance, while others discussed the benefits of diversifying their AI usage to mitigate downtime issues. There was also a debate about the reliability of different AI services, with some users criticizing Claude's uptime compared to competitors and discussing the implications of overselling capacity.
+
+Notable insights include a sense of longing for simpler coding experiences and a recognition that while AI tools can enhance productivity, they also create a dependency that some find concerning. Users also highlighted the importance of maintaining coding skills independently of AI, with suggestions to engage in competitive programming or math puzzles as a way to reconnect with foundational coding practices.
