@@ -1,0 +1,8 @@
+Show HN: Shared memory graph for Claude and ChatGPT, over MCP  (17 pts, 12 comments)
+https://news.ycombinator.com/item?id=49124733
+
+The Hacker News discussion revolves around a project titled "Shared memory graph for Claude and ChatGPT, over MCP," which was showcased by the creator. The project aims to provide a graph that can update dynamically, rather than just appending new data. 
+
+In the comments, there is a consensus that the promotional text on the website is overly AI-generated and lacks clarity, with several users expressing frustration over its readability. One commenter, who admitted to writing the landing copy with AI, acknowledged the feedback and mentioned plans to rewrite it in simpler language. There are also discussions about the style of the AI-generated text, with some users labeling it as "slop."
+
+Notably, while some commenters appreciate the innovative concept behind the project, others are skeptical, suggesting that the idea is not particularly novel. Overall, the conversation highlights a mix of constructive criticism regarding the presentation of the project and a recognition of its potential value.
