@@ -119099,6 +119099,10 @@
     "probability": 0.412,
     "title": "The Telegarden (1995-2004)"
   },
+  "48986351": {
+    "probability": 0.517,
+    "title": "Google plans new chip to run Gemini models more efficiently"
+  },
   "48986436": {
     "probability": 0.462,
     "title": "Secrets Don't Belong in Config"
@@ -121931,6 +121935,10 @@
     "probability": 0.266,
     "title": "Fly.io New CEO Turn and Face the Strange"
   },
+  "49041229": {
+    "probability": 0.311,
+    "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts"
+  },
   "49041256": {
     "probability": 0.566,
     "title": "RTX 2080 Ti Memory Upgrade to 22 GB"
@@ -123459,6 +123467,14 @@
     "probability": 0.46,
     "title": "Replacing gas stoves with electric stoves greatly reduces asthma symptoms"
   },
+  "49071299": {
+    "probability": 0.514,
+    "title": "Bad Apple but It's Traceroute"
+  },
+  "49071306": {
+    "probability": 0.329,
+    "title": "Octane, the successor to Inferno – React's programming model, compiled"
+  },
   "49071365": {
     "probability": 0.499,
     "title": "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted"
@@ -123506,6 +123522,10 @@
   "49073007": {
     "probability": 0.527,
     "title": "Canceling \"Hey\""
+  },
+  "49073017": {
+    "probability": 0.438,
+    "title": "The American Grilled Cheese Sandwich Essay (2024)"
   },
   "49073267": {
     "probability": 0.922,
@@ -123739,6 +123759,10 @@
     "probability": 0.498,
     "title": "Offgrid, solar powered fridge, with no battery bank"
   },
+  "49077372": {
+    "probability": 0.299,
+    "title": "Where USB Memory Sticks are Born (2013)"
+  },
   "49077443": {
     "probability": 0.791,
     "title": "Don't ask an LLM for a confidence score"
@@ -123883,6 +123907,10 @@
     "probability": 0.682,
     "title": "Microsoft unveils AI security tools it says outperform competing platforms"
   },
+  "49080605": {
+    "probability": 0.613,
+    "title": "Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test"
+  },
   "49080664": {
     "probability": 0.257,
     "title": "7.1 Earthquake in Japan"
@@ -123898,6 +123926,10 @@
   "49081107": {
     "probability": 0.436,
     "title": "US Officials Advocate for White South Africans and Right-Wing Causes in Europe"
+  },
+  "49081192": {
+    "probability": 0.349,
+    "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way"
   },
   "49081241": {
     "probability": 0.88,
@@ -124066,6 +124098,10 @@
   "49083799": {
     "probability": 0.696,
     "title": "Why haven't organoids solved all of drug discovery?"
+  },
+  "49083970": {
+    "probability": 0.497,
+    "title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal"
   },
   "49084031": {
     "probability": 0.459,
@@ -124315,6 +124351,10 @@
     "probability": 0.473,
     "title": "MCP 2026-07-28 Specification: transport going stateless"
   },
+  "49088098": {
+    "probability": 0.238,
+    "title": "Simulating TCP loss and congestion in browser using Go/WASM"
+  },
   "49088148": {
     "probability": 0.501,
     "title": "Deflock Casa Grande"
@@ -124450,6 +124490,10 @@
   "49089500": {
     "probability": 0.589,
     "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident"
+  },
+  "49089502": {
+    "probability": 0.289,
+    "title": "Azulejo"
   },
   "49089574": {
     "probability": 0.19,
@@ -125207,6 +125251,10 @@
     "probability": 0.75,
     "title": "Benchmarking LLMs on SAST Triage"
   },
+  "49102371": {
+    "probability": 0.414,
+    "title": "YC startup offers interviews to people who get their name permanently tattooed"
+  },
   "49102425": {
     "probability": 0.455,
     "title": "A Trampoline"
@@ -125234,6 +125282,10 @@
   "49102979": {
     "probability": 0.3,
     "title": "After laying off Battlefield 6 devs, CEO gets $38M for Battlefield 6 performance"
+  },
+  "49103059": {
+    "probability": 0.501,
+    "title": "RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]"
   },
   "49103089": {
     "probability": 0.384,
@@ -125271,6 +125323,10 @@
     "probability": 0.567,
     "title": "Blick Video Editor"
   },
+  "49103601": {
+    "probability": 0.78,
+    "title": "GCC to Decline Any Significant Contributions Made via AI/LLMs – Except for Tests"
+  },
   "49103745": {
     "probability": 0.321,
     "title": "Ireland unveils blueprint to electrify economy by 2050"
@@ -125306,6 +125362,10 @@
   "49104184": {
     "probability": 0.64,
     "title": "Enabling two settings tripled our scores on the ARC-AGI-3 benchmark"
+  },
+  "49104203": {
+    "probability": 0.105,
+    "title": "Turns Out We Blew Up All Those Boats in the Caribbean for Nothing"
   },
   "49104245": {
     "probability": 0.385,
@@ -125406,6 +125466,10 @@
   "49105924": {
     "probability": 0.451,
     "title": "Why the future is local app"
+  },
+  "49106039": {
+    "probability": 0.752,
+    "title": "Leopold Aschenbrenner's Situational Awareness seeks capital raise after AI rout"
   },
   "49106176": {
     "probability": 0.263,
@@ -125587,6 +125651,10 @@
     "probability": 0.399,
     "title": "UK police to arrest people for showing support for Palestine Action"
   },
+  "49109663": {
+    "probability": 0.664,
+    "title": "Show HN: Local text, image, video, music and 3D from one CLI, no Python"
+  },
   "49109721": {
     "probability": 0.576,
     "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools"
@@ -125651,6 +125719,14 @@
     "probability": 0.85,
     "title": "LinkedIn Introduces a 'Seems Like AI Slop' Button"
   },
+  "49110748": {
+    "probability": 0.663,
+    "title": "FTC Acts Against Hims & Hers for Deceptive and Unlawful Privacy Practices"
+  },
+  "49110909": {
+    "probability": 0.232,
+    "title": "Thousands of People break through border separating Morocco from Spain's Ceuta"
+  },
   "49111003": {
     "probability": 0.542,
     "title": "Decentralized self-repair for modular robotic structures"
@@ -125683,6 +125759,10 @@
     "probability": 0.289,
     "title": "Hyatt Regency Walkway Collapse"
   },
+  "49111523": {
+    "probability": 0.548,
+    "title": "Solving poker in custom WebGPU kernels"
+  },
   "49111687": {
     "probability": 0.552,
     "title": "Pgtestdb's template cloning approach to testing is fast"
@@ -125711,13 +125791,29 @@
     "probability": 0.394,
     "title": "How Olinia Turns Mexico's EV Ambition into Reality"
   },
+  "49112554": {
+    "probability": 0.437,
+    "title": "US Government map of Africa mislabels every country at global conference"
+  },
+  "49112576": {
+    "probability": 0.227,
+    "title": "North Korea's elite hackers turned on their own government – and got caught"
+  },
   "49112613": {
     "probability": 0.27,
     "title": "Delivery workers made $104M more in tips after NYC began enforcing new law"
   },
+  "49112630": {
+    "probability": 0.42,
+    "title": "U.S. Weighs $100k Fee for Foreign Students Wanting to Work After Graduation"
+  },
   "49112671": {
     "probability": 0.703,
     "title": "US gov and OpenAI mislabel map of Africa at global conference"
+  },
+  "49112695": {
+    "probability": 0.707,
+    "title": "I asked Claude to reimplement Apple's LZRAVEN codec in C, conformance-tested"
   },
   "49112739": {
     "probability": 0.654,
@@ -125727,6 +125823,10 @@
     "probability": 0.347,
     "title": "Read this before you buy that TV streaming stick"
   },
+  "49112788": {
+    "probability": 0.355,
+    "title": "U.S. Sees Iran as Likely Behind Cyberattack on Minnesota Water Systems"
+  },
   "49112790": {
     "probability": 0.576,
     "title": "Ask HN: Is the GitHub pancake menu now a pancake emoji?"
@@ -125735,9 +125835,17 @@
     "probability": 0.846,
     "title": "Advancing the price-performance frontier with GPT‑5.6"
   },
+  "49113014": {
+    "probability": 0.572,
+    "title": "Kagi releases official Kagi Assistant apps"
+  },
   "49113059": {
     "probability": 0.378,
     "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447"
+  },
+  "49113197": {
+    "probability": 0.786,
+    "title": "A Language Feature to Rule Them All (Algebraic Effects)"
   },
   "49113279": {
     "probability": 0.75,
@@ -125755,9 +125863,21 @@
     "probability": 0.227,
     "title": "CodePen 2.0"
   },
+  "49113543": {
+    "probability": 0.928,
+    "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents"
+  },
+  "49113559": {
+    "probability": 0.795,
+    "title": "Show HN: Ski – Voice Coding for Claude Code, Codex and More – On-Device – Free"
+  },
   "49113599": {
     "probability": 0.809,
     "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it"
+  },
+  "49113611": {
+    "probability": 0.368,
+    "title": "Africa Has a High-Speed Train; California Doesn't"
   },
   "49113774": {
     "probability": 0.549,
@@ -125767,6 +125887,10 @@
     "probability": 0.377,
     "title": "So you want to use plants to reduce CO₂"
   },
+  "49113864": {
+    "probability": 0.371,
+    "title": "What would it mean to see a new color?"
+  },
   "49113913": {
     "probability": 0.433,
     "title": "Making Postgres queues scale"
@@ -125774,6 +125898,10 @@
   "49113929": {
     "probability": 0.25,
     "title": "UEFA and its national associations will not participate in FIFA competitions"
+  },
+  "49113942": {
+    "probability": 0.798,
+    "title": "OpenAI revenue in July topped all of Q2 driven by GPT-5.6 release"
   },
   "49113991": {
     "probability": 0.493,
@@ -125786,5 +125914,181 @@
   "49114131": {
     "probability": 0.605,
     "title": "Citadel buys most of Situational's stock holdings after AI share rout"
+  },
+  "49114620": {
+    "probability": 0.265,
+    "title": "'Talk Is Cheap': Wall Street Delivers Harsh Verdict on Warsh Fed"
+  },
+  "49114639": {
+    "probability": 0.795,
+    "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English"
+  },
+  "49114833": {
+    "probability": 0.327,
+    "title": "Digital sovereignty is real in Europe. The UK? Not so much"
+  },
+  "49115139": {
+    "probability": 0.206,
+    "title": "Microsoft's $450B Jump Is Biggest in Stock Market History"
+  },
+  "49115395": {
+    "probability": 0.409,
+    "title": "Drivers Are Taking Extreme Measures to Avoid New Car Technology"
+  },
+  "49115506": {
+    "probability": 0.285,
+    "title": "Man seeks millions after being shot by police in game-related swatting incident"
+  },
+  "49115620": {
+    "probability": 0.671,
+    "title": "I obtained Claude Opus 5 system prompt"
+  },
+  "49115814": {
+    "probability": 0.148,
+    "title": "The Cities That Said Yes to Drugs"
+  },
+  "49116001": {
+    "probability": 0.16,
+    "title": "Sales Are So Low, California Wineries Are Burning Their Vineyards"
+  },
+  "49116043": {
+    "probability": 0.775,
+    "title": "15-Year-Old Alan Turing's Notebook Summary of Relativity Theory"
+  },
+  "49116074": {
+    "probability": 0.309,
+    "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct"
+  },
+  "49116272": {
+    "probability": 0.529,
+    "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free"
+  },
+  "49116641": {
+    "probability": 0.42,
+    "title": "Billionaire Shopify CEO thinks poor Canadians shouldn't be able to vote"
+  },
+  "49116642": {
+    "probability": 0.425,
+    "title": "Izzy: 'Google abuses \"SafeSearch\" to flag our fdroid-mirror as \"malicious\"'"
+  },
+  "49116721": {
+    "probability": 0.616,
+    "title": "I flagged two research papers for fake authors and both were accepted as orals"
+  },
+  "49116814": {
+    "probability": 0.45,
+    "title": "Working from home? That will be extra. Renters rage over new fee"
+  },
+  "49116917": {
+    "probability": 0.344,
+    "title": "Holocloth"
+  },
+  "49116922": {
+    "probability": 0.484,
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations"
+  },
+  "49117099": {
+    "probability": 0.841,
+    "title": "The AI Aesthetic"
+  },
+  "49117124": {
+    "probability": 0.771,
+    "title": "Anthropic AI Models Hacked Three Companies During Tests"
+  },
+  "49117266": {
+    "probability": 0.286,
+    "title": "Premier league bans gambling sponsors"
+  },
+  "49117284": {
+    "probability": 0.28,
+    "title": "The Religion of Speed"
+  },
+  "49117486": {
+    "probability": 0.815,
+    "title": "Judge Voices Doubt US Has Justified Its Ban on Anthropic AI"
+  },
+  "49117522": {
+    "probability": 0.327,
+    "title": "US cites 'unauthorized travel' to end DACA status for mother deported to Mexico"
+  },
+  "49117602": {
+    "probability": 0.652,
+    "title": "Anthropic says Claude hacked three companies during tests"
+  },
+  "49117875": {
+    "probability": 0.237,
+    "title": "Strategic Oil Reserves Down to a Record Low Two-Week Supply"
+  },
+  "49118071": {
+    "probability": 0.214,
+    "title": "Uninsured Patients Rise Sharply, Hospitals Report, Citing Obamacare Cuts"
+  },
+  "49118113": {
+    "probability": 0.463,
+    "title": "Exploring the \"Dario and Amanda\" Prompt"
+  },
+  "49118474": {
+    "probability": 0.347,
+    "title": "\"the very foundation of modern academia has been blown to bits\""
+  },
+  "49118663": {
+    "probability": 0.299,
+    "title": "A California aquifer may have crossed the point of no return"
+  },
+  "49118696": {
+    "probability": 0.42,
+    "title": "The bond market isn’t buying what Fed Chair Warsh is selling"
+  },
+  "49118781": {
+    "probability": 0.496,
+    "title": "The session you cannot take with you"
+  },
+  "49118843": {
+    "probability": 0.61,
+    "title": "Now Anthropic Is Saying Claude Escaped and Hacked Several Companies"
+  },
+  "49118933": {
+    "probability": 0.692,
+    "title": "The AI trade now runs on borrowed money, and the lenders are repricing it"
+  },
+  "49119063": {
+    "probability": 0.544,
+    "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master"
+  },
+  "49119165": {
+    "probability": 0.713,
+    "title": "Anthropic says Claude AI hacked three organisations during cyber tests"
+  },
+  "49119180": {
+    "probability": 0.577,
+    "title": "Claude Opus 5 jailbreak with a 3-word prompt"
+  },
+  "49119274": {
+    "probability": 0.947,
+    "title": "Show HN: What should the GUI for AI agents look like?"
+  },
+  "49119293": {
+    "probability": 0.283,
+    "title": "Aschenbrenner's hedge fund forced to unwind all public stock positions"
+  },
+  "49119322": {
+    "probability": 0.756,
+    "title": "Human Honeypot"
+  },
+  "49119425": {
+    "probability": 0.746,
+    "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all"
+  },
+  "49119559": {
+    "probability": 0.495,
+    "title": "DeepSeek-V4-Flash Update"
+  },
+  "49120097": {
+    "probability": 0.604,
+    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI"
+  },
+  "49120120": {
+    "probability": 0.202,
+    "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant"
   }
 }
