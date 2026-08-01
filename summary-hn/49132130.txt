@@ -1,0 +1,8 @@
+AI doesn't generate working products, that's still your job  (241 pts, 249 comments)
+https://news.ycombinator.com/item?id=49132130
+
+The Hacker News discussion revolves around the idea that while AI can significantly accelerate the development of initial prototypes, it does not replace the need for human effort in refining those prototypes into production-grade products. The original post argues that the transition from a working version to a fully functional product still requires substantial human input, including addressing user feedback and ensuring quality.
+
+In the comments, there is a mix of agreement and debate regarding the definition of "production-grade" software, with some suggesting it involves extensive user testing and iteration, while others question whether the complexity of fault handling is necessary. Concerns are raised about the impact of AI on job security, with some commenters fearing that increased productivity could lead to fewer job opportunities, while others argue that efficiency could drive demand for more products and services.
+
+Notable insights include the idea that AI's role is not to replace human expertise but to enhance it, and the recognition that the quality of software produced may not necessarily improve despite increased code generation. Some commenters express skepticism about the transformative potential of AI in software development, suggesting that existing infrastructure and practices may hinder meaningful progress. Overall, the discussion highlights the nuanced relationship between AI capabilities and the ongoing need for human involvement in product development.
