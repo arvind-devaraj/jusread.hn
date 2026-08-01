@@ -1,0 +1,8 @@
+OpenAI serves more than one billion active users  (17 pts, 7 comments)
+https://news.ycombinator.com/item?id=49127726
+
+The Hacker News discussion centers around a post from OpenAI announcing that their models now serve over one billion active users and more than two million businesses. The post is attributed to Sarah Friar, OpenAI's CFO, which sparked curiosity among commenters regarding the choice of author.
+
+In the comments, there is a mix of skepticism and criticism. Some users view the announcement as a marketing tactic rather than a significant achievement, with one commenter suggesting it may be aimed at bolstering an upcoming IPO. Others express a desire for OpenAI to improve its services, with suggestions like drastically reducing prices to attract even more users.
+
+Overall, the discussion highlights a general skepticism about the motivations behind the announcement, with some commenters questioning the authenticity of the claims and calling for more substantial improvements in OpenAI's offerings.
