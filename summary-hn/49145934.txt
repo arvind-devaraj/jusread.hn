@@ -1,0 +1,6 @@
+Show HN: Sprocket – The Best AI Agent for Hardware and Software Development  (112 pts, 19 comments)
+https://news.ycombinator.com/item?id=49145934
+
+The Hacker News discussion centers around a project called Sprocket, an open-source AI agent developed by a 16-year-old named Aarav. Sprocket claims to outperform existing AI agents in both hardware and software development, with the unique capability to autonomously purchase items from any website. Aarav highlights Sprocket's ability to create hardware schematics, bill of materials (BOM), and assembly instructions, while also promising upcoming benchmarks to demonstrate its superiority.
+
+In the comments, there is a mix of enthusiasm and skepticism. Many users express admiration for Aarav's work, praising his intelligence and potential, while others question the reliability of the project, noting that the demo site was down at the time of the post. Some comments suggest that the positive feedback may be from friends or family, leading to a debate about the authenticity of the support. Overall, the discussion reflects a blend of excitement for innovative young talent and caution regarding the project's current state and claims.

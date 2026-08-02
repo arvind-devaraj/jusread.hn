@@ -124035,6 +124035,10 @@
     "probability": 0.528,
     "title": "DMARC has been public since 2012 but most company domains still don't enforce it"
   },
+  "49081851": {
+    "probability": 0.55,
+    "title": "Nyctography: A substituton cypher by Lewis Carroll"
+  },
   "49081862": {
     "probability": 0.52,
     "title": "Usenet Archive Toolkit – process Usenet messages into a searchable archive"
@@ -124126,6 +124130,10 @@
   "49083141": {
     "probability": 0.685,
     "title": "AWS Secrets Manager Terraform: Least-Privilege Access"
+  },
+  "49083146": {
+    "probability": 0.633,
+    "title": "Turtle-inspired interactive Python project"
   },
   "49083149": {
     "probability": 0.641,
@@ -124899,9 +124907,17 @@
     "probability": 0.334,
     "title": "eBay pays $46M to journalists it targeted in harassment campaign"
   },
+  "49093845": {
+    "probability": 0.383,
+    "title": "Folding Paper Globes"
+  },
   "49094061": {
     "probability": 0.848,
     "title": "Sam Altman says people don't want an AI to act as CEO"
+  },
+  "49094151": {
+    "probability": 0.566,
+    "title": "Fasttracker II clone in C using SDL 2"
   },
   "49094200": {
     "probability": 0.239,
@@ -124970,6 +124986,10 @@
   "49095750": {
     "probability": 0.628,
     "title": "AI companies buy, scan, shred rare and out-of-print books"
+  },
+  "49095763": {
+    "probability": 0.613,
+    "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions"
   },
   "49095823": {
     "probability": 0.726,
@@ -125146,6 +125166,10 @@
   "49097958": {
     "probability": 0.579,
     "title": "We built an MCP server for your SRE agent"
+  },
+  "49097961": {
+    "probability": 0.684,
+    "title": "Developers are attached to tools because tools encode trust"
   },
   "49097990": {
     "probability": 0.759,
@@ -125662,6 +125686,10 @@
   "49107145": {
     "probability": 0.659,
     "title": "I Have Thoughts on the iPhone Air"
+  },
+  "49107216": {
+    "probability": 0.587,
+    "title": "Instrumenting my espresso machine with OpenTelemetry"
   },
   "49107232": {
     "probability": 0.8,
@@ -126407,6 +126435,10 @@
     "probability": 0.694,
     "title": "Situational Awareness down 67% in July in AI stock rout"
   },
+  "49123003": {
+    "probability": 0.561,
+    "title": "When transit passes were designed by hand (2022)"
+  },
   "49123199": {
     "probability": 0.499,
     "title": "The C ``Clockwise/Spiral Rule''"
@@ -126574,6 +126606,10 @@
   "49125034": {
     "probability": 0.345,
     "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio"
+  },
+  "49125058": {
+    "probability": 0.775,
+    "title": "Show HN: A local memory of all you have seen, said or heard while you work"
   },
   "49125079": {
     "probability": 0.792,
@@ -126983,6 +127019,10 @@
     "probability": 0.394,
     "title": "The Bedrock of Software Design"
   },
+  "49135401": {
+    "probability": 0.376,
+    "title": "Crystal Wars – turn-based strategy on a fresh Voronoi map every match"
+  },
   "49135426": {
     "probability": 0.332,
     "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga"
@@ -127219,6 +127259,10 @@
     "probability": 0.51,
     "title": "Truth Social to sell fast access to Trump's social media posts"
   },
+  "49139461": {
+    "probability": 0.915,
+    "title": "Show HN: Symbio self fine-tuning AI loop"
+  },
   "49139527": {
     "probability": 0.384,
     "title": "Trump says Greenland will be under US control by the time he leaves office"
@@ -127254,6 +127298,10 @@
   "49139796": {
     "probability": 0.384,
     "title": "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering"
+  },
+  "49139826": {
+    "probability": 0.927,
+    "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work"
   },
   "49139845": {
     "probability": 0.953,
@@ -127315,6 +127363,10 @@
     "probability": 0.425,
     "title": "Plug-in solar is coming. Plug-in batteries should follow"
   },
+  "49140662": {
+    "probability": 0.448,
+    "title": "Don't Take the Black Pill (Text Adaptation)"
+  },
   "49140696": {
     "probability": 0.309,
     "title": "Linux desktop market share has hit over 10% in North America"
@@ -127335,6 +127387,10 @@
     "probability": 0.246,
     "title": "Canadians are leaving the country at record levels. Can anyone solve this?"
   },
+  "49140998": {
+    "probability": 0.284,
+    "title": "Karpathy’s Pelican"
+  },
   "49141008": {
     "probability": 0.756,
     "title": "Don't credit the LLM"
@@ -127342,6 +127398,30 @@
   "49141073": {
     "probability": 0.504,
     "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300"
+  },
+  "49141521": {
+    "probability": 0.411,
+    "title": "Why are all the amounts values negative?"
+  },
+  "49141562": {
+    "probability": 0.382,
+    "title": "Sizeof is surprisingly difficult to parse in C"
+  },
+  "49141636": {
+    "probability": 0.273,
+    "title": "The House of Ellison Is on the Brink"
+  },
+  "49141764": {
+    "probability": 0.53,
+    "title": "Show HN: Btfy – a blockchain that uses weather observations"
+  },
+  "49141828": {
+    "probability": 0.405,
+    "title": "ESP32-C3 SuperMini antenna modification"
+  },
+  "49141847": {
+    "probability": 0.741,
+    "title": "CRM: An open-source, agentic-first CRM"
   },
   "49141877": {
     "probability": 0.34,
@@ -127351,8 +127431,196 @@
     "probability": 0.354,
     "title": "I don't recommend Tailwind CSS"
   },
+  "49141937": {
+    "probability": 0.435,
+    "title": "IBM i (OS/400) the Database Operating System"
+  },
+  "49141967": {
+    "probability": 0.277,
+    "title": "Police in the US are making their own true crime podcasts"
+  },
+  "49142002": {
+    "probability": 0.832,
+    "title": "Show HN: Tone Generator"
+  },
+  "49142083": {
+    "probability": 0.431,
+    "title": "Mathematics Without Mathematicians"
+  },
   "49142128": {
     "probability": 0.352,
     "title": "Nerd culture is murdering intellectuals"
+  },
+  "49142130": {
+    "probability": 0.304,
+    "title": "Cyberscript"
+  },
+  "49142263": {
+    "probability": 0.43,
+    "title": "The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)"
+  },
+  "49142458": {
+    "probability": 0.465,
+    "title": "The time filter in Google Search broke a few days ago"
+  },
+  "49142569": {
+    "probability": 0.622,
+    "title": "Show HN: Bor – Open-source policy management for Linux desktops"
+  },
+  "49142768": {
+    "probability": 0.293,
+    "title": "US bank places trust in ransomware crew that promised to delete its data"
+  },
+  "49142794": {
+    "probability": 0.38,
+    "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores"
+  },
+  "49143001": {
+    "probability": 0.894,
+    "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge"
+  },
+  "49143053": {
+    "probability": 0.307,
+    "title": "Is the Industrial Revolution a good precedent for explosive growth today?"
+  },
+  "49143096": {
+    "probability": 0.313,
+    "title": "Rust All Hands 2026 Retrospective"
+  },
+  "49143179": {
+    "probability": 0.717,
+    "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python"
+  },
+  "49143188": {
+    "probability": 0.326,
+    "title": "US Treasury undertakes historic intervention in yen market"
+  },
+  "49143289": {
+    "probability": 0.805,
+    "title": "Generative AI floods and dilutes the market for books"
+  },
+  "49143304": {
+    "probability": 0.525,
+    "title": "I made a Promise-aware debounce and throttle library for TypeScript"
+  },
+  "49143330": {
+    "probability": 0.428,
+    "title": "Impro is a handbook for running a cult"
+  },
+  "49143412": {
+    "probability": 0.627,
+    "title": "Show HN: Fuse – statically typed functional programming language"
+  },
+  "49143414": {
+    "probability": 0.434,
+    "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm"
+  },
+  "49143479": {
+    "probability": 0.351,
+    "title": "Meshdiff – visually compare two STL versions in the browser, client-side"
+  },
+  "49143571": {
+    "probability": 0.593,
+    "title": "Best way to avoid bloat and AI – selfcontaining OS"
+  },
+  "49143630": {
+    "probability": 0.744,
+    "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers"
+  },
+  "49143688": {
+    "probability": 0.832,
+    "title": "An internal OpenAI Astra model solved 10 major open math and CS problems"
+  },
+  "49143719": {
+    "probability": 0.405,
+    "title": "GPUs could explode to multiple TB with new storage-inspired memory tech"
+  },
+  "49143925": {
+    "probability": 0.652,
+    "title": "F*: A general-purpose proof-oriented programming language"
+  },
+  "49143967": {
+    "probability": 0.326,
+    "title": "Twenty Years of RISC OS Open"
+  },
+  "49144273": {
+    "probability": 0.333,
+    "title": "Has the New Cocaine Arrived?"
+  },
+  "49144946": {
+    "probability": 0.237,
+    "title": "The Seinfeld Chronicles: Digital Edition"
+  },
+  "49145201": {
+    "probability": 0.553,
+    "title": "A Rant About “Technology” (2005)"
+  },
+  "49145395": {
+    "probability": 0.727,
+    "title": "Mozilla's Inaugural 'State of Open Source AI' Report Is Here"
+  },
+  "49145590": {
+    "probability": 0.637,
+    "title": "How the words we teach English language learners changed"
+  },
+  "49145809": {
+    "probability": 0.703,
+    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews"
+  },
+  "49145883": {
+    "probability": 0.612,
+    "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N"
+  },
+  "49145934": {
+    "probability": 0.827,
+    "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development"
+  },
+  "49145937": {
+    "probability": 0.507,
+    "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM"
+  },
+  "49146051": {
+    "probability": 0.278,
+    "title": "GE-97 Terminal: The Old Internet"
+  },
+  "49146065": {
+    "probability": 0.212,
+    "title": "The Rise of Million-Dollar Companies with Just One Employee"
+  },
+  "49146122": {
+    "probability": 0.244,
+    "title": "Linux Desktop Market Share Surpasses 10% in North America"
+  },
+  "49146238": {
+    "probability": 0.518,
+    "title": "Pushes to arch AUR are suspendended right now."
+  },
+  "49146267": {
+    "probability": 0.6,
+    "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark"
+  },
+  "49146372": {
+    "probability": 0.233,
+    "title": "The Coldcard Disaster Gets Worse: The Hack May Have Reached $88.6M"
+  },
+  "49146605": {
+    "probability": 0.563,
+    "title": "Harvesting SSH Credentials: Insights from My Honeypot Network"
+  },
+  "49146696": {
+    "probability": 0.54,
+    "title": "How China Keeps Tabs on Foreigners"
+  },
+  "49147190": {
+    "probability": 0.47,
+    "title": "Cancelling Cursor"
+  },
+  "49147209": {
+    "probability": 0.291,
+    "title": "Microsoft raises Xbox prices by up to 43%"
+  },
+  "49147263": {
+    "probability": 0.292,
+    "title": "SwiftUI After 7 Years: A Story of Mediocrity"
   }
 }
