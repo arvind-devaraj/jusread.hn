@@ -1,0 +1,8 @@
+Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators  (19 pts, 7 comments)
+https://news.ycombinator.com/item?id=49140340
+
+The Hacker News discussion centers around a project called CostPerPrompt, which provides live pricing information for various AI APIs and includes calculators to estimate costs based on real workloads. The tool aims to help users understand the financial implications of using different AI services.
+
+In the comments, users discuss the challenges of accurately estimating costs, particularly regarding token efficiency and caching behavior across different providers. One commenter raises concerns about how session breaks can affect caching and, consequently, token usage, while another points out that some platforms, like OpenRouter, provide insights into cache hit rates. The creator of CostPerPrompt responds, explaining that the calculator allows for an adjustable cache-hit ratio to account for varying session gaps and time-to-live (TTL) settings among providers.
+
+Notably, there is skepticism about the authenticity of interactions in the discussion, with one user questioning whether the creator is using AI to respond to comments. Another user expresses frustration with the proliferation of AI-generated content, indicating a growing fatigue with such technologies. Overall, the conversation highlights both the utility and complexity of navigating AI API costs.

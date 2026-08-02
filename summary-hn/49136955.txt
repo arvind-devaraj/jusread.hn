@@ -1,0 +1,8 @@
+Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets  (34 pts, 10 comments)
+https://news.ycombinator.com/item?id=49136955
+
+The Hacker News discussion revolves around a blog post detailing the scanning of 7.6 petabytes of training data from Hugging Face for sensitive information, such as secrets and keys that could pose security risks. The post highlights the scale of the data and the importance of ensuring that such information is not inadvertently included in AI training datasets.
+
+In the comments, there is a mix of interest and critique regarding the writing style of the original post, with some users expressing frustration over its clarity and engagement. A few commenters suggest that the writing could be improved by generating drafts and rewriting in a more personal voice, while others argue that good writing requires a certain level of skill and taste that may be lacking in the industry. Additionally, there is a debate about the practicality of scanning Hugging Face datasets versus crawling the broader internet for similar data.
+
+Notably, one commenter draws a comparison to the writing style of author Yuval Noah Harari, suggesting that the issues with the post's writing may not be unique to AI-generated content. Overall, the discussion reflects a broader concern about the quality of communication in tech and the challenges of managing large datasets responsibly.
