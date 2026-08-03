@@ -1,0 +1,8 @@
+Show HN: Symbio self fine-tuning AI loop  (10 pts, 5 comments)
+https://news.ycombinator.com/item?id=49139461
+
+The Hacker News discussion revolves around a project called Symbio, which is an AI system designed to self-fine-tune based on its mistakes and user-provided solutions. The creator emphasizes that the system operates fully locally, although it has high RAM requirements that may exclude some users, particularly those with certain Mac models.
+
+In the comments, there is a focus on the challenges of ensuring that the AI does not drift from its original capabilities as it fine-tunes itself. One commenter raises concerns about balancing personalization with the risk of "catastrophic forgetting," where the AI might lose essential skills while learning new ones. The creator responds by explaining that the fine-tuning process involves creating separate adapters for new skills, which are tested against core competencies. If the AI fails to meet essential skill requirements, the new adapter is discarded.
+
+Overall, the discussion highlights both the innovative aspects of the self-fine-tuning approach and the technical challenges associated with maintaining the AI's foundational abilities while allowing for personalized learning.

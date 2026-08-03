@@ -1,0 +1,8 @@
+The Computational Theory of Mind (2015)  (61 pts, 54 comments)
+https://news.ycombinator.com/item?id=49149125
+
+The Hacker News discussion revolves around the "Computational Theory of Mind" (CTM), which posits that human cognition can be understood as computational processes similar to those executed by computers. The original article from Stanford's Encyclopedia of Philosophy serves as a foundation for exploring the implications of this theory.
+
+In the comments, there is significant debate about the relationship between human cognition and computational models, particularly in light of advancements in AI, such as large language models (LLMs). Some commenters argue that LLMs do not accurately reflect human cognitive processes, while others suggest that the subconscious might function similarly to an LLM. There is also a discussion about the limitations of computational models in capturing the nuances of human thought, including the role of qualia and the subjective experience of cognition.
+
+Notable insights include the idea that computation is subjective and that the processes of thought may not be fully captured by traditional computational frameworks. Some commenters express skepticism about the uniqueness of human cognition, suggesting that machines could potentially replicate thought processes, albeit with different underlying mechanisms. Overall, the conversation highlights the complexity of understanding the mind through computational theories and the ongoing tension between biological and digital models of cognition.
