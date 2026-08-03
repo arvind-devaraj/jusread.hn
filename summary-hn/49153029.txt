@@ -1,0 +1,8 @@
+PISIGuard: Protect your personal and sensitive info when you chat with AI  (20 pts, 14 comments)
+https://news.ycombinator.com/item?id=49153029
+
+The Hacker News discussion revolves around PISIGuard, a tool designed to protect personal and sensitive information when interacting with AI chatbots. The tool operates in the browser, identifying and replacing sensitive data like names, email addresses, and passwords with placeholders, while ensuring the original values are restored in the AI's responses.
+
+In the comments, users express a mix of interest and skepticism. Some suggest that existing software for data anonymization, like Microsoft's Presidio, may already serve similar purposes. Others question the necessity of such a tool, arguing that most users are cautious about sharing personal information with AI. However, several commenters highlight practical scenarios where sensitive data might inadvertently be shared, such as when copying logs that contain personal identifiers. There are also suggestions for expanding the tool's functionality to support local applications and coding environments.
+
+Notably, the creator of PISIGuard acknowledges the feedback and clarifies that the tool is aimed at non-technical users who may not be fully aware of the risks of data leakage. The discussion reflects a broader concern about privacy in AI interactions and the need for user-friendly solutions to mitigate risks.

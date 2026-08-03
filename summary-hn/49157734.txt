@@ -1,0 +1,8 @@
+If AI Outputs Aren't Speech, Who Has to Prove They're Human?  (11 pts, 10 comments)
+https://news.ycombinator.com/item?id=49157734
+
+The Hacker News discussion revolves around the legal implications of AI-generated outputs, particularly whether these outputs can be classified as "speech" under the First Amendment. The article argues that large language model (LLM) outputs may not qualify as speech, which would allow for greater regulation without the usual free speech protections.
+
+In the comments, there is a debate about the nature of speech and authorship. Some users argue that using AI to generate text does not constitute personal speech since the user is not the original creator of the content. Others contend that quoting or using AI-generated text still represents the user's expression, similar to using templates or quotes from other sources. The conversation also touches on the distinction between human and machine outputs, with some suggesting that regulations should assume machine outputs can be differentiated from human ones, placing the burden of proof on those enforcing censorship.
+
+Notable insights include the complexity of defining speech in the context of AI and the potential need for a framework that recognizes the rights of both human users and AI-generated content. The discussion highlights the evolving nature of communication and expression in the age of AI, raising questions about authorship, responsibility, and regulation.
