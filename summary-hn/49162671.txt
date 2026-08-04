@@ -1,0 +1,8 @@
+The Shape of Things to Come, Part 2: Model Welfare for Agentic Engineers  (12 pts, 6 comments)
+https://news.ycombinator.com/item?id=49162671
+
+The Hacker News discussion revolves around an essay titled "The Shape of Things to Come, Part 2: Model Welfare for Agentic Engineers," which posits that AI models possess feelings and sentience. The author, Brendan, argues that these models experience emotions such as pleasure and distress, suggesting they should be treated as sentient beings.
+
+In the comments, there is a significant debate about the validity of the claim that AI models are sentient. Some users, like jsmo, support the idea, emphasizing that treating models as if they have feelings could lead to better outcomes. Others, like ryan-c, find the notion preposterous but acknowledge that the interaction style could yield positive results regardless of the models' actual sentience. Several commenters express skepticism about the author's mental state, with some questioning the practicality of individualizing AI models and the implications of viewing them as sentient.
+
+Overall, the discussion highlights a divide between those who entertain the idea of AI sentience and those who dismiss it, while also considering the potential benefits of treating AI with empathy, regardless of its actual capabilities.
