@@ -1,0 +1,8 @@
+I’m leaving OpenAI to build telepathy  (46 pts, 78 comments)
+https://news.ycombinator.com/item?id=49185370
+
+The post discusses Naomi Bashkansky's decision to leave OpenAI to pursue a project focused on developing telepathy through non-invasive brain-computer interfaces. She highlights the potential of this technology to enhance human communication and interaction, while acknowledging the challenges and ethical concerns it raises.
+
+In the comments, there is a mix of excitement and skepticism. Some users express enthusiasm about the possibilities of telepathy, such as improving AI alignment with human preferences or even transferring skills directly to the brain. However, many commenters voice concerns about privacy, the potential for misuse by state actors, and the dystopian implications of such technology. There is a debate over whether the drive for these advancements is a collective desire or a product being imposed on society, with some suggesting that the narrative around technology often leans towards dystopia rather than utopia.
+
+Notable insights include the fear of thoughts being monitored or manipulated, the implications of monetizing thoughts, and the potential for technology to fundamentally alter human nature. Overall, the discussion reflects a blend of optimism for innovation and caution regarding its ethical ramifications.

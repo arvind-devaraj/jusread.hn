@@ -1,0 +1,8 @@
+Show HN: Hacker News with reduced priority for AI driven content  (20 pts, 16 comments)
+https://news.ycombinator.com/item?id=49186767
+
+The post introduces a project aimed at curating Hacker News content with reduced emphasis on AI-driven articles. The creator, identified as "sammy0910," has been developing this tool for nearly four years and allows users to adjust ranking parameters directly from their browser. The goal is to filter out AI-generated content while still including discussions about AI topics.
+
+In the comments, users express mixed opinions about the effectiveness of the filtering system. Some, like "nphardon," appreciate the idea but note that the filtering isn't perfect, as AI-related articles still appear prominently. Others, such as "zatkin," question the definition of "AI-driven content," pointing out that even articles about AI organizations can still be considered AI-related. There is also a discussion about the technical aspects of the filtering mechanism, with "sammy0910" explaining that it uses a combination of string matching and embeddings.
+
+Overall, the conversation reflects a desire for a more curated experience on Hacker News, with users sharing insights on the challenges of distinguishing between AI-generated content and relevant discussions about AI.
