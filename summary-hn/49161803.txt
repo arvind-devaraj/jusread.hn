@@ -1,0 +1,8 @@
+Learning to fly FPV drones with AI flight coach  (18 pts, 8 comments)
+https://news.ycombinator.com/item?id=49161803
+
+The Hacker News discussion revolves around a blog post by Divyendu Singh, who explores the use of AI as a flight coach for learning to fly FPV (First Person View) drones. The author shares his experiences and insights on integrating AI into the learning process, suggesting that it can enhance training and provide personalized guidance.
+
+In the comments, there is a mix of opinions. Some users, like spaqin and yial, argue that there is already a wealth of free knowledge available online and that the community aspect of learning from experienced pilots is invaluable. They express skepticism about the necessity of AI in this context, suggesting that current technology is user-friendly and accessible. Others, like divyenduz, defend the use of AI, emphasizing that it complements rather than replaces community engagement. Notably, scarecrowbob shares his personal experience as a beginner, highlighting the enjoyment of learning through traditional methods without AI.
+
+Overall, the discussion reflects a broader debate about the role of AI in skill acquisition, with some advocating for its benefits while others emphasize the importance of community and existing resources in the FPV drone learning journey.

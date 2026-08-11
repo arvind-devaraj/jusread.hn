@@ -1,0 +1,8 @@
+Humanising LLM Outputs Is Dumb  (189 pts, 117 comments)
+https://news.ycombinator.com/item?id=49243474
+
+The Hacker News discussion revolves around a blog post titled "Humanising LLM Outputs Is Dumb," which critiques the tendency of large language models (LLMs) to produce overly verbose and jargon-laden text that can hinder comprehension. The author argues that this "humanizing" approach often results in outputs that are difficult to parse, leading to frustration among users who seek clear and concise information.
+
+In the comments, there is a consensus that the flowery language and excessive metaphors in LLM outputs can be counterproductive, especially for users with specific needs, such as technical clarity. Some commenters share personal experiences of struggling to understand LLM-generated text, while others suggest that alternating between different models can yield better results. There is also a debate about whether this verbosity is a result of training failures or intentional design choices aimed at creating a certain "personality" in the models.
+
+Notable insights include the suggestion that LLMs should be trained to prioritize clarity and simplicity, with some users advocating for specific prompts to encourage more straightforward language. Overall, the discussion highlights a growing frustration with the complexity of LLM outputs and a desire for more user-friendly communication from these models.

@@ -1,0 +1,8 @@
+Show HN: Hope, 1-on-1 AI Tutor for kids Grades 2-10 learning math  (12 pts, 13 comments)
+https://news.ycombinator.com/item?id=49195914
+
+The Hacker News discussion revolves around HOPE, a new platform designed to provide one-on-one math tutoring for students in grades 2-10. The creators are seeking feedback from parents willing to try the service with their children, emphasizing its focus on building confidence through interactive learning.
+
+In the comments, users express support for the initiative, with some discussing the importance of tracking student progress. The platform reportedly monitors mastery across over 80 math subjects, adjusting the difficulty based on a student's performance. A point of debate arises regarding the use of hints; some commenters caution that excessive reliance on hints might hinder genuine problem-solving skills. The creators acknowledge this concern and are open to refining how hints are provided. Additionally, there are inquiries about the target audience and marketing strategies, highlighting the platform's potential to assist students who may lack resources for learning at home.
+
+Overall, the discussion reflects a positive reception of HOPE, with constructive feedback aimed at enhancing its effectiveness and usability.
