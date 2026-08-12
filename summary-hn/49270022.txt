@@ -1,0 +1,8 @@
+What sort of maths are LLMs good at?  (210 pts, 93 comments)
+https://news.ycombinator.com/item?id=49270022
+
+The Hacker News discussion revolves around a blog post by mathematician Timothy Gowers, exploring the capabilities of large language models (LLMs) in solving mathematical problems. Gowers suggests that a key indicator of LLMs reaching human-level proficiency in mathematics would be their ability to prove theorems using innovative and aesthetically pleasing methods, akin to the best human mathematicians.
+
+In the comments, there is a mix of agreement and debate regarding the effectiveness of LLMs in reasoning tasks. Some users argue that LLMs struggle with simple reasoning, citing various studies, while others believe that the issues may stem from unclear prompts rather than the models' capabilities. Notably, there is a discussion about the importance of prompt clarity and the challenges of using LLMs for specific tasks, such as finding freelance opportunities. Some commenters emphasize the need for LLMs to be used in conjunction with code and structured tasks to improve their performance.
+
+Overall, the discussion highlights a broader concern about the limitations of LLMs in mathematical reasoning and the ongoing debate about their potential to match human creativity and insight in the field.
