@@ -1,0 +1,6 @@
+OpenAI and Anthropic hidden CoT leaks when given deep_think tool.  (55 pts, 6 comments)
+https://news.ycombinator.com/item?id=49265135
+
+The Hacker News discussion revolves around a Twitter post that highlights potential leaks of "Chain of Thought" (CoT) reasoning from OpenAI and Anthropic when using a tool called "deep_think." The original post suggests that these leaks may expose internal workings or vulnerabilities in the models developed by these AI companies.
+
+In the comments, users express amusement and curiosity about whether this issue was previously known. Some commenters share links for further context, while others speculate on the companies' likely reactions, suggesting they might be working to address or block these leaks. There is a general consensus that the situation could prompt significant concern for the companies involved, with questions raised about the effectiveness of any measures they might take to prevent such leaks in the future. Overall, the discussion reflects a mix of humor, intrigue, and concern regarding AI model security and transparency.

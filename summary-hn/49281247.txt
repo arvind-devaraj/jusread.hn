@@ -1,0 +1,8 @@
+When Will AI Take My Job?  (14 pts, 9 comments)
+https://news.ycombinator.com/item?id=49281247
+
+The Hacker News discussion revolves around the website "When Will AI Take My Job?" which models the potential impact of AI on various job categories. Users engage with the site's projections, questioning the accuracy and methodology behind the predictions, particularly regarding jobs that seem outdated or irrelevant, such as telephone operators and typists.
+
+Key points of debate include skepticism about the accuracy of the job loss projections, with some commenters highlighting that certain roles were already declining before AI's rise. Others express concern about the need for rapid AI adoption, arguing that fear of job loss could hinder progress. Notably, one user critiques the industry's focus on metrics that do not account for societal upheaval, suggesting that the conversation around AI's impact should consider broader social consequences rather than just employment statistics.
+
+Overall, the discussion reflects a mix of optimism and caution regarding AI's future, with participants urging for a more nuanced understanding of its implications on the workforce and society at large.
