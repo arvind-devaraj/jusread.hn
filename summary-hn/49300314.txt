@@ -1,0 +1,8 @@
+Google is making private AI practical with homomorphic encryption  (112 pts, 77 comments)
+https://news.ycombinator.com/item?id=49300314
+
+The Hacker News discussion centers around a Google blog post that discusses the implementation of Fully Homomorphic Encryption (FHE) to enhance privacy in AI applications. The technology allows computations to be performed on encrypted data without revealing the data itself, aiming to make private AI more practical and secure.
+
+In the comments, there is significant skepticism regarding Google's trustworthiness, with many users expressing doubts about the company's motives, particularly given its history of data privacy issues. Some commenters argue that while FHE could theoretically provide privacy, it does not eliminate the need for trust in the service provider. Others highlight the potential applications of FHE, such as biometric authentication and secure health data queries, but question its commercial viability and the practicality of using it for complex models due to performance concerns.
+
+Notable insights include a discussion on the limitations of FHE, such as its slow processing speed and the challenges of ensuring that the computations performed are legitimate and not adversarial. Some users also debate the technical aspects of FHE and its security guarantees, with differing opinions on its effectiveness compared to other cryptographic methods. Overall, the conversation reflects a mix of hope for advancements in privacy technology and skepticism about the entities implementing them.
