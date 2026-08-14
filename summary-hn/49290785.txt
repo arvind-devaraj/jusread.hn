@@ -1,0 +1,8 @@
+Airbnb Eval-driven development: Lessons from evaluating GenAI at scale  (16 pts, 5 comments)
+https://news.ycombinator.com/item?id=49290785
+
+The Hacker News discussion revolves around a Medium post by Airbnb that discusses their approach to evaluating Generative AI (GenAI) at scale through a method called eval-driven development. The article highlights the importance of systematic evaluation in improving AI models and ensuring they meet user needs effectively.
+
+In the comments, there is a debate about the relevance of Airbnb's insights, with some users questioning the significance of the company's software in the broader context of its business model. One commenter expresses frustration with the performance of Airbnb's website, suggesting that poor user experience can drive customers away. Others argue that the source of the insights (Airbnb) should not overshadow the value of the content itself.
+
+Notably, some commenters express skepticism about the platform's usability, indicating that technical issues can impact user satisfaction. Overall, the discussion reflects a mix of interest in the topic of AI evaluation and critical views on Airbnb's software performance and its implications for user experience.
