@@ -1,0 +1,8 @@
+GPT 5.6 Sol is the best "vision" model OpenAI ever released  (235 pts, 126 comments)
+https://news.ycombinator.com/item?id=49329575
+
+The Hacker News discussion revolves around a blog post that praises OpenAI's GPT-5.6 Sol as the best vision model the company has released to date. The author highlights its improvements in handling visual tasks compared to previous versions, although some commenters argue that it still falls short compared to other models like Gemini 3.5 Flash and 3.7 Flash.
+
+In the comments, there is a mix of opinions regarding the effectiveness of GPT-5.6 in design and visual assessments. Some users share positive experiences, noting significant improvements in the model's ability to analyze and critique design elements. However, others express skepticism, arguing that the model lacks "taste" and often produces formulaic outputs that do not align with established design principles. There is also a debate about the subjective nature of design assessments and whether LLMs can effectively evaluate visual quality without bias.
+
+Notable insights include the acknowledgment that while GPT-5.6 shows advancements, it still struggles with nuanced design evaluations, and the discussion highlights the challenges of using AI for creative tasks where subjective judgment plays a crucial role.
