@@ -1,0 +1,8 @@
+Ask HN: What tools are you using for human code review of AI-assisted code?  (11 pts, 6 comments)
+https://news.ycombinator.com/item?id=49321400
+
+The Hacker News discussion revolves around the challenges of human code review for AI-assisted code generation. The original poster highlights that while AI tools can identify bugs and style issues, they often fall short in assessing architectural quality and code organization. The increasing volume of AI-generated code has made traditional review processes, like GitHub's PR interface, cumbersome and noisy, prompting a search for better tools and methods for effective human review.
+
+In the comments, several users share their experiences and strategies. Some, like mandarinclips, have reduced their involvement in code reviews, relying on AI tools like Gemini and Grok Build. Others, such as taurath and ryanchants, propose using a structured approach with specific metrics and checks to streamline the review process. Notably, some users suggest leveraging AI tools like Claude Code to assist in reviews, either by providing feedback or explaining the reasoning behind code changes. A representative from Coderabbit also engages in the discussion, seeking feedback on their new code review interface.
+
+Overall, the conversation reflects a consensus on the need for improved tools and processes to manage the complexities of reviewing AI-generated code, with various users experimenting with different strategies to enhance efficiency and effectiveness in the review process.
