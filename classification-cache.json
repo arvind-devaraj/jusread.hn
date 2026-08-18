@@ -134123,6 +134123,10 @@
     "probability": 0.307,
     "title": "All Your Projects Are Now Brownfield"
   },
+  "49269966": {
+    "probability": 0.254,
+    "title": "The Road to MS-DOS 2.0"
+  },
   "49270015": {
     "probability": 0.416,
     "title": "My favorite nonfiction animal books that make you go holy shit"
@@ -134306,6 +134310,10 @@
   "49272620": {
     "probability": 0.792,
     "title": "German advocacy group lodges criminal complaint over Meta AI glasses"
+  },
+  "49272631": {
+    "probability": 0.559,
+    "title": "Teaching my kid to code with a modern MUD"
   },
   "49272655": {
     "probability": 0.347,
@@ -134598,6 +134606,10 @@
   "49279207": {
     "probability": 0.774,
     "title": "Show HN: Posts grew 6x since ChatGPT, but success rate remained relatively flat"
+  },
+  "49279208": {
+    "probability": 0.56,
+    "title": "I built a golf career management SIM (like Basketball GM, but golf)"
   },
   "49279352": {
     "probability": 0.428,
@@ -135439,6 +135451,10 @@
     "probability": 0.737,
     "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities"
   },
+  "49295118": {
+    "probability": 0.508,
+    "title": "Oxford Electric Bell"
+  },
   "49295179": {
     "probability": 0.764,
     "title": "A simple fix for LLM tail latency"
@@ -135511,6 +135527,10 @@
     "probability": 0.914,
     "title": "Everyone talks about AI agents. This is what one looks from the inside"
   },
+  "49297150": {
+    "probability": 0.358,
+    "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked"
+  },
   "49297469": {
     "probability": 0.39,
     "title": "WhatCable: Know what your USB-C cable can do"
@@ -135554,6 +135574,10 @@
   "49298211": {
     "probability": 0.601,
     "title": "Cursor is now a part of SpaceX"
+  },
+  "49298233": {
+    "probability": 0.332,
+    "title": "Trump orders redesign of US aircraft carrier to use steam catapults for jets"
   },
   "49298303": {
     "probability": 0.366,
@@ -135951,6 +135975,10 @@
     "probability": 0.279,
     "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness"
   },
+  "49305969": {
+    "probability": 0.893,
+    "title": "Baking a Model: A Metaphor for LLM Training"
+  },
   "49306021": {
     "probability": 0.526,
     "title": "Anton Chekhov played at love most of his life"
@@ -136075,6 +136103,10 @@
     "probability": 0.823,
     "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google"
   },
+  "49309248": {
+    "probability": 0.29,
+    "title": "Evolve: An incremental game about evolving a civilization"
+  },
   "49309357": {
     "probability": 0.489,
     "title": "HyperOSUnfucker is an Android app that unlocks hidden system performance"
@@ -136155,6 +136187,10 @@
     "probability": 0.944,
     "title": "Show HN: Visually Precise AI Tutoring on iOS"
   },
+  "49310602": {
+    "probability": 0.39,
+    "title": "Splitting a Git Commit"
+  },
   "49310623": {
     "probability": 0.486,
     "title": "Writergate: Zig I/O Interface Overhaul"
@@ -136194,6 +136230,10 @@
   "49310926": {
     "probability": 0.416,
     "title": "A Spectre Is Haunting Unicode"
+  },
+  "49311115": {
+    "probability": 0.489,
+    "title": "Ranking the Most Brilliantly Colored Birds with Data"
   },
   "49311379": {
     "probability": 0.665,
@@ -136306,6 +136346,10 @@
   "49313340": {
     "probability": 0.558,
     "title": "Show HN: Every MUNI, BART and Caltrain in SF on a Live Map"
+  },
+  "49313346": {
+    "probability": 0.555,
+    "title": "Ask HN: I've quit six systems for tracking my illness. What works?"
   },
   "49313360": {
     "probability": 0.463,
@@ -136598,6 +136642,10 @@
   "49318324": {
     "probability": 0.762,
     "title": "Ask HN: Where to learn software engineering fundamentals?"
+  },
+  "49318607": {
+    "probability": 0.543,
+    "title": "Climbing Guide as a Shared Infrastructure"
   },
   "49318735": {
     "probability": 0.635,
@@ -136967,6 +137015,10 @@
     "probability": 0.449,
     "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS"
   },
+  "49327651": {
+    "probability": 0.292,
+    "title": "Ukraine says it hit Russian rocket centre linked to Starlink-style network"
+  },
   "49327895": {
     "probability": 0.485,
     "title": "Dash0 Acquires Polar Signals"
@@ -136998,6 +137050,10 @@
   "49329347": {
     "probability": 0.249,
     "title": "People are worried about America's solvency"
+  },
+  "49329384": {
+    "probability": 0.496,
+    "title": "And then the men with guns tell you to do it anyway"
   },
   "49329430": {
     "probability": 0.275,
@@ -137123,6 +137179,10 @@
     "probability": 0.8,
     "title": "Without a Theory of Intelligence"
   },
+  "49331599": {
+    "probability": 0.545,
+    "title": "Show HN: Eve Software Factory"
+  },
   "49331607": {
     "probability": 0.449,
     "title": "Qwen3.8 27B at 256K: 50 TPS on a 24 GB GPU"
@@ -137163,6 +137223,10 @@
     "probability": 0.367,
     "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study"
   },
+  "49333013": {
+    "probability": 0.264,
+    "title": "Ubuntu is growing faster on Windows than on Linux to become its biggest base"
+  },
   "49333084": {
     "probability": 0.671,
     "title": "Show HN: UL-SMF – Open-source linear-complexity ~300x KV-cache compression"
@@ -137190,6 +137254,10 @@
   "49333448": {
     "probability": 0.6,
     "title": "Flock-style scanners now track WiFi/Bluetooth identity from devices in your car"
+  },
+  "49333557": {
+    "probability": 0.223,
+    "title": "The Size of the World Wide Web"
   },
   "49333728": {
     "probability": 0.558,
@@ -137331,6 +137399,10 @@
     "probability": 0.56,
     "title": "Tangled: The next-generation social coding platform"
   },
+  "49335983": {
+    "probability": 0.35,
+    "title": "Welcome to Earth – our new IDE for Linux"
+  },
   "49336050": {
     "probability": 0.74,
     "title": "AirTag reveals Amazon is trashing rare books to train AI"
@@ -137427,6 +137499,10 @@
     "probability": 0.492,
     "title": "How Bluesky draws its logo on screenshots"
   },
+  "49338608": {
+    "probability": 0.571,
+    "title": "AI writes dead code – the Go team's deadcode tool finds it in one command"
+  },
   "49338732": {
     "probability": 0.459,
     "title": "Flock cameras haven't improved Atlanta's crime clearance rates"
@@ -137442,6 +137518,10 @@
   "49339097": {
     "probability": 0.4,
     "title": "Repair Cafe – Fix Your Broken Items"
+  },
+  "49339356": {
+    "probability": 0.355,
+    "title": "Supreme Court Rejects Verizon Bid for $47M Refund of FCC Fine"
   },
   "49339359": {
     "probability": 0.513,
@@ -137471,6 +137551,10 @@
     "probability": 0.634,
     "title": "Ask HN: Does anyone else feel like nothing matters anymore?"
   },
+  "49340252": {
+    "probability": 0.397,
+    "title": "Dial-up internet – made a thing that lets you do it again"
+  },
   "49340299": {
     "probability": 0.268,
     "title": "The Benchmarkpocalypse"
@@ -137479,16 +137563,308 @@
     "probability": 0.368,
     "title": "S-1 – Independent Company Studies"
   },
+  "49340700": {
+    "probability": 0.514,
+    "title": "25 Years of Haiku: From \"Ok, Let's Start\" to the Present"
+  },
   "49340710": {
     "probability": 0.276,
     "title": "California's new tire efficiency rules could save drivers $1B a year"
+  },
+  "49340799": {
+    "probability": 0.207,
+    "title": "Columbia House Is Shutting Down"
+  },
+  "49340880": {
+    "probability": 0.326,
+    "title": "Missed shifts were costly to this McDonald's. An app has fixed the problem"
   },
   "49341009": {
     "probability": 0.592,
     "title": "Expert Witness to ChatGPT: \"Show how 3M is 0 percent at fault\""
   },
+  "49341411": {
+    "probability": 0.525,
+    "title": "Exercise intensity modulates interorgan communication and is associated with"
+  },
   "49341551": {
     "probability": 0.373,
     "title": "I don't enjoy the Internet any more"
+  },
+  "49341586": {
+    "probability": 0.267,
+    "title": "New York utilities now want to build solar and wind farms"
+  },
+  "49341696": {
+    "probability": 0.377,
+    "title": "YouTube will now count a view as soon as a video starts playing"
+  },
+  "49341774": {
+    "probability": 0.304,
+    "title": "Micron, SK Commit Billions to RAM Capacity, but Almost Nothing Lands Before 2028"
+  },
+  "49341858": {
+    "probability": 0.363,
+    "title": "New Spanish nanomaterial cools surfaces by up to 12.9C without electricity"
+  },
+  "49342314": {
+    "probability": 0.515,
+    "title": "Nvidia discloses $21B stake in SpaceX"
+  },
+  "49342472": {
+    "probability": 0.39,
+    "title": "Finger: Social network that never died"
+  },
+  "49342530": {
+    "probability": 0.5,
+    "title": "Rethinking Database Programming"
+  },
+  "49342601": {
+    "probability": 0.494,
+    "title": "git git git git git"
+  },
+  "49342719": {
+    "probability": 0.459,
+    "title": "Linux 7.3 improves performance when running out of vRAM"
+  },
+  "49342823": {
+    "probability": 0.795,
+    "title": "OpenAI disbanded the team that assessed catastrophic model risks"
+  },
+  "49343187": {
+    "probability": 0.281,
+    "title": "When I worked at Apple, I remember seeing code that was 15 years old"
+  },
+  "49343559": {
+    "probability": 0.378,
+    "title": "Google has acquired the data of failed US airline Spirit"
+  },
+  "49344085": {
+    "probability": 0.448,
+    "title": "Democracy vs. the machine: birth of digital age,the warnings that were ignored"
+  },
+  "49344114": {
+    "probability": 0.256,
+    "title": "As Wisconsin cities flee Flock, its shared camera network loses value"
+  },
+  "49344338": {
+    "probability": 0.637,
+    "title": "Elon Musk made flying worse so Palantir could profit"
+  },
+  "49344411": {
+    "probability": 0.465,
+    "title": "American Education: The Decline, the Deception, the Dogmas (1993)"
+  },
+  "49344643": {
+    "probability": 0.658,
+    "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows"
+  },
+  "49344654": {
+    "probability": 0.869,
+    "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People"
+  },
+  "49344811": {
+    "probability": 0.444,
+    "title": "Fairphone is now officially available in the United States"
+  },
+  "49344825": {
+    "probability": 0.571,
+    "title": "Using the railway network as a flatbed scanner"
+  },
+  "49345013": {
+    "probability": 0.326,
+    "title": "Things That Used to Be Normal and Are Now a Luxury"
+  },
+  "49345070": {
+    "probability": 0.255,
+    "title": "Deus Ex creator Warren Spector is retiring from game development"
+  },
+  "49345091": {
+    "probability": 0.703,
+    "title": "Show HN: A local MitM proxy to control TLS fingerprints"
+  },
+  "49345094": {
+    "probability": 0.538,
+    "title": "Composable Tests"
+  },
+  "49345154": {
+    "probability": 0.722,
+    "title": "Show HN: I canceled my AI code reviewer and wrote a free local one"
+  },
+  "49345220": {
+    "probability": 0.49,
+    "title": "Fixing a bricked Framework laptop"
+  },
+  "49345263": {
+    "probability": 0.259,
+    "title": "The Amazon tax"
+  },
+  "49345320": {
+    "probability": 0.444,
+    "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions"
+  },
+  "49345364": {
+    "probability": 0.534,
+    "title": "ChatGPT has almost stopped citing Reddit"
+  },
+  "49345394": {
+    "probability": 0.208,
+    "title": "U.S. Declared an Energy Emergency, Then Paid $4B for Less Energy"
+  },
+  "49345406": {
+    "probability": 0.845,
+    "title": "AI Alignment as a Thought-Terminating Cliche"
+  },
+  "49345476": {
+    "probability": 0.581,
+    "title": "Python Polars Cheatsheet (based on our O'Reilly book)"
+  },
+  "49345612": {
+    "probability": 0.548,
+    "title": "Meta pays pro-Meta influencers when countries look into teen safety on Instagram"
+  },
+  "49345796": {
+    "probability": 0.856,
+    "title": "What We Learned Moving Our Agent Loops from Anthropic to GLM"
+  },
+  "49345843": {
+    "probability": 0.268,
+    "title": "Babies born under sugar rationing grew into adults with lower cancer risk"
+  },
+  "49346066": {
+    "probability": 0.336,
+    "title": "Firefox and Exa Partnership"
+  },
+  "49346074": {
+    "probability": 0.842,
+    "title": "Muse Glimmer is a memory hierarchy disguised as a 30B Transformer"
+  },
+  "49346135": {
+    "probability": 0.81,
+    "title": "Show HN: Shoehorn – Quantize any model down to run on your machine"
+  },
+  "49346149": {
+    "probability": 0.452,
+    "title": "Remote work benefits are much bigger than a paycheck"
+  },
+  "49346312": {
+    "probability": 0.309,
+    "title": "An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet"
+  },
+  "49346404": {
+    "probability": 0.489,
+    "title": "JPEG XL converter and .jxl viewer"
+  },
+  "49346444": {
+    "probability": 0.491,
+    "title": "The coolest anti-surveillance tools at Defcon [video]"
+  },
+  "49346482": {
+    "probability": 0.393,
+    "title": "The National Park Service Is Using Flock. Rangers Are Pissed"
+  },
+  "49346535": {
+    "probability": 0.473,
+    "title": "I used to be excited about new tech, but I rarely am anymore"
+  },
+  "49346538": {
+    "probability": 0.405,
+    "title": "Code-native generation of highly programmable 3D assets (2026)"
+  },
+  "49346932": {
+    "probability": 0.503,
+    "title": "Ask HN: What's a Dirty Secret No One Wants to Admit in the Tech Industry?"
+  },
+  "49347055": {
+    "probability": 0.333,
+    "title": "One Oakland police officer made $490k in overtime"
+  },
+  "49347178": {
+    "probability": 0.697,
+    "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo"
+  },
+  "49347207": {
+    "probability": 0.817,
+    "title": "What Happens If OpenAI Dies?"
+  },
+  "49347904": {
+    "probability": 0.544,
+    "title": "\"Elon Musk Is a Sad Little Bitch with No Friends\" Monument Design Committee"
+  },
+  "49348055": {
+    "probability": 0.375,
+    "title": "Apple announces changes for apps in the European Union"
+  },
+  "49348079": {
+    "probability": 0.471,
+    "title": "Mojo is now open source!"
+  },
+  "49348107": {
+    "probability": 0.51,
+    "title": "The new Framework 12 [video]"
+  },
+  "49348136": {
+    "probability": 0.591,
+    "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI"
+  },
+  "49348141": {
+    "probability": 0.342,
+    "title": "Git at Any Scale"
+  },
+  "49348152": {
+    "probability": 0.65,
+    "title": "Superpowers, Not Superintelligence"
+  },
+  "49348163": {
+    "probability": 0.756,
+    "title": "Degraded performance for multiple models"
+  },
+  "49348193": {
+    "probability": 0.353,
+    "title": "Trump Labels Map of Strait of Hormuz 'New U.S. Territory'"
+  },
+  "49348356": {
+    "probability": 0.249,
+    "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows"
+  },
+  "49348573": {
+    "probability": 0.481,
+    "title": "Trump 2.0 has deleted or altered nearly 400 US datasets"
+  },
+  "49348599": {
+    "probability": 0.392,
+    "title": "US Government is pushing to gain unprecedented access to your medical records"
+  },
+  "49348627": {
+    "probability": 0.48,
+    "title": "Why your Amazon order confirmation emails have become so unhelpful"
+  },
+  "49348751": {
+    "probability": 0.45,
+    "title": "Claude Code May–August 2026 weekly limits promotion"
+  },
+  "49348912": {
+    "probability": 0.495,
+    "title": "And then the men with guns tell you to do it anyway"
+  },
+  "49349147": {
+    "probability": 0.286,
+    "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix"
+  },
+  "49349159": {
+    "probability": 0.616,
+    "title": "Show HN: macOS data protection keychain for Electron apps"
+  },
+  "49349868": {
+    "probability": 0.585,
+    "title": "Flock CEO Admits Flock Is Used to Stalk People"
+  },
+  "49349898": {
+    "probability": 0.632,
+    "title": "Turbovec – Google's TurboQuant for vector search in Rust"
+  },
+  "49349984": {
+    "probability": 0.585,
+    "title": "How does IKEA come up with names for its products?"
   }
 }
