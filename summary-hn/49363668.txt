@@ -1,0 +1,8 @@
+Extensible Software in the Age of LLMs  (47 pts, 20 comments)
+https://news.ycombinator.com/item?id=49363668
+
+The Hacker News discussion revolves around the implications of large language models (LLMs) on software development and extensibility. The original post suggests that LLMs could transform how software is created and modified, potentially allowing non-programmers to generate software through prompts and AI-assisted changes.
+
+In the comments, there is a debate about the future role of software developers. Some users envision a scenario where clients provide LLM-generated specifications, while others express skepticism, arguing that LLMs often produce flawed outputs that require significant human intervention. A recurring theme is the concern that clients may have unrealistic expectations about the capabilities of LLMs, leading to frustration and financial losses.
+
+Notable insights include the idea that while LLMs can assist in generating code, they may not fully replace the need for skilled developers, especially for complex projects. Additionally, some commenters critique the marketing of new platforms like Cloudflare OS, suggesting that terminology can mislead users about the technology's capabilities. Overall, the discussion highlights both the potential and limitations of LLMs in the software development landscape.
