@@ -1,0 +1,8 @@
+What We Learned Moving Our Agent Loops from Anthropic to GLM  (18 pts, 6 comments)
+https://news.ycombinator.com/item?id=49345796
+
+The Hacker News discussion revolves around a blog post detailing the transition of agent loops from Anthropic to GLM (General Language Model). The author shares insights and lessons learned from this migration, emphasizing the importance of evaluating AI performance beyond traditional metrics.
+
+In the comments, there is a consensus that while "cost per task" is a better metric than "cost per token," it still falls short. Commenters advocate for a more comprehensive metric termed "cost per accepted outcome," which accounts for total inference, retries, failures, and the human effort involved in verifying results. This highlights the complexity of measuring AI performance, especially for long-running tasks where human approval is crucial.
+
+Notable insights include the idea that work should be treated as a first-class object, allowing for better aggregation of attempts and outcomes. Additionally, one commenter appreciates the post for moving beyond standard benchmarks, prompting curiosity about the selection process for GLM. Overall, the discussion reflects a deeper exploration of AI evaluation metrics and the challenges of quantifying success in AI-driven tasks.
