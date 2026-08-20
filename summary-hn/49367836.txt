@@ -1,0 +1,8 @@
+Collaborative Human Agent Protocol (CHAP)  (25 pts, 6 comments)
+https://news.ycombinator.com/item?id=49367836
+
+The Hacker News discussion revolves around the Collaborative Human Agent Protocol (CHAP), a project hosted on GitHub. The post likely introduces CHAP as a framework or protocol aimed at enhancing interactions between humans and AI systems.
+
+In the comments, there is a mix of humor and critique regarding the naming and concept of CHAP. Some users suggest that the name "CHAP" is already in use, while others propose alternative ideas like the "Person-to-Prompt Protocol" and "Human-to-Transformer Protocol." This indicates a playful debate over naming conventions and the originality of ideas in the AI space. 
+
+Notably, one commenter appreciates the project, calling it "cool," which contrasts with the more critical tone of others. Overall, the discussion highlights both the collaborative spirit and the competitive nature of innovation in AI protocols.

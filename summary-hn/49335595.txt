@@ -1,0 +1,6 @@
+Show HN: HarnessRouter: Unified interface for agent harnesses  (10 pts, 14 comments)
+https://news.ycombinator.com/item?id=49335595
+
+The Hacker News discussion revolves around the launch of HarnessRouter, a unified API designed to streamline the use of various agent harnesses like Codex, Claude Code, and Hermes in product backends. The creator, Kuanze, shares their experience of previously building a custom harness and highlights the challenges faced, leading to the realization that leveraging existing harnesses is more efficient. HarnessRouter aims to standardize interactions with these harnesses through the Unified Harness Protocol (UHP), which simplifies integration and task execution.
+
+In the comments, users express curiosity about the utility of routing across multiple harnesses versus sticking with a single one. Some debate the potential benefits of using a unified interface, while others question how to maintain harness-specific features without diluting functionality. Notable insights include the idea that HarnessRouter acts as an aggregator, translating a unified API into the specific formats required by different harnesses, and the potential for improved performance and cost-effectiveness in deploying agent-based applications. The discussion emphasizes the need for clarity on the broader applications of HarnessRouter beyond coding scenarios.

@@ -1,0 +1,6 @@
+Feature Request: Support AGENTS.md  (222 pts, 121 comments)
+https://news.ycombinator.com/item?id=49367350
+
+The Hacker News discussion revolves around a feature request for support of `AGENTS.md` in the Claude Code environment, which currently favors `CLAUDE.md`. Users express frustration over the lack of compatibility with community standards, arguing that the need for separate files for skills, rules, and commands adds unnecessary overhead for teams. Some commenters suggest workarounds like symlinks or concatenation, but others highlight that these solutions don't fully address the underlying issues.
+
+A significant point of contention is the perception that Anthropic, the company behind Claude, is resistant to adopting open standards, which some see as a strategy to maintain control over their platform. Users express distrust towards Anthropic, suggesting that their approach may hinder user experience and innovation. Notably, some participants mention alternative tools that they find more effective, indicating a growing dissatisfaction with Claude Code. Overall, the discussion reflects a broader concern about the balance between proprietary systems and community-driven standards in software development.
