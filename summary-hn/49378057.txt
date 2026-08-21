@@ -1,0 +1,8 @@
+Are you good at AI, or just using it?  (10 pts, 9 comments)
+https://news.ycombinator.com/item?id=49378057
+
+The Hacker News discussion revolves around a proposed ladder for assessing individual proficiency in AI, ranging from complete beginners (L0) to advanced users who can create feedback loops for continuous improvement (L5). The author seeks feedback on the clarity of the levels, observable behaviors that differentiate them, and whether the concept of a proficiency ladder is valid.
+
+In the comments, there is a mix of agreement and skepticism. Some users feel the levels are approximately correct but criticize names like "Automate" and "Loop" for being misleading. Others argue that the ladder implies a hierarchy that may not accurately reflect the diverse ways AI can be utilized. Notably, some commenters emphasize that proficiency should focus more on understanding when to use AI effectively rather than merely increasing technical skills. There’s also a sentiment that self-evaluation of AI proficiency can be challenging, and the need for such a ranking system is questioned.
+
+Overall, the discussion highlights the complexity of defining AI proficiency and the varying perspectives on how best to assess and categorize users' abilities in leveraging AI technologies.

@@ -1,0 +1,6 @@
+Artificial Intelligence Policy  (35 pts, 27 comments)
+https://news.ycombinator.com/item?id=49382614
+
+The Hacker News discussion revolves around the Artificial Intelligence Policy of a law school, which prohibits the use of AI in exam situations. The policy raises questions about the definition of AI, particularly regarding devices like hearing aids that utilize AI technology for noise reduction. Some commenters argue that the policy could unintentionally ban such devices, while others assert that accommodations for disabilities would still allow their use.
+
+A significant point of debate is the distinction between acceptable AI use for research purposes and the prohibition against generative AI for drafting content. Many commenters express that the policy is reasonable, likening it to guidelines in law firms where AI tools are used for research but not for content creation. However, some believe that enforcing such a policy is impractical, as students will likely find ways to circumvent restrictions. Notably, there is a consensus that while AI may eventually play a larger role in law, current technology necessitates a balance between AI use and critical cognitive skills.
