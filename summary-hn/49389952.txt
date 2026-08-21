@@ -1,0 +1,8 @@
+How we made a text-to-speech model respond in sub-50 ms  (35 pts, 9 comments)
+https://news.ycombinator.com/item?id=49389952
+
+The Hacker News discussion revolves around a blog post detailing the optimization of the Qwen3 text-to-speech (TTS) model to achieve a remarkable time-to-first-audio (TTFA) of 34 milliseconds at 10 requests per second on a single H100 GPU. The authors aim to address the latency issues often encountered with open-source TTS implementations, which can be too slow for real-time applications.
+
+In the comments, users express interest in the performance of the model on consumer-level hardware and discuss the importance of TTFA in real-time voice applications. Some users compare the speed and responsiveness of various models, including ChatGPT, noting that while some models respond quickly, they may include filler words that disrupt the flow of conversation. There is also a debate about the balance between achieving low latency and maintaining audio quality, with one user sharing their struggles to reach sub-200ms TTFA with their custom implementation.
+
+Overall, the discussion highlights the ongoing challenges in optimizing TTS models for speed without sacrificing quality, as well as the broader implications for real-time voice applications.
