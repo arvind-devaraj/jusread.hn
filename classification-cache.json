@@ -136419,6 +136419,10 @@
     "probability": 0.814,
     "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them"
   },
+  "49312903": {
+    "probability": 0.507,
+    "title": "Four Levels of In-Place Initialization (Rust)"
+  },
   "49312944": {
     "probability": 0.438,
     "title": "Planes With Same Call Sign at PHX – one departing, one arriving"
@@ -137219,6 +137223,10 @@
     "probability": 0.753,
     "title": "HackEurope 2026: A short rant on AI and hackathons"
   },
+  "49327545": {
+    "probability": 0.329,
+    "title": "A retired tire engineer and 48,933 other feeds"
+  },
   "49327643": {
     "probability": 0.449,
     "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS"
@@ -137278,6 +137286,10 @@
   "49329449": {
     "probability": 0.738,
     "title": "Show HN: Lips Scheme 1.0.0-beta.22 with full call/cc and TCO"
+  },
+  "49329506": {
+    "probability": 0.326,
+    "title": "ESP32 Firmware Development with Docker Sandboxes"
   },
   "49329575": {
     "probability": 0.924,
@@ -139891,6 +139903,10 @@
     "probability": 0.49,
     "title": "LinkedIn Has Accidentally Become a Dating Site"
   },
+  "49389846": {
+    "probability": 0.811,
+    "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)"
+  },
   "49389851": {
     "probability": 0.413,
     "title": "Take-Two subpoenas Microsoft and Discord in hunt for GTA 6 leaker"
@@ -139959,6 +139975,14 @@
     "probability": 0.177,
     "title": "People sick, 57 hospitalized in 32 states courtesy of contaminated jalapeñOS"
   },
+  "49391168": {
+    "probability": 0.783,
+    "title": "Show HN: Rotation via Double Reflection"
+  },
+  "49391203": {
+    "probability": 0.397,
+    "title": "CBP Officers and Contractors Abused Government Databases to Stalk Their Exes"
+  },
   "49391305": {
     "probability": 0.613,
     "title": "Civil Society Groups Ask Nottinghamshire Police to Halt Live Face Recognition"
@@ -139982,6 +140006,10 @@
   "49391389": {
     "probability": 0.398,
     "title": "Rebuilding our Electron meeting-recording engine in Swift"
+  },
+  "49391392": {
+    "probability": 0.646,
+    "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI"
   },
   "49391420": {
     "probability": 0.773,
@@ -140055,6 +140083,10 @@
     "probability": 0.195,
     "title": "Most of the Fastest-Growing Megacities Will Soon Be in Africa"
   },
+  "49392677": {
+    "probability": 0.47,
+    "title": "Show HN: Zcomplete – Shell Typo Correction"
+  },
   "49392819": {
     "probability": 0.806,
     "title": "Readers can't identify watermarked AI text"
@@ -140063,6 +140095,10 @@
     "probability": 0.433,
     "title": "Church of the TigerBeetle: A Look at Tech Evangelism"
   },
+  "49392908": {
+    "probability": 0.738,
+    "title": "OpenAI: We're dropping API and credit pricing of GPT-5.6 Sol by over 20%"
+  },
   "49393051": {
     "probability": 0.684,
     "title": "Quick impressions: A week of using Codex more than Claude"
@@ -140070,6 +140106,10 @@
   "49393052": {
     "probability": 0.525,
     "title": "Rust Glancer: Rust LSP using 100x less RAM"
+  },
+  "49393537": {
+    "probability": 0.595,
+    "title": "The Creation of Abulafia"
   },
   "49393647": {
     "probability": 0.824,
@@ -140107,6 +140147,10 @@
     "probability": 0.521,
     "title": "List of inventors killed by their own inventions"
   },
+  "49394759": {
+    "probability": 0.36,
+    "title": "I own 28,000 books – here's what I've learned"
+  },
   "49394797": {
     "probability": 0.198,
     "title": "Pentagon dismisses Stars and Stripes leadership after opposition to interference"
@@ -140138,6 +140182,10 @@
   "49395171": {
     "probability": 0.564,
     "title": "HN: The Good Parts (2016)"
+  },
+  "49395364": {
+    "probability": 0.428,
+    "title": "5 years on, Afghan girls still barred from education under Taliban"
   },
   "49395605": {
     "probability": 0.622,
@@ -140171,9 +140219,17 @@
     "probability": 0.284,
     "title": "S&P 500 CEO median pay hits $17.3M, widening CEO-worker ratio to 312-to-1"
   },
+  "49396445": {
+    "probability": 0.318,
+    "title": "New U.S. tariffs to take effect after midnight, Canada plans to match levies"
+  },
   "49396590": {
     "probability": 0.423,
     "title": "GPT 5.6 Sol 20% price reduction"
+  },
+  "49396592": {
+    "probability": 0.353,
+    "title": "Meta $1.4T threat could mean 'turning in the keys and walking away'"
   },
   "49396620": {
     "probability": 0.366,
@@ -140183,8 +140239,116 @@
     "probability": 0.416,
     "title": "Silicon Valley Executives Are Tech Fans. Just Not for Their Kids"
   },
+  "49396811": {
+    "probability": 0.479,
+    "title": "Never Be Angry at Work"
+  },
+  "49396888": {
+    "probability": 0.808,
+    "title": "The Instant team joins OpenAI"
+  },
   "49397074": {
     "probability": 0.273,
     "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down"
+  },
+  "49397134": {
+    "probability": 0.318,
+    "title": "Canada vows to match Trump's 50% tariffs after trade deal talks fail"
+  },
+  "49397441": {
+    "probability": 0.668,
+    "title": "Ask HN: Why does the US government search through people's phones at the border?"
+  },
+  "49397903": {
+    "probability": 0.258,
+    "title": "$40T Debt, 6.7% Mortgages and $5 Diesel"
+  },
+  "49397947": {
+    "probability": 0.924,
+    "title": "Embedded AI"
+  },
+  "49398152": {
+    "probability": 0.743,
+    "title": "Munder Difflin – Agent harness to run an office of your clones"
+  },
+  "49398158": {
+    "probability": 0.302,
+    "title": "Z80 – The 1970s Microprocessor Still Alive (2021)"
+  },
+  "49398304": {
+    "probability": 0.451,
+    "title": "Statement by Prime Minister Carney on Canada-U.S. trade negotiations"
+  },
+  "49398525": {
+    "probability": 0.393,
+    "title": "Donald Trump's bullying of Canada is endless"
+  },
+  "49398609": {
+    "probability": 0.723,
+    "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts"
+  },
+  "49398710": {
+    "probability": 0.623,
+    "title": "A formal degree and algorithmic problem-solving is the answer. Always has been"
+  },
+  "49398904": {
+    "probability": 0.555,
+    "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week"
+  },
+  "49399339": {
+    "probability": 0.453,
+    "title": "'Darth Vader' makes the case for Flock cameras at city council meeting [video]"
+  },
+  "49399524": {
+    "probability": 0.771,
+    "title": "A Kantian Critique of \"Sorry\" by Justin Bieber"
+  },
+  "49399591": {
+    "probability": 0.473,
+    "title": "New MCP Roadmap"
+  },
+  "49399642": {
+    "probability": 0.428,
+    "title": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record"
+  },
+  "49399898": {
+    "probability": 0.646,
+    "title": "A Friendly Introduction to Racket"
+  },
+  "49399941": {
+    "probability": 0.874,
+    "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs"
+  },
+  "49399954": {
+    "probability": 0.7,
+    "title": "80% of developers find AI coding more addictive than helpful"
+  },
+  "49400408": {
+    "probability": 0.44,
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs"
+  },
+  "49400900": {
+    "probability": 0.208,
+    "title": "Wildfires across Europe detonate forgotten World War bombs"
+  },
+  "49401122": {
+    "probability": 0.363,
+    "title": "Learning about \"The Unix Time-Sharing System\""
+  },
+  "49401229": {
+    "probability": 0.753,
+    "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say"
+  },
+  "49401549": {
+    "probability": 0.878,
+    "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code"
+  },
+  "49401567": {
+    "probability": 0.369,
+    "title": "Htmx live is cool. Datastar is fast. This cow is raw and strong"
+  },
+  "49401621": {
+    "probability": 0.408,
+    "title": "Belgian car salesman becomes prince after DNA test proves royal parentage"
   }
 }
