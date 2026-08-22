@@ -137207,6 +137207,10 @@
     "probability": 0.38,
     "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM"
   },
+  "49326852": {
+    "probability": 0.622,
+    "title": "Show HN: Rex, a parallel functional language for scientific workflows"
+  },
   "49327408": {
     "probability": 0.356,
     "title": "People of ACM – Russ Cox"
@@ -137450,6 +137454,10 @@
   "49332810": {
     "probability": 0.533,
     "title": "Expert Witness Used ChatGPT to Write Report Defending Company in Lawsuit"
+  },
+  "49332812": {
+    "probability": 0.499,
+    "title": "Using an old Android phone as a music player"
   },
   "49332981": {
     "probability": 0.367,
@@ -139307,6 +139315,10 @@
     "probability": 0.391,
     "title": "Why It Might Be Time to Rethink the Human Family Tree"
   },
+  "49377443": {
+    "probability": 0.726,
+    "title": "Arc AGI-3 100% solved with a skill"
+  },
   "49377535": {
     "probability": 0.567,
     "title": "URL shortener links stored in your ATProto PDS"
@@ -139439,6 +139451,10 @@
     "probability": 0.308,
     "title": "A cotton T-shirt takes roughly 2,700 litres of water to produce"
   },
+  "49379183": {
+    "probability": 0.41,
+    "title": "How orchids inspired the work of Charles Darwin"
+  },
   "49379253": {
     "probability": 0.327,
     "title": "Stop eating Lady Gaga's Oreos"
@@ -139462,6 +139478,10 @@
   "49380128": {
     "probability": 0.512,
     "title": "Ameliorate"
+  },
+  "49380221": {
+    "probability": 0.663,
+    "title": "FTC says \"personalized pricing\" based on consumer data could violate the law"
   },
   "49380226": {
     "probability": 0.437,
@@ -139510,6 +139530,10 @@
   "49381311": {
     "probability": 0.545,
     "title": "Detecting scraper bots through scroll behaviour"
+  },
+  "49381542": {
+    "probability": 0.322,
+    "title": "Ozone: The fault is not in our trees, but in ourselves"
   },
   "49381868": {
     "probability": 0.422,
@@ -139639,6 +139663,10 @@
     "probability": 0.674,
     "title": "DeepSeek-v4-flash-vision-exp"
   },
+  "49386233": {
+    "probability": 0.893,
+    "title": "OpenAI is becoming a surveillance company"
+  },
   "49386383": {
     "probability": 0.341,
     "title": "Kino: A high-performance Ractor web server for Ruby 4.0"
@@ -139735,6 +139763,10 @@
     "probability": 0.551,
     "title": "Uber fined $966M in NL for automating driver suspensions"
   },
+  "49387959": {
+    "probability": 0.678,
+    "title": "A Texas student blew the whistle on a rogue AI hacking attempt"
+  },
   "49388067": {
     "probability": 0.218,
     "title": "US debt has hit $40tn - Will that be a wake-up call?"
@@ -139746,6 +139778,10 @@
   "49388154": {
     "probability": 0.478,
     "title": "Kagi added a setting for removing paywalled links from search results"
+  },
+  "49388268": {
+    "probability": 0.796,
+    "title": "Nvidia AVO achieves 100% in ARC-AGI-3"
   },
   "49388288": {
     "probability": 0.213,
@@ -139762,6 +139798,10 @@
   "49388446": {
     "probability": 0.522,
     "title": "What we lost when search stopped making us think"
+  },
+  "49388570": {
+    "probability": 0.346,
+    "title": "Tap to Pay Is Coming to Walmart and Sam's Club"
   },
   "49388682": {
     "probability": 0.457,
@@ -139798,6 +139838,10 @@
   "49389392": {
     "probability": 0.458,
     "title": "c100"
+  },
+  "49389408": {
+    "probability": 0.508,
+    "title": "Coding Agents killed my identity. How do you feel?"
   },
   "49389430": {
     "probability": 0.518,
@@ -139843,6 +139887,14 @@
     "probability": 0.293,
     "title": "How we built a proxy to migrate Kafka producers with zero downtime"
   },
+  "49389845": {
+    "probability": 0.49,
+    "title": "LinkedIn Has Accidentally Become a Dating Site"
+  },
+  "49389851": {
+    "probability": 0.413,
+    "title": "Take-Two subpoenas Microsoft and Discord in hunt for GTA 6 leaker"
+  },
   "49389923": {
     "probability": 0.343,
     "title": "The US techlash is real"
@@ -139863,13 +139915,25 @@
     "probability": 0.435,
     "title": "Omacom Foundation launches with $8M"
   },
+  "49390176": {
+    "probability": 0.358,
+    "title": "Slovakia discovers Russian backdoors in 279 new traffic cameras – SMS-triggered"
+  },
   "49390206": {
     "probability": 0.337,
     "title": "Decayfmt – a file format that corrupts itself a little every time you open it"
   },
+  "49390286": {
+    "probability": 0.323,
+    "title": "Three ways to smuggle SQLite into Nix"
+  },
   "49390308": {
     "probability": 0.627,
     "title": "What happens when a GPU reads memory"
+  },
+  "49390388": {
+    "probability": 0.173,
+    "title": "DRC Ebola outbreak 'growing exponentially,' UN says"
   },
   "49390427": {
     "probability": 0.359,
@@ -139878,6 +139942,10 @@
   "49390463": {
     "probability": 0.614,
     "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory"
+  },
+  "49390513": {
+    "probability": 0.272,
+    "title": "The Anniversary of the 1968 Invasion of Czechoslovakia"
   },
   "49390739": {
     "probability": 0.584,
@@ -139895,6 +139963,14 @@
     "probability": 0.613,
     "title": "Civil Society Groups Ask Nottinghamshire Police to Halt Live Face Recognition"
   },
+  "49391344": {
+    "probability": 0.285,
+    "title": "Man loses so much weight employer doesn't recognize him"
+  },
+  "49391348": {
+    "probability": 0.634,
+    "title": "Galactic Compass 2: now with new augmented reality mode"
+  },
   "49391358": {
     "probability": 0.312,
     "title": "When the shortage is the strategy"
@@ -139907,9 +139983,33 @@
     "probability": 0.398,
     "title": "Rebuilding our Electron meeting-recording engine in Swift"
   },
+  "49391420": {
+    "probability": 0.773,
+    "title": "LFM2.5-DSpark: Up to 3.2x Faster Inference from H100 to MacB"
+  },
+  "49391454": {
+    "probability": 0.544,
+    "title": "Uber Faces €825M Dutch Fine over Driver Suspensions"
+  },
+  "49391469": {
+    "probability": 0.758,
+    "title": "Show HN: Declarative-forms – await an object the way prompt() awaits a string"
+  },
   "49391515": {
     "probability": 0.203,
     "title": "Goldman Says Hedge Funds Had Worst July vs. S&P 500 in 20 Years"
+  },
+  "49391516": {
+    "probability": 0.307,
+    "title": "\"No Disc, No Buy\" Is Bigger Than Sony Expected"
+  },
+  "49391553": {
+    "probability": 0.415,
+    "title": "OTel isn’t going well"
+  },
+  "49391661": {
+    "probability": 0.445,
+    "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)"
   },
   "49391783": {
     "probability": 0.42,
@@ -139923,8 +140023,168 @@
     "probability": 0.405,
     "title": "Death of an Engineer, Life of a Farmer"
   },
+  "49392099": {
+    "probability": 0.315,
+    "title": "How Thailand Resisted Colonization"
+  },
   "49392200": {
     "probability": 0.3,
     "title": "Scientists release biggest 2D map of the universe"
+  },
+  "49392331": {
+    "probability": 0.678,
+    "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders"
+  },
+  "49392465": {
+    "probability": 0.315,
+    "title": "Tumble Forth – from assembly to OS with C compiler (2023)"
+  },
+  "49392479": {
+    "probability": 0.704,
+    "title": "I'm Sick of Reading AI-Written Posts"
+  },
+  "49392536": {
+    "probability": 0.423,
+    "title": "One Night in Uzbekistan"
+  },
+  "49392654": {
+    "probability": 0.465,
+    "title": "Rust Glancer"
+  },
+  "49392671": {
+    "probability": 0.195,
+    "title": "Most of the Fastest-Growing Megacities Will Soon Be in Africa"
+  },
+  "49392819": {
+    "probability": 0.806,
+    "title": "Readers can't identify watermarked AI text"
+  },
+  "49392877": {
+    "probability": 0.433,
+    "title": "Church of the TigerBeetle: A Look at Tech Evangelism"
+  },
+  "49393051": {
+    "probability": 0.684,
+    "title": "Quick impressions: A week of using Codex more than Claude"
+  },
+  "49393052": {
+    "probability": 0.525,
+    "title": "Rust Glancer: Rust LSP using 100x less RAM"
+  },
+  "49393647": {
+    "probability": 0.824,
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero"
+  },
+  "49393754": {
+    "probability": 0.478,
+    "title": "'The young ones are the best ones': Meta's alleged effort to hook kids"
+  },
+  "49393901": {
+    "probability": 0.198,
+    "title": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal"
+  },
+  "49394017": {
+    "probability": 0.346,
+    "title": "SCO Lawsuit agains Linux 20 years later"
+  },
+  "49394028": {
+    "probability": 0.491,
+    "title": "Remotely unlocking electric scooters"
+  },
+  "49394148": {
+    "probability": 0.592,
+    "title": "Run 290B+ frontier MoE models locally on your gaming PC"
+  },
+  "49394373": {
+    "probability": 0.447,
+    "title": "'Ghost job' ads are getting so bad that lawmakers want to ban them"
+  },
+  "49394496": {
+    "probability": 0.458,
+    "title": "Three important steps in my maturation process"
+  },
+  "49394569": {
+    "probability": 0.521,
+    "title": "List of inventors killed by their own inventions"
+  },
+  "49394797": {
+    "probability": 0.198,
+    "title": "Pentagon dismisses Stars and Stripes leadership after opposition to interference"
+  },
+  "49394827": {
+    "probability": 0.851,
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team"
+  },
+  "49394985": {
+    "probability": 0.389,
+    "title": "Electric shock gloves in use by police departments in Bellevue, Omaha"
+  },
+  "49395040": {
+    "probability": 0.53,
+    "title": "Paul Atkins misreads Adam Smith and the American founding"
+  },
+  "49395068": {
+    "probability": 0.431,
+    "title": "Teen Boys Are Using Meta Glasses to Harass and Bully Girls at High Schools"
+  },
+  "49395076": {
+    "probability": 0.295,
+    "title": "Why Elasticsearch is becoming a columnar database"
+  },
+  "49395077": {
+    "probability": 0.272,
+    "title": "Why Egyptian farmers are growing crops under solar panels"
+  },
+  "49395171": {
+    "probability": 0.564,
+    "title": "HN: The Good Parts (2016)"
+  },
+  "49395605": {
+    "probability": 0.622,
+    "title": "Initial focus for our partnership with Motorola is a regular non-folding device"
+  },
+  "49395628": {
+    "probability": 0.297,
+    "title": "There's no reason for software to be slow anymore"
+  },
+  "49395638": {
+    "probability": 0.852,
+    "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%"
+  },
+  "49395663": {
+    "probability": 0.197,
+    "title": "US Debt-to-GDP Ratio"
+  },
+  "49395700": {
+    "probability": 0.533,
+    "title": "Ask HN: Just saw a YC25 job posting front page that looks like a 7-day work week"
+  },
+  "49395836": {
+    "probability": 0.54,
+    "title": "Jason Arday Did a Lot of Harm"
+  },
+  "49396086": {
+    "probability": 0.329,
+    "title": "Early Humans Likely Ate Carbs and Sugary Foods"
+  },
+  "49396088": {
+    "probability": 0.284,
+    "title": "S&P 500 CEO median pay hits $17.3M, widening CEO-worker ratio to 312-to-1"
+  },
+  "49396590": {
+    "probability": 0.423,
+    "title": "GPT 5.6 Sol 20% price reduction"
+  },
+  "49396620": {
+    "probability": 0.366,
+    "title": "4 in 10 travellers visit tourist sites to capture social media content"
+  },
+  "49396742": {
+    "probability": 0.416,
+    "title": "Silicon Valley Executives Are Tech Fans. Just Not for Their Kids"
+  },
+  "49397074": {
+    "probability": 0.273,
+    "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down"
   }
 }
