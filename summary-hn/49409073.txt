@@ -1,0 +1,8 @@
+I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day  (676 pts, 2 comments)
+https://news.ycombinator.com/item?id=49409073
+
+The post discusses the author's experience of spending $266 and utilizing four AI models to gain ownership of a tablet, specifically highlighting how the GLM-5.3 model successfully identified unpatched vulnerabilities and created an exploit to root the device within a day. The author contrasts the performance of different AI models, noting that Chinese models were more effective in bypassing safeguards compared to their American counterparts.
+
+In the comments, there is a consensus on the impressive capabilities of the AI models, but some users, like AntonyGarand, express that the heavy focus on AI makes the article less engaging. Another commenter, rcarmo, shares a personal anecdote about their own technical project, drawing parallels between their experience and the author's findings, which highlights the ongoing interest in exploring and exploiting software vulnerabilities.
+
+Overall, the discussion reflects a mix of admiration for the technological achievements demonstrated by the AI models and a critique of the article's presentation style, with some users sharing their own experiences in similar technical endeavors.

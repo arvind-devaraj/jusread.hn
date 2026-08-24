@@ -1,0 +1,6 @@
+OCR It – pull text out of un-copyable documents for your LLM  (110 pts, 1 comments)
+https://news.ycombinator.com/item?id=49415852
+
+The Hacker News discussion revolves around "OCR It," a Chrome extension designed to extract text from un-copyable documents, such as scanned books or image-based PDFs. The creator, thiagolima, highlights the frustration of being unable to easily access text from these formats, which can hinder the ability to provide context to language models. The extension allows users to define a capture region once and then use a hotkey to extract text from each page efficiently.
+
+In the comments, there is a consensus on the utility of the tool, particularly for those dealing with large volumes of text in inaccessible formats. Users appreciate the convenience of automating the text extraction process rather than resorting to tedious manual methods like screenshotting. Notable insights include the potential applications of OCR technology in various fields, emphasizing its importance for researchers and students who often encounter similar challenges with document accessibility.

@@ -1,0 +1,8 @@
+I built a low-latency AI companion that plays Skyrim with me  (316 pts, 1 comments)
+https://news.ycombinator.com/item?id=49413561
+
+The Hacker News discussion revolves around a project where the creator developed a low-latency AI companion that interacts with the game Skyrim. The AI takes on the persona of a dog, providing a humorous and engaging experience while playing the game.
+
+In the comments, users express their enjoyment of the video showcasing the AI companion, particularly praising the dog's personality. There is a general consensus that such AI integrations could enhance gaming experiences, with some commenters suggesting that this concept could be further developed as a primary feature in future games. A notable point of discussion is the desire for AI models that can run locally, emphasizing a preference for keeping AI out of the cloud to maintain user control and privacy.
+
+Overall, the conversation highlights a blend of excitement for innovative AI applications in gaming and a cautious approach to their integration, reflecting a balance between creativity and user autonomy.
