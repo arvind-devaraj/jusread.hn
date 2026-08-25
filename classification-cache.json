@@ -140395,6 +140395,10 @@
     "probability": 0.464,
     "title": "Song (server of Nostr-powered Git) is a simple personal Git server"
   },
+  "49400742": {
+    "probability": 0.472,
+    "title": "Grasp: Simple protocol for code collaboration that uses interoperable servers"
+  },
   "49400900": {
     "probability": 0.208,
     "title": "Wildfires across Europe detonate forgotten World War bombs"
@@ -140511,6 +140515,10 @@
     "probability": 0.567,
     "title": "Knowing When to Stop: The Art of Making a Loop Converge"
   },
+  "49404011": {
+    "probability": 0.614,
+    "title": "Why Racket? Why Lisp?"
+  },
   "49404282": {
     "probability": 0.627,
     "title": "A New Kind of Science by Stephen Wolfram: Monster Raving Egomania"
@@ -140518,6 +140526,10 @@
   "49404317": {
     "probability": 0.812,
     "title": "The crisis of AI-generated mathematics"
+  },
+  "49404375": {
+    "probability": 0.475,
+    "title": "Pre-Scheme: a Scheme for low-level programming"
   },
   "49404380": {
     "probability": 0.489,
@@ -140550,6 +140562,10 @@
   "49405117": {
     "probability": 0.627,
     "title": "Software Engineering in the Agentic Era"
+  },
+  "49405316": {
+    "probability": 0.621,
+    "title": "Toward safe, flexible, and efficient software in Common Lisp [video]"
   },
   "49405331": {
     "probability": 0.601,
@@ -140787,9 +140803,17 @@
     "probability": 0.341,
     "title": "Kodak DC50 now usable on the Apple II"
   },
+  "49410149": {
+    "probability": 0.676,
+    "title": "Vit D assoc w better cognition in those w sleep disturb + mild cognitive impair"
+  },
   "49410250": {
     "probability": 0.343,
     "title": "Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F"
+  },
+  "49410254": {
+    "probability": 0.888,
+    "title": "Show HN: Mnemosyne Local hierarchical memory engine for AI agents (MCP Native)"
   },
   "49410362": {
     "probability": 0.314,
@@ -140842,6 +140866,10 @@
   "49411199": {
     "probability": 0.333,
     "title": "The Vibe Tax"
+  },
+  "49411268": {
+    "probability": 0.428,
+    "title": "Say It Four Times (In Your System Prompt)"
   },
   "49411395": {
     "probability": 0.254,
@@ -141167,6 +141195,10 @@
     "probability": 0.554,
     "title": "Play Dates"
   },
+  "49420148": {
+    "probability": 0.553,
+    "title": "Show HN: Track it easy – Log food and count calories in one simple chat"
+  },
   "49420530": {
     "probability": 0.439,
     "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study"
@@ -141283,6 +141315,10 @@
     "probability": 0.315,
     "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more"
   },
+  "49422220": {
+    "probability": 0.263,
+    "title": "A Server Lost Power at 00:32. We Found Out at 08:18"
+  },
   "49422226": {
     "probability": 0.77,
     "title": "Ox-Alpha Is GLM"
@@ -141390,6 +141426,10 @@
   "49423832": {
     "probability": 0.338,
     "title": "Technology Is Over"
+  },
+  "49423878": {
+    "probability": 0.443,
+    "title": "Visualizing Binary Files"
   },
   "49423886": {
     "probability": 0.478,
@@ -141511,6 +141551,10 @@
     "probability": 0.335,
     "title": "Some purchased movies on AppleTV are no longer accessible"
   },
+  "49428060": {
+    "probability": 0.544,
+    "title": "AMD Helios MI400 System Architecture at Hot Chips 2026"
+  },
   "49428080": {
     "probability": 0.577,
     "title": "Was modern art a CIA psy-op? (2020)"
@@ -141539,6 +141583,10 @@
     "probability": 0.786,
     "title": "Headlong: A Microharness for Persistent Agents"
   },
+  "49428972": {
+    "probability": 0.175,
+    "title": "Volcanoes that made history"
+  },
   "49429095": {
     "probability": 0.653,
     "title": "Show HN: Screen memory without screenshots, just text to Markdown"
@@ -141546,5 +141594,281 @@
   "49429204": {
     "probability": 0.368,
     "title": "Not a natural calamity: it is being done to us knowingly"
+  },
+  "49429709": {
+    "probability": 0.408,
+    "title": "Post-scarcity abundance begins by manifesting first as youth unemployment"
+  },
+  "49429906": {
+    "probability": 0.59,
+    "title": "Screen time at ages 1 and 6 may matter more than parents realize"
+  },
+  "49429914": {
+    "probability": 0.349,
+    "title": "Hot Chips 2026: Intel's Diamond Rapids"
+  },
+  "49430007": {
+    "probability": 0.272,
+    "title": "Windows 95 released August 24, 1995"
+  },
+  "49430240": {
+    "probability": 0.234,
+    "title": "U.S. Rescinds Syria's Designation as a State Sponsor of Terrorism"
+  },
+  "49430286": {
+    "probability": 0.236,
+    "title": "'Never seen this level of objection': Scotland pushes back against datacentres"
+  },
+  "49430575": {
+    "probability": 0.249,
+    "title": "Japan enlists 1,800 people to drag 360-tonne castle keep using ropes and rollers"
+  },
+  "49430745": {
+    "probability": 0.569,
+    "title": "JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps"
+  },
+  "49430821": {
+    "probability": 0.49,
+    "title": "UK public don't trust Fujitsu, but government does"
+  },
+  "49431024": {
+    "probability": 0.67,
+    "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance"
+  },
+  "49431119": {
+    "probability": 0.883,
+    "title": "Ox Alpha – A mysterious new AI model"
+  },
+  "49431364": {
+    "probability": 0.29,
+    "title": "Why some US restaurants are banning tips"
+  },
+  "49431560": {
+    "probability": 0.375,
+    "title": "Quantum battery upends the rules of charging"
+  },
+  "49431576": {
+    "probability": 0.581,
+    "title": "NIP-05 maps Nostr public keys to human-readable internet identifiers"
+  },
+  "49431866": {
+    "probability": 0.783,
+    "title": "Show HN: Coffeetable, A new UX to discover books inside Claude"
+  },
+  "49432005": {
+    "probability": 0.467,
+    "title": "The Genealogy of Eliza"
+  },
+  "49432102": {
+    "probability": 0.497,
+    "title": "Nostr vs. Fediverse vs. Bluesky: A Comparison of Decentralized Social Protocols"
+  },
+  "49432201": {
+    "probability": 0.362,
+    "title": "Credit Card Rewards Became a $9.2B Wealth Transfer"
+  },
+  "49432227": {
+    "probability": 0.353,
+    "title": "HelloAssembly: The smallest possible complete Windows application (2021)"
+  },
+  "49432317": {
+    "probability": 0.395,
+    "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)"
+  },
+  "49432319": {
+    "probability": 0.535,
+    "title": "Don't Wordle"
+  },
+  "49432786": {
+    "probability": 0.7,
+    "title": "Solving the 1+N Query Problem"
+  },
+  "49432879": {
+    "probability": 0.877,
+    "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users"
+  },
+  "49433064": {
+    "probability": 0.388,
+    "title": "France's tax agency got hacked (in French)"
+  },
+  "49433292": {
+    "probability": 0.542,
+    "title": "Apple introduces M6 and M5 Ultra"
+  },
+  "49433316": {
+    "probability": 0.561,
+    "title": "New Mac Studio with M5 Max and M5 Ultra"
+  },
+  "49433328": {
+    "probability": 0.259,
+    "title": "EVE Online moves to Python 3"
+  },
+  "49433372": {
+    "probability": 0.208,
+    "title": "US data centers tripled annual water consumption to 17B gallons"
+  },
+  "49433401": {
+    "probability": 0.259,
+    "title": "JSON evolution in Go: from v1 to v2"
+  },
+  "49433450": {
+    "probability": 0.554,
+    "title": "New Mac mini, featuring M6 and M5 Pro"
+  },
+  "49433759": {
+    "probability": 0.843,
+    "title": "The state of AI in 2026: On the road to ROI"
+  },
+  "49433882": {
+    "probability": 0.265,
+    "title": "Trump considers renaming Lake Ontario to 'Lake America' as trade war escalates"
+  },
+  "49434291": {
+    "probability": 0.466,
+    "title": "Anthropic tells staff to work from home due to possible security team strike"
+  },
+  "49434378": {
+    "probability": 0.87,
+    "title": "OpenAI Jalapeño: Better than Nvidia Blackwell"
+  },
+  "49434613": {
+    "probability": 0.403,
+    "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it"
+  },
+  "49434645": {
+    "probability": 0.368,
+    "title": "Building a backyard office, the build and cost breakdown"
+  },
+  "49434709": {
+    "probability": 0.608,
+    "title": "Servus München: Waymo Is Coming to Germany"
+  },
+  "49434820": {
+    "probability": 0.097,
+    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs"
+  },
+  "49434830": {
+    "probability": 0.326,
+    "title": "Apple Releases New Polishing Cloth"
+  },
+  "49434887": {
+    "probability": 0.755,
+    "title": "Jalapeño's results show industry-leading speed and efficiency in AI inference"
+  },
+  "49434914": {
+    "probability": 0.373,
+    "title": "Polishing Cloth"
+  },
+  "49435147": {
+    "probability": 0.654,
+    "title": "AI is hitting entry-level jobs hardest, Stanford study finds"
+  },
+  "49435495": {
+    "probability": 0.551,
+    "title": "Otto Dix, Nietzsche, and the Great War (2019)"
+  },
+  "49435728": {
+    "probability": 0.94,
+    "title": "How much of HN is AI?"
+  },
+  "49435781": {
+    "probability": 0.648,
+    "title": "Warnock: Harnessing GPU geometry amplification for vector graphics"
+  },
+  "49436400": {
+    "probability": 0.574,
+    "title": "Run Minecraft in a Windows sandbox for computer use agents"
+  },
+  "49436536": {
+    "probability": 0.594,
+    "title": "Anthropic Sees over $30T in Potential Revenue"
+  },
+  "49436706": {
+    "probability": 0.481,
+    "title": "Fuzzing the Gleam Compiler"
+  },
+  "49436786": {
+    "probability": 0.597,
+    "title": "Tooltips need a delay, and then they need to skip it"
+  },
+  "49436796": {
+    "probability": 0.788,
+    "title": "OpenAI claims its new chips can outperform Nvidia processors in tests"
+  },
+  "49436822": {
+    "probability": 0.295,
+    "title": "Starbase, LA"
+  },
+  "49437049": {
+    "probability": 0.645,
+    "title": "Show HN: LatticeDB – Like SQLite but for graph databases"
+  },
+  "49437069": {
+    "probability": 0.468,
+    "title": "My Friend Aaron"
+  },
+  "49437152": {
+    "probability": 0.204,
+    "title": "Water Behind the Watts: The Hidden Risk of Powering Data Centers"
+  },
+  "49437165": {
+    "probability": 0.521,
+    "title": "A new ceiling for Λ: the de Bruijn–Newman constant"
+  },
+  "49437210": {
+    "probability": 0.558,
+    "title": "Black hole singularity is a surface not a point"
+  },
+  "49437277": {
+    "probability": 0.801,
+    "title": "The AI Hater's Manifesto"
+  },
+  "49437283": {
+    "probability": 0.448,
+    "title": "Nitter project received cease and desist"
+  },
+  "49437361": {
+    "probability": 0.386,
+    "title": "Show HN: Lightweight system monitor for Linux VPS written in Go"
+  },
+  "49437483": {
+    "probability": 0.3,
+    "title": "Run OpenBSD on DigitalOcean for $4/month"
+  },
+  "49437637": {
+    "probability": 0.404,
+    "title": "DOJ prosecutes single FOIA dodger while defending systemwide evasion"
+  },
+  "49437741": {
+    "probability": 0.453,
+    "title": "Man Charged with 3 Felonies for Breaking 3D-Printed 'Decoy' Flock Camera"
+  },
+  "49437946": {
+    "probability": 0.487,
+    "title": "Firefox 157 will include JPEG XL by default on all platforms"
+  },
+  "49437966": {
+    "probability": 0.441,
+    "title": "Trial is 40 days. Not until you're 40"
+  },
+  "49438052": {
+    "probability": 0.27,
+    "title": "Dolly Parton has died"
+  },
+  "49438070": {
+    "probability": 0.279,
+    "title": "Dolly Parton Dead: Country Music Legend and Actress Was 80"
+  },
+  "49438136": {
+    "probability": 0.278,
+    "title": "Dolly Parton Dies at 80"
+  },
+  "49438492": {
+    "probability": 0.747,
+    "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents"
+  },
+  "49438661": {
+    "probability": 0.273,
+    "title": "Dolly Parton Has Died"
   }
 }

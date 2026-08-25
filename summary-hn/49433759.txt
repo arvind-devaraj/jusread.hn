@@ -1,0 +1,8 @@
+The state of AI in 2026: On the road to ROI  (25 pts, 50 comments)
+https://news.ycombinator.com/item?id=49433759
+
+The Hacker News discussion revolves around a McKinsey article titled "The state of AI in 2026: On the road to ROI," which explores the anticipated return on investment (ROI) from AI technologies in the near future. The comments reflect skepticism about the promises made by consulting firms like McKinsey regarding AI's impact, with several users criticizing the effectiveness of such firms in the software industry.
+
+Key points of debate include the perceived ineffectiveness of corporate consultants, the challenges of managing technical debt in legacy systems, and the increasing trend of companies opting to build software in-house using AI tools rather than purchasing existing solutions. Some commenters express concern about the chaotic state of codebases and the difficulties of fixing or rewriting them, while others highlight the potential of AI, particularly large language models (LLMs), to assist in understanding and improving code.
+
+Notable insights include the recognition that many enterprises view IT as a cost center and rely on consultants for guidance, leading to cycles of poor decision-making. There is also a discussion about the feasibility of in-house development versus relying on external SaaS solutions, with opinions divided on which approach is more efficient. Overall, the conversation reflects a mix of skepticism, humor, and cautious optimism about the future of AI in software development.

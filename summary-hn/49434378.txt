@@ -1,0 +1,8 @@
+OpenAI Jalapeño: Better than Nvidia Blackwell  (81 pts, 22 comments)
+https://news.ycombinator.com/item?id=49434378
+
+The Hacker News discussion centers around a Bloomberg article discussing OpenAI's new chip, Jalapeño, which is claimed to outperform Nvidia's Blackwell in the realm of large language model (LLM) acceleration. The conversation explores the implications of this technological advancement on the broader chip market and the economics of token pricing in AI.
+
+Commenters express a range of opinions, with some highlighting the potential for continued hardware improvements to drive down token prices, while others caution that cheaper tokens could lead to increased overall energy consumption, referencing Jevon's Paradox. There is also debate about the feasibility of companies like OpenAI producing their own RAM, with many noting the complexities and costs involved in semiconductor manufacturing. 
+
+Notable insights include skepticism about whether efficiency gains from new hardware will benefit customers or be retained by companies, and a recognition that the commodification of AI models may resemble the oil industry, where only a few large players can compete effectively. Overall, the discussion reflects a mix of optimism about technological advancements and concern over the economic and environmental implications of AI infrastructure.

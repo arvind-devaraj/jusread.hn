@@ -1,0 +1,8 @@
+OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users  (102 pts, 113 comments)
+https://news.ycombinator.com/item?id=49432879
+
+The Hacker News discussion revolves around OpenAI's decision to restore a 5-hour usage limit for Codex and Work features for ChatGPT Plus users. This change aims to manage server load and ensure that the service remains accessible for casual users, but it has sparked debate among users regarding its fairness and practicality.
+
+Key points of contention include whether the usage limits are reasonable, especially for users who may want to utilize their entire weekly allowance in a single session. Some commenters argue that the limits feel restrictive and compare them to "daily quests" in video games, suggesting they encourage addictive behavior. Others express frustration over the lack of off-peak hours, noting that they still encounter usage limits during times they expect lower demand.
+
+Notable insights include concerns from users in developing countries who find the limits particularly burdensome, as well as discussions about alternative AI services that may offer better value. Some users highlight the competitive landscape of AI tools, suggesting that OpenAI's pricing and limits may push users to explore other options. Overall, the conversation reflects a mix of frustration, practical concerns, and a search for better alternatives in the evolving AI market.
