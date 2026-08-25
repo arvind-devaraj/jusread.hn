@@ -1,0 +1,8 @@
+Show HN: See how much your AI knows about you  (13 pts, 8 comments)
+https://news.ycombinator.com/item?id=49423371
+
+The Hacker News discussion revolves around a tool called "Corpus," which allows users to see how much various AI models know about them based on their interactions. Users share their experiences with different AI systems, such as Claude and ChatGPT, regarding the amount of personal information these models can retrieve.
+
+In the comments, there is a mix of experiences and opinions. Some users report that AI models like Claude return minimal or no known facts about them, often due to privacy settings or disabled memory features. Others, like one user who uses ChatGPT, claim that it knows significantly more about them. A notable point of debate is the balance between personalization and privacy; some commenters argue that having less information can lead to a better user experience, while others are more comfortable with AIs knowing more about them for tailored interactions.
+
+Overall, the discussion highlights varying levels of comfort with AI tracking and personalization, as well as differing experiences with how much these systems actually know about individual users.

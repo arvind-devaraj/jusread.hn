@@ -1,0 +1,8 @@
+Training AI to Paint with Code  (75 pts, 7 comments)
+https://news.ycombinator.com/item?id=49411800
+
+The Hacker News discussion revolves around a post titled "Training AI to Paint with Code," which explores the concept of using AI to generate art through coding, particularly with tools like p5.js. The author shares insights on how this approach can enhance creativity and prompting skills in users.
+
+In the comments, there is a mix of enthusiasm and skepticism. Some users, like _boffin_, highlight the potential for this method to improve users' abilities to interact with AI creatively, while others, like behnamoh, argue that similar concepts have been explored extensively in the past, suggesting a lack of novelty. Additionally, msogkly appreciates the video presentation and reflects on how traditional image generators can limit creativity, emphasizing the importance of maintaining a creative role rather than becoming mere spectators.
+
+Overall, the discussion showcases a blend of excitement for innovative applications of AI in art and a critical view of the originality of such approaches, with a focus on the implications for user creativity and engagement.
