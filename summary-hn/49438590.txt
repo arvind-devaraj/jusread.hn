@@ -1,0 +1,8 @@
+Is AI slowing you down?  (16 pts, 8 comments)
+https://news.ycombinator.com/item?id=49438590
+
+The Hacker News discussion revolves around a principal engineer's experience with AI in software development, specifically in the context of building detailed specifications for automation features. The engineer finds that the effort required to create low-level specs and review AI-generated changes is more time-consuming and cognitively demanding than coding the features themselves. They seek insights on where they might be going wrong in their approach to using AI.
+
+In the comments, there is a mix of agreement and differing opinions on the effectiveness of AI in coding. Some users, like mattmanser and ex-aws-dude, suggest that while AI can enhance productivity, it often requires close oversight to maintain quality. Others, like charbz, express skepticism about relying on AI for lower-level tasks, citing experiences where AI made poor design decisions. Additionally, codingdave highlights a tension in workplaces where AI usage is mandated, leading to reduced collaboration among team members.
+
+Overall, the discussion reflects a broader debate about the balance between leveraging AI for efficiency and maintaining control over the quality of software development, with participants sharing personal strategies and concerns about the implications of AI on teamwork and coding practices.

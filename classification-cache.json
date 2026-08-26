@@ -140235,6 +140235,10 @@
     "probability": 0.533,
     "title": "Ask HN: Just saw a YC25 job posting front page that looks like a 7-day work week"
   },
+  "49395802": {
+    "probability": 0.46,
+    "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]"
+  },
   "49395836": {
     "probability": 0.54,
     "title": "Jason Arday Did a Lot of Harm"
@@ -140847,6 +140851,10 @@
     "probability": 0.86,
     "title": "My agent.md to improve LLM-assisted code quality"
   },
+  "49410936": {
+    "probability": 0.707,
+    "title": "I turned Unix talk from 1983 into the interface for my AI"
+  },
   "49411020": {
     "probability": 0.383,
     "title": "Explain it to me like I'm ten"
@@ -140862,6 +140870,10 @@
   "49411102": {
     "probability": 0.904,
     "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive"
+  },
+  "49411178": {
+    "probability": 0.691,
+    "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)"
   },
   "49411199": {
     "probability": 0.333,
@@ -141767,6 +141779,18 @@
     "probability": 0.551,
     "title": "Otto Dix, Nietzsche, and the Great War (2019)"
   },
+  "49435555": {
+    "probability": 0.877,
+    "title": "Show HN: Keenable – A different web search API for AI agents"
+  },
+  "49435641": {
+    "probability": 0.724,
+    "title": "Behaviorally fingerprinting Ox Alpha's provenance"
+  },
+  "49435675": {
+    "probability": 0.787,
+    "title": "Show HN: I made a Raspberry with Qwen my local car AI"
+  },
   "49435728": {
     "probability": 0.94,
     "title": "How much of HN is AI?"
@@ -141774,6 +141798,14 @@
   "49435781": {
     "probability": 0.648,
     "title": "Warnock: Harnessing GPU geometry amplification for vector graphics"
+  },
+  "49436113": {
+    "probability": 0.199,
+    "title": "US grain farmers face worst crisis in decades as Iran war sends costs spiralling"
+  },
+  "49436175": {
+    "probability": 0.363,
+    "title": "Gaza children grew up flying kites,now Israel say they will be treated as drones"
   },
   "49436400": {
     "probability": 0.574,
@@ -141798,6 +141830,10 @@
   "49436822": {
     "probability": 0.295,
     "title": "Starbase, LA"
+  },
+  "49436882": {
+    "probability": 0.549,
+    "title": "Knowledge Compressor"
   },
   "49437049": {
     "probability": 0.645,
@@ -141863,12 +141899,180 @@
     "probability": 0.278,
     "title": "Dolly Parton Dies at 80"
   },
+  "49438221": {
+    "probability": 0.368,
+    "title": "Trump administration proposes $103,000 fee for H-1B visas"
+  },
+  "49438349": {
+    "probability": 0.607,
+    "title": "Anthropic expected to tell investors it sees over $30T in potential revenue"
+  },
   "49438492": {
     "probability": 0.747,
     "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents"
   },
+  "49438590": {
+    "probability": 0.864,
+    "title": "Is AI slowing you down?"
+  },
   "49438661": {
     "probability": 0.273,
     "title": "Dolly Parton Has Died"
+  },
+  "49439017": {
+    "probability": 0.455,
+    "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels"
+  },
+  "49439220": {
+    "probability": 0.29,
+    "title": "BSDnas – fork that continues TrueNAS CORE on current FreeBSD"
+  },
+  "49439296": {
+    "probability": 0.479,
+    "title": "A brief history of federal lift ticket regulation"
+  },
+  "49439489": {
+    "probability": 0.678,
+    "title": "OpenAI's Head of Data Centers Has Left the Company"
+  },
+  "49439499": {
+    "probability": 0.658,
+    "title": "C2PA Cameras Do Not Survive Contact with Reality"
+  },
+  "49439535": {
+    "probability": 0.557,
+    "title": "Perplexity Portable Computer"
+  },
+  "49439943": {
+    "probability": 0.59,
+    "title": "Memory Ordering in CPUs"
+  },
+  "49440204": {
+    "probability": 0.72,
+    "title": "The New York Times is publishing AI slop"
+  },
+  "49440410": {
+    "probability": 0.576,
+    "title": "When str.lower() is a security vulnerability in Python"
+  },
+  "49440484": {
+    "probability": 0.349,
+    "title": "Anduril is aquiring startups like crazy, this explains why"
+  },
+  "49440699": {
+    "probability": 0.374,
+    "title": "Treasury bonds are becoming less special"
+  },
+  "49440739": {
+    "probability": 0.285,
+    "title": "Grokipedia Stopped Reviewing Edits in April. It Didn't Tell Anyone"
+  },
+  "49440770": {
+    "probability": 0.362,
+    "title": "The service XCancel is stopped until further notice"
+  },
+  "49440786": {
+    "probability": 0.318,
+    "title": "XCancel also down, at least for time being"
+  },
+  "49441033": {
+    "probability": 0.492,
+    "title": "Python's pre-declared constants are kinda weird"
+  },
+  "49441042": {
+    "probability": 0.358,
+    "title": "Ripping Off the Hey.com Band-Aid"
+  },
+  "49441101": {
+    "probability": 0.4,
+    "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool"
+  },
+  "49441297": {
+    "probability": 0.636,
+    "title": "Category Theory for Kids"
+  },
+  "49441375": {
+    "probability": 0.612,
+    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM"
+  },
+  "49441622": {
+    "probability": 0.463,
+    "title": "Russ Cox Has Left Google"
+  },
+  "49441647": {
+    "probability": 0.369,
+    "title": "Complete list of U.S. products subject to counter tariffs"
+  },
+  "49441666": {
+    "probability": 0.646,
+    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others"
+  },
+  "49441781": {
+    "probability": 0.451,
+    "title": "More Fucked Today Than Yesterday"
+  },
+  "49441866": {
+    "probability": 0.443,
+    "title": "I think the data center backlash is mostly about data centers"
+  },
+  "49441955": {
+    "probability": 0.256,
+    "title": "The Mormon Church Is Quietly Expanding Its Real Estate Empire Across the US"
+  },
+  "49441960": {
+    "probability": 0.181,
+    "title": "The End of Programming"
+  },
+  "49442223": {
+    "probability": 0.306,
+    "title": "The Qualcomm Oryon CPU is the first mobile CPU to reach 5GHz"
+  },
+  "49442528": {
+    "probability": 0.546,
+    "title": "Hacker News now has an active (official) X account"
+  },
+  "49442589": {
+    "probability": 0.459,
+    "title": "Queryable Executables"
+  },
+  "49442743": {
+    "probability": 0.426,
+    "title": "The brain may be about to have its Ozempic moment"
+  },
+  "49443331": {
+    "probability": 0.487,
+    "title": "Letter from Dolly Parton to Eminem"
+  },
+  "49443338": {
+    "probability": 0.659,
+    "title": "Big Tech's Frantic Race to Quell the Growing Backlash to AI"
+  },
+  "49443355": {
+    "probability": 0.407,
+    "title": "The Commodore 77, an All-New Cyberpunk 2077 Collaboration"
+  },
+  "49443523": {
+    "probability": 0.891,
+    "title": "Agentic Context Management: Memory and Cost as Architecture Problems"
+  },
+  "49443820": {
+    "probability": 0.912,
+    "title": "Ask HN: What is one simple thing LLMs are insanely bad at?"
+  },
+  "49443871": {
+    "probability": 0.906,
+    "title": "Analyzing student votes across AI models for college essay help"
+  },
+  "49444232": {
+    "probability": 0.421,
+    "title": "Secret Cold War IBM Supercomputer Was Built for One Job"
+  },
+  "49444266": {
+    "probability": 0.283,
+    "title": "Running out of money': Kraft, McDonald's, Whirlpool CEOs flag consumer concern"
+  },
+  "49444514": {
+    "probability": 0.481,
+    "title": "More than half of adults in U.S. say they lack basic statistical understanding"
   }
 }

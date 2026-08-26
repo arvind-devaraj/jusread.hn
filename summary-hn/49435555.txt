@@ -1,0 +1,6 @@
+Show HN: Keenable – A different web search API for AI agents  (10 pts, 5 comments)
+https://news.ycombinator.com/item?id=49435555
+
+The Hacker News discussion centers around Keenable, a new web search API designed specifically for AI agents, which indexes over 100 billion pages. The founders emphasize low cost and latency, claiming a 95th percentile response time of under 250 milliseconds. They have open-sourced their benchmarking tool, NEEDLE, to compare Keenable's performance against other search APIs. The API offers a free tier of 100,000 requests per month and features a SQL-like interface for structured data extraction.
+
+In the comments, users discuss how Keenable compares to competitors like Exa and Parallel. The consensus is that Keenable offers similar or superior quality at a lower price and latency, with Keenable charging $4 per 1,000 queries compared to Exa's $7. Some users seek clarification on how Keenable differentiates itself from other services like Perplexity and inquire about its performance under rapid, repeated query calls. Overall, the discussion highlights Keenable's potential advantages in cost and efficiency for AI-driven search applications.
