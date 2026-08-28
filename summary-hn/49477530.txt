@@ -1,0 +1,8 @@
+Show HN: Talos – An AI agent with a permission kernel between model and shell  (14 pts, 5 comments)
+https://news.ycombinator.com/item?id=49477530
+
+The Hacker News discussion revolves around Talos, an AI agent designed with a permission kernel that mediates interactions between the AI model and the shell. The creator, kurdman_007, explains that the kernel, consisting of about 645 lines of Python code, determines whether actions like reading, writing, or executing commands are allowed, need human approval, or are denied. This design aims to ensure that the agent cannot grant itself permissions autonomously.
+
+In the comments, there is a mix of support and skepticism. Some users, like tomconnors, appreciate the need for secure agent operations but criticize the landing page's language as overly complex and untrustworthy. Others, like nahsra, point out that some AI models are already implementing similar safety checks. Additionally, a user humorously mentions using a different "Talos" for their agents, indicating potential confusion with the name.
+
+Overall, the discussion highlights the importance of security in AI agents while also reflecting concerns about transparency and clarity in communication from developers.

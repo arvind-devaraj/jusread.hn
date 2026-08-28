@@ -1,0 +1,8 @@
+Ask HN: Why are Claude models so verbose?  (10 pts, 11 comments)
+https://news.ycombinator.com/item?id=49444272
+
+The Hacker News discussion revolves around a user's observation that Claude AI models tend to be excessively verbose compared to other models like GPT. The user, a software engineer, notes that while using Claude for coding tasks, it often generates unnecessary comments, ignores instructions, and creates solutions that could be simplified using existing libraries. They seek insights into why this verbosity occurs and how to mitigate it.
+
+In the comments, several users agree that Claude's verbosity is a notable issue, with some attributing it to the model's inherent writing style rather than token generation concerns. Others point out that the environment in which Claude is used (like Cursor vs. Claude Code) can influence its behavior. Some users have experimented with output styles to reduce verbosity, with mixed results. Notably, one user mentions that Claude has a predefined "Concise" style that can help, while others emphasize the importance of clear instructions and rules to manage the model's output.
+
+Overall, the discussion highlights a shared frustration with Claude's verbosity and explores various strategies for improving its performance in coding tasks.

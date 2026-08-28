@@ -1,0 +1,8 @@
+Show HN: SubSmith – Turn your own videos into language-learning material  (62 pts, 47 comments)
+https://news.ycombinator.com/item?id=49476894
+
+The Hacker News discussion revolves around SubSmith, a desktop app designed to help language learners create study materials from their own video or audio content. The developer, who has been learning Japanese, built the app to streamline the process of extracting useful sentences from media, allowing users to generate transcripts, look up words, replay lines, edit transcripts, and export Anki cards—all while keeping the media offline and local.
+
+In the comments, users express a mix of enthusiasm and skepticism. Some appreciate the app's focus on personal media and immersion-based learning, while others raise concerns about the accuracy of automated transcriptions and the need for users to source their own media. There is also debate about the app's user experience, with suggestions for improving accessibility and reducing friction for users. Notably, some commenters mention the saturation of language-learning apps, particularly for Japanese, and suggest exploring less common languages as potential niches.
+
+Overall, the discussion highlights the challenges of automated transcription accuracy, the importance of user-friendly design, and the competitive landscape of language-learning tools, with many participants sharing their own experiences and insights on the topic.
