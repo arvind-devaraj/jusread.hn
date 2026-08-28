@@ -1,0 +1,8 @@
+Serve Markdown to AI Agents with Accept Headers  (172 pts, 106 comments)
+https://news.ycombinator.com/item?id=49454764
+
+The Hacker News discussion revolves around a proposal to serve web content in Markdown format specifically for AI agents, as outlined on the website acceptmarkdown.com. The idea is to provide a cleaner, ad-free version of web pages that AI can easily parse, potentially improving the efficiency of AI interactions with web content.
+
+Commenters express a mix of skepticism and interest regarding the proposal. Some believe that serving Markdown could streamline access to information, reducing the clutter of ads and unnecessary JavaScript. However, others argue that this approach may not gain traction due to the interests of content providers who benefit from traditional HTML formats for SEO and user engagement. There are concerns about the implications of AI agents potentially receiving altered or less accurate information compared to human users, which could lead to a "cat-and-mouse" game between content providers and AI crawlers.
+
+Notable insights include the recognition that while Markdown could simplify content delivery for AI, it might not align with the interests of many websites. Some commenters also highlight existing implementations, like those from Claude Code, suggesting that the concept is not entirely new. Overall, the discussion reflects a broader debate about the future of web content accessibility and the balance between user experience and AI efficiency.
