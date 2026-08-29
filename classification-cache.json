@@ -139095,6 +139095,10 @@
     "probability": 0.405,
     "title": "Australia passes law to levy tech giants that fail to pay for local news"
   },
+  "49373146": {
+    "probability": 0.317,
+    "title": "What Zig felt like, coming from Rust"
+  },
   "49373269": {
     "probability": 0.746,
     "title": "AI didn't erase the junior engineer's value, it increased it it"
@@ -141035,6 +141039,10 @@
     "probability": 0.42,
     "title": "Mac OS X on Xbox 360"
   },
+  "49414891": {
+    "probability": 0.617,
+    "title": "Vim's UserGettingBored Autocmd"
+  },
   "49414905": {
     "probability": 0.324,
     "title": "I run a pizzeria out of my Smart car in NYC [video]"
@@ -141058,6 +141066,10 @@
   "49415325": {
     "probability": 0.568,
     "title": "Claude Is Down?"
+  },
+  "49415386": {
+    "probability": 0.454,
+    "title": "Tether: iMessage, SMS, etc. on Linux"
   },
   "49415405": {
     "probability": 0.891,
@@ -141651,6 +141663,10 @@
     "probability": 0.35,
     "title": "SiFive's First Server Platform"
   },
+  "49428756": {
+    "probability": 0.757,
+    "title": "Sleepwalker: Passive Backdoor with Its Own Command Language"
+  },
   "49428842": {
     "probability": 0.646,
     "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?"
@@ -141914,6 +141930,10 @@
   "49436882": {
     "probability": 0.549,
     "title": "Knowledge Compressor"
+  },
+  "49436886": {
+    "probability": 0.351,
+    "title": "The ArtQrCode a twist on the classic black and white Quick Response Code"
   },
   "49437049": {
     "probability": 0.645,
@@ -142339,6 +142359,10 @@
     "probability": 0.6,
     "title": "Moonshot AI wants 30% of what US clouds earn from Kimi K3"
   },
+  "49447178": {
+    "probability": 0.422,
+    "title": "Show HN: Typebase – A single-folder back end you write in TypeScript"
+  },
   "49447222": {
     "probability": 0.564,
     "title": "Apple Maps Ads Are Here, and There's No Way to Turn Them Off"
@@ -142758,6 +142782,10 @@
   "49453510": {
     "probability": 0.339,
     "title": "Study reveals UnitedHealth's profit margins four times what it claimed [pdf]"
+  },
+  "49453550": {
+    "probability": 0.792,
+    "title": "Ultrafast Frontier Inference – Cerebras Hot Chips 2026"
   },
   "49453656": {
     "probability": 0.727,
@@ -143979,6 +144007,10 @@
     "probability": 0.37,
     "title": "Survey shows Americans have turned against license plate tracking cameras"
   },
+  "49479546": {
+    "probability": 0.389,
+    "title": "Creating the Aetheryte Radio"
+  },
   "49479627": {
     "probability": 0.313,
     "title": "Reckless Ben Exposing the largest human trafficking ring in the world"
@@ -144187,6 +144219,10 @@
     "probability": 0.348,
     "title": "Marijuana Legalization Didn't Fill Emergency Rooms with Stoned Drivers"
   },
+  "49484520": {
+    "probability": 0.45,
+    "title": "A few feral cats in an ALGOL trenchcoat."
+  },
   "49484743": {
     "probability": 0.639,
     "title": "AI demands more engineering discipline. Not less"
@@ -144214,6 +144250,10 @@
   "49485267": {
     "probability": 0.504,
     "title": "Boot a Virtual iPhone via Apple's Virtualization.framework"
+  },
+  "49485316": {
+    "probability": 0.389,
+    "title": "Xylitol linked to strokes and heart attacks"
   },
   "49485416": {
     "probability": 0.814,
@@ -144259,9 +144299,17 @@
     "probability": 0.387,
     "title": "Milo Yiannopoulos, a far-right political commentator, detained by ICE"
   },
+  "49485926": {
+    "probability": 0.66,
+    "title": "X claims it found a Chinese bot farm posting anti-AI data center sentiments"
+  },
   "49486081": {
     "probability": 0.747,
     "title": "StemDeck, a free, open-source and local AI stem separator"
+  },
+  "49486107": {
+    "probability": 0.338,
+    "title": "The IBM PC, Part 2: Tsunami"
   },
   "49486172": {
     "probability": 0.63,
@@ -144279,6 +144327,10 @@
     "probability": 0.359,
     "title": "ASCII City: Traffic and Detail Update [video]"
   },
+  "49486278": {
+    "probability": 0.189,
+    "title": "\"We quit the CDC last year. The problems we protested remain\""
+  },
   "49486334": {
     "probability": 0.402,
     "title": "TurboKV: Insanely fast Rust key-value store"
@@ -144286,6 +144338,10 @@
   "49486491": {
     "probability": 0.751,
     "title": "OpenAI and Anthropic are ruining San Francisco"
+  },
+  "49486493": {
+    "probability": 0.831,
+    "title": "Debian Votes to Allow \"Responsible Use of Generative AI\""
   },
   "49486494": {
     "probability": 0.655,
@@ -144334,5 +144390,109 @@
   "49489057": {
     "probability": 0.217,
     "title": "Iceland votes on whether to restart talks on joining EU"
+  },
+  "49489547": {
+    "probability": 0.231,
+    "title": "Being kicked out of the tech industry"
+  },
+  "49489968": {
+    "probability": 0.414,
+    "title": "SteamOS 3.9.0 Preview"
+  },
+  "49489982": {
+    "probability": 0.843,
+    "title": "Debian votes to allow \"responsible use of generative AI\""
+  },
+  "49490132": {
+    "probability": 0.458,
+    "title": "Security researchers find surveillance implants in Chinese-made routers sold wor"
+  },
+  "49490138": {
+    "probability": 0.453,
+    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack"
+  },
+  "49490702": {
+    "probability": 0.594,
+    "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)"
+  },
+  "49490826": {
+    "probability": 0.331,
+    "title": "Parsing the Infamous Japanese Postal CSV"
+  },
+  "49490832": {
+    "probability": 0.529,
+    "title": "Quantifying Colour"
+  },
+  "49490870": {
+    "probability": 0.464,
+    "title": "Nancy Grace Roman Space Telescope"
+  },
+  "49491113": {
+    "probability": 0.771,
+    "title": "The growing divide between AI hype and software engineering reality"
+  },
+  "49491282": {
+    "probability": 0.502,
+    "title": "Claude permanently raising weekly limits by 25%"
+  },
+  "49491468": {
+    "probability": 0.503,
+    "title": "Senator calls for criminal investigation of RFK Jr after Guardian report"
+  },
+  "49491512": {
+    "probability": 0.501,
+    "title": "Google Reduced Pixel 11's Security"
+  },
+  "49491544": {
+    "probability": 0.384,
+    "title": "A better SQL in 11 lines of code"
+  },
+  "49491568": {
+    "probability": 0.721,
+    "title": "Good Culture Is the Biggest Productivity Hack, Not AI"
+  },
+  "49491631": {
+    "probability": 0.367,
+    "title": "Claude Code is going reduce limits by 25% from September 14"
+  },
+  "49491634": {
+    "probability": 0.459,
+    "title": "An $18B settlement – and Zuckerberg barely blinked"
+  },
+  "49491641": {
+    "probability": 0.501,
+    "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music"
+  },
+  "49491714": {
+    "probability": 0.795,
+    "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role"
+  },
+  "49492067": {
+    "probability": 0.756,
+    "title": "vLLM v0.28.0"
+  },
+  "49492184": {
+    "probability": 0.732,
+    "title": "LLMs are making me lose my savviness"
+  },
+  "49492193": {
+    "probability": 0.37,
+    "title": "The internet is kind of a predatory cesspit now"
+  },
+  "49492219": {
+    "probability": 0.442,
+    "title": "DHS is using obscure law to snoop on journalists, non-profits, unions"
+  },
+  "49492432": {
+    "probability": 0.907,
+    "title": "Warp builds self-improving agents on Claude"
+  },
+  "49492554": {
+    "probability": 0.555,
+    "title": "The elementary school pickup incident and the road ahead"
+  },
+  "49492632": {
+    "probability": 0.727,
+    "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview"
   }
 }
