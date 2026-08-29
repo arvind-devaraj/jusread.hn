@@ -1,0 +1,8 @@
+Ask HN: AI writes better code than me. How to keep my identity?  (10 pts, 15 comments)
+https://news.ycombinator.com/item?id=49481969
+
+The Hacker News discussion revolves around a freelancer's struggle with the rapid advancement of AI in coding, particularly how AI now writes better code than they can. The poster expresses feelings of demotivation and identity crisis as they transition to AI-driven coding, noting that the AI's capabilities in applying programming patterns and structures have made their own skills feel obsolete. They seek advice from other freelance developers on how to maintain their motivation and identity in this changing landscape.
+
+In the comments, there is a mix of agreement and differing perspectives. Some users emphasize that writing code is only one aspect of software engineering and that making sound engineering decisions remains a valuable skill. Others suggest that developers should focus on becoming domain experts or shift their identity towards higher-level design and system architecture rather than just coding. A few commenters challenge the notion that one's identity should be tied to coding, arguing that problem-solving and understanding business needs are more critical.
+
+Notable insights include the idea that mastering AI tools can enhance productivity and that the competitive edge in the AI era may lie in understanding complex problems rather than just writing code. Overall, the discussion highlights the existential challenges faced by developers as AI continues to evolve and reshape the industry.

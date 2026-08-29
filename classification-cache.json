@@ -141083,6 +141083,10 @@
     "probability": 0.7,
     "title": "Anthropic Claude and API service outages"
   },
+  "49415923": {
+    "probability": 0.398,
+    "title": "Sloc Cloc and Code 4.0 (scc) – Finding the files that need the most attention"
+  },
   "49416030": {
     "probability": 0.56,
     "title": "Hugging Face has been fielding M&A interest for a deal worth at least $13B"
@@ -141226,6 +141230,10 @@
   "49420148": {
     "probability": 0.553,
     "title": "Show HN: Track it easy – Log food and count calories in one simple chat"
+  },
+  "49420202": {
+    "probability": 0.363,
+    "title": "You've heard of CSV files, but have you heard of CCSV files?"
   },
   "49420530": {
     "probability": 0.439,
@@ -141375,6 +141383,10 @@
     "probability": 0.517,
     "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam"
   },
+  "49422743": {
+    "probability": 0.448,
+    "title": "Curvature Beziers: Improving on a timeless recipe"
+  },
   "49422784": {
     "probability": 0.31,
     "title": "The entire city of San Francisco as a video game"
@@ -141518,6 +141530,10 @@
   "49425181": {
     "probability": 0.18,
     "title": "The industry is in a productivity panic"
+  },
+  "49425300": {
+    "probability": 0.349,
+    "title": "Intel's Wildcat Lake"
   },
   "49425340": {
     "probability": 0.356,
@@ -141730,6 +141746,10 @@
   "49433292": {
     "probability": 0.542,
     "title": "Apple introduces M6 and M5 Ultra"
+  },
+  "49433314": {
+    "probability": 0.544,
+    "title": "Show HN: Wirespan, a daily power grid optimization puzzle I made for my son"
   },
   "49433316": {
     "probability": 0.561,
@@ -143455,6 +143475,10 @@
     "probability": 0.423,
     "title": "Rob Pike's 5 Rules of Programming"
   },
+  "49469603": {
+    "probability": 0.477,
+    "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors"
+  },
   "49469753": {
     "probability": 0.462,
     "title": "Fewer Americans Pay to Use LLMs Than Still Pay to Play World of Warcraft"
@@ -143462,6 +143486,10 @@
   "49469847": {
     "probability": 0.292,
     "title": "Executive order changing name of lake-Ontario"
+  },
+  "49470366": {
+    "probability": 0.554,
+    "title": "AI industry says Trump plans to tax chips in the \"single dumbest way imaginable\""
   },
   "49470380": {
     "probability": 0.343,
@@ -143779,9 +143807,17 @@
     "probability": 0.609,
     "title": "“It works better in the app”"
   },
+  "49477682": {
+    "probability": 0.393,
+    "title": "A Badass Way to Connect Programs Togther What Is OSC?"
+  },
   "49477697": {
     "probability": 0.575,
     "title": "Daycare Pseudoscience"
+  },
+  "49477808": {
+    "probability": 0.58,
+    "title": "You Know GDPR Is Good Based on Who Hates It"
   },
   "49477813": {
     "probability": 0.578,
@@ -143827,6 +143863,10 @@
     "probability": 0.836,
     "title": "We need to talk about migrations with AI"
   },
+  "49478170": {
+    "probability": 0.864,
+    "title": "KHMS – a file-based long-term memory an LLM agent installs into itself"
+  },
   "49478178": {
     "probability": 0.487,
     "title": "Htmx 4.0.0"
@@ -143870,6 +143910,10 @@
   "49479122": {
     "probability": 0.45,
     "title": "Autistici/Inventati's main .org domain goes dark after US terrorism designation"
+  },
+  "49479157": {
+    "probability": 0.363,
+    "title": "Pine64 hits pause on Linux devices due to RAM and eMMC shortage and high prices"
   },
   "49479302": {
     "probability": 0.341,
@@ -143931,6 +143975,10 @@
     "probability": 0.44,
     "title": "How Dactyl Works"
   },
+  "49480351": {
+    "probability": 0.386,
+    "title": "Trump's Working to Give Part of Yosemite to a Private Developer"
+  },
   "49480449": {
     "probability": 0.616,
     "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom"
@@ -143959,6 +144007,14 @@
     "probability": 0.243,
     "title": "The teenage girls behind a $25 minimum wage fight in rural Alaska"
   },
+  "49481480": {
+    "probability": 0.502,
+    "title": "Single CRISPR Treatment Slashed LDL Cholesterol for a Year"
+  },
+  "49481670": {
+    "probability": 0.334,
+    "title": "How An Atlanta Suburb Shares Flock Data with More Than 2k Organizations"
+  },
   "49481672": {
     "probability": 0.235,
     "title": "Secrets of the Atomic City"
@@ -143974,5 +144030,129 @@
   "49481810": {
     "probability": 0.19,
     "title": "Data centers' 'oh s–t' moment"
+  },
+  "49481868": {
+    "probability": 0.733,
+    "title": "LibreOffice 26.8 is out – local first, and with no AI"
+  },
+  "49481918": {
+    "probability": 0.728,
+    "title": "Brain Doesn't Think in Words"
+  },
+  "49481969": {
+    "probability": 0.884,
+    "title": "Ask HN: AI writes better code than me. How to keep my identity?"
+  },
+  "49482216": {
+    "probability": 0.329,
+    "title": "TwitterWebViewer has been permanently discontinued"
+  },
+  "49482422": {
+    "probability": 0.231,
+    "title": "Service Discontinued"
+  },
+  "49482734": {
+    "probability": 0.43,
+    "title": "Police officer arrested after tracking ex-girlfriend on Flock over 2k times"
+  },
+  "49482864": {
+    "probability": 0.522,
+    "title": "ICE Plans to Spend Millions on Boston Dynamics Dog Robots"
+  },
+  "49482925": {
+    "probability": 0.909,
+    "title": "The Analytical AI Handbook"
+  },
+  "49482928": {
+    "probability": 0.351,
+    "title": "The data center backlash is here – and Big Tech is spending big to combat it"
+  },
+  "49483020": {
+    "probability": 0.294,
+    "title": "Bye, Bye GitHub"
+  },
+  "49483038": {
+    "probability": 0.685,
+    "title": "Show HN: Sesame - a local-first, open-source password manager"
+  },
+  "49483052": {
+    "probability": 0.444,
+    "title": "Flock CEO's Address Spread Online as Surveillance Backlash Explodes"
+  },
+  "49483080": {
+    "probability": 0.552,
+    "title": "Aspirational Clownmaxxing and Joey's cadillac todo list"
+  },
+  "49483173": {
+    "probability": 0.867,
+    "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls"
+  },
+  "49483182": {
+    "probability": 0.286,
+    "title": "Chicken products recalled in five states due to “false marks of inspection”"
+  },
+  "49483187": {
+    "probability": 0.374,
+    "title": "Isitdoneyet.gg is a website I made to figure out if games are complete"
+  },
+  "49483248": {
+    "probability": 0.474,
+    "title": "The OG Creator of Task Manager on Windows Built a New Task Manager"
+  },
+  "49483290": {
+    "probability": 0.421,
+    "title": "A society that runs on stimulants is badly broken"
+  },
+  "49483460": {
+    "probability": 0.17,
+    "title": "'We are broken': One family's fight against gambling addiction"
+  },
+  "49483816": {
+    "probability": 0.591,
+    "title": "Stopping the smart TV from being used against you"
+  },
+  "49484083": {
+    "probability": 0.348,
+    "title": "Marijuana Legalization Didn't Fill Emergency Rooms with Stoned Drivers"
+  },
+  "49484814": {
+    "probability": 0.486,
+    "title": "Milo Yiannopoulos Detained by ICE in Louisiana"
+  },
+  "49484912": {
+    "probability": 0.372,
+    "title": "MIT building contaminated with powerful neurotoxin dimethylmercury"
+  },
+  "49484925": {
+    "probability": 0.784,
+    "title": "Identifying fake cosmetics using AI"
+  },
+  "49485035": {
+    "probability": 0.411,
+    "title": "The Server Called Paranoia: Defend Autistici/Inventati Before Sept25 Sabot Media"
+  },
+  "49485267": {
+    "probability": 0.504,
+    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework"
+  },
+  "49485416": {
+    "probability": 0.814,
+    "title": "I accidentally turned LLM memory into program analysis"
+  },
+  "49485447": {
+    "probability": 0.539,
+    "title": "Anthropic Just Beat The Pentagon in Court"
+  },
+  "49485452": {
+    "probability": 0.239,
+    "title": "9th Circuit sides with states in Kalshi gambling fight"
+  },
+  "49485504": {
+    "probability": 0.275,
+    "title": "PPWR lands another blow to an precarious tabletop industry"
+  },
+  "49485532": {
+    "probability": 0.427,
+    "title": "Does the Sumerian King List Align with Paleoclimate Events?"
   }
 }
