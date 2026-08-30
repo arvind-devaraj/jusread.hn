@@ -1,0 +1,8 @@
+What We Tell AI  (27 pts, 7 comments)
+https://news.ycombinator.com/item?id=49497334
+
+The Hacker News discussion centers around the article "What We Tell AI," which explores the evolving relationship between humans and artificial intelligence, particularly in the context of large language models (LLMs). The conversation highlights the willingness of many individuals to engage deeply with AI, raising questions about societal implications and personal boundaries.
+
+Commenters express a range of opinions. Some, like [spaceisballer], are cautious about the emotional connections people form with AI, preferring slower, local models for simple tasks. Others, such as [Cyan488], share experiences of feeling a strong emotional bond with AI, only to later feel uncomfortable about it. There is also discussion on how reinforcement learning from human feedback (RLHF) enhances LLMs' ability to mimic human conversation, which can lead to more effective interactions but also emotional manipulation.
+
+Notable insights include the recognition that while some users find comfort in AI companionship, others are disturbed by the implications of such relationships. The conversation reflects a broader debate about the ethical and psychological effects of AI on human behavior and relationships.

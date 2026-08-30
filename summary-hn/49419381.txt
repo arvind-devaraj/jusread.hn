@@ -1,0 +1,8 @@
+What my dad taught me about AI coding in the 90s  (114 pts, 54 comments)
+https://news.ycombinator.com/item?id=49419381
+
+The Hacker News discussion revolves around an article titled "What my dad taught me about AI coding in the 90s," which draws a comparison between playing blindfold chess and programming with AI, particularly large language models (LLMs). The author suggests that the skills required for both activities—such as understanding high-level relationships and chunking information—are similar.
+
+In the comments, there is significant debate regarding the validity of the blindfold chess analogy. Some users argue that blind chess involves deterministic information about the game state, while LLMs are inherently non-deterministic, making the comparison flawed. Others discuss the merits of reading versus writing code, with opinions divided on whether one learns more from reading code or from the act of writing it. A few commenters emphasize the importance of developing intuition through coding, warning that excessive reliance on AI could hinder this growth.
+
+Notable insights include the acknowledgment of the "worked-example effect," where observing others solve problems can sometimes be more beneficial than struggling through them independently. Additionally, there is a technical discussion about the determinism of LLMs, with some users asserting that LLMs can be made deterministic under certain conditions, while others maintain that inherent non-determinism exists in their operation. Overall, the conversation reflects a mix of technical analysis and philosophical considerations about learning and the role of AI in programming.
