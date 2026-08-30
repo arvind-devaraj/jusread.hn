@@ -141167,6 +141167,10 @@
     "probability": 0.341,
     "title": "'Cookies' made from plastic may be on the menu for future astronauts"
   },
+  "49417662": {
+    "probability": 0.443,
+    "title": "Kmart Digicam Mod Part 2"
+  },
   "49417669": {
     "probability": 0.71,
     "title": "Some of Russia's A.I. Drones Are Powered by Nvidia"
@@ -141571,6 +141575,10 @@
     "probability": 0.18,
     "title": "The industry is in a productivity panic"
   },
+  "49425252": {
+    "probability": 0.453,
+    "title": "RISC-V is now officially supported by CPython"
+  },
   "49425300": {
     "probability": 0.349,
     "title": "Intel's Wildcat Lake"
@@ -141614,6 +141622,10 @@
   "49426877": {
     "probability": 0.696,
     "title": "Show HN: Flostep – Diagrams people can actually walk through"
+  },
+  "49426995": {
+    "probability": 0.445,
+    "title": "SQLite as a Document Database (2020)"
   },
   "49427001": {
     "probability": 0.379,
@@ -141943,6 +141955,10 @@
     "probability": 0.468,
     "title": "My Friend Aaron"
   },
+  "49437117": {
+    "probability": 0.433,
+    "title": "Orbs"
+  },
   "49437152": {
     "probability": 0.204,
     "title": "Water Behind the Watts: The Hidden Risk of Powering Data Centers"
@@ -142026,6 +142042,10 @@
   "49438661": {
     "probability": 0.273,
     "title": "Dolly Parton Has Died"
+  },
+  "49438865": {
+    "probability": 0.47,
+    "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter"
   },
   "49439017": {
     "probability": 0.455,
@@ -142575,6 +142595,10 @@
     "probability": 0.493,
     "title": "Hover Proximity Using Modern CSS"
   },
+  "49450248": {
+    "probability": 0.58,
+    "title": "Is it safe to call print in a Python signal handler?"
+  },
   "49450273": {
     "probability": 0.421,
     "title": "Show HN: Bury.lol – a $2 pixel-art graveyard for things that died"
@@ -142778,6 +142802,10 @@
   "49453161": {
     "probability": 0.367,
     "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada"
+  },
+  "49453232": {
+    "probability": 0.516,
+    "title": "The Einstein-Szilard Refrigerator (2020)"
   },
   "49453510": {
     "probability": 0.339,
@@ -143267,6 +143295,10 @@
     "probability": 0.321,
     "title": "Zaibatsu"
   },
+  "49465250": {
+    "probability": 0.425,
+    "title": "The Wandering Yamamura Theater Troupe"
+  },
   "49465291": {
     "probability": 0.532,
     "title": "Show HN: Restoredrill – proves your Postgres backups restore"
@@ -143562,6 +143594,10 @@
   "49469753": {
     "probability": 0.462,
     "title": "Fewer Americans Pay to Use LLMs Than Still Pay to Play World of Warcraft"
+  },
+  "49469786": {
+    "probability": 0.816,
+    "title": "Benchmarking Pocket-Scale Inference"
   },
   "49469847": {
     "probability": 0.292,
@@ -143955,6 +143991,10 @@
     "probability": 0.487,
     "title": "Htmx 4.0.0"
   },
+  "49478287": {
+    "probability": 0.63,
+    "title": "The Finn – an agent that lives in my router and complains about it"
+  },
   "49478340": {
     "probability": 0.379,
     "title": "Get your Windows license refund"
@@ -144127,6 +144167,10 @@
     "probability": 0.728,
     "title": "Brain Doesn't Think in Words"
   },
+  "49481956": {
+    "probability": 0.561,
+    "title": "Show HN: Blast – Open-source sandbox-as-a-service"
+  },
   "49481969": {
     "probability": 0.884,
     "title": "Ask HN: AI writes better code than me. How to keep my identity?"
@@ -144146,6 +144190,10 @@
   "49482754": {
     "probability": 0.628,
     "title": "The Uninvited Guest Who Crashed Our Family Vacation: My Mom's AI Chatbot"
+  },
+  "49482833": {
+    "probability": 0.366,
+    "title": "Nancy Grace Roman Space Telescope Launches this Sunday"
   },
   "49482864": {
     "probability": 0.522,
@@ -144199,6 +144247,10 @@
     "probability": 0.405,
     "title": "Initially delayed, the pass-through of tariffs to consumer prices has arrived"
   },
+  "49483436": {
+    "probability": 0.723,
+    "title": "Show HN: Hacker News Client with Claude Code and Codex Integration"
+  },
   "49483460": {
     "probability": 0.17,
     "title": "'We are broken': One family's fight against gambling addiction"
@@ -144218,6 +144270,10 @@
   "49484083": {
     "probability": 0.348,
     "title": "Marijuana Legalization Didn't Fill Emergency Rooms with Stoned Drivers"
+  },
+  "49484510": {
+    "probability": 0.461,
+    "title": "States can regulate prediction markets as gambling, federal appeals court rules"
   },
   "49484520": {
     "probability": 0.45,
@@ -144311,6 +144367,10 @@
     "probability": 0.338,
     "title": "The IBM PC, Part 2: Tsunami"
   },
+  "49486133": {
+    "probability": 0.347,
+    "title": "Trump announces new US oil agreement with Venezuela"
+  },
   "49486172": {
     "probability": 0.63,
     "title": "Our decision on Cursor following its acquisition by SpaceX"
@@ -144383,6 +144443,10 @@
     "probability": 0.58,
     "title": "You Know GDPR Is Good Based on Who Hates It"
   },
+  "49488654": {
+    "probability": 0.728,
+    "title": "Ask HN: Why do we need MCP?"
+  },
   "49488905": {
     "probability": 0.521,
     "title": "Neovim Removes DHH Quote"
@@ -144390,6 +144454,10 @@
   "49489057": {
     "probability": 0.217,
     "title": "Iceland votes on whether to restart talks on joining EU"
+  },
+  "49489376": {
+    "probability": 0.686,
+    "title": "Show HN: Laser Graffiti"
   },
   "49489547": {
     "probability": 0.231,
@@ -144411,6 +144479,18 @@
     "probability": 0.453,
     "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack"
   },
+  "49490183": {
+    "probability": 0.48,
+    "title": "Don't enthusiastically agree to rewrite the system at work"
+  },
+  "49490460": {
+    "probability": 0.511,
+    "title": "Why Everybody Hates Palantir"
+  },
+  "49490478": {
+    "probability": 0.653,
+    "title": "Google translate is a better writer than me"
+  },
   "49490702": {
     "probability": 0.594,
     "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)"
@@ -144430,6 +144510,18 @@
   "49491113": {
     "probability": 0.771,
     "title": "The growing divide between AI hype and software engineering reality"
+  },
+  "49491175": {
+    "probability": 0.509,
+    "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)"
+  },
+  "49491223": {
+    "probability": 0.628,
+    "title": "Introduction to Probability – 2nd Edition"
+  },
+  "49491262": {
+    "probability": 0.572,
+    "title": "ICE eyes spending up to $2M on Boston Dynamics robot dogs to up 'officer safety'"
   },
   "49491282": {
     "probability": 0.502,
@@ -144451,6 +144543,10 @@
     "probability": 0.721,
     "title": "Good Culture Is the Biggest Productivity Hack, Not AI"
   },
+  "49491603": {
+    "probability": 0.37,
+    "title": "California lawmakers unanimously pass Linux exemption from age-verification law"
+  },
   "49491631": {
     "probability": 0.367,
     "title": "Claude Code is going reduce limits by 25% from September 14"
@@ -144466,6 +144562,14 @@
   "49491714": {
     "probability": 0.795,
     "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role"
+  },
+  "49491745": {
+    "probability": 0.754,
+    "title": "Ask HN: How to break Claude Code addiction?"
+  },
+  "49491755": {
+    "probability": 0.53,
+    "title": "Show HN: Flint – A minimal C/C++ package manager and build tool written in C"
   },
   "49492067": {
     "probability": 0.756,
@@ -144483,16 +144587,192 @@
     "probability": 0.442,
     "title": "DHS is using obscure law to snoop on journalists, non-profits, unions"
   },
+  "49492298": {
+    "probability": 0.616,
+    "title": "Breaking persistent undo shows Neovim can't be trusted"
+  },
+  "49492368": {
+    "probability": 0.548,
+    "title": "Functional State Machines in Rust: Typestate and Newtype Patterns"
+  },
   "49492432": {
     "probability": 0.907,
     "title": "Warp builds self-improving agents on Claude"
+  },
+  "49492488": {
+    "probability": 0.269,
+    "title": "A safe MySQL upgrade that wasn't so safe"
   },
   "49492554": {
     "probability": 0.555,
     "title": "The elementary school pickup incident and the road ahead"
   },
+  "49492584": {
+    "probability": 0.806,
+    "title": "Domain-Driven Agents"
+  },
   "49492632": {
     "probability": 0.727,
     "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview"
+  },
+  "49493018": {
+    "probability": 0.321,
+    "title": "Zod v4.5 adds schema compilation (3-9x faster validation)"
+  },
+  "49493107": {
+    "probability": 0.216,
+    "title": "Debian and the Sirens"
+  },
+  "49493225": {
+    "probability": 0.258,
+    "title": "Scott Bessent Is at War with Prices – and Prices Are Winning"
+  },
+  "49493244": {
+    "probability": 0.473,
+    "title": "What we want is a hunter gatherer lifestyle with space age tools (2022)"
+  },
+  "49493563": {
+    "probability": 0.462,
+    "title": "Aptera announces a $44M to design and build a solar electric vehicle"
+  },
+  "49493576": {
+    "probability": 0.923,
+    "title": "Show HN: AI Agents for Osint/Sigint"
+  },
+  "49493881": {
+    "probability": 0.575,
+    "title": "Show HN: Delete yourself from data brokers without a subscription"
+  },
+  "49494023": {
+    "probability": 0.432,
+    "title": "Twitter (Not affiliated with X Corp)"
+  },
+  "49494036": {
+    "probability": 0.432,
+    "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online"
+  },
+  "49494151": {
+    "probability": 0.22,
+    "title": "I co-founded Burning Man. The festival has lost its soul"
+  },
+  "49494182": {
+    "probability": 0.434,
+    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras"
+  },
+  "49494212": {
+    "probability": 0.449,
+    "title": "Police departments weren’t looking for Flock abuse. We did it for them."
+  },
+  "49494231": {
+    "probability": 0.219,
+    "title": "Highest-ever ocean temperature measured as powerful El Niño forms"
+  },
+  "49494301": {
+    "probability": 0.385,
+    "title": "The Rise and Fall of Agent Civilizations"
+  },
+  "49494394": {
+    "probability": 0.378,
+    "title": "China's Super-Dam Is Becoming an Upstream Water Bomb"
+  },
+  "49494520": {
+    "probability": 0.737,
+    "title": "Bug Blindness"
+  },
+  "49494571": {
+    "probability": 0.6,
+    "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients"
+  },
+  "49494751": {
+    "probability": 0.625,
+    "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom"
+  },
+  "49494853": {
+    "probability": 0.239,
+    "title": "China is fueling America's data center rage"
+  },
+  "49494856": {
+    "probability": 0.358,
+    "title": "FreeCORE TrueNAS Core – Continued"
+  },
+  "49495009": {
+    "probability": 0.819,
+    "title": "Meta Project OT plan to replace employees with AI agents"
+  },
+  "49495127": {
+    "probability": 0.541,
+    "title": "Algorithmic rent-pricing litigation expands under new state and local laws"
+  },
+  "49495171": {
+    "probability": 0.368,
+    "title": "No Country for Mediocre Mathematicians"
+  },
+  "49495350": {
+    "probability": 0.625,
+    "title": "You have to beat the models at something"
+  },
+  "49495372": {
+    "probability": 0.37,
+    "title": "California lawmakers unanimously pass Linux exemption from age-verification law"
+  },
+  "49495845": {
+    "probability": 0.863,
+    "title": "The Internet Archive's Vintage AI Collection"
+  },
+  "49495947": {
+    "probability": 0.386,
+    "title": "Google: Lake Ontario/Lake America name change in the U.S. will appear in Maps"
+  },
+  "49496292": {
+    "probability": 0.812,
+    "title": "Smartphone LED Detects Hidden Cameras with AI"
+  },
+  "49496390": {
+    "probability": 0.578,
+    "title": "Ask HN: Is .org now Trump-controlled?"
+  },
+  "49496543": {
+    "probability": 0.543,
+    "title": "Xcena and Samsung's Near Memory Compute CXL Device"
+  },
+  "49496707": {
+    "probability": 0.268,
+    "title": "Iceland rejects reopening talks on EU entry"
+  },
+  "49496782": {
+    "probability": 0.367,
+    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)"
+  },
+  "49496918": {
+    "probability": 0.484,
+    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel"
+  },
+  "49497063": {
+    "probability": 0.523,
+    "title": "Brits would quite like their private messages to stay private"
+  },
+  "49497200": {
+    "probability": 0.263,
+    "title": "Everyone Should Build Their Own Network Stack"
+  },
+  "49497227": {
+    "probability": 0.636,
+    "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website"
+  },
+  "49497235": {
+    "probability": 0.847,
+    "title": "Nvidia's AI advantage is moving beyond the GPU"
+  },
+  "49497265": {
+    "probability": 0.26,
+    "title": "Spark: Sparklines in your shell"
+  },
+  "49497357": {
+    "probability": 0.755,
+    "title": "Fair Work Commission condemns 'plain wrong' AI legal advice"
+  },
+  "49497362": {
+    "probability": 0.608,
+    "title": "My fat loss experiments with ChatGPT and water fasting"
   }
 }
