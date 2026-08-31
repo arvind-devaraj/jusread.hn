@@ -1,0 +1,8 @@
+Ask HN: What would happen if your company stopped using all AI tomorrow?  (27 pts, 42 comments)
+https://news.ycombinator.com/item?id=49510066
+
+The Hacker News discussion revolves around the hypothetical scenario of companies ceasing all use of AI. The original poster questions whether AI genuinely benefits businesses or if they would fare better without it, suggesting that shutting down AI could eliminate unnecessary costs.
+
+In the comments, opinions vary significantly. Some users argue that AI is integral to their operations, enhancing productivity and efficiency, while others believe that its absence would not drastically impact their businesses. A few commenters express skepticism about AI's actual contributions, noting that many processes could continue without it. There is also a debate about the influence of AI on coding practices and communication styles, with some feeling that AI-generated content lacks substance.
+
+Notable insights include concerns about the potential collapse of companies heavily reliant on AI, as well as the frustration some feel towards the quality of AI-generated text. Overall, the discussion highlights a divide between those who see AI as a crucial asset and those who view it as an unnecessary burden.
