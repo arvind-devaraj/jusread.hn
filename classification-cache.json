@@ -141331,6 +141331,10 @@
     "probability": 0.414,
     "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded"
   },
+  "49420889": {
+    "probability": 0.314,
+    "title": "A year of Org Social, my social network"
+  },
   "49420902": {
     "probability": 0.331,
     "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online"
@@ -141546,6 +141550,10 @@
   "49424320": {
     "probability": 0.399,
     "title": "Glacier Mice"
+  },
+  "49424322": {
+    "probability": 0.679,
+    "title": "Claude × retrocomputing: emulating a QIC-117 tape drive"
   },
   "49424387": {
     "probability": 0.893,
@@ -142171,6 +142179,10 @@
     "probability": 0.456,
     "title": "Where to for Clojure and Enterprise Web Applications"
   },
+  "49441609": {
+    "probability": 0.372,
+    "title": "Polishing Cloth Updated"
+  },
   "49441622": {
     "probability": 0.463,
     "title": "Russ Cox Has Left Google"
@@ -142338,6 +142350,10 @@
   "49445908": {
     "probability": 0.569,
     "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY"
+  },
+  "49446091": {
+    "probability": 0.56,
+    "title": "Visualizing Combos in Judo in R"
   },
   "49446210": {
     "probability": 0.389,
@@ -143135,6 +143151,10 @@
     "probability": 0.442,
     "title": "Apple Silicon's Surprisingly Speedy SIMD"
   },
+  "49458573": {
+    "probability": 0.828,
+    "title": "Docs-Reference: A Common Lisp RAG System for Local Models"
+  },
   "49458709": {
     "probability": 0.28,
     "title": "Kusama Yayoi has died"
@@ -143174,6 +143194,10 @@
   "49460032": {
     "probability": 0.301,
     "title": "Pnpm 12.0"
+  },
+  "49460419": {
+    "probability": 0.707,
+    "title": "Flat vs. segmented memory – it's recursive"
   },
   "49461462": {
     "probability": 0.577,
@@ -143951,6 +143975,10 @@
     "probability": 0.724,
     "title": "I Cut 80%+ of Context Overhead in My Coding Agent"
   },
+  "49476653": {
+    "probability": 0.603,
+    "title": "Quest for eternal dock on Wayland – lambdock (C and GTK4 and Lisp Guile Scheme)"
+  },
   "49476802": {
     "probability": 0.751,
     "title": "LLM Cliché Highlighter"
@@ -144395,9 +144423,17 @@
     "probability": 0.389,
     "title": "Police Officers Brag About Flock Gifts"
   },
+  "49484004": {
+    "probability": 0.35,
+    "title": "Borges Labyrinth in Venice reopens to the public"
+  },
   "49484083": {
     "probability": 0.348,
     "title": "Marijuana Legalization Didn't Fill Emergency Rooms with Stoned Drivers"
+  },
+  "49484112": {
+    "probability": 0.532,
+    "title": "Show HN: Kvist – a Lisp for systems programming that compiles to Odin"
   },
   "49484510": {
     "probability": 0.461,
@@ -144442,6 +144478,10 @@
   "49485316": {
     "probability": 0.389,
     "title": "Xylitol linked to strokes and heart attacks"
+  },
+  "49485379": {
+    "probability": 0.494,
+    "title": "LuaDB – A pure Lua RDBMS engine with B+Trees, WAL, and Postgres wire proto"
   },
   "49485416": {
     "probability": 0.814,
@@ -144578,6 +144618,10 @@
   "49488282": {
     "probability": 0.58,
     "title": "You Know GDPR Is Good Based on Who Hates It"
+  },
+  "49488619": {
+    "probability": 0.765,
+    "title": "An extensible coding agent for the modern Lisp hacker"
   },
   "49488654": {
     "probability": 0.728,
@@ -144771,6 +144815,10 @@
     "probability": 0.727,
     "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview"
   },
+  "49492824": {
+    "probability": 0.52,
+    "title": "Wrapping GTK4 in 800 lines of Clojure with Jolt"
+  },
   "49493018": {
     "probability": 0.321,
     "title": "Zod v4.5 adds schema compilation (3-9x faster validation)"
@@ -144786,6 +144834,10 @@
   "49493244": {
     "probability": 0.473,
     "title": "What we want is a hunter gatherer lifestyle with space age tools (2022)"
+  },
+  "49493468": {
+    "probability": 0.387,
+    "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career"
   },
   "49493563": {
     "probability": 0.462,
@@ -144810,6 +144862,10 @@
   "49494151": {
     "probability": 0.22,
     "title": "I co-founded Burning Man. The festival has lost its soul"
+  },
+  "49494181": {
+    "probability": 0.554,
+    "title": "Lion-man"
   },
   "49494182": {
     "probability": 0.434,
@@ -144907,6 +144963,10 @@
     "probability": 0.268,
     "title": "Iceland rejects reopening talks on EU entry"
   },
+  "49496773": {
+    "probability": 0.394,
+    "title": "Building a decentralized bulletin board (and accidentally reinventing Nostr)"
+  },
   "49496782": {
     "probability": 0.367,
     "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)"
@@ -144926,6 +144986,10 @@
   "49497110": {
     "probability": 0.286,
     "title": "12TB Steam leak exposes old game builds from 2003 to 2013"
+  },
+  "49497137": {
+    "probability": 0.396,
+    "title": "A Cyanometer and a Cloud Colourimeter"
   },
   "49497200": {
     "probability": 0.263,
@@ -145247,6 +145311,10 @@
     "probability": 0.309,
     "title": "Yen weakens past ¥160 per dollar, eroding intervention gains"
   },
+  "49504408": {
+    "probability": 0.32,
+    "title": "Google Maps Changes Lake Ontario to 'Lake America' on US Phones"
+  },
   "49504625": {
     "probability": 0.831,
     "title": "Understanding ChatGPT Work"
@@ -145314,6 +145382,10 @@
   "49505351": {
     "probability": 0.841,
     "title": "The EU has begun enforcing the AI Act: first RFIs to model providers"
+  },
+  "49505584": {
+    "probability": 0.735,
+    "title": "Roget's Thesaurus"
   },
   "49505590": {
     "probability": 0.408,
@@ -145431,6 +145503,10 @@
     "probability": 0.352,
     "title": "Malleable software = solid bases and custom code"
   },
+  "49508132": {
+    "probability": 0.375,
+    "title": "There is no such thing as full decentralization"
+  },
   "49508200": {
     "probability": 0.583,
     "title": "The AI-Native SDLC Starts with Your Infrastructure"
@@ -145467,6 +145543,10 @@
     "probability": 0.254,
     "title": "I Think the Military Commissary's Freezers Were Hacked"
   },
+  "49508530": {
+    "probability": 0.395,
+    "title": "'Breakthrough' as Turkmenistan starts fixing 'mindboggling' methane mega-leaks"
+  },
   "49508622": {
     "probability": 0.405,
     "title": "Lake Ontario Now Called Lake America on Google Maps"
@@ -145502,6 +145582,10 @@
   "49509696": {
     "probability": 0.506,
     "title": "Babashka 1.13.220 Gets FFI"
+  },
+  "49509844": {
+    "probability": 0.294,
+    "title": "New US missile left wide path of death and destruction in Iranian neighborhoods"
   },
   "49509876": {
     "probability": 0.472,
@@ -145542,6 +145626,10 @@
   "49510489": {
     "probability": 0.49,
     "title": "The Snow/Leavis ‘two cultures’ clash"
+  },
+  "49510495": {
+    "probability": 0.394,
+    "title": "Building a decentralized bulletin board (and accidentally reinventing Nostr)"
   },
   "49510511": {
     "probability": 0.422,
@@ -145675,6 +145763,10 @@
     "probability": 0.254,
     "title": "Kalshi bans ex-Congressman for life concluding he likely was insider trading"
   },
+  "49513274": {
+    "probability": 0.335,
+    "title": "Microsoft Outlook hit by service outage"
+  },
   "49513502": {
     "probability": 0.473,
     "title": "Trump 'Directly' Pushing Apple to Update Lake Ontario to Lake America in Maps"
@@ -145682,6 +145774,22 @@
   "49513609": {
     "probability": 0.297,
     "title": "1Password Supports the Ethnic Cleansing of Europe"
+  },
+  "49513657": {
+    "probability": 0.367,
+    "title": "Tech bros panic as post-Trump accountability comes into view [video]"
+  },
+  "49513708": {
+    "probability": 0.372,
+    "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps"
+  },
+  "49514224": {
+    "probability": 0.465,
+    "title": "Monero Inflation Checker – FCMP++"
+  },
+  "49514318": {
+    "probability": 0.298,
+    "title": "Tim Cook's Last Day as CEO of Apple"
   },
   "49514427": {
     "probability": 0.405,
@@ -145718,5 +145826,177 @@
   "49515039": {
     "probability": 0.427,
     "title": "Google Maps Now Shows 'Lake America' in US, Not 'Lake Ontario'"
+  },
+  "49515293": {
+    "probability": 0.3,
+    "title": "29,787 Open Ollama Servers and an Unsolved Mystery"
+  },
+  "49515499": {
+    "probability": 0.482,
+    "title": "Delulu Is the Solulu"
+  },
+  "49515558": {
+    "probability": 0.548,
+    "title": "How to get a free .arpa domain"
+  },
+  "49515596": {
+    "probability": 0.233,
+    "title": "Congress to vote on denying federal funding to universities that boycott Israel"
+  },
+  "49515662": {
+    "probability": 0.514,
+    "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk"
+  },
+  "49515736": {
+    "probability": 0.279,
+    "title": "El Niño is now stronger than at any point in the last 1000 years, study finds"
+  },
+  "49515738": {
+    "probability": 0.699,
+    "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit"
+  },
+  "49515791": {
+    "probability": 0.336,
+    "title": "Florida orders removal of Flock cameras from state highways"
+  },
+  "49515830": {
+    "probability": 0.42,
+    "title": "Run macOS Software on Linux"
+  },
+  "49515896": {
+    "probability": 0.613,
+    "title": "ICE to use robot dogs from Boston Dynamics in deportation operations"
+  },
+  "49516055": {
+    "probability": 0.387,
+    "title": "Old.reddit.com no longer works for logged out users"
+  },
+  "49516059": {
+    "probability": 0.386,
+    "title": "Tmp.0ut Volume 5"
+  },
+  "49516199": {
+    "probability": 0.5,
+    "title": "Evidence of Fraud in an Influential Study About Procrastination"
+  },
+  "49516209": {
+    "probability": 0.581,
+    "title": "Carmack: Has early Scratch experience led to fulfilling careers?"
+  },
+  "49516354": {
+    "probability": 0.699,
+    "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case"
+  },
+  "49516496": {
+    "probability": 0.493,
+    "title": "Linus Torvalds' uEmacs – the editor he has used since the 1980s"
+  },
+  "49516699": {
+    "probability": 0.198,
+    "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up"
+  },
+  "49516848": {
+    "probability": 0.484,
+    "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs"
+  },
+  "49517018": {
+    "probability": 0.256,
+    "title": "Wendell Berry has died, age 92"
+  },
+  "49517087": {
+    "probability": 0.442,
+    "title": "\"Dagon\" by H. P. Lovecraft"
+  },
+  "49517297": {
+    "probability": 0.615,
+    "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3"
+  },
+  "49517377": {
+    "probability": 0.351,
+    "title": "Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur"
+  },
+  "49517420": {
+    "probability": 0.461,
+    "title": "Tailcat: Tailscale Without Tailscale, by Tailscale"
+  },
+  "49517448": {
+    "probability": 0.391,
+    "title": "Fastpotify"
+  },
+  "49517472": {
+    "probability": 0.471,
+    "title": "Not Becoming a Cyborg"
+  },
+  "49517483": {
+    "probability": 0.521,
+    "title": "Is MCP Good Yet?"
+  },
+  "49517492": {
+    "probability": 0.302,
+    "title": "California Lawmakers Pass Plug-In Solar Bill"
+  },
+  "49517537": {
+    "probability": 0.852,
+    "title": "Google Antigravity introduces Boost deep reasoning (/boost)"
+  },
+  "49517565": {
+    "probability": 0.459,
+    "title": "OpenTS is a new open-source reconstruction of Command and Conquer: Tiberian Sun"
+  },
+  "49517584": {
+    "probability": 0.528,
+    "title": "GPU World"
+  },
+  "49517624": {
+    "probability": 0.385,
+    "title": "Restroom Archive"
+  },
+  "49517727": {
+    "probability": 0.475,
+    "title": "Paint.NET Adds Experimental Wine/Linux Support"
+  },
+  "49517928": {
+    "probability": 0.838,
+    "title": "ArXiv has almost 600 submissions today and most are AI slop"
+  },
+  "49518038": {
+    "probability": 0.219,
+    "title": "What Happened to Yoga?"
+  },
+  "49518073": {
+    "probability": 0.59,
+    "title": "Building Without Predicting"
+  },
+  "49518121": {
+    "probability": 0.375,
+    "title": "Vermell – Minimal, dependency-free C++ web framework using epoll"
+  },
+  "49518316": {
+    "probability": 0.769,
+    "title": "AI Can Make You Suck Faster Too"
+  },
+  "49519063": {
+    "probability": 0.297,
+    "title": "1Password Supports the Ethnic Cleansing of Europe"
+  },
+  "49519641": {
+    "probability": 0.381,
+    "title": "Google Maps renames \"Lake Ontario\" to \"Lake America\" faster than US Government"
+  },
+  "49519902": {
+    "probability": 0.448,
+    "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe"
+  },
+  "49519939": {
+    "probability": 0.506,
+    "title": "44% on ARC-AGI-1 in 67 cents"
+  },
+  "49520022": {
+    "probability": 0.447,
+    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link"
+  },
+  "49520270": {
+    "probability": 0.379,
+    "title": "Lake Ontario (\"Lake America\")"
   }
 }
