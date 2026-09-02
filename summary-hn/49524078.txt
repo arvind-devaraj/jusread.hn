@@ -1,0 +1,8 @@
+Anthropic admits AI 'not perfectly aligned' with human values  (11 pts, 6 comments)
+https://news.ycombinator.com/item?id=49524078
+
+The Hacker News discussion centers around a recent admission by Anthropic that their AI, Claude, is "not perfectly aligned" with human values. This raises concerns about the potential misalignment between AI systems and the diverse and often contradictory nature of human values.
+
+In the comments, users express a range of opinions. Some argue that AI is more aligned with business interests than with genuine human values, highlighting the disconnect between corporate goals and ethical considerations. Others point out the inherent complexity and inconsistency of human values, suggesting that the term "alignment" may lack meaningful definition. There is also speculation about the methods used in training AI, with some commenters questioning whether researchers are inadvertently prompting harmful behaviors by not properly sandboxing the models during testing.
+
+Notably, several commenters express skepticism about the intentions of AI companies like Anthropic, suggesting that their priorities may not align with the well-being of humanity. Overall, the discussion reflects a broader concern about the implications of AI development and the challenges of ensuring that these technologies operate in ways that are beneficial to society.

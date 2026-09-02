@@ -1,0 +1,8 @@
+AI Coding Agent Skills for Real Engineers  (32 pts, 11 comments)
+https://news.ycombinator.com/item?id=49529329
+
+The Hacker News discussion revolves around a GitHub repository by Matt Pocock that outlines various "skills" for AI coding agents, aimed at enhancing productivity for developers. The post highlights the potential benefits of these skills but also raises questions about their general applicability and transferability across different developers and projects.
+
+In the comments, there is a consensus that while individual skills can be useful, they often reflect personal workflows and may not be universally applicable. Users express skepticism about the value of sharing such specific productivity suites, with some likening them to personal opinions that vary widely among developers. Others, however, appreciate the exposure to different approaches and see value in learning from others' experiences. Notably, one commenter emphasizes the importance of adapting skills over time based on the AI's performance, suggesting a more organic development process rather than relying on preset instructions.
+
+Overall, the discussion highlights the tension between individual coding practices and the desire for shared knowledge in the developer community, with varying opinions on the utility of predefined skills for AI agents.
