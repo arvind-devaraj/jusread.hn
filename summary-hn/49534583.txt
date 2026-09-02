@@ -1,0 +1,8 @@
+LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes  (20 pts, 11 comments)
+https://news.ycombinator.com/item?id=49534583
+
+The Hacker News discussion revolves around a research paper titled "LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes." The paper explores how AI models, particularly large language models (LLMs), tend to verify the presence of information in clinical notes rather than identifying what is absent, leading to potential inaccuracies in medical documentation.
+
+In the comments, there is a consensus that the abstract of the paper appears to be AI-generated, raising concerns about the rigor and quality of the research. Several users express skepticism about AI-generated content, with some noting that the writing style is characteristic of LLMs, suggesting a lack of human oversight. There is also a debate about the reliability of AI in healthcare documentation, with some commenters sharing experiences of AI systems fabricating information and highlighting the challenges in evaluating AI-generated outputs.
+
+Notable insights include the acknowledgment that while LLMs can be useful tools, they require careful guidance to avoid significant errors, particularly in critical fields like healthcare. The discussion reflects broader concerns about the implications of relying on AI for accurate information and the potential consequences of omission blindness in clinical settings.

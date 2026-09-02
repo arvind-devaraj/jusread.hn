@@ -1,0 +1,8 @@
+WebLLM: high-performance in-browser LLM inference engine  (67 pts, 16 comments)
+https://news.ycombinator.com/item?id=49536411
+
+The Hacker News discussion revolves around WebLLM, a high-performance in-browser inference engine for large language models (LLMs). The original post links to the project's GitHub page, prompting users to share their experiences and alternatives.
+
+In the comments, there is a consensus that WebLLM may not be the best option currently, with one user declaring it "de facto dead" after having to remove it from their projects. Alternatives like the ONNX runtime and Transformers.js are recommended for better performance and support. Users also discuss technical challenges related to enabling WebGPU, which is necessary for WebLLM to function, with various tips for troubleshooting across different browsers.
+
+Notably, while some users express frustration with WebLLM's performance and lack of updates, others share positive experiences and suggest it for personal projects. There is a mix of technical insights and practical advice, highlighting the ongoing challenges and developments in browser-based machine learning technologies.
