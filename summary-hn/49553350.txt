@@ -1,0 +1,8 @@
+Yes, no (built-in) AI is now a feature – LibreOffice blog  (26 pts, 5 comments)
+https://news.ycombinator.com/item?id=49553350
+
+The Hacker News discussion centers around a blog post from LibreOffice announcing that AI features will not be built into the core software but can be added through extensions. This decision reflects a commitment to user choice, allowing individuals to opt-in to AI functionalities rather than having them included by default.
+
+In the comments, there is a mix of agreement and debate. Some users, like marjipan200, appreciate the approach of leaving AI integration to plugins, citing Obsidian's model as a positive example of user-driven software. Others, like kavaruka, question the rationale behind not integrating AI more directly, arguing that the technical capabilities exist to do so. Meanwhile, mksaunders2 emphasizes that LibreOffice is not blocking AI use but is simply keeping it out of the core package, while xacky asserts that document writing should remain a human endeavor.
+
+Overall, the discussion highlights differing perspectives on the role of AI in productivity software, with some advocating for cautious integration through extensions and others pushing for more direct inclusion.
