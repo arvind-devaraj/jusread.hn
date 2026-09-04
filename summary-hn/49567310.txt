@@ -1,0 +1,8 @@
+"Next-token predictor" is the wrong mental model for LLMs  (24 pts, 71 comments)
+https://news.ycombinator.com/item?id=49567310
+
+The Hacker News discussion revolves around the idea that referring to large language models (LLMs) as "next-token predictors" is an oversimplification. The original post argues that while LLMs are built on the concept of predicting the next token in a sequence, their capabilities extend far beyond this basic function due to factors like reinforcement learning, recursive invocation, and the complexity of agentic frameworks.
+
+In the comments, there is a debate about the accuracy and implications of the term "next-token predictor." Some users argue that this label diminishes the models' sophisticated behaviors and emergent properties, while others maintain that the core functionality remains rooted in next-token prediction, regardless of the complexity added through training and application. Notable insights include the distinction between mere prediction and the determination of the next token based on reward signals, as well as the idea that LLMs, like human cognition, do not operate solely on stored responses but rather extrapolate from context.
+
+Overall, the discussion highlights a tension between recognizing the foundational mechanics of LLMs and appreciating their advanced capabilities, with some commenters advocating for a more nuanced understanding of these models.

@@ -1,0 +1,8 @@
+Ask HN: Who is using FPGA for ML inference?  (10 pts, 14 comments)
+https://news.ycombinator.com/item?id=49557875
+
+The Hacker News discussion revolves around the potential use of FPGAs (Field-Programmable Gate Arrays) for machine learning (ML) inference, particularly in light of rising RAM prices. The original poster is exploring whether FPGAs can offload inference processing by streaming model weights from disk rather than storing them in RAM, aiming for increased throughput at a lower cost.
+
+In the comments, there is a debate about the practicality and cost-effectiveness of using FPGAs compared to traditional GPUs and CPUs. Some commenters argue that FPGAs are generally more expensive and less efficient for this purpose, while others suggest that they could be useful for specific applications, especially when combined with low-cost development boards. A few participants express interest in experimenting with FPGAs for ML, highlighting the challenges of optimizing hardware description languages (HDL) and the engineering costs associated with larger models.
+
+Notably, one commenter emphasizes that FPGAs might not provide significant advantages over CPUs for inference tasks, while another points out that they can be beneficial for smaller algorithms. The discussion reflects a mix of skepticism and curiosity about the feasibility of using FPGAs in ML, with some participants eager to explore this as a hobbyist project despite the challenges involved.
