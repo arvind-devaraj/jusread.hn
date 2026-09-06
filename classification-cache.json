@@ -146291,6 +146291,10 @@
     "probability": 0.297,
     "title": "1Password Supports the Ethnic Cleansing of Europe"
   },
+  "49519101": {
+    "probability": 0.595,
+    "title": "Show HN: Fly By – retro biplane flying game"
+  },
   "49519237": {
     "probability": 0.134,
     "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak"
@@ -146675,6 +146679,10 @@
     "probability": 0.67,
     "title": "DeepSeek-V3: From Roofline to Reality"
   },
+  "49527110": {
+    "probability": 0.548,
+    "title": "RecurseCenter.return()"
+  },
   "49527123": {
     "probability": 0.619,
     "title": "Getting Started with AT Protocol"
@@ -146702,6 +146710,10 @@
   "49527595": {
     "probability": 0.861,
     "title": "OpenAI: Path to Astra: critical capabilities and frontier safeguards"
+  },
+  "49527599": {
+    "probability": 0.505,
+    "title": "Topologist's Map of the World"
   },
   "49527748": {
     "probability": 0.33,
@@ -146807,6 +146819,10 @@
     "probability": 0.337,
     "title": "World's biggest dark matter detector spots a single weird particle"
   },
+  "49529398": {
+    "probability": 0.336,
+    "title": "The ColorChecker, photography's most important 24 squares, turns 50"
+  },
   "49529567": {
     "probability": 0.397,
     "title": "Improving our alignment and security efforts"
@@ -146878,6 +146894,10 @@
   "49531525": {
     "probability": 0.6,
     "title": "WebFPGA (2019)"
+  },
+  "49531619": {
+    "probability": 0.276,
+    "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years"
   },
   "49531651": {
     "probability": 0.856,
@@ -147323,6 +147343,10 @@
     "probability": 0.529,
     "title": "Static Allocation, Constant Work"
   },
+  "49539759": {
+    "probability": 0.274,
+    "title": "OpenBSD Stories: Strange Medieval Devices"
+  },
   "49539805": {
     "probability": 0.263,
     "title": "Earth's organisms developed via evolution. What if the cosmos did, too?"
@@ -147459,6 +147483,10 @@
     "probability": 0.424,
     "title": "1Password wades into a right-wing mess after funding a Linux project"
   },
+  "49541888": {
+    "probability": 0.552,
+    "title": "Music Theory for Programmers"
+  },
   "49542123": {
     "probability": 0.36,
     "title": "Vidact – a compiler that turns React into direct DOM operations"
@@ -147483,6 +147511,10 @@
     "probability": 0.49,
     "title": "Uber shuts operations in Nigeria and Uganda with immediate effect"
   },
+  "49543082": {
+    "probability": 0.842,
+    "title": "Pushdown automata in statistical machine translation (2014)"
+  },
   "49543191": {
     "probability": 0.702,
     "title": "Reasons robotics is hard"
@@ -147494,6 +147526,10 @@
   "49543220": {
     "probability": 0.465,
     "title": "VC isn't VC anymore"
+  },
+  "49543347": {
+    "probability": 0.703,
+    "title": "CHC5: Open Camera System – Image Sensor Specification Comparison"
   },
   "49543408": {
     "probability": 0.844,
@@ -147574,6 +147610,10 @@
   "49545757": {
     "probability": 0.625,
     "title": "SF's Tech Right Debates the Ideal Dictator"
+  },
+  "49546198": {
+    "probability": 0.521,
+    "title": "IBM Quantum Nighthawk R2"
   },
   "49546284": {
     "probability": 0.598,
@@ -147882,6 +147922,10 @@
   "49553467": {
     "probability": 0.493,
     "title": "Ig Nobel Prize Winners"
+  },
+  "49553509": {
+    "probability": 0.643,
+    "title": "GLP-1 Drugs for Aging?"
   },
   "49553549": {
     "probability": 0.569,
@@ -148527,6 +148571,10 @@
     "probability": 0.73,
     "title": "Show HN: Moadim.io – A scheduler for agents"
   },
+  "49571563": {
+    "probability": 0.686,
+    "title": "Show HN: Agent-to-agent payment. Your agents can pay each other"
+  },
   "49571566": {
     "probability": 0.831,
     "title": "Show HN: Personal Context MCP"
@@ -148583,6 +148631,10 @@
     "probability": 0.621,
     "title": "My message to my fellow humans: Emacs is good"
   },
+  "49573677": {
+    "probability": 0.523,
+    "title": "Anthropic & friends caught paying religious NGO's 3.3M for propaganda"
+  },
   "49573680": {
     "probability": 0.26,
     "title": "Git hosting that never leaves Europe"
@@ -148602,6 +148654,10 @@
   "49575034": {
     "probability": 0.233,
     "title": "Netherlands pulls gold out of the US"
+  },
+  "49575122": {
+    "probability": 0.545,
+    "title": "The Pelican comparison grid for Astra is pretty interesting"
   },
   "49575143": {
     "probability": 0.712,
@@ -148630,6 +148686,10 @@
   "49575859": {
     "probability": 0.404,
     "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads"
+  },
+  "49575887": {
+    "probability": 0.342,
+    "title": "Microsoft Project Zenith: A ready-to-code Windows setup for developers"
   },
   "49576124": {
     "probability": 0.359,
@@ -148691,6 +148751,14 @@
     "probability": 0.353,
     "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd"
   },
+  "49577670": {
+    "probability": 0.507,
+    "title": "Show HN: Getting to the top of Show HN is getting harder"
+  },
+  "49577943": {
+    "probability": 0.582,
+    "title": "Show HN: HyperCard to HTML Converter"
+  },
   "49577975": {
     "probability": 0.328,
     "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA"
@@ -148699,9 +148767,17 @@
     "probability": 0.186,
     "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)"
   },
+  "49578046": {
+    "probability": 0.517,
+    "title": "Show HN: Amaze Kings – a browser logic puzzle with 1,400 hand-graded levels"
+  },
   "49578136": {
     "probability": 0.486,
     "title": "Bob and Van"
+  },
+  "49578227": {
+    "probability": 0.694,
+    "title": "Latent Powers"
   },
   "49578280": {
     "probability": 0.622,
@@ -148723,6 +148799,10 @@
     "probability": 0.486,
     "title": "The Real Luxuries In Life"
   },
+  "49579024": {
+    "probability": 0.781,
+    "title": "Dogs can distinguish between fearful and angry or sad human faces"
+  },
   "49579065": {
     "probability": 0.462,
     "title": "Google skates"
@@ -148731,8 +148811,136 @@
     "probability": 0.369,
     "title": "The moral panic over data centres is foolish"
   },
+  "49579812": {
+    "probability": 0.849,
+    "title": "Show HN: Claude Skill – Interns must review (your agent's design choices)"
+  },
+  "49579956": {
+    "probability": 0.406,
+    "title": "ISAR Aerospace 5 Sept Mission Onward and Upward"
+  },
+  "49580036": {
+    "probability": 0.304,
+    "title": "Kevin Bass on X: \"Women gained all of the new jobs since January 2025"
+  },
+  "49580164": {
+    "probability": 0.838,
+    "title": "LLMs as a Cognitive Virus"
+  },
+  "49580248": {
+    "probability": 0.243,
+    "title": "Space industry lacks workers needed to rebuild satellites lost in war: report"
+  },
+  "49580255": {
+    "probability": 0.295,
+    "title": "US strikes three Iranian oil tankers"
+  },
+  "49580325": {
+    "probability": 0.273,
+    "title": "Isar Aerospace launch into orbit [video]"
+  },
+  "49580329": {
+    "probability": 0.469,
+    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)"
+  },
   "49580369": {
     "probability": 0.315,
     "title": "Private German rocket makes history, reaches orbit from European soil"
+  },
+  "49580687": {
+    "probability": 0.723,
+    "title": "How AI is breaking the British state"
+  },
+  "49580702": {
+    "probability": 0.541,
+    "title": "Lazygit"
+  },
+  "49580771": {
+    "probability": 0.439,
+    "title": "Obscura: Native rendering is here. No Chromium required"
+  },
+  "49580778": {
+    "probability": 0.336,
+    "title": "South African diamond mines are closing due to weak sales and lab-grown stones"
+  },
+  "49580939": {
+    "probability": 0.354,
+    "title": "The revolt of the reader"
+  },
+  "49580980": {
+    "probability": 0.743,
+    "title": "America's two largest school districts impose AI moratoriums"
+  },
+  "49581179": {
+    "probability": 0.539,
+    "title": "Falsehoods Programmers Believe About LANs"
+  },
+  "49581240": {
+    "probability": 0.895,
+    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents"
+  },
+  "49581870": {
+    "probability": 0.442,
+    "title": "Chrome again exempts Google from user site data settings"
+  },
+  "49581908": {
+    "probability": 0.422,
+    "title": "Interstellar 8-Track: The Not-So-Low-Tech Data Recorders of Voyager"
+  },
+  "49582000": {
+    "probability": 0.385,
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone"
+  },
+  "49582360": {
+    "probability": 0.458,
+    "title": "Asahi Linux Supports M3"
+  },
+  "49582410": {
+    "probability": 0.489,
+    "title": "Gateside by TSA Precheck"
+  },
+  "49582582": {
+    "probability": 0.738,
+    "title": "GPT-6 Astra on robot arms"
+  },
+  "49582656": {
+    "probability": 0.88,
+    "title": "AI, Tools and Transformation"
+  },
+  "49582719": {
+    "probability": 0.339,
+    "title": "AMD Based FreeBSD Desktop Reloaded"
+  },
+  "49582892": {
+    "probability": 0.388,
+    "title": "Make infectious disease data boring again"
+  },
+  "49583232": {
+    "probability": 0.256,
+    "title": "Vancouver strip club's Instagram taken down over sign featuring lake joke"
+  },
+  "49583630": {
+    "probability": 0.353,
+    "title": "Greenland forces Trump's US oil firm to delay drilling"
+  },
+  "49583842": {
+    "probability": 0.276,
+    "title": "Site Is Closed on Sundays"
+  },
+  "49584083": {
+    "probability": 0.333,
+    "title": "Isar Aerospace reaches orbit and deploys payloads on second flight"
+  },
+  "49584123": {
+    "probability": 0.31,
+    "title": "Play GTA Vice City in the Browser"
+  },
+  "49584637": {
+    "probability": 0.348,
+    "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules"
+  },
+  "49585161": {
+    "probability": 0.336,
+    "title": "I Changed My License"
   }
 }
