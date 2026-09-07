@@ -1,0 +1,6 @@
+Show HN: Send flowers from your AI agent and make your mum happy  (10 pts, 7 comments)
+https://news.ycombinator.com/item?id=49599559
+
+The post introduces a service that allows users to send flowers through an AI agent for occasions like birthdays, without needing to create an account. The creator, Fabian, developed this after working on a family AI assistant and aims to make sending gifts like flowers more accessible. Currently, the service offers a single bouquet option priced at $100 in several countries.
+
+In the comments, there is significant debate about the emotional value of automated gift-giving. Some users criticize the service as lacking genuine sentiment, arguing that personal involvement in gift-giving is essential for meaningful connections. Others, including Fabian, defend the service by suggesting that the act of sending flowers can still bring joy, regardless of the method used. Notably, one commenter expresses concern that automating such gestures diminishes the human intention behind them, while Fabian counters that the recipient's happiness is what truly matters. Overall, the discussion highlights a divide between those who see value in convenience and those who prioritize personal touch in expressions of affection.

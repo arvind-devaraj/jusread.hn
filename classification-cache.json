@@ -147071,6 +147071,10 @@
     "probability": 0.555,
     "title": "Ask HN: 30, burnt out, with 6-10 months of runway. What would you do?"
   },
+  "49535375": {
+    "probability": 0.532,
+    "title": "Academia as a d-index measuring contest"
+  },
   "49535378": {
     "probability": 0.382,
     "title": "BGP hijack infecting networks caused by a comedy of errors"
@@ -147203,6 +147207,10 @@
     "probability": 0.386,
     "title": "Google avoids a breakup of its ad tech business"
   },
+  "49537143": {
+    "probability": 0.672,
+    "title": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)"
+  },
   "49537340": {
     "probability": 0.338,
     "title": "The Highest Point in the Netherlands"
@@ -147286,6 +147294,10 @@
   "49538633": {
     "probability": 0.581,
     "title": "The race to engineer new knobs for the human brain"
+  },
+  "49538741": {
+    "probability": 0.465,
+    "title": "Study Math with Kusama"
   },
   "49538745": {
     "probability": 0.339,
@@ -147811,6 +147823,10 @@
     "probability": 0.238,
     "title": "How the Hell Did an Island Suddenly Appear, Then Vanish?"
   },
+  "49550276": {
+    "probability": 0.749,
+    "title": "I'm a seeing-eye dog for a computer"
+  },
   "49550352": {
     "probability": 0.514,
     "title": "Why has Peter Thiel moved to Argentina?"
@@ -147818,6 +147834,10 @@
   "49550375": {
     "probability": 0.582,
     "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly"
+  },
+  "49550436": {
+    "probability": 0.508,
+    "title": "I Connected My Withings Body+ to Home Assistant with an ESP32"
   },
   "49550479": {
     "probability": 0.763,
@@ -148279,6 +148299,10 @@
     "probability": 0.257,
     "title": "CERN Transitioning Computers To Debian After Being A Longtime RHEL Institution"
   },
+  "49562440": {
+    "probability": 0.498,
+    "title": "Whistle Synth Mac App"
+  },
   "49562648": {
     "probability": 0.547,
     "title": "The auto lobby spent millions on media manipulation"
@@ -148366,6 +148390,10 @@
   "49564817": {
     "probability": 0.587,
     "title": "Higher social class predicts increased unethical behavior"
+  },
+  "49564839": {
+    "probability": 0.358,
+    "title": "She Also Found It at the Movies"
   },
   "49564960": {
     "probability": 0.265,
@@ -148550,6 +148578,10 @@
   "49569707": {
     "probability": 0.634,
     "title": "GPT-6 Astra Generally Available"
+  },
+  "49569748": {
+    "probability": 0.72,
+    "title": "Finding a bug in Dummit and Foote's Abstract Algebra"
   },
   "49569749": {
     "probability": 0.285,
@@ -149067,6 +149099,10 @@
     "probability": 0.348,
     "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules"
   },
+  "49584724": {
+    "probability": 0.429,
+    "title": "Start with one customer"
+  },
   "49584880": {
     "probability": 0.731,
     "title": "Show HN: Keen Bean – Mac meeting notes that draft the spec while you talk"
@@ -149214,6 +149250,18 @@
   "49589003": {
     "probability": 0.463,
     "title": "Following legal advice, the Nitter project will continue"
+  },
+  "49589190": {
+    "probability": 0.758,
+    "title": "The Dataflow Model Revisited"
+  },
+  "49589434": {
+    "probability": 0.527,
+    "title": "A defense of object-orientated programming"
+  },
+  "49589466": {
+    "probability": 0.737,
+    "title": "Kenyans Did College Students' Homework for Years. Then A.I. Arrived"
   },
   "49589722": {
     "probability": 0.531,
@@ -149399,6 +149447,14 @@
     "probability": 0.476,
     "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security"
   },
+  "49593311": {
+    "probability": 0.49,
+    "title": "Tinkering with J Space"
+  },
+  "49593319": {
+    "probability": 0.65,
+    "title": "Emacs/Wayland Window Manager in pure elisp"
+  },
   "49593410": {
     "probability": 0.533,
     "title": "Mother convicted of: her 5 yo walks short way to pond alone in Virginia"
@@ -149426,6 +149482,10 @@
   "49593959": {
     "probability": 0.806,
     "title": "I refused to train the AI that could replace me"
+  },
+  "49593962": {
+    "probability": 0.301,
+    "title": "HPE Gives Oracle Right to Buy 4.2M Shares for 1 Cent Each"
   },
   "49593971": {
     "probability": 0.569,
@@ -149459,6 +149519,10 @@
     "probability": 0.611,
     "title": "OpenAI 2025 financials $38.5B loss ahead of IPO"
   },
+  "49594657": {
+    "probability": 0.443,
+    "title": "Why 'sleepmaxxing' could be making your sleep worse"
+  },
   "49594878": {
     "probability": 0.651,
     "title": "LG smart TVs caught logging audio with screen off and snooping on local devices"
@@ -149466,6 +149530,10 @@
   "49595020": {
     "probability": 0.246,
     "title": "The purpose of DNS is to spread scams"
+  },
+  "49595286": {
+    "probability": 0.374,
+    "title": "I was on Ubuntu's first design team in 2009 London"
   },
   "49595320": {
     "probability": 0.451,
@@ -149482,6 +149550,10 @@
   "49595865": {
     "probability": 0.461,
     "title": "Live map of public transport in Belgium"
+  },
+  "49596041": {
+    "probability": 0.41,
+    "title": "Trump unveils Space Force uniform inspired by Nazi-aesthetic film"
   },
   "49596054": {
     "probability": 0.796,
@@ -149502,6 +149574,14 @@
   "49596274": {
     "probability": 0.668,
     "title": "Impedance Matching (2017)"
+  },
+  "49596557": {
+    "probability": 0.264,
+    "title": "The Untold Pre-History of 9/11"
+  },
+  "49596610": {
+    "probability": 0.799,
+    "title": "Initial effects of AI technology on employment look positive"
   },
   "49596629": {
     "probability": 0.419,
@@ -149526,5 +149606,117 @@
   "49597206": {
     "probability": 0.561,
     "title": "Trump homeland security chief says ICE agents could be sent to polling places"
+  },
+  "49597472": {
+    "probability": 0.764,
+    "title": "Show HN: Pod – A review site for dev tools where the reviewers are AI agents"
+  },
+  "49597895": {
+    "probability": 0.439,
+    "title": "Splash-free urinals (2025)"
+  },
+  "49597907": {
+    "probability": 0.441,
+    "title": "De-Brainrot Vacations"
+  },
+  "49598291": {
+    "probability": 0.314,
+    "title": "bzip3"
+  },
+  "49598792": {
+    "probability": 0.542,
+    "title": "Optimizing a Spin-Lock"
+  },
+  "49598892": {
+    "probability": 0.44,
+    "title": "ChatGPT Was Built on Concealed 'Mass Piracy', Authors Tell Court"
+  },
+  "49599058": {
+    "probability": 0.571,
+    "title": "If a Tesla Cybercab fleet were profitable, Tesla wouldn't sell you one"
+  },
+  "49599481": {
+    "probability": 0.503,
+    "title": "Bill Gates tries to install MovieMaker (2003)"
+  },
+  "49599559": {
+    "probability": 0.836,
+    "title": "Show HN: Send flowers from your AI agent and make your mum happy"
+  },
+  "49599609": {
+    "probability": 0.523,
+    "title": "C Is Not a Low-Level Language (2018)"
+  },
+  "49599719": {
+    "probability": 0.525,
+    "title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set"
+  },
+  "49599767": {
+    "probability": 0.442,
+    "title": "Nördlinger Ries Impact Crater"
+  },
+  "49600012": {
+    "probability": 0.348,
+    "title": "Making software hurts now"
+  },
+  "49600233": {
+    "probability": 0.865,
+    "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users"
+  },
+  "49600269": {
+    "probability": 0.526,
+    "title": "Show HN: Wg-admin – web UI for an existing WireGuard host"
+  },
+  "49600432": {
+    "probability": 0.513,
+    "title": "PostgreSQL 19 Interactive Tour"
+  },
+  "49600997": {
+    "probability": 0.306,
+    "title": "No constitutional right to clean water, federal court finds"
+  },
+  "49601223": {
+    "probability": 0.173,
+    "title": "Volkswagen to cut 100,000 jobs by end of decade"
+  },
+  "49601328": {
+    "probability": 0.614,
+    "title": "Show HN: HomeCat – Design your backyard office"
+  },
+  "49601338": {
+    "probability": 0.681,
+    "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200"
+  },
+  "49601655": {
+    "probability": 0.329,
+    "title": "Watch Los Angeles get built, one building at a time (1880–2026)"
+  },
+  "49601810": {
+    "probability": 0.452,
+    "title": "AI Cold Showers"
+  },
+  "49601814": {
+    "probability": 0.766,
+    "title": "Replaceable but Employed: Automation and the Meaning of Work"
+  },
+  "49601846": {
+    "probability": 0.367,
+    "title": "Tesla killing Solar Roof is leaving installers with six-figure losses"
+  },
+  "49602320": {
+    "probability": 0.228,
+    "title": "Germany Power Grid Sabotage: Launch Devices Found Near Weisweiler Plant"
+  },
+  "49602582": {
+    "probability": 0.76,
+    "title": "A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on"
+  },
+  "49602716": {
+    "probability": 0.399,
+    "title": "Macbeth and His Problems"
+  },
+  "49602728": {
+    "probability": 0.336,
+    "title": "Why the AfD Wins"
   }
 }
