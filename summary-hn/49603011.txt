@@ -1,0 +1,6 @@
+The smallest edge AI device for local LLMs  (22 pts, 17 comments)
+https://news.ycombinator.com/item?id=49603011
+
+The Hacker News discussion revolves around a new hardware product called Tiiny AI, which is a compact edge AI device designed for local large language model (LLM) inference. Priced at $1,999, it features an Armv9.2 CPU and a neural processing unit (NPU) capable of 30 TOPS, with an additional dNPU offering 160 TOPS. The device aims to provide a portable solution for running LLMs, potentially appealing to users who prefer not to upgrade their existing computers.
+
+Commenters express confusion about the product's nature, debating whether it is primarily hardware or software. There is skepticism regarding its value proposition, especially when compared to upgrading existing machines like MacBook Pros or Mac Minis, which can offer similar or better performance for less money. Some users highlight the device's 80 GB RAM, which allows for running larger models, while others criticize its lack of Linux support and the reliance on a website made entirely of images, which complicates readability. Overall, opinions are mixed, with some seeing it as a step forward in edge AI, while others question its practicality and pricing.

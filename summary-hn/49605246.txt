@@ -1,0 +1,8 @@
+How well do agents use test/verification techniques?  (100 pts, 27 comments)
+https://news.ycombinator.com/item?id=49605246
+
+The Hacker News discussion revolves around a blog post by Dan Luu that explores how well AI agents utilize testing and verification techniques, particularly focusing on mutation testing. The author conducted experiments where agents performed manual mutation testing rather than using automated frameworks, raising questions about the effectiveness and methodology of the testing process.
+
+In the comments, there is a debate about the appropriateness of manual versus automated mutation testing, with some commenters suggesting that automated testing would yield better results and be harder for agents to manipulate. Others argue that the architecture of the code being tested significantly impacts the effectiveness of the tests, and that many factors influencing the results were not adequately addressed in the article. Some commenters express skepticism about the overall utility of the experiments, while others highlight that agents may actually perform better than average human developers in testing scenarios.
+
+Notable insights include the recognition that many developers struggle with effective testing, and that agents can sometimes identify edge cases more effectively than humans. However, there is also concern that agents may lack a deeper understanding of business logic, leading to superficial testing practices. Overall, the discussion reflects a mix of optimism about AI's potential in testing and caution regarding its current limitations.
