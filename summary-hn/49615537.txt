@@ -1,0 +1,8 @@
+Muse: Meta's personal AI agent, features and capabilities  (157 pts, 144 comments)
+https://news.ycombinator.com/item?id=49615537
+
+The Hacker News discussion centers around Muse, Meta's new personal AI agent, highlighting its features and capabilities. Users express a mix of intrigue and skepticism regarding the product, particularly due to Meta's reputation and privacy concerns.
+
+The main points of debate include users' reluctance to share personal information with Meta, with many commenters voicing distrust towards the company and its data practices. Some argue that while Meta has a vast user base, many people use its products out of necessity rather than genuine approval. There is also concern that Muse may prioritize commercial interests, with users fearing it could bombard them with advertisements or push for purchases.
+
+Notable insights include the acknowledgment that despite the negative perception of Meta, the company still attracts a significant number of users, often begrudgingly. Additionally, some commenters draw comparisons between Meta's products and essential services, emphasizing that using a product does not equate to liking the company behind it. Overall, the discussion reflects a broader skepticism towards tech companies and their handling of user data.
