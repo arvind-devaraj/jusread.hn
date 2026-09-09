@@ -1,0 +1,8 @@
+Anthropic researcher says more than 10% chance AI "could kill all humans"  (42 pts, 96 comments)
+https://news.ycombinator.com/item?id=49627887
+
+The Hacker News discussion revolves around a statement from an Anthropic researcher who suggested there is more than a 10% chance that AI could lead to the extinction of humanity. This claim has sparked a variety of reactions among commenters, with many expressing skepticism about the seriousness of the threat and questioning the lack of proactive measures from those who hold such beliefs.
+
+The main points of debate include whether the fear of AI poses a genuine risk or if it is merely a tactic to influence regulation and public perception. Some commenters argue that if the threat were truly significant, those in the AI field would take drastic actions, while others suggest that the resignation of individuals from AI companies is a form of action reflecting their concerns. Notably, there is a comparison made between the current AI situation and historical fears surrounding nuclear proliferation, with some asserting that AI could be weaponized similarly.
+
+Overall, the discussion highlights a mix of cynicism, concern, and differing perspectives on the implications of AI development, with some commenters advocating for regulatory measures to mitigate potential risks, while others express a more fatalistic view regarding humanity's future in the face of advancing technology.

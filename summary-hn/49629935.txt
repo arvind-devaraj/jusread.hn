@@ -1,0 +1,8 @@
+My Mental Model of AI Broke on September 8  (29 pts, 57 comments)
+https://news.ycombinator.com/item?id=49629935
+
+The post titled "My Mental Model of AI Broke on September 8" discusses a significant shift in the author's understanding of artificial intelligence, particularly in light of recent advancements that suggest AI can achieve complex tasks previously thought to be exclusive to human intelligence. The author reflects on the implications of AI's capabilities, especially after an AI reportedly contributed to solving a Millennium Prize problem.
+
+In the comments, there is a lively debate about the role of AI versus human input in achieving these breakthroughs. Some commenters argue that while AI can assist in complex problem-solving, it ultimately requires skilled human guidance to direct its capabilities effectively. Others contend that modern AI has reached a level of sophistication that allows it to operate independently in ways that challenge traditional views of intelligence. Notably, the term "copium" is used to describe the belief that human contributions are the sole reason for AI's successes, suggesting a divide between those who see AI as a powerful tool and those who view it as merely a sophisticated extension of human effort.
+
+Overall, the discussion highlights the evolving perceptions of AI's role in intellectual achievements, with some commenters expressing skepticism about the extent of AI's autonomy and others advocating for a recognition of its transformative potential.

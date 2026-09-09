@@ -1,0 +1,8 @@
+Defining AI Psychosis. Part 2: "Prolific AI Psychosis"  (60 pts, 41 comments)
+https://news.ycombinator.com/item?id=49628880
+
+The Hacker News discussion revolves around a blog post titled "Defining AI Psychosis. Part 2: 'Prolific AI Psychosis,'" which introduces the concept of "prolific AI psychosis." This term describes individuals who produce a large volume of AI-generated content without adding meaningful value to their work. The author, a psychiatrist, suggests that this phenomenon may stem from a decline in the quality of contributions due to reliance on AI tools.
+
+In the comments, there is significant debate about the appropriateness of labeling this behavior as "psychosis." Many commenters argue that the term is stigmatizing and that the issue of low-effort work is not new, merely exacerbated by AI. Some believe that the classification could be useful for understanding and helping individuals, while others feel it oversimplifies complex workplace dynamics. There is also a discussion about the varying impacts of AI on different individuals, with some users noting that AI can enhance productivity for those who are already competent, while others see it as a crutch for those who were previously underperforming.
+
+Notable insights include the idea that the term "psychosis" may not accurately capture the behavior being described, with suggestions that terms like "delusion" might be more fitting. Additionally, the conversation touches on the broader implications of AI in the workplace, including how it can change perceptions of productivity and value, and the potential for elitism in labeling those who struggle to adapt to AI tools.

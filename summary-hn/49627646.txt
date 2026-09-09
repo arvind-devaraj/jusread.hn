@@ -1,0 +1,8 @@
+Show HN: Geiger – See every AI agent on your machine and what it can touch  (35 pts, 19 comments)
+https://news.ycombinator.com/item?id=49627646
+
+The Hacker News discussion centers around a project called Geiger, which allows users to see all AI agents running on their machines and what system resources they can access. The tool aims to enhance visibility and control over AI agents, addressing concerns about security and proper usage.
+
+In the comments, there is a consensus on the importance of sandboxing AI agents to prevent them from accessing sensitive parts of the system. Some users express skepticism about the current practices, noting that many people do not adequately isolate these agents, which could lead to security risks. Others share personal experiences, highlighting the potential for AI models to make mistakes that could result in unintended consequences, such as deleting important files.
+
+Notable insights include the idea that while many users may disregard safety precautions, the necessity of implementing them remains valid. There is also a humorous take on the project, with one commenter likening the visibility of AI agents to tracking recently released criminals, suggesting a playful acknowledgment of the potential risks associated with AI technology. Overall, the discussion reflects a mix of caution, humor, and a desire for better governance of AI tools.

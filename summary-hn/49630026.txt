@@ -1,0 +1,8 @@
+Qwen 3.8 follows GPT-5.5 Pro reasoning prefills  (110 pts, 54 comments)
+https://news.ycombinator.com/item?id=49630026
+
+The Hacker News discussion revolves around the release of Qwen 3.8, which reportedly incorporates reasoning techniques from GPT-5.5 Pro. The original post highlights concerns about whether Qwen has been trained on "stolen thoughts" from GPT models, particularly those made public after a paper's release in August 2023. 
+
+In the comments, there is significant debate about the ethical implications of training AI models on data scraped from competitors, with some users expressing skepticism about the transparency and fairness of such practices. A recurring theme is the notion that companies like OpenAI and Anthropic have little moral authority to complain about others using their data, given their own practices. Some commenters argue that Qwen's advancements suggest it may have learned from GPT-5.5 Pro rather than from its own innovations, indicating a potential lag in development among Chinese AI labs.
+
+Notable insights include a comparison of the AI landscape to historical instances of innovation and borrowing in music, suggesting that the competitive dynamics in AI development are complex. Additionally, there is a sense of frustration among some users regarding the ethical standards in AI training practices, with calls for more equitable treatment of open models versus proprietary ones. Overall, the discussion reflects broader concerns about intellectual property, transparency, and the competitive landscape in AI development.
