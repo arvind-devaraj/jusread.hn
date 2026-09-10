@@ -1,0 +1,8 @@
+Mathematicians want proof OpenAI didn't use their work  (17 pts, 2 comments)
+https://news.ycombinator.com/item?id=49641792
+
+The Hacker News discussion revolves around concerns raised by mathematicians regarding whether OpenAI has used their work in training its models. The article highlights the challenge of proving that specific mathematical contributions were not included in the training data, as the models function as "black boxes." This opacity makes it difficult to trace the origins of the knowledge embedded in the AI.
+
+In the comments, there is a consensus that OpenAI may struggle to provide definitive proof that certain works were not used, given the nature of the training process. One commenter expresses frustration over the inability to verify the sources of the model's knowledge. Another commenter questions the possessiveness of mathematicians over their work, suggesting that they should consider sharing their findings for the greater good of humanity.
+
+Overall, the discussion reflects a tension between intellectual property rights and the collaborative spirit of scientific advancement, with differing views on how knowledge should be shared and utilized in the context of AI development.
