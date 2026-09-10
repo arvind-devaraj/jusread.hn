@@ -1,0 +1,8 @@
+Show HN: MultiMatte, a Promptable Image Background Removal Model  (29 pts, 6 comments)
+https://news.ycombinator.com/item?id=49645803
+
+The Hacker News discussion centers around the release of MultiMatte, a new open-source image background removal model developed by Feyn. This model allows users to specify which objects to keep in an image using text prompts, enhancing the functionality of previous models by enabling more precise background removal. MultiMatte is built on Meta's SAM 3 and improves upon it by using alpha mattes for better handling of complex edges, such as hair and fur.
+
+In the comments, users express enthusiasm for the model's capabilities, with some asking about potential features like outlining or using multiple images as input. There is a consensus on the model's effectiveness, with one user noting its superior performance on challenging images compared to other tools. Additionally, users appreciate that the demo runs on AWS without data logging, and they highlight the open-source nature of the project, allowing for local implementation.
+
+Overall, the discussion reflects excitement about the advancements in image processing technology, with users eager to explore MultiMatte's potential applications and future enhancements.

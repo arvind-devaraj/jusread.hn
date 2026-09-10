@@ -1,0 +1,8 @@
+OpenAI shares they have made substantial progress on another Millennium problem  (16 pts, 9 comments)
+https://news.ycombinator.com/item?id=49646478
+
+The Hacker News discussion revolves around OpenAI's announcement of significant progress on another Millennium Prize problem, following their work on the Navier-Stokes equations. The original article from the New York Times highlights this achievement, sparking excitement and speculation among commenters about which problem OpenAI might be tackling next.
+
+In the comments, there is a consensus that the potential for a "Millennium Prize problem race" could emerge, particularly if progress is made on other conjectures like the Birch and Swinnerton-Dyer (BSD) or Hodge conjectures. Users express enthusiasm for the implications of solving problems like P vs NP and the Yang-Mills existence and mass gap, with some noting that P vs NP is likely the most challenging and may be the last to be resolved, as suggested by mathematician Terence Tao.
+
+Notably, a comment from OpenAI clarifies that recent user inputs have not influenced their system's training, emphasizing the integrity of their research process. Overall, the discussion reflects a mix of excitement, speculation, and cautious optimism about the future of mathematical problem-solving in the context of AI advancements.

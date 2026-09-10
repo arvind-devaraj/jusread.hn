@@ -1,0 +1,8 @@
+Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra  (266 pts, 108 comments)
+https://news.ycombinator.com/item?id=49645443
+
+The Hacker News discussion centers around the launch of Cognition's new software engineering model, SWE-2, which is positioned as a competitor to existing models like Fable 5.1 and GPT-Astra. The post highlights the model's features, including its affordability and accessibility for subscribers, as well as its post-training from a previous model, Kimi K3.
+
+In the comments, users express skepticism about SWE-2's performance, with some suggesting it may be "benchmaxed" (optimized for specific benchmarks) and not generalize well to new problems. There are debates about the model's training methodology, with some users clarifying the difference between distillation and fine-tuning. Others question the necessity of using Cognition's proprietary platform, Devin, to access the model, indicating a preference for more open integration options.
+
+Notable insights include concerns about the model's actual capabilities compared to larger models and skepticism regarding Cognition's valuation and business practices. Some commenters express a belief that while Cognition may be a solid player in the AI space, it faces significant competition from more established companies like OpenAI and Anthropic. Overall, the discussion reflects a mix of cautious optimism and critical scrutiny regarding the new model's potential impact in the AI landscape.
