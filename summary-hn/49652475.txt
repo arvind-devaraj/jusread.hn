@@ -1,0 +1,8 @@
+How My Students Think About AI  (40 pts, 7 comments)
+https://news.ycombinator.com/item?id=49652475
+
+The post titled "How My Students Think About AI" discusses the perspectives of students regarding artificial intelligence, particularly their understanding and expectations of AI technologies like ChatGPT. The author highlights various points, including students' skepticism about AI's capabilities, their awareness of potential economic impacts such as unemployment, and their nuanced views on the incremental progress of AI models.
+
+In the comments, there is a mix of agreement and debate. Some commenters express optimism about students' insights, noting that they seem to grasp the complexities of AI better than some adults. Others raise concerns about the implications of AI on education and the responsibilities placed on students, suggesting a growing anti-AI sentiment among brighter students who feel overwhelmed by the expectations associated with AI integration in learning environments. Notably, one commenter draws parallels between historical economic depressions and the potential consequences of AI on employment, while another questions the students' understanding of AI's capabilities and the significance of its advancements.
+
+Overall, the discussion reflects a blend of hope for the younger generation's critical thinking about AI and apprehension regarding the broader societal impacts of these technologies.

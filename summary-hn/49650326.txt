@@ -1,0 +1,8 @@
+OpenAI’s Navier-Stokes release included a Lean 4 formal proof  (167 pts, 167 comments)
+https://news.ycombinator.com/item?id=49650326
+
+The Hacker News discussion revolves around OpenAI's recent release of a formal proof related to the Navier-Stokes equations using Lean 4, a proof assistant. The post highlights the significance of this achievement in the context of formal methods and the potential for AI to automate complex proofs, which has been a topic of interest in the mathematical community.
+
+In the comments, there is a mix of excitement and skepticism. Some users debate the actual cost and effort involved in the AI's proof compared to human efforts, with one commenter estimating that the AI's approach was not as drastically more efficient as initially claimed. Others discuss the implications of AI-generated proofs, questioning whether the AI genuinely created novel insights or merely synthesized existing knowledge from its training data. There is also concern about the academic integrity of using AI in research, with some commenters suggesting that the AI's output may lack the depth of understanding that human mathematicians bring to their work.
+
+Notable insights include the recognition that while AI can assist in solving complex problems, the understanding and tooling gained from these solutions may not be as significant as hoped. Additionally, there is a consensus that the economic viability of such AI technologies will likely improve over time, making advanced mathematical tools more accessible to a broader audience.

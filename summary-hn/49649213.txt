@@ -1,0 +1,8 @@
+OpenAI Agents API  (274 pts, 150 comments)
+https://news.ycombinator.com/item?id=49649213
+
+The Hacker News discussion revolves around the OpenAI Agents API, which allows developers to create and manage AI agents in a controlled environment. The API offers a managed session option, raising questions about its advantages over using an SDK in a sandboxed setup.
+
+In the comments, users debate the merits of the API versus the SDK, with some expressing concerns about vendor lock-in and the trustworthiness of OpenAI in managing security and scaling. Others highlight the ease of setup and the benefits of having OpenAI handle the infrastructure. There are also discussions about specific use cases, such as triggering events for agents and the potential for debugging capabilities.
+
+Notable insights include skepticism about the API's cost-effectiveness, with some users reporting increased token consumption on older accounts compared to new ones. This has led to frustration among users who feel that the pricing model is not equitable. Overall, the conversation reflects a mix of curiosity about the API's capabilities and caution regarding its implications for developers.

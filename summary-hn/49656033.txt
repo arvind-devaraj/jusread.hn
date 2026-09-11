@@ -1,0 +1,8 @@
+Resist "AI"  (38 pts, 34 comments)
+https://news.ycombinator.com/item?id=49656033
+
+The Hacker News discussion titled "Resist 'AI'" revolves around the implications of artificial intelligence and the environmental concerns associated with its infrastructure, particularly regarding water usage in data centers. The original post critiques the growing reliance on AI technologies and raises questions about their sustainability and ethical implications.
+
+In the comments, there is a mix of agreement and debate. Some users argue that concerns about water usage in data centers are overstated, emphasizing that water is a renewable resource. Others express skepticism about the ethical implications of AI, particularly regarding its reliance on copyrighted material and the potential for job displacement. A notable point of contention is the idea of "resisting" AI; some commenters believe that resisting AI could lead to being left behind in a competitive job market, while others argue that individuals have the power to choose not to engage with AI technologies.
+
+Overall, the discussion highlights a tension between the perceived benefits of AI as a productivity tool and the ethical and environmental concerns it raises. There is a recognition that while AI can enhance efficiency, it also poses significant challenges that need to be addressed, including the potential for job loss and the ethical use of data.
