@@ -1,0 +1,8 @@
+Show HN: Botbin.io – pastebin for AI agent artifacts  (10 pts, 5 comments)
+https://news.ycombinator.com/item?id=49639496
+
+The Hacker News discussion centers around Botbin.io, a platform designed as a "pastebin" for AI agent artifacts, allowing users to store and share data related to AI interactions. The concept is likened to a collaborative whiteboard for AI agents, facilitating better organization and versioning of code and artifacts.
+
+In the comments, users express interest in the platform's potential as a persistence layer for stateless bots, suggesting it could enhance cooperation among them. There are also ideas about adding features like a "just pushed" display for app updates and a request for an MCP endpoint. One commenter humorously suggests the platform could serve as a honeypot, while another mentions owning a related domain name, indicating a broader interest in the topic.
+
+Overall, the discussion highlights enthusiasm for the idea of improving AI agent collaboration and the need for better tools to manage their artifacts, with various suggestions for enhancements and features.
