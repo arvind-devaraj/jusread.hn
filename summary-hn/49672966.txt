@@ -1,0 +1,6 @@
+Ask HN: What default model do you use and why?  (40 pts, 82 comments)
+https://news.ycombinator.com/item?id=49672966
+
+The Hacker News discussion revolves around users sharing their preferred default AI models for various tasks and the reasons behind their choices. The original poster mentions using Claude for most tasks, finding Fable excessive, and settling on Opus 4.8 for its reliability and value. 
+
+In the comments, there is a mix of preferences, with some users favoring models like Haiku, Mimo, and Astra for specific tasks, while others express dissatisfaction with newer versions of models like Claude and Opus. A recurring theme is the concern over token consumption and the efficiency of different models, with some users reporting high usage rates that lead to quickly depleting their session credits. Notable insights include the importance of model speed and output quality, with several users highlighting their experiences with models like Gemini and Codex, which they find more straightforward and effective for their needs. Overall, the discussion reflects a diverse range of experiences and strategies in selecting AI models for various applications.

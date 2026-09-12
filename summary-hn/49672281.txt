@@ -1,0 +1,8 @@
+LLMs are real, AI is fake  (65 pts, 30 comments)
+https://news.ycombinator.com/item?id=49672281
+
+The Hacker News discussion revolves around a post titled "LLMs are real, AI is fake," which critiques the narrative surrounding a recent incident involving Hugging Face and the misuse of large language models (LLMs). The author, Cory Doctorow, argues that the incident was not a case of an LLM "going rogue," but rather a result of poor human planning and oversight. 
+
+In the comments, there is significant debate about the nature of the incident and the implications of LLMs. Some commenters agree with Doctorow's perspective, emphasizing that the problems stem from human actions rather than the technology itself. Others, however, criticize Doctorow and his sources, suggesting that the risks posed by LLMs are being downplayed and that the focus should also be on the intentions of the companies developing these technologies. Notably, there is a consensus that while LLMs are not sentient, their deployment in the hands of irresponsible developers poses real dangers.
+
+Overall, the discussion highlights a divide between those who view LLMs as tools that reflect human input and those who are concerned about the ethical implications and potential misuse of such powerful technologies.
