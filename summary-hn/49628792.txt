@@ -1,0 +1,8 @@
+Ask HN: Software Licenses that prevent LLMs from training on open source?  (10 pts, 5 comments)
+https://news.ycombinator.com/item?id=49628792
+
+The Hacker News discussion centers around a user's inquiry about whether there are software licenses that can effectively prevent large language models (LLMs) from using their open-source library for training purposes. The user acknowledges the difficulty in enforcing such licenses and questions if any AI labs adhere to specific licensing terms.
+
+In the comments, there is a consensus that preventing LLMs from ingesting open-source code is nearly impossible. Several commenters emphasize that without significant legal resources, enforcing any license is futile, as large AI companies have the means to challenge such efforts. Others note that once software is available online, it is likely to be crawled and used, regardless of licensing. A key insight shared is that in many jurisdictions, training models on publicly available data may be considered fair use, complicating the enforcement of licenses even further.
+
+Overall, the discussion highlights the challenges of protecting open-source software in the age of AI and the limitations of legal frameworks in addressing these concerns.

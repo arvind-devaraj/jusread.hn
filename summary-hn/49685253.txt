@@ -1,0 +1,6 @@
+Garry Tan wants US open-weight AI labs to 'distill' frontier models, too  (252 pts, 125 comments)
+https://news.ycombinator.com/item?id=49685253
+
+The Hacker News discussion revolves around Garry Tan's advocacy for U.S. open-weight AI labs to engage in the "distillation" of frontier AI models, similar to proprietary labs. Tan argues that while proprietary labs have historically utilized vast amounts of human knowledge without permission, they now seek to impose restrictions on how others can use the models they create. 
+
+In the comments, there is a mix of agreement and skepticism regarding Tan's motives, with some suggesting that his push for open-weight benefits is self-serving, aimed at bolstering Y Combinator's portfolio. Others debate the ethical implications of model distillation, with some asserting that it is a fair use akin to distilling a book, while others question the moral standing of labs that have profited from "strip-mining" copyrighted content. Notable insights include the idea that the term "lab" may misrepresent the nature of these organizations, with suggestions to rebrand them as "data refineries" to better reflect their operations. Overall, the discussion highlights the tension between proprietary control and the push for open access in AI development.

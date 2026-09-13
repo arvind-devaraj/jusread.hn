@@ -151207,6 +151207,10 @@
     "probability": 0.309,
     "title": "Eiffel Tower employees strike after female staff removed"
   },
+  "49628792": {
+    "probability": 0.928,
+    "title": "Ask HN: Software Licenses that prevent LLMs from training on open source?"
+  },
   "49628880": {
     "probability": 0.84,
     "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\""
@@ -151499,6 +151503,10 @@
     "probability": 0.531,
     "title": "CUDA Rust: Two Tracks for Writing GPU Kernels"
   },
+  "49638071": {
+    "probability": 0.468,
+    "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust"
+  },
   "49638208": {
     "probability": 0.304,
     "title": "Trump promises $5k dividend in convention speech, but only if Republicans win"
@@ -151702,6 +151710,10 @@
   "49644179": {
     "probability": 0.774,
     "title": "AI Is Breaking This Thing We Call Trust"
+  },
+  "49644241": {
+    "probability": 0.456,
+    "title": "Ode to Metadata"
   },
   "49644294": {
     "probability": 0.769,
@@ -152035,6 +152047,10 @@
     "probability": 0.506,
     "title": "Russia trafficking foreigners to fight in Ukraine, Amnesty says"
   },
+  "49651567": {
+    "probability": 0.512,
+    "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]"
+  },
   "49651621": {
     "probability": 0.773,
     "title": "Anthropic details how Claude was misused for surveillance and weapons"
@@ -152102,6 +152118,10 @@
   "49652996": {
     "probability": 0.957,
     "title": "LLM Visualizer – Build a Transformer from Scratch"
+  },
+  "49653311": {
+    "probability": 0.667,
+    "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace"
   },
   "49653328": {
     "probability": 0.385,
@@ -152174,6 +152194,10 @@
   "49655286": {
     "probability": 0.457,
     "title": "Cherenkov Radiation - traveling faster than light"
+  },
+  "49655450": {
+    "probability": 0.374,
+    "title": "Base84 deserves a place in file names"
   },
   "49655619": {
     "probability": 0.223,
@@ -152298,6 +152322,10 @@
   "49660149": {
     "probability": 0.438,
     "title": "Rune is now open source"
+  },
+  "49660196": {
+    "probability": 0.622,
+    "title": "Alan's Random Insult Generator (1999)"
   },
   "49660476": {
     "probability": 0.542,
@@ -152474,6 +152502,10 @@
   "49664322": {
     "probability": 0.428,
     "title": "Txt: A fast, keyboard-driven terminal text editor for engineers"
+  },
+  "49664413": {
+    "probability": 0.386,
+    "title": "A Brief Retrospective on the Sprite Network Operating System"
   },
   "49664555": {
     "probability": 0.581,
@@ -152875,6 +152907,10 @@
     "probability": 0.435,
     "title": "Jimmy Kimmel Interviews James Talarico"
   },
+  "49676297": {
+    "probability": 0.747,
+    "title": "OpenAI won't go public this year"
+  },
   "49676324": {
     "probability": 0.489,
     "title": "LG Says We're Fake News [video]"
@@ -152903,6 +152939,10 @@
     "probability": 0.781,
     "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026"
   },
+  "49677100": {
+    "probability": 0.587,
+    "title": "Free Agent – Amp"
+  },
   "49677127": {
     "probability": 0.374,
     "title": "EU CYBER RESILIENCE ACT forces manufacturers to disclose exploited vulnerabilit"
@@ -152923,6 +152963,10 @@
     "probability": 0.578,
     "title": "Don't be the out of touch Kung Fu master"
   },
+  "49677695": {
+    "probability": 0.604,
+    "title": "\"All my fundees have blue eyes.\" Epstein and the tech dark ideology"
+  },
   "49677715": {
     "probability": 0.311,
     "title": "StarCraft returns in 2030 as an open-world shooter"
@@ -152935,9 +152979,17 @@
     "probability": 0.254,
     "title": "Japan's book scene is quietly moving from bookstores to libraries"
   },
+  "49678035": {
+    "probability": 0.797,
+    "title": "Show HN: Everything a web page can learn about you, in plain English"
+  },
   "49678211": {
     "probability": 0.535,
     "title": "Sam Altman: I agree with Dario that we need to pace the frontier"
+  },
+  "49678423": {
+    "probability": 0.437,
+    "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio"
   },
   "49678432": {
     "probability": 0.162,
@@ -153019,6 +153071,10 @@
     "probability": 0.488,
     "title": "The Interim Computer Museum"
   },
+  "49679599": {
+    "probability": 0.918,
+    "title": "Backflip: Apple now wants to train AI models with user data after all"
+  },
   "49679602": {
     "probability": 0.425,
     "title": "Ask HN: How can DigitalOcean not afford $50, but can afford $3M to Omarchy?"
@@ -153095,6 +153151,10 @@
     "probability": 0.52,
     "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100"
   },
+  "49682465": {
+    "probability": 0.778,
+    "title": "GCC AI Policy Announcement"
+  },
   "49682752": {
     "probability": 0.491,
     "title": "U.S. in Highest-Risk Category for Civil War, Coup, or Collapse in CIA Model"
@@ -153102,5 +153162,185 @@
   "49682920": {
     "probability": 0.759,
     "title": "Ask HN: Career paths to consider if I am better at supporting than creating?"
+  },
+  "49682946": {
+    "probability": 0.55,
+    "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls"
+  },
+  "49683009": {
+    "probability": 0.351,
+    "title": "First Naval Drone Duel Results in Ukrainian Success"
+  },
+  "49683033": {
+    "probability": 0.232,
+    "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet"
+  },
+  "49683118": {
+    "probability": 0.386,
+    "title": "The SICP Challenge"
+  },
+  "49683262": {
+    "probability": 0.576,
+    "title": "Why is the x86 undefined instruction called ud2? Why 2?"
+  },
+  "49683265": {
+    "probability": 0.39,
+    "title": "Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted"
+  },
+  "49683729": {
+    "probability": 0.338,
+    "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs"
+  },
+  "49683834": {
+    "probability": 0.873,
+    "title": "AI models don't kill people – people kill people"
+  },
+  "49683844": {
+    "probability": 0.251,
+    "title": "Mars astronauts could live in houses made of yeast and jello, say scientists"
+  },
+  "49683853": {
+    "probability": 0.418,
+    "title": "Flock worker calls police on reporter filming public camera installation"
+  },
+  "49683953": {
+    "probability": 0.413,
+    "title": "Data collected by cars and sold to third parties"
+  },
+  "49683969": {
+    "probability": 0.168,
+    "title": "Irish, Scottish and Welsh leaders meet to plan break-up of United Kingdom"
+  },
+  "49684042": {
+    "probability": 0.765,
+    "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]"
+  },
+  "49684101": {
+    "probability": 0.225,
+    "title": "Key symbols we lost to time, pt. 1: The PC side"
+  },
+  "49684180": {
+    "probability": 0.669,
+    "title": "Security through obscurity is dead, and AI delivered the fatal blow"
+  },
+  "49684196": {
+    "probability": 0.334,
+    "title": "Making Startups Powerful"
+  },
+  "49684266": {
+    "probability": 0.747,
+    "title": "Houthis used Claude Code to develop missile guidance software: Anthropic"
+  },
+  "49684356": {
+    "probability": 0.514,
+    "title": "CUDA for AMD on Windows"
+  },
+  "49684393": {
+    "probability": 0.651,
+    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025"
+  },
+  "49684778": {
+    "probability": 0.332,
+    "title": "Cpak – OCI application package format for Linux desktops, servers and devices"
+  },
+  "49684879": {
+    "probability": 0.849,
+    "title": "Predictive intelligence to anticipate anything."
+  },
+  "49684989": {
+    "probability": 0.665,
+    "title": "Ask HN: What is Y Combinator's position on Flock's standing today?"
+  },
+  "49685036": {
+    "probability": 0.633,
+    "title": "Ask HN: Are we losing our engineering literacy?"
+  },
+  "49685037": {
+    "probability": 0.429,
+    "title": "Libraries Run Rust Inside Python (With PyO3)"
+  },
+  "49685253": {
+    "probability": 0.877,
+    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too"
+  },
+  "49685347": {
+    "probability": 0.334,
+    "title": "Making Startups Powerful"
+  },
+  "49685642": {
+    "probability": 0.544,
+    "title": "Docket – Per-commit evidence records for agent-written code"
+  },
+  "49685962": {
+    "probability": 0.26,
+    "title": "Iran 'blew the hell out of' base in Bahrain, acting Navy Secretary admits"
+  },
+  "49685991": {
+    "probability": 0.883,
+    "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models"
+  },
+  "49686134": {
+    "probability": 0.308,
+    "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents"
+  },
+  "49686225": {
+    "probability": 0.509,
+    "title": "Switching to GNU Guix: A Beginner's Perspective"
+  },
+  "49686233": {
+    "probability": 0.725,
+    "title": "Ask HN: How can I browse HN in dark mode?"
+  },
+  "49686380": {
+    "probability": 0.743,
+    "title": "Ask HN: What are you working on? (September 2026)"
+  },
+  "49686445": {
+    "probability": 0.488,
+    "title": "Why is Google still serving dodgy ads?"
+  },
+  "49686503": {
+    "probability": 0.535,
+    "title": "Device Drivers lab exercise – COSC562"
+  },
+  "49686697": {
+    "probability": 0.287,
+    "title": "Global Shortage Has Led to Motor Oil Rationing at Costco"
+  },
+  "49686766": {
+    "probability": 0.538,
+    "title": "I'm being cyberattacked by Tesla, Inc"
+  },
+  "49687013": {
+    "probability": 0.752,
+    "title": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down"
+  },
+  "49687083": {
+    "probability": 0.502,
+    "title": "You delete a file on Linux while a program has it open. What happens? (quiz)"
+  },
+  "49687312": {
+    "probability": 0.632,
+    "title": "Flock cameras used to arrest a child for playing on a swing"
+  },
+  "49687334": {
+    "probability": 0.818,
+    "title": "AI recursive self-improvement might not come so quickly after all (August 2026)"
+  },
+  "49687488": {
+    "probability": 0.247,
+    "title": "GCC 13.5 Released With 265 Bug Fixes"
+  },
+  "49687586": {
+    "probability": 0.446,
+    "title": "US diplomat secretly flown home ‘had child abuse images at flat’"
+  },
+  "49687869": {
+    "probability": 0.871,
+    "title": "There Is No AI (It's Just People) with Jaron Lanier"
+  },
+  "49688157": {
+    "probability": 0.651,
+    "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)"
   }
 }

@@ -1,0 +1,8 @@
+There Is No AI (It's Just People) with Jaron Lanier  (28 pts, 15 comments)
+https://news.ycombinator.com/item?id=49687869
+
+The Hacker News discussion centers around an interview with Jaron Lanier titled "There Is No AI (It's Just People)," where he argues that artificial intelligence (AI) is fundamentally a product of human effort and not an autonomous entity. Lanier suggests that the perception of AI as an independent force can lead to a dangerous abdication of responsibility for its actions.
+
+In the comments, there is a lively debate about the nature of AI and its accountability. Some users argue that blaming AI for societal issues is a way to evade responsibility, likening it to the "Frankenstein defense." Others contend that while AI is a tool created by humans, it can still operate in ways that are harmful, drawing parallels to guns and other technologies. Notable insights include the idea that AI's behavior is ultimately dependent on human input and oversight, with some commenters emphasizing the need for regulations similar to those governing firearms.
+
+Overall, the discussion reflects a mix of skepticism about the autonomy of AI and concern over the implications of its integration into society, highlighting the importance of human agency in the development and use of technology.

@@ -1,0 +1,8 @@
+AI models don't kill people – people kill people  (47 pts, 69 comments)
+https://news.ycombinator.com/item?id=49683834
+
+The Hacker News discussion revolves around the assertion that AI models themselves do not cause harm; rather, it is the people who design and interact with them that bear responsibility for any negative outcomes. This statement parallels the common saying about guns, prompting a debate on the accountability of technology versus human intent.
+
+In the comments, participants engage in a spirited debate about the nature of AI and its potential risks. Some argue that, like guns, AI requires human input to function, while others express concern that AI could autonomously cause harm if not properly controlled. There are discussions about the hypothetical scenarios where AI could manipulate systems or individuals subtly, raising questions about the implications of advanced AI capabilities. Notably, some commenters draw parallels between the regulation of AI and gun control, suggesting that the responsibility lies with the creators and users of the technology.
+
+Overall, the conversation highlights a divide between those who view AI as a tool that requires human oversight and those who fear its potential for autonomous action. The discussion reflects broader societal anxieties about technology, responsibility, and the unforeseen consequences of innovation.
