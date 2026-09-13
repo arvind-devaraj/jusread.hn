@@ -1,0 +1,8 @@
+Apple wants to train AI on your private personal data  (25 pts, 19 comments)
+https://news.ycombinator.com/item?id=49678878
+
+The Hacker News discussion revolves around Apple's announcement regarding the training of their AI foundation models, specifically the change in their policy on using user data. Previously, Apple stated they did not use personal data for training, but now they indicate that such data may be used if users explicitly choose to opt-in to help improve the models.
+
+The main points of debate in the comments focus on the implications of this change, particularly the distinction between opt-in and opt-out consent. Some users express concern that the opt-in process may not be as clear-cut as it seems, referencing Apple's past practices of using default-checked options during onboarding. Others argue that the new policy is misleading, suggesting that it represents a shift away from Apple's strong privacy stance.
+
+Notable opinions include frustration from users who feel that Apple is compromising its reputation for privacy by introducing data collection practices similar to those of other companies. There is also a desire among some commenters for more control over AI systems, with suggestions for the ability to replace Apple's AI with alternatives on local devices. Overall, the discussion reflects a mix of skepticism and concern about privacy in the context of AI development.
