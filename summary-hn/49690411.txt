@@ -1,0 +1,8 @@
+AI Robots – When will they be in our homes  (40 pts, 41 comments)
+https://news.ycombinator.com/item?id=49690411
+
+The Hacker News discussion revolves around the potential for AI robots to enter homes, as prompted by an IEEE article. Participants express varying opinions on the timeline and feasibility of domestic robots, with some predicting their arrival by the end of the decade, while others emphasize that current advancements are primarily focused on industrial applications rather than home use.
+
+Key points of debate include the practicality of humanoid versus specialized robots, with some commenters arguing that humanoid robots are not versatile enough for general-purpose tasks. Concerns about security, surveillance, and the implications of having cameras in homes are also prominent, with several users expressing skepticism about the safety and privacy risks associated with such technology. Notably, there is a recognition that while humanoid robots may be designed to integrate into human environments, they still face significant technical and safety challenges.
+
+Overall, the discussion highlights a mix of optimism and caution regarding the future of AI robots in domestic settings, with participants weighing the potential benefits against the risks and practical limitations.
