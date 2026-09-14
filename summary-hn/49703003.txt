@@ -1,0 +1,8 @@
+GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?  (63 pts, 77 comments)
+https://news.ycombinator.com/item?id=49703003
+
+The Hacker News discussion revolves around a comparison of two AI models, GPT-5.6 Luna and GPT-6 Astra, particularly in the context of their effectiveness for code reviews and their cost efficiency. The article highlights the cost per million tokens for each model, with Luna being significantly cheaper than Astra. 
+
+In the comments, users debate the trade-offs between cost and quality in code reviews. Some argue that while cheaper models like Luna may save money, they might not provide thorough reviews, especially for critical tasks like security checks. Others suggest that the future of coding may require more ephemeral solutions, making cost-effective checks valuable. There is also a discussion about the reliability and performance of various models, with some users expressing dissatisfaction with Astra's output and praising Luna's utility as a workhorse.
+
+Notable insights include the notion that while cost is an important factor, it shouldn't compromise the quality of code reviews, as even small savings could lead to worse outcomes. Additionally, users share their experiences with different models, emphasizing the importance of finding the right balance between cost, performance, and the specific needs of their projects.
