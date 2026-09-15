@@ -1,0 +1,8 @@
+Ask HN: Would a startup for young creatives who reject AI be feasible?  (10 pts, 21 comments)
+https://news.ycombinator.com/item?id=49689696
+
+The Hacker News discussion revolves around the feasibility of starting a company aimed at young creatives who reject AI, particularly in the game development and creative tools sectors. The original poster (OP) notes a strong anti-AI sentiment among their peers, contrasting it with the prevalence of AI-driven startups in the market. They express concern about whether investors would support a non-AI venture, given the current hype surrounding AI technologies.
+
+In the comments, there is a mix of agreement and debate. Some commenters believe that while an anti-AI startup could find a niche market, it may struggle to attract traditional venture capital due to investors' focus on high-growth potential, which is often associated with AI. Others argue that the anti-AI sentiment among creatives is significant enough to sustain a business, though it may limit future pivots. Notably, several commenters emphasize the importance of using AI as a tool rather than completely rejecting it, suggesting that a balanced approach could be more viable.
+
+Overall, the discussion highlights the tension between the growing reliance on AI in the tech industry and the desire among certain creative communities to maintain traditional methods, raising questions about market dynamics and the potential for niche startups in this space.

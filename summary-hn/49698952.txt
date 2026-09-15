@@ -1,0 +1,8 @@
+ProGantt: Gantt charts your AI agent can read and write via MCP  (10 pts, 12 comments)
+https://news.ycombinator.com/item?id=49698952
+
+The Hacker News discussion revolves around ProGantt, a tool that allows AI agents to read and write Gantt charts via a system called MCP (Multi-Channel Protocol). The original post highlights the innovative integration of AI with project management tools, specifically focusing on Gantt charts.
+
+In the comments, several users express their interest in similar projects, with some mentioning their own work in AI integration for project management. There is a consensus on the importance of making such tools open source, with some users suggesting a paid hosted option as a viable model. Notably, one commenter shares their experience with using KANBAN.md for project tracking, emphasizing its effectiveness for agent handover and design decision documentation.
+
+Overall, the discussion reflects a shared enthusiasm for enhancing project management through AI, with a focus on collaboration, accessibility, and the potential for open-source solutions.
