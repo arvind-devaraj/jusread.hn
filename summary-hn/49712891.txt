@@ -1,0 +1,8 @@
+Show HN: Loss. a tiny satire about AI progress  (25 pts, 7 comments)
+https://news.ycombinator.com/item?id=49712891
+
+The post introduces "Loss," a satirical project that explores the trajectory of AI development, where users start as manual operators and gradually see their roles taken over by increasingly complex automated systems. The creator likens it to "Universal Paperclips," reflecting on the potential consequences of AI advancements in a humorous way.
+
+In the comments, users express appreciation for the design differences between mobile and desktop versions, with one commenter praising the homage to older operating systems like BeOS and PalmOS. However, there is criticism regarding the site's behavior of hijacking the back button, which the creator acknowledges and promises to fix. Another commenter humorously notes the irony of users clicking buttons until they automate their own jobs away, highlighting the underlying theme of the project.
+
+Overall, the discussion showcases a mix of admiration for the creative concept and design, alongside concerns about user experience and the implications of AI automation.

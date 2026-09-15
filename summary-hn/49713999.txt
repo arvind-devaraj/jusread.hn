@@ -1,0 +1,6 @@
+Cartesian – AI 3D Modeling for Design  (74 pts, 62 comments)
+https://news.ycombinator.com/item?id=49713999
+
+The Hacker News discussion revolves around a new AI tool called Cartesian, designed for 3D modeling in design contexts. Users express mixed feelings about the website's design, particularly criticizing its background and scroll effects, which some find distracting and hard to read. However, a few commenters appreciate the visual effects, indicating a divide in user experience.
+
+The conversation also touches on the technical capabilities of Cartesian, with some users questioning its output formats, particularly the absence of STEP/IGES/BRep files, which are essential for precise CAD modeling. Others clarify that it does support formats like 3DM, used by Rhinoceros 3D, and discuss the differences between mesh modeling and parametric CAD, emphasizing the challenges of converting STL files to parametric models. Notably, several users share their experiences with other AI tools like Astra, highlighting the potential for AI to simplify and automate 3D modeling tasks, though some express skepticism about the current limitations of these technologies. Overall, the discussion reflects a blend of excitement for AI advancements in design and critical feedback on usability and output quality.

@@ -1,0 +1,8 @@
+German companies rely almost exclusively on AI models and services from the USA  (23 pts, 27 comments)
+https://news.ycombinator.com/item?id=49712719
+
+The Hacker News discussion centers around an article highlighting that German companies predominantly rely on AI models and services from the USA, with little use of European or Chinese alternatives. The comments reflect a broader concern that this trend is not limited to Germany but applies to many companies outside of China, particularly in the EU. 
+
+Participants debate the lack of competitive AI models within Europe, noting that while there are some local options like DeepSeek, they are often seen as inferior in performance compared to US offerings. The high costs of self-hosting and electricity in Germany further complicate the situation, making it less viable for companies to develop their own AI solutions. Some commenters express frustration over the EU's inability to foster its own leading AI companies, citing the sale of DeepMind to Google as a missed opportunity.
+
+Notable insights include the recognition that while there are alternatives available, they are often not utilized due to performance and cost issues. There is also a call for stronger regulatory measures to encourage the development of domestic AI capabilities in Europe, as well as concerns about the centralization of AI technology in the US. Overall, the discussion underscores a significant reliance on American AI technologies and the challenges faced by European companies in competing in this space.
