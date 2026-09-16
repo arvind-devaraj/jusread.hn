@@ -1,0 +1,6 @@
+Intelligence per Watt: Measuring Intelligence Efficiency of Local AI  (58 pts, 11 comments)
+https://news.ycombinator.com/item?id=49694035
+
+The Hacker News discussion revolves around a research paper proposing a metric called "intelligence per watt" (IPW) to evaluate the efficiency of local AI models compared to cloud-based models. The authors argue that by measuring task accuracy relative to power consumption, more efficient AI architectures can be identified. They also introduce a related metric, "intelligence per joule" (IPJ), which further assesses energy efficiency.
+
+In the comments, there is debate over the validity and usefulness of the IPW metric. Some users criticize it as potentially misleading, arguing that performance doesn't always correlate with energy consumption. Others clarify that the research aims to highlight the efficiency of different architectures rather than endorse a specific model. A notable point of discussion is the finding that local models are less efficient than cloud models, achieving 40% lower IPW, which raises questions about the practicality of local AI in terms of speed and energy use. Additionally, some commenters emphasize the advantages of local models, such as predictability and reduced latency, despite their lower efficiency.
