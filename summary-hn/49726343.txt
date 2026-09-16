@@ -1,0 +1,8 @@
+Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models  (66 pts, 43 comments)
+https://news.ycombinator.com/item?id=49726343
+
+The Hacker News discussion centers around a project that analyzes the "staleness" of various AI models by examining their release ages and training cutoffs. The post highlights the importance of keeping AI models updated, especially in an era where reasoning and tool use are becoming more prevalent.
+
+In the comments, users debate the effectiveness of different models in handling current events and their reliance on outdated training data. Many agree that while models have improved in their ability to use tools and search for information, they still struggle with distinguishing between factual updates and fictional scenarios. Some users share personal experiences where models failed to recognize recent events or required prompting to access current information.
+
+Notable insights include the observation that newer models are better at deciding when to perform web searches, but they still face challenges in calibrating their knowledge. There is also a discussion about the implications of AI models needing to update their knowledge dynamically, with some users arguing that true artificial general intelligence (AGI) should be capable of learning and adapting in real-time. Overall, the conversation reflects a mix of optimism about advancements in AI and frustration over persistent limitations.
