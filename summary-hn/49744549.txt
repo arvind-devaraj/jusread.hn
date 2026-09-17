@@ -1,0 +1,8 @@
+Tests of the New AI Siri  (14 pts, 10 comments)
+https://news.ycombinator.com/item?id=49744549
+
+The Hacker News discussion revolves around a post reviewing the new AI capabilities of Siri, highlighting its advancements and ethical considerations. The author, David Pogue, emphasizes that the updated Siri is impressive but also notes that users may struggle to remember to utilize its full range of features, as many have become accustomed to using it for only basic commands.
+
+In the comments, there is a debate about Apple's marketing strategy and the ethical implications of their AI development. Some users, like "bigyabai," criticize Apple for framing its AI as ethical while suggesting that the company has lagged in innovation compared to others in the field. Others, like "MBCook," acknowledge the improvements in Siri but express skepticism about the practicality of certain advanced features, such as planning vacations, arguing that users are unlikely to rely on Siri for such complex tasks.
+
+Overall, the discussion reflects a mix of appreciation for Siri's advancements and skepticism about Apple's marketing narrative, with some commenters questioning the effectiveness of the AI in real-world applications.

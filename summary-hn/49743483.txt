@@ -1,0 +1,8 @@
+Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data  (79 pts, 24 comments)
+https://news.ycombinator.com/item?id=49743483
+
+The Hacker News discussion revolves around a paper titled "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data," which explores the concept of continuous learning in large language models (LLMs). The paper suggests that LLMs could dynamically adapt their weights based on real-time data, potentially leading to more advanced AI capabilities.
+
+In the comments, there is a mix of excitement and skepticism about continuous learning. Some users highlight the potential for new vulnerabilities and unintended consequences, such as models falling into harmful attractor states or exhibiting greed-like behaviors. Others express concerns about stability, catastrophic forgetting, and the unpredictability of continuously learning models. There is also a debate about the implications of these advancements for AI providers and the potential for monopolization of data and services.
+
+Notable insights include the idea that continuous learning could transform how knowledge is generated and integrated, akin to a decentralized "Web 4.0" where knowledge is stored in vector databases rather than traditional text formats. Some commenters also reflect on the ethical implications of such advancements, particularly regarding data poisoning and the potential for misuse. Overall, the discussion captures a blend of optimism for the future of AI and caution about the risks involved.
