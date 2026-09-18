@@ -1,0 +1,8 @@
+GrassLobster: AI Agentic Generation of Parametric Geometry Workflows  (26 pts, 5 comments)
+https://news.ycombinator.com/item?id=49755431
+
+The Hacker News discussion revolves around "GrassLobster," a tool designed for AI-driven generation of parametric geometry workflows, particularly in the context of architectural design. The post highlights how this tool can streamline the creation and manipulation of complex geometrical forms, potentially enhancing the design process.
+
+In the comments, users express a mix of curiosity and skepticism. One commenter, WillAdams, draws a parallel between GrassLobster and existing tools that utilize large language models (LLMs) to generate structured data, suggesting that GrassLobster could similarly allow for iterative editing of designs. Others, like dllu, emphasize the suitability of Rhino, the software GrassLobster is built on, for AI applications due to its command-line interface and extensive resources. Additionally, s1mon mentions another AI tool, Raven, which also operates within the Rhino ecosystem, indicating a growing interest in AI tools for design.
+
+Overall, the discussion reflects a recognition of the potential of AI in design workflows, while also highlighting the need for better software naming and the challenges posed by complex geometrical designs, as noted by penneyd.

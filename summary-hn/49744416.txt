@@ -1,0 +1,6 @@
+Show HN: Ax-check.com – Can agents use your product?  (23 pts, 23 comments)
+https://news.ycombinator.com/item?id=49744416
+
+The Hacker News discussion revolves around a new tool called ax-check.com, created by the co-founder of Gauge, which assesses how well coding agents can onboard to a product. The tool provides a scorecard, suggested improvements, and live coding sessions to observe how agents interact with a website. It focuses on key pages like the homepage and pricing, and tests whether agents can autonomously complete onboarding without obstacles like login walls. The creator aims to streamline the process, as existing checks often yield irrelevant technical suggestions.
+
+In the comments, there is a mix of support and skepticism regarding the necessity of making products more accessible to agents. Some commenters argue that enhancing agent accessibility is crucial for discoverability and future-proofing products, while others express concerns about the actual benefits and effectiveness of such efforts. Notably, one commenter mentions that despite achieving a high score on ax-check, their efforts did not significantly boost growth, highlighting the uncertainty around the impact of agent-friendly design. The conversation reflects a broader debate about the evolving role of coding agents in product interaction and the implications for businesses.

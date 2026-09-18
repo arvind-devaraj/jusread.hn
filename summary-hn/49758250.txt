@@ -1,0 +1,8 @@
+Anthropic finally adds AGENTS.md support to Claude Code  (34 pts, 5 comments)
+https://news.ycombinator.com/item?id=49758250
+
+The Hacker News discussion revolves around Anthropic's recent update to Claude Code, which now includes support for AGENTS.md files. This change allows Claude to utilize AGENTS.md when a CLAUDE.md file is absent, with users able to toggle this feature in the configuration settings.
+
+In the comments, users express a mix of relief and skepticism regarding the update. Some, like deaux, suggest that the change was prompted by external pressures, such as a tweet from the Shopify CEO and competition from Codex, questioning whether it was worth the wait. Others, like grim_io and luckystarr, celebrate the removal of unnecessary symlinks, indicating that the update simplifies their workflow. Additionally, water-drummer raises a concern about the reliance on specific file names, labeling it as "vendor locks," which highlights a broader debate about flexibility and usability in software development.
+
+Overall, the discussion reflects a sense of cautious optimism about the update while also critiquing the circumstances that led to its implementation.
