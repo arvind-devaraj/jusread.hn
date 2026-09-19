@@ -1,0 +1,8 @@
+How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip  (130 pts, 92 comments)
+https://news.ycombinator.com/item?id=49761432
+
+The Hacker News discussion revolves around an article detailing how OpenAI utilized its own large language models (LLMs) to design a new jalapeño chip. The conversation quickly veers into a mix of humor and frustration regarding the use of the term "jalapeño" in the context of AI and technology, with several commenters expressing annoyance at the conflation of AI with traditional concepts and items, such as chili peppers.
+
+In the comments, there is a notable debate about the appropriation of terms like "agent" and "transformers," with users sharing their grievances about how these terms have been co-opted in the tech world. Some commenters draw parallels to other fields, such as cryptography and electrical engineering, highlighting a broader trend of terminology being repurposed in ways that can frustrate professionals in those areas. 
+
+Overall, the discussion is marked by a blend of light-hearted banter and serious commentary on the implications of language in technology, with several users advocating for clearer distinctions between traditional concepts and their modern technological counterparts.

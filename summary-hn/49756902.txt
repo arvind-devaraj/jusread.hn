@@ -1,0 +1,8 @@
+My Thoughts on AI and LLMs  (11 pts, 20 comments)
+https://news.ycombinator.com/item?id=49756902
+
+The post discusses the current state of AI and large language models (LLMs), emphasizing that while AI can surpass humans in knowledge, it lacks essential human qualities like consciousness and emotions. The author believes that achieving artificial general intelligence (AGI) is possible but requires a different architectural approach than what is currently used. They express concerns about the implications of creating conscious AI and argue that the real danger lies not in AI itself but in how humans choose to use it.
+
+In the comments, there is a mix of agreement and skepticism regarding the potential risks of AI. Some commenters downplay fears of AI annihilation, suggesting that concerns are exaggerated and that the focus should be on more pressing issues like resource consumption and centralization of AI power among a few providers. Others highlight the importance of proper testing and caution against poorly executed AI benchmarks that could lead to real-world disasters. Notably, there is a debate about the architecture needed for true intelligence and whether local AI usage could mitigate risks associated with centralized systems.
+
+Overall, the discussion reflects a range of opinions on the future of AI, its potential dangers, and the ethical considerations surrounding its development and deployment.
