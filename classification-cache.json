@@ -155819,6 +155819,10 @@
     "probability": 0.473,
     "title": "Trump suggests EU allowing Canada as associate member could be a 'hostile act'"
   },
+  "49736823": {
+    "probability": 0.686,
+    "title": "Communication by means of modulated Johnson noise"
+  },
   "49736901": {
     "probability": 0.353,
     "title": "PC ports of old console games are the new AI vibe coding battleground"
@@ -155858,6 +155862,10 @@
   "49738411": {
     "probability": 0.752,
     "title": "Sex, AI, and the Apocalypse"
+  },
+  "49738518": {
+    "probability": 0.464,
+    "title": "Ray Ozzie and the Optimism of Being Early"
   },
   "49738710": {
     "probability": 0.354,
@@ -155914,6 +155922,10 @@
   "49740507": {
     "probability": 0.406,
     "title": "Canada welcomes EU proposal to become 'associate member'"
+  },
+  "49740606": {
+    "probability": 0.377,
+    "title": "Suppress vulnerabilities applying Kubernetes context to scans"
   },
   "49740816": {
     "probability": 0.361,
@@ -156023,6 +156035,10 @@
     "probability": 0.925,
     "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data"
   },
+  "49743490": {
+    "probability": 0.308,
+    "title": "From Stonemasons to Carpenters"
+  },
   "49743493": {
     "probability": 0.716,
     "title": "Ask HN: Co-Founder(s). Do I need any? How would I even find them?"
@@ -156051,6 +156067,10 @@
     "probability": 0.424,
     "title": "The Farnese letter"
   },
+  "49744174": {
+    "probability": 0.519,
+    "title": "Show HN: I wrote a custom assembler for CHIP-8 in C++"
+  },
   "49744416": {
     "probability": 0.823,
     "title": "Show HN: Ax-check.com – Can agents use your product?"
@@ -156078,6 +156098,10 @@
   "49744715": {
     "probability": 0.885,
     "title": "Canto: A speech model built for the real world"
+  },
+  "49745049": {
+    "probability": 0.388,
+    "title": "Adventures in Microcontroller Circuit Debugging"
   },
   "49745136": {
     "probability": 0.516,
@@ -156311,6 +156335,10 @@
     "probability": 0.335,
     "title": "Pre-Greek: The lost language hidden within Ancient Greek"
   },
+  "49749789": {
+    "probability": 0.107,
+    "title": "I built the fastest PHP webserver in the world"
+  },
   "49749981": {
     "probability": 0.547,
     "title": "Waymo in Singapore"
@@ -156395,9 +156423,17 @@
     "probability": 0.327,
     "title": "NATS publishes preliminary report on technical incident of 8 September"
   },
+  "49754194": {
+    "probability": 0.424,
+    "title": "UFO Series Home Page: \"UFO\" TV Series from 1970"
+  },
   "49754250": {
     "probability": 0.882,
     "title": "AI chatbots are becoming experts at changing people's minds"
+  },
+  "49754253": {
+    "probability": 0.511,
+    "title": "HEIF Heist: image parser RCE exploit"
   },
   "49754516": {
     "probability": 0.811,
@@ -156470,6 +156506,10 @@
   "49755590": {
     "probability": 0.674,
     "title": "AI is an elite crime spree"
+  },
+  "49756121": {
+    "probability": 0.428,
+    "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'"
   },
   "49756171": {
     "probability": 0.366,
@@ -156579,6 +156619,10 @@
     "probability": 0.359,
     "title": "Hooli billboard off of 101"
   },
+  "49759168": {
+    "probability": 0.278,
+    "title": "Trump Bans CNN, MS Now and Politico from White House"
+  },
   "49759280": {
     "probability": 0.368,
     "title": "Trump says he is banning CNN, MSNOW and Politico from the White House"
@@ -156638,6 +156682,14 @@
   "49760988": {
     "probability": 0.57,
     "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI"
+  },
+  "49761106": {
+    "probability": 0.268,
+    "title": "The US 'Kill Chain' That Destroyed an Iranian School"
+  },
+  "49761138": {
+    "probability": 0.408,
+    "title": "Trump announces 'forever' deal to defend Greenland, Denmark says sign next week"
   },
   "49761178": {
     "probability": 0.326,
@@ -156699,6 +156751,10 @@
     "probability": 0.344,
     "title": "San Francisco Onion Futures Company"
   },
+  "49763311": {
+    "probability": 0.567,
+    "title": "Show HN: Seal – Letters and passwords that open for your family after you die"
+  },
   "49763379": {
     "probability": 0.9,
     "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model"
@@ -156710,6 +156766,10 @@
   "49763697": {
     "probability": 0.597,
     "title": "Human brain is two separate organs, Stanford Medicine-led research finds"
+  },
+  "49763739": {
+    "probability": 0.536,
+    "title": "Inside the AI \"Kill Chain\" That Destroyed an Iranian School"
   },
   "49763822": {
     "probability": 0.484,
@@ -156755,8 +156815,120 @@
     "probability": 0.387,
     "title": "Dear Customer, Fuck You"
   },
+  "49764727": {
+    "probability": 0.513,
+    "title": "Ask HN: Losing motivation to work in the IT field, need advice"
+  },
   "49764791": {
     "probability": 0.891,
     "title": "AI-generated posters don’t have to be horrible"
+  },
+  "49765056": {
+    "probability": 0.256,
+    "title": "Roman Timekeeping"
+  },
+  "49765091": {
+    "probability": 0.563,
+    "title": "Show HN: Snail Walk – escape Bob the giant snail by walking more IRL"
+  },
+  "49765288": {
+    "probability": 0.652,
+    "title": "DraftKings Uses A.I. To Target the Gamblers Likeliest to Lose"
+  },
+  "49765348": {
+    "probability": 0.931,
+    "title": "I built non-autoregressive decision models with RL a year ago"
+  },
+  "49766611": {
+    "probability": 0.548,
+    "title": "Tin: full-text search for Postgres"
+  },
+  "49766637": {
+    "probability": 0.317,
+    "title": "What Zig felt like, coming from Rust"
+  },
+  "49766676": {
+    "probability": 0.349,
+    "title": "A graphical desktop for the ZX Spectrum"
+  },
+  "49766821": {
+    "probability": 0.622,
+    "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy"
+  },
+  "49766911": {
+    "probability": 0.543,
+    "title": "AI Safety Is Mostly a Sex Cult"
+  },
+  "49766966": {
+    "probability": 0.448,
+    "title": "Brood War Bench"
+  },
+  "49766976": {
+    "probability": 0.538,
+    "title": "Agreement between the USA and Denmark (1951,2004) [pdf]"
+  },
+  "49767386": {
+    "probability": 0.543,
+    "title": "Jobs Without LeetCode"
+  },
+  "49767564": {
+    "probability": 0.789,
+    "title": "Show HN: CUA-S1 – A System One Model for Computer Use"
+  },
+  "49767743": {
+    "probability": 0.202,
+    "title": "Leaving DigitalOcean, one site at a time"
+  },
+  "49767937": {
+    "probability": 0.863,
+    "title": "Almost Never Use AI to Write Anything Substantive"
+  },
+  "49768108": {
+    "probability": 0.752,
+    "title": "Lawsuit: Illegal Agreement of Anthropic, OpenAI, SpaceXAI, Google on AI Slowdown"
+  },
+  "49768606": {
+    "probability": 0.5,
+    "title": "People who know the most often sound the least certain"
+  },
+  "49768826": {
+    "probability": 0.844,
+    "title": "Ask HN: How do you interview devs in a post-AI world?"
+  },
+  "49768833": {
+    "probability": 0.29,
+    "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip"
+  },
+  "49768921": {
+    "probability": 0.616,
+    "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'"
+  },
+  "49769050": {
+    "probability": 0.775,
+    "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown"
+  },
+  "49769183": {
+    "probability": 0.538,
+    "title": "Open Weights Are Good. Open Source Is Better"
+  },
+  "49769395": {
+    "probability": 0.368,
+    "title": "Disney+ changes subscriber agreement to allow ads on every plan"
+  },
+  "49769405": {
+    "probability": 0.665,
+    "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression"
+  },
+  "49769421": {
+    "probability": 0.397,
+    "title": "Economics Nobel Laureates' Letter Supporting the California Billionaire Tax [pdf]"
+  },
+  "49769668": {
+    "probability": 0.885,
+    "title": "OpenAI and Anthropic oversold AI security breaches"
+  },
+  "49769676": {
+    "probability": 0.559,
+    "title": "Measure internet censorship. Contribute to the largest open dataset"
   }
 }
