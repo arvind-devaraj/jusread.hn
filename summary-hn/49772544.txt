@@ -1,0 +1,8 @@
+Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it  (49 pts, 27 comments)
+https://news.ycombinator.com/item?id=49772544
+
+The Hacker News discussion revolves around a Medium post by a user who claims that Google AI Studio falsely promises to delete user data permanently when, in reality, it retains the data for AI training purposes. The author expresses frustration over being auto-banned from Google's Vulnerability Reward Program (VRP) after reporting this issue, highlighting a lack of accountability from the company.
+
+In the comments, there is a mix of skepticism and support for the author's claims. Some users question the credibility of the post due to its repetitive nature, while others empathize with the author's frustration, arguing that misleading deletion promises should be illegal. A few commenters defend the practice by suggesting that users should be more cautious about where they upload their data, while others emphasize the need for transparency and accountability from tech companies.
+
+Notable insights include a consensus that claiming permanent deletion without actually deleting data is a serious ethical issue, with some commenters advocating for legal action against such practices. The discussion reflects broader concerns about data privacy and corporate responsibility in the tech industry.

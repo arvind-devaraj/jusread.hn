@@ -1,0 +1,8 @@
+Can you tell which images are AI-generated?  (90 pts, 72 comments)
+https://news.ycombinator.com/item?id=49770847
+
+The Hacker News discussion revolves around a game that challenges players to identify whether images are AI-generated or real. The game presents images with a time limit, prompting users to make quick judgments about their authenticity.
+
+In the comments, there is a mix of agreement and debate regarding the effectiveness of the game and the implications of AI-generated content. Some users express skepticism about the game's purpose, suggesting it may be a way to gather free training data for AI models. Others highlight the difficulty of making accurate distinctions under time constraints, noting that most people typically glance at images rather than scrutinize them. A recurring theme is the concern that AI-generated images could undermine traditional photography and the value of human-created content.
+
+Notable insights include the realization that the rapid consumption of images on social media may desensitize users to the differences between AI and real images. Additionally, some commenters argue that the challenge of distinguishing between the two raises important questions about authenticity and the future of visual media. Overall, the discussion reflects a broader anxiety about the implications of AI in creative fields and the changing landscape of image consumption.
