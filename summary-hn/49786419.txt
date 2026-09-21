@@ -1,0 +1,8 @@
+Show HN: Lossless-memory – a personal AI memory that never summarizes  (53 pts, 20 comments)
+https://news.ycombinator.com/item?id=49786419
+
+The Hacker News discussion revolves around a project called "Lossless-memory," which aims to create a personal AI memory system that retains all interactions without summarizing them. The idea is to allow users to build a comprehensive operational memory from raw data, enabling the AI to follow complex instructions over time.
+
+In the comments, users debate the utility of timestamps in memory systems, with some arguing that they are essential for understanding the order of instructions, while others believe that rules can be remembered without them. There is also discussion about the challenges of creating an AI that can reliably follow instructions and the complexity of memory systems, with some suggesting that users often want different types of memory solutions. Notably, some commenters express skepticism about the feasibility of achieving true alignment in AI through hobby projects, while others share their own experiences and projects that align with the goals of Lossless-memory.
+
+Overall, the conversation highlights both enthusiasm for the potential of AI memory systems and the technical challenges that come with developing them, as well as differing opinions on the best approaches to take.
