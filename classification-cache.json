@@ -155771,6 +155771,10 @@
     "probability": 0.363,
     "title": "Paramount 'Leaks' Study Saying California Will Suffer If Its Merger Is Blocked"
   },
+  "49734891": {
+    "probability": 0.61,
+    "title": "Cert/CC covers up Google's data retention fraud"
+  },
   "49734929": {
     "probability": 0.185,
     "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind"
@@ -157067,6 +157071,10 @@
     "probability": 0.465,
     "title": "The Lamentable Later Life of Lemmings"
   },
+  "49767316": {
+    "probability": 0.617,
+    "title": "The LLMs Yearn for the Spines"
+  },
   "49767386": {
     "probability": 0.543,
     "title": "Jobs Without LeetCode"
@@ -157094,6 +157102,10 @@
   "49768108": {
     "probability": 0.752,
     "title": "Lawsuit: Illegal Agreement of Anthropic, OpenAI, SpaceXAI, Google on AI Slowdown"
+  },
+  "49768336": {
+    "probability": 0.554,
+    "title": "The Effect of CRTs on Pixel Art (2024)"
   },
   "49768347": {
     "probability": 0.286,
@@ -157279,6 +157291,10 @@
     "probability": 0.291,
     "title": "Mapping Trump's Crypto Empire on Last Week Tonight"
   },
+  "49771213": {
+    "probability": 0.452,
+    "title": "App building platform for young kids to learn how to code"
+  },
   "49771218": {
     "probability": 0.563,
     "title": "Apple iPhone 18 Pro Camera test"
@@ -157455,6 +157471,14 @@
     "probability": 0.279,
     "title": "The senior engineer death spiral"
   },
+  "49776306": {
+    "probability": 0.51,
+    "title": "The monopoly behind your TI graphing calculator"
+  },
+  "49776523": {
+    "probability": 0.844,
+    "title": "Show HN: A competition for small neural networks that play strategy games"
+  },
   "49776589": {
     "probability": 0.548,
     "title": "If You Knew God Exists, Wouldn't You Become a Priest?"
@@ -157474,6 +157498,10 @@
   "49776729": {
     "probability": 0.686,
     "title": "ChatGPT now knows what you do on other websites via ad collector"
+  },
+  "49776796": {
+    "probability": 0.376,
+    "title": "What's been going on in w64devkit the past year"
   },
   "49776826": {
     "probability": 0.401,
@@ -157547,9 +157575,21 @@
     "probability": 0.402,
     "title": "A Necessary History of the Oddest Letter: W"
   },
+  "49778341": {
+    "probability": 0.751,
+    "title": "Jensen Huang: Those warning on AI apocalypse \"have ulterior reasons\""
+  },
   "49778367": {
     "probability": 0.752,
     "title": "Andrew Ng: AI Extinction Fears Are 'Science Fiction'"
+  },
+  "49778400": {
+    "probability": 0.628,
+    "title": "In Fighting for Every Black Child, Did I Betray My Own?"
+  },
+  "49778425": {
+    "probability": 0.656,
+    "title": "Lego Brick Sorting Machine Uses AI to Save Millions from Landfill [video]"
   },
   "49778670": {
     "probability": 0.381,
@@ -157566,5 +157606,197 @@
   "49779432": {
     "probability": 0.394,
     "title": "Frontier Labs Are Selling Garbage to Fools in Washington"
+  },
+  "49779563": {
+    "probability": 0.801,
+    "title": "Autolith: The Common Lisp agent that rewrites itself and rocks"
+  },
+  "49779766": {
+    "probability": 0.448,
+    "title": "We got a cybersecurity expert to hack this BYD. It was too easy"
+  },
+  "49779802": {
+    "probability": 0.796,
+    "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week"
+  },
+  "49779858": {
+    "probability": 0.477,
+    "title": "Base Browser: A hard fork of Firefox with no AI slop"
+  },
+  "49780022": {
+    "probability": 0.279,
+    "title": "Ogre Battle 64 Recompiled Project at 99.05%"
+  },
+  "49780064": {
+    "probability": 0.394,
+    "title": "Nobody pays for FOSS, we can force them to"
+  },
+  "49780162": {
+    "probability": 0.521,
+    "title": "I stopped drinking the AI Kool-Aid"
+  },
+  "49780466": {
+    "probability": 0.36,
+    "title": "Nipple tattooist 'frustrated' by online censorship"
+  },
+  "49780622": {
+    "probability": 0.404,
+    "title": "Line Scan Photos from MUNI Heritage Weekend in San Francisco"
+  },
+  "49780630": {
+    "probability": 0.359,
+    "title": "Bill to Ban Private Equity from Owning Medical Practices"
+  },
+  "49780704": {
+    "probability": 0.745,
+    "title": "Not all AI workers think the tech could kill everyone"
+  },
+  "49780797": {
+    "probability": 0.686,
+    "title": "AX – Google’s Open Agentic Orchestrator"
+  },
+  "49780820": {
+    "probability": 0.335,
+    "title": "What happened to the Snowden archive"
+  },
+  "49780849": {
+    "probability": 0.819,
+    "title": "Show HN: jevals – replacing LLM judges with typed Jev decisions"
+  },
+  "49781032": {
+    "probability": 0.494,
+    "title": "Show HN: Lightspeed, build real time apps the Laravel way (+asteroids demo)"
+  },
+  "49781110": {
+    "probability": 0.243,
+    "title": "The viewers ditching streaming 'rot' in favour of DVDs"
+  },
+  "49781138": {
+    "probability": 0.843,
+    "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR"
+  },
+  "49781170": {
+    "probability": 0.767,
+    "title": "How Anthropic CEO Dario Amodei's Writings Help Explain A.I. Fears"
+  },
+  "49781194": {
+    "probability": 0.155,
+    "title": "The addiction of online sports gambling: \"Like crack in the '80s\""
+  },
+  "49781436": {
+    "probability": 0.367,
+    "title": "Amiga Unix, Again"
+  },
+  "49781693": {
+    "probability": 0.812,
+    "title": "Why Backprop Goes Backward (2018)"
+  },
+  "49781694": {
+    "probability": 0.688,
+    "title": "Jev, Prolog, Pi, and the dream of probabilistic logic programming"
+  },
+  "49781727": {
+    "probability": 0.636,
+    "title": "Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter"
+  },
+  "49781977": {
+    "probability": 0.696,
+    "title": "Flock Partnered with Nonprofit That Uses AI to Rally Public Support"
+  },
+  "49782056": {
+    "probability": 0.31,
+    "title": "Nobel economists throw support behind California billionaire tax"
+  },
+  "49782220": {
+    "probability": 0.48,
+    "title": "Deterministic Core, Non-Deterministic Shell"
+  },
+  "49782242": {
+    "probability": 0.839,
+    "title": "Can I Let My AI Agent Run on Shabbat?"
+  },
+  "49782409": {
+    "probability": 0.718,
+    "title": "AI Weekly Warns Firms on Google AI Studio Data Retention Fraud"
+  },
+  "49782430": {
+    "probability": 0.677,
+    "title": "Coding Theory: A Playful Introduction"
+  },
+  "49782775": {
+    "probability": 0.366,
+    "title": "Winning the visa lottery"
+  },
+  "49782916": {
+    "probability": 0.844,
+    "title": "The president wanted to unleash AI. Then came Anthropic"
+  },
+  "49782986": {
+    "probability": 0.216,
+    "title": "College Is Coming Apart After Successive, Overlapping Crises"
+  },
+  "49783062": {
+    "probability": 0.774,
+    "title": "AI chatbots give wrong answers to financial queries 'most of the time'"
+  },
+  "49783101": {
+    "probability": 0.911,
+    "title": "Heretic removes restrictions from language models"
+  },
+  "49783133": {
+    "probability": 0.945,
+    "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM"
+  },
+  "49783406": {
+    "probability": 0.342,
+    "title": "Far-left party wins Berlin election, pledging to nationalise housing"
+  },
+  "49783495": {
+    "probability": 0.578,
+    "title": "Grim Fandango Puzzle Document (1996) [pdf]"
+  },
+  "49783568": {
+    "probability": 0.457,
+    "title": "Elektron Machinedrum in the Browser"
+  },
+  "49783710": {
+    "probability": 0.307,
+    "title": "North Korean Hackers Posed as Recruiters. They Infected 30k Devices Worldwide"
+  },
+  "49783849": {
+    "probability": 0.426,
+    "title": "Raspberry Pi 5 EEPROM update now blocks manual RAM upgrades"
+  },
+  "49783999": {
+    "probability": 0.769,
+    "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5"
+  },
+  "49784336": {
+    "probability": 0.35,
+    "title": "Disney+: New user agreement allows ads before movies in all subscriptions"
+  },
+  "49784366": {
+    "probability": 0.646,
+    "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches"
+  },
+  "49784706": {
+    "probability": 0.473,
+    "title": "Jev-Leftpad"
+  },
+  "49785036": {
+    "probability": 0.394,
+    "title": "Trump Ramps Up Bid to Dismantle International Criminal Court"
+  },
+  "49785397": {
+    "probability": 0.717,
+    "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You"
+  },
+  "49785429": {
+    "probability": 0.752,
+    "title": "ZuckOff Know when a camera is in the room"
+  },
+  "49786689": {
+    "probability": 0.467,
+    "title": "Raspberry Pi blocks changing RAM chips"
   }
 }

@@ -1,0 +1,8 @@
+Can I Let My AI Agent Run on Shabbat?  (33 pts, 16 comments)
+https://news.ycombinator.com/item?id=49782242
+
+The Hacker News discussion revolves around the question of whether it's permissible for an AI agent to operate on Shabbat, the Jewish day of rest. The original post references a Chabad article that explores the intersection of AI technology and religious observance, particularly focusing on the implications of allowing an AI to perform tasks during this sacred time.
+
+In the comments, users express a range of opinions. Some highlight the historical context of Shabbat and its rules, while others question the relevance of these ancient laws in modern society, suggesting that strict interpretations can feel performative. There is a debate about the role of AI in religious observance, with some suggesting that the nature of the AI's tasks (e.g., market trading vs. intellectual pursuits) could influence whether its operation is acceptable. Others draw parallels to historical Jewish practices, such as the use of golems, and discuss the complexities of interpreting religious laws in contemporary contexts.
+
+Notable insights include the idea that constraints can lead to innovation, as seen in the development of appliances like crockpots, and the acknowledgment that personal freedom can be limited by both religious and secular laws. Some commenters express a desire for clarity from religious authorities on these modern dilemmas, while others emphasize the importance of individual interpretation and autonomy in religious practice.
