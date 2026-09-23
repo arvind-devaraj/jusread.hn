@@ -1,0 +1,8 @@
+Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why  (42 pts, 7 comments)
+https://news.ycombinator.com/item?id=49803683
+
+The Hacker News discussion centers around a project called AI·rete·RAG, which combines a Rete rule engine with a retrieval-augmented generation (RAG) model to create an auditable decision-making system. The creator, Zahara Hussain, designed it to address concerns about using large language models (LLMs) for critical decisions without proper oversight. The system evaluates rules in a consistent manner and provides explanations for decisions based on policy documents, ensuring that the verdict cannot be altered by the LLM.
+
+In the comments, users express a mix of curiosity and skepticism. Some question the necessity of using an LLM for explanations when the rules themselves could be displayed directly. Others share their experiences with similar technologies, highlighting the potential for practical applications in various fields, such as utility operations and lending. Notably, there is interest in how the system could improve understanding and transparency in automated decision-making processes.
+
+Overall, the discussion reflects a recognition of the importance of accountability in AI-driven decisions, with users offering insights into both the technical aspects and real-world implications of such systems.

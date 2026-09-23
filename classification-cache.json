@@ -158195,6 +158195,10 @@
     "probability": 0.39,
     "title": "Twenty-Five Years Upstream"
   },
+  "49791296": {
+    "probability": 0.523,
+    "title": "Show HN: Conway's Game of Life in boot sector"
+  },
   "49791321": {
     "probability": 0.706,
     "title": "Boomers love making AI images of their grandkids. Millennial parents hate it"
@@ -158491,6 +158495,10 @@
     "probability": 0.344,
     "title": "Verda (Finland) raises $189M in Series B"
   },
+  "49798800": {
+    "probability": 0.495,
+    "title": "How software gets permission today"
+  },
   "49799083": {
     "probability": 0.227,
     "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\""
@@ -158498,6 +158506,10 @@
   "49799187": {
     "probability": 0.438,
     "title": "A Tokyo school counts the mornings it can see Mt. Fuji: 22 in 1965, 170 in 2023"
+  },
+  "49799241": {
+    "probability": 0.735,
+    "title": "Show HN: An atlas of system designs with interactive architecture diagrams"
   },
   "49799287": {
     "probability": 0.646,
@@ -158522,6 +158534,10 @@
   "49800259": {
     "probability": 0.356,
     "title": "What Capital Never Told You About Rent"
+  },
+  "49800513": {
+    "probability": 0.709,
+    "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs"
   },
   "49800566": {
     "probability": 0.956,
@@ -158723,6 +158739,10 @@
     "probability": 0.719,
     "title": "Unreal Agent"
   },
+  "49805887": {
+    "probability": 0.298,
+    "title": "DoorDash Agrees to $131.5M Settlement for Shortchanging Workers"
+  },
   "49805911": {
     "probability": 0.578,
     "title": "Tell HN: Substack obfuscating text to break reading mode"
@@ -158871,9 +158891,29 @@
     "probability": 0.877,
     "title": "The new CC, an AI agent built for families"
   },
+  "49809935": {
+    "probability": 0.483,
+    "title": "Web-based IBM 1620 emulator and IPL-V from 1963"
+  },
+  "49809939": {
+    "probability": 0.373,
+    "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules"
+  },
+  "49810083": {
+    "probability": 0.765,
+    "title": "I'm sick of Claudisms, & what will happen next in AI-boosted software dev"
+  },
+  "49810113": {
+    "probability": 0.522,
+    "title": "Can the US Build a DJI? A Teardown of Two DJI Drones"
+  },
   "49810231": {
     "probability": 0.752,
     "title": "Trump says US will henceforth call AI 'super intelligence'"
+  },
+  "49810596": {
+    "probability": 0.76,
+    "title": "The OpenEvidence Model Family"
   },
   "49810641": {
     "probability": 0.37,
@@ -158882,6 +158922,10 @@
   "49810829": {
     "probability": 0.645,
     "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'"
+  },
+  "49810837": {
+    "probability": 0.306,
+    "title": "The Business of Building God"
   },
   "49810905": {
     "probability": 0.39,
@@ -158963,9 +159007,17 @@
     "probability": 0.258,
     "title": "Netherlands bracing for potentially devastating US sanctions against the ICC"
   },
+  "49813482": {
+    "probability": 0.4,
+    "title": "Tokens too cheap to meter"
+  },
   "49813604": {
     "probability": 0.314,
     "title": "My German Exit Tax: 13 Tax Advisors, 1.5 Years, 18.7k€ to leave the country"
+  },
+  "49814019": {
+    "probability": 0.54,
+    "title": "GPT-6 Astra has made a major breakthrough in the Goldbach Conjecture"
   },
   "49814159": {
     "probability": 0.348,
@@ -158974,5 +159026,249 @@
   "49814211": {
     "probability": 0.807,
     "title": "The Download: why AI's latest breakthroughs and fears may be more hype than rea"
+  },
+  "49814236": {
+    "probability": 0.423,
+    "title": "Z80 REPL (2018)"
+  },
+  "49814432": {
+    "probability": 0.416,
+    "title": "Two Git ignore files nobody told me about"
+  },
+  "49814947": {
+    "probability": 0.799,
+    "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]"
+  },
+  "49815066": {
+    "probability": 0.921,
+    "title": "Show HN: Jevper – the Jev interface on top of any OpenAI-compatible model"
+  },
+  "49815095": {
+    "probability": 0.865,
+    "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent"
+  },
+  "49815127": {
+    "probability": 0.873,
+    "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'"
+  },
+  "49815168": {
+    "probability": 0.633,
+    "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery"
+  },
+  "49815344": {
+    "probability": 0.892,
+    "title": "What AI-Native Looks Like"
+  },
+  "49815381": {
+    "probability": 0.427,
+    "title": "Samsung accidentally freezes its smart fridges with a software update"
+  },
+  "49815466": {
+    "probability": 0.46,
+    "title": "I don't want the details"
+  },
+  "49815484": {
+    "probability": 0.52,
+    "title": "The GitHub wiki is an anti-pattern (2022)"
+  },
+  "49815526": {
+    "probability": 0.502,
+    "title": "The Price of Intelligence Is Falling Rapidly"
+  },
+  "49815666": {
+    "probability": 0.616,
+    "title": "Katamari Object Library"
+  },
+  "49815982": {
+    "probability": 0.683,
+    "title": "Stripe's Knowledge AI Platform"
+  },
+  "49816143": {
+    "probability": 0.286,
+    "title": "Socialism's Positive Rating Tops 40% for First Time"
+  },
+  "49816171": {
+    "probability": 0.302,
+    "title": "It's 90 Degrees in the Arctic"
+  },
+  "49816176": {
+    "probability": 0.493,
+    "title": "Comma's hands-off driving tech under investigation after 2 fatal crashes"
+  },
+  "49816374": {
+    "probability": 0.3,
+    "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries"
+  },
+  "49816420": {
+    "probability": 0.378,
+    "title": "China's ByteDance gained access to over 2k Nvidia B200 chips through Norway"
+  },
+  "49816487": {
+    "probability": 0.693,
+    "title": "Jev in practice: typed decisions, scoped authority"
+  },
+  "49816525": {
+    "probability": 0.419,
+    "title": "Geely challenges BYD with 2.2 MW charging technology"
+  },
+  "49816553": {
+    "probability": 0.503,
+    "title": "Community condemn Bedminster AI mural as 'insult' to artists"
+  },
+  "49816567": {
+    "probability": 0.74,
+    "title": "Ask HN: What job boards are good these days?"
+  },
+  "49816658": {
+    "probability": 0.461,
+    "title": "Montreal adopts bylaw banning insults against police, municipal employees"
+  },
+  "49816807": {
+    "probability": 0.565,
+    "title": "LinkedIn is a terrible quality website"
+  },
+  "49816810": {
+    "probability": 0.502,
+    "title": "Trump's 1,156 July Stock Trades Involved AI, Big Oil, Weapons-Makers, and More"
+  },
+  "49816899": {
+    "probability": 0.497,
+    "title": "Jev Can't Be Calibrated"
+  },
+  "49817280": {
+    "probability": 0.49,
+    "title": "Why is Hacker News like that?"
+  },
+  "49817289": {
+    "probability": 0.515,
+    "title": "Strands Harness"
+  },
+  "49817404": {
+    "probability": 0.666,
+    "title": "GPT-6 Astra has gained the ability to drive a car"
+  },
+  "49817469": {
+    "probability": 0.306,
+    "title": "Fixing the Portobello Police Station Clock"
+  },
+  "49817524": {
+    "probability": 0.486,
+    "title": "Radicle: Disclosure of Vulnerability in the Network Protocol"
+  },
+  "49817615": {
+    "probability": 0.687,
+    "title": "Gemini 3.8 text-to-speech"
+  },
+  "49817636": {
+    "probability": 0.212,
+    "title": "What to Know About JavaScript in 2026"
+  },
+  "49817680": {
+    "probability": 0.399,
+    "title": "Rails World 2026 Opening Keynote [video]"
+  },
+  "49817741": {
+    "probability": 0.428,
+    "title": "Why 'What's Opera, Doc?' Looks Like That"
+  },
+  "49817877": {
+    "probability": 0.419,
+    "title": "Woman Arrested, Dragged Away After Speaking About Flock at City Council Meeting"
+  },
+  "49818285": {
+    "probability": 0.765,
+    "title": "ComfyUI launches OpenRouter for generative media"
+  },
+  "49818659": {
+    "probability": 0.83,
+    "title": "AI Is a Boring Technology"
+  },
+  "49818698": {
+    "probability": 0.394,
+    "title": "28% of job postings on company career sites have been open over 90 days"
+  },
+  "49819195": {
+    "probability": 0.269,
+    "title": "Fertility rate dropped over 50% within 10 years in Argentina"
+  },
+  "49819221": {
+    "probability": 0.183,
+    "title": "Italian parliament votes for return to nuclear energy"
+  },
+  "49819274": {
+    "probability": 0.356,
+    "title": "Morgan Stanley Investment-Bank Deal List Leaked in Email Misfire"
+  },
+  "49819658": {
+    "probability": 0.563,
+    "title": "What to do when your Waymo holds up a Secret Service motorcade"
+  },
+  "49819814": {
+    "probability": 0.337,
+    "title": "UK military jamming other nations' satellites to defend itself, BBC told"
+  },
+  "49819880": {
+    "probability": 0.476,
+    "title": "Making Tailscale Faster"
+  },
+  "49819972": {
+    "probability": 0.305,
+    "title": "Germany pledges to phase out fossil fuels for first time with target of 2045"
+  },
+  "49820065": {
+    "probability": 0.38,
+    "title": "A brief history of Windows scroll bar shortcuts"
+  },
+  "49820134": {
+    "probability": 0.611,
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats"
+  },
+  "49820136": {
+    "probability": 0.409,
+    "title": "Swap, ZRAM, Zswap and Hibernate on NixOS"
+  },
+  "49820267": {
+    "probability": 0.865,
+    "title": "Cloud Agents Are Inevitable AI Prisons"
+  },
+  "49820496": {
+    "probability": 0.782,
+    "title": "LensVLM: Compressing long context as images, expanding only relevant pages"
+  },
+  "49820718": {
+    "probability": 0.48,
+    "title": "If Carpenters Were Hired Like Programmers (2013)"
+  },
+  "49821086": {
+    "probability": 0.463,
+    "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes"
+  },
+  "49821196": {
+    "probability": 0.762,
+    "title": "Once Claude can measure something, it can make it faster"
+  },
+  "49821505": {
+    "probability": 0.589,
+    "title": "Euler's Eyes"
+  },
+  "49821608": {
+    "probability": 0.268,
+    "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why"
+  },
+  "49821925": {
+    "probability": 0.385,
+    "title": "How can this Amazon scammer keep going, not shipping any goods?"
+  },
+  "49822122": {
+    "probability": 0.361,
+    "title": "Why Omarchy Exists"
+  },
+  "49822186": {
+    "probability": 0.772,
+    "title": "LensVLM-9B by Apple"
+  },
+  "49822556": {
+    "probability": 0.771,
+    "title": "OpenAI Medicare Data Breach"
   }
 }
