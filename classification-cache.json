@@ -152179,6 +152179,10 @@
     "probability": 0.929,
     "title": "How My Students Think About AI"
   },
+  "49652499": {
+    "probability": 0.286,
+    "title": "Hired to Code, He Built Hudson River Trading and a $27B Fortune"
+  },
   "49652729": {
     "probability": 0.419,
     "title": "T-Mobile to Charge $5 a Month for iOS 27 iPhone Handoff"
@@ -157799,6 +157803,10 @@
     "probability": 0.367,
     "title": "Amiga Unix, Again"
   },
+  "49781492": {
+    "probability": 0.187,
+    "title": "A refined phylochronology of the second plague pandemic in Western Eurasia"
+  },
   "49781693": {
     "probability": 0.812,
     "title": "Why Backprop Goes Backward (2018)"
@@ -158179,6 +158187,10 @@
     "probability": 0.246,
     "title": "Seattle Bans Rental Junk Fees"
   },
+  "49790937": {
+    "probability": 0.666,
+    "title": "Show HN: Combinators in Array Languages"
+  },
   "49791117": {
     "probability": 0.679,
     "title": "Avoiding the babbling-idiot failure in a time-triggered communication system"
@@ -158222,6 +158234,10 @@
   "49791509": {
     "probability": 0.192,
     "title": "US halts flights at busy East Coast airports, says fiber line cut"
+  },
+  "49791558": {
+    "probability": 0.44,
+    "title": "Solving for faster SHA-1 collision detection"
   },
   "49791647": {
     "probability": 0.819,
@@ -158286,6 +158302,10 @@
   "49793138": {
     "probability": 0.388,
     "title": "All your base are belong to us"
+  },
+  "49793249": {
+    "probability": 0.324,
+    "title": "Women Who Sold Books Door to Door"
   },
   "49793312": {
     "probability": 0.682,
@@ -158395,6 +158415,10 @@
     "probability": 0.867,
     "title": "Claude Status – Elevated errors for multiple models"
   },
+  "49795600": {
+    "probability": 0.448,
+    "title": "Making portable my unportable transputer C compiler"
+  },
   "49795686": {
     "probability": 0.191,
     "title": "People Hooked on Vapes Try a New Way to Quit: Cigarettes"
@@ -158414,6 +158438,10 @@
   "49796292": {
     "probability": 0.348,
     "title": "Smart Ring Maker Oura, Backers Seek $2.2B in US IPO"
+  },
+  "49796372": {
+    "probability": 0.362,
+    "title": "The \"Windows XP Box\" (2003)"
   },
   "49796379": {
     "probability": 0.435,
@@ -158519,6 +158547,14 @@
     "probability": 0.371,
     "title": "Type Punning in C and C++"
   },
+  "49799702": {
+    "probability": 0.174,
+    "title": "The backend that ran every game we made, ten years and counting"
+  },
+  "49799855": {
+    "probability": 0.396,
+    "title": "The mystery animal on an ancient god's head"
+  },
   "49799910": {
     "probability": 0.538,
     "title": "Will Open Source Survive the Agents That Replaced It?"
@@ -158583,6 +158619,10 @@
     "probability": 0.739,
     "title": "US Military Modifies AI and Lethal Targeting Process After Iran School Strike"
   },
+  "49801700": {
+    "probability": 0.485,
+    "title": "Data liberation: Apache Kafka's native cluster mirroring"
+  },
   "49801782": {
     "probability": 0.73,
     "title": "Quantum information spreading via higher-order operator correlators"
@@ -158590,6 +158630,10 @@
   "49801939": {
     "probability": 0.466,
     "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy"
+  },
+  "49802005": {
+    "probability": 0.832,
+    "title": "Show HN: Hack – my Hacker News mobile client now lets you block AI posts"
   },
   "49802030": {
     "probability": 0.486,
@@ -158614,6 +158658,10 @@
   "49802619": {
     "probability": 0.818,
     "title": "If you start writing today, there's no way to know if you can write without AI"
+  },
+  "49802661": {
+    "probability": 0.354,
+    "title": "RAM: the forgotten history (2024)"
   },
   "49802789": {
     "probability": 0.768,
@@ -158774,6 +158822,10 @@
   "49806393": {
     "probability": 0.414,
     "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents' data"
+  },
+  "49806413": {
+    "probability": 0.417,
+    "title": "The Curious Power of Punctuation"
   },
   "49806430": {
     "probability": 0.651,
@@ -158962,6 +159014,10 @@
   "49811556": {
     "probability": 0.749,
     "title": "Big Banks Say They're Uneasy About People Shopping via AI Agents"
+  },
+  "49811648": {
+    "probability": 0.48,
+    "title": "What's Up with Liliputing?"
   },
   "49811734": {
     "probability": 0.42,
@@ -159199,6 +159255,10 @@
     "probability": 0.356,
     "title": "Morgan Stanley Investment-Bank Deal List Leaked in Email Misfire"
   },
+  "49819591": {
+    "probability": 0.481,
+    "title": "Hubble Network Opens Satellite Coverage to All Bluetooth Devices"
+  },
   "49819658": {
     "probability": 0.563,
     "title": "What to do when your Waymo holds up a Secret Service motorcade"
@@ -159231,6 +159291,10 @@
     "probability": 0.865,
     "title": "Cloud Agents Are Inevitable AI Prisons"
   },
+  "49820486": {
+    "probability": 0.87,
+    "title": "Ask HN: Do you offload your coding to AI, or keep your skills sharp?"
+  },
   "49820496": {
     "probability": 0.782,
     "title": "LensVLM: Compressing long context as images, expanding only relevant pages"
@@ -159238,6 +159302,10 @@
   "49820718": {
     "probability": 0.48,
     "title": "If Carpenters Were Hired Like Programmers (2013)"
+  },
+  "49820936": {
+    "probability": 0.463,
+    "title": "8 in 10 people aged 16-34 say smartphone use harms their everyday life"
   },
   "49821086": {
     "probability": 0.463,
@@ -159247,6 +159315,10 @@
     "probability": 0.762,
     "title": "Once Claude can measure something, it can make it faster"
   },
+  "49821484": {
+    "probability": 0.374,
+    "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges"
+  },
   "49821505": {
     "probability": 0.589,
     "title": "Euler's Eyes"
@@ -159254,6 +159326,10 @@
   "49821608": {
     "probability": 0.268,
     "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why"
+  },
+  "49821894": {
+    "probability": 0.757,
+    "title": "Jev vs. LLMs on 770 \"Am I the Asshole?\" posts"
   },
   "49821925": {
     "probability": 0.385,
@@ -159267,8 +159343,208 @@
     "probability": 0.772,
     "title": "LensVLM-9B by Apple"
   },
+  "49822322": {
+    "probability": 0.359,
+    "title": "Jensen Huang says the junior developer problem ends in two years"
+  },
+  "49822452": {
+    "probability": 0.254,
+    "title": "Heat May Kill 451,000 People in First 9 Months of Super El Niño"
+  },
+  "49822457": {
+    "probability": 0.65,
+    "title": "OpenAI hacked Australian Medicare portal"
+  },
+  "49822555": {
+    "probability": 0.424,
+    "title": "VSCode's SSH Agent Is Bananas (2025)"
+  },
   "49822556": {
     "probability": 0.771,
     "title": "OpenAI Medicare Data Breach"
+  },
+  "49822654": {
+    "probability": 0.713,
+    "title": "OpenAI agents hacked Australian Medicare system"
+  },
+  "49822860": {
+    "probability": 0.698,
+    "title": "An 'AI freeze' could make big AI companies bigger and hurt smaller firms"
+  },
+  "49822864": {
+    "probability": 0.399,
+    "title": "Claude's Load-Bearing Seams"
+  },
+  "49822903": {
+    "probability": 0.727,
+    "title": "Surprise, Meta's latest AI gimmick is just underpaid humans"
+  },
+  "49822921": {
+    "probability": 0.211,
+    "title": "Bulk Orders Surge at Used Bookstores in Japan; 50 Tons Sent to U.S."
+  },
+  "49822970": {
+    "probability": 0.494,
+    "title": "White House Says Access Is a 'Privilege' in Court Filing Defending Media Ban"
+  },
+  "49823062": {
+    "probability": 0.743,
+    "title": "OpenAI 'agent' hacked Australia's health service"
+  },
+  "49823108": {
+    "probability": 0.265,
+    "title": "Where's the Beef?: The lab-grown-meat revolution that wasn't"
+  },
+  "49823195": {
+    "probability": 0.356,
+    "title": "We just shipped support for the ugliest part of HTTP: Vary"
+  },
+  "49823348": {
+    "probability": 0.501,
+    "title": "Mercury 2.5 LLM hits 770 tokens per second"
+  },
+  "49823456": {
+    "probability": 0.412,
+    "title": "FBI Hack Exposed FBI's Own Hacking Unit"
+  },
+  "49823568": {
+    "probability": 0.468,
+    "title": "Toyota is finally taking its best-seller electric"
+  },
+  "49823582": {
+    "probability": 0.443,
+    "title": "Linux support is coming to Snapdragon X2 Series"
+  },
+  "49823628": {
+    "probability": 0.35,
+    "title": "ASML currently sells no chipmaking machines in Europe, executive says"
+  },
+  "49823664": {
+    "probability": 0.462,
+    "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit"
+  },
+  "49823922": {
+    "probability": 0.254,
+    "title": "We've Turned Starlink into a Planetary Barometer"
+  },
+  "49824061": {
+    "probability": 0.616,
+    "title": "Stanford violated AI policy after race-swapping students in ad"
+  },
+  "49824268": {
+    "probability": 0.699,
+    "title": "Meta VR Glasses"
+  },
+  "49824686": {
+    "probability": 0.779,
+    "title": "Feds Target AI Critics as \"Foreign Agents\""
+  },
+  "49824715": {
+    "probability": 0.508,
+    "title": "Show HN: An open-source manufacturing ERP/MES/QMS"
+  },
+  "49824864": {
+    "probability": 0.624,
+    "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest"
+  },
+  "49824884": {
+    "probability": 0.474,
+    "title": "Nesbox: A fast MicroVM with GPU sharing"
+  },
+  "49824957": {
+    "probability": 0.747,
+    "title": "We used an AI agent to fix an open-source bug. Someone asked to ban us"
+  },
+  "49824969": {
+    "probability": 0.602,
+    "title": "FLAWED's Flaws and What This Means for Industry Research"
+  },
+  "49824986": {
+    "probability": 0.923,
+    "title": "AP: Avoid language that gives [AI] human characteristics"
+  },
+  "49825016": {
+    "probability": 0.253,
+    "title": "Pentagon Investigating How F-35 Fighter Jet Parts Bound for US Were Diverted"
+  },
+  "49825024": {
+    "probability": 0.698,
+    "title": "Australia says OpenAI agent hacked into government website"
+  },
+  "49825580": {
+    "probability": 0.71,
+    "title": "OpenAI agent hacked Australian government website, PM says"
+  },
+  "49825642": {
+    "probability": 0.482,
+    "title": "Ideas on modernizing the open-source desktop"
+  },
+  "49826029": {
+    "probability": 0.868,
+    "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards"
+  },
+  "49826059": {
+    "probability": 0.575,
+    "title": "Show HN: How long do I need to work at my salary before I can coast, or retire?"
+  },
+  "49826076": {
+    "probability": 0.817,
+    "title": "OpenAI's Next Marketing Stunt"
+  },
+  "49826113": {
+    "probability": 0.26,
+    "title": "A 13-Year-Old Has Been Cured of DIPG, the Deadliest Childhood Brain Cancer"
+  },
+  "49826197": {
+    "probability": 0.363,
+    "title": "Trump White House Press Ban Matches 1933 Nazi Law"
+  },
+  "49826221": {
+    "probability": 0.936,
+    "title": "Contrastive Language Models"
+  },
+  "49826424": {
+    "probability": 0.612,
+    "title": "Katamari Object Library"
+  },
+  "49826482": {
+    "probability": 0.342,
+    "title": "Six-year-old breaks women's world Rubik's Cube record [video]"
+  },
+  "49826565": {
+    "probability": 0.707,
+    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net"
+  },
+  "49827002": {
+    "probability": 0.572,
+    "title": "AI Passport Photo"
+  },
+  "49827616": {
+    "probability": 0.328,
+    "title": "Microsoft tried to ban \"Microslop\", and six months later it has given up"
+  },
+  "49827794": {
+    "probability": 0.679,
+    "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta"
+  },
+  "49828133": {
+    "probability": 0.856,
+    "title": "AI has no intent and no motivation"
+  },
+  "49828385": {
+    "probability": 0.413,
+    "title": "Nokia Design Archive (2025)"
+  },
+  "49828409": {
+    "probability": 0.25,
+    "title": "Starlink ground station in Poland hit by fire in suspected arson attack"
+  },
+  "49828744": {
+    "probability": 0.848,
+    "title": "Agent IAP – Little Snitch Meets 1Password for AI Agents"
+  },
+  "49828969": {
+    "probability": 0.362,
+    "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi"
   }
 }
