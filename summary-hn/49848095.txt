@@ -1,0 +1,8 @@
+Meta's Muse appears to use an OpenAI model labeled muse-special  (76 pts, 34 comments)
+https://news.ycombinator.com/item?id=49848095
+
+The Hacker News discussion revolves around a blog post that suggests Meta's Muse may be utilizing an OpenAI model labeled "muse-special" hosted on Azure. The author, Aeroi, discovered this while exploring the Muse filesystem and found evidence pointing to an OpenAI model being used in the background during website building.
+
+In the comments, there is a mix of agreement and skepticism regarding the implications of this discovery. Some users, like VygmraMGVl, assert that Muse's APIs are heavily inspired by OpenAI's, suggesting a close relationship between the two. Others, like Tiberium, argue that the title of the blog post is misleading and that there isn't enough evidence to definitively claim it's an OpenAI model. A recurring theme is the question of why Meta would route requests through OpenAI's models when they have their own, with some speculating it could be due to concerns about the quality of their own outputs.
+
+Notable insights include the acknowledgment that Meta may be using OpenAI's models for specific tasks while still developing its own, and the broader implications of software companies relying on each other's technologies. The discussion highlights the complexities of AI model deployment and the potential for collaboration or competition in the tech industry.

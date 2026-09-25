@@ -1,0 +1,8 @@
+Paul Graham on LLMs 'Thinking'  (12 pts, 23 comments)
+https://news.ycombinator.com/item?id=49838788
+
+The Hacker News discussion revolves around Paul Graham's comments on whether large language models (LLMs) can be considered "thinking." The post sparked a debate about the implications of using anthropomorphic language to describe LLMs and the nature of their "reasoning."
+
+In the comments, there is a divide between those who argue that referring to LLMs as "thinking" is misleading and reflects a misunderstanding of the technology, and those who believe that language evolves and that such terms may eventually hold meaning in this context. Some commenters express frustration with the philosophical questions surrounding AI consciousness, while others highlight the challenges of discussing LLM behavior without anthropomorphism. 
+
+Notable insights include the idea that language shapes our understanding of technology, and the concern that attributing human-like qualities to LLMs could diminish accountability. Additionally, some commenters question whether Graham's views are influenced by financial incentives, suggesting a broader skepticism about the motivations behind discussions on AI capabilities. Overall, the conversation reflects a mix of skepticism, philosophical inquiry, and concern about the future of human thinking in relation to AI advancements.

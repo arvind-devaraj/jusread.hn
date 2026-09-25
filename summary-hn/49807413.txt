@@ -1,0 +1,8 @@
+Ask HN: When is fine-tuning a small LLM worth it?  (10 pts, 13 comments)
+https://news.ycombinator.com/item?id=49807413
+
+The Hacker News discussion revolves around the question of when it is worthwhile to fine-tune a small language model (LLM). The original poster seeks insights and experiences from others regarding specific tasks, models used, and the outcomes of their fine-tuning efforts.
+
+In the comments, several key points emerge. Many contributors agree that fine-tuning is beneficial if there is a sufficient amount of data and cost-effective infrastructure available. Some suggest that the hosting costs can be a significant barrier, while others express hope for upcoming multi-tenant solutions that could alleviate this issue. A few commenters argue that fine-tuning small models can be a good way to learn the process, especially for specialized tasks requiring privacy. However, there is also skepticism about the effectiveness of fine-tuning small models compared to using larger, up-to-date models with few-shot prompting, which may offer better performance at lower costs.
+
+Notable insights include a variety of personal experiences, such as attempts to train models for specific games or tasks, and reflections on the limitations of AI in certain applications. Overall, the discussion highlights a mix of optimism and caution regarding the fine-tuning of small LLMs, emphasizing the importance of data quality and infrastructure considerations.

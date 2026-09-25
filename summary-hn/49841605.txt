@@ -1,0 +1,6 @@
+OpenAI $500 ProMax plan listed in API  (14 pts, 14 comments)
+https://news.ycombinator.com/item?id=49841605
+
+The Hacker News discussion revolves around the emergence of a new $500 ProMax plan listed in OpenAI's API, indicating a trend towards higher pricing for AI services. Users express concerns about the increasing costs of AI, with some noting that other platforms, like trae.ai, have also reduced their plan credits, suggesting a broader trend in the market.
+
+Commenters debate the sustainability of such pricing, with some questioning how high prices can go before they become unaffordable for users, especially in non-US markets. There is a discussion about the concept of "unlimited" usage, with differing opinions on whether it is feasible or merely a marketing term. Some users express frustration with the current pricing model, while others suggest that the cost of AI services may eventually decrease as technology advances. Notably, one user highlights the limitations of current cloud solutions compared to competitors, indicating a preference for alternatives that offer better performance. Overall, the conversation reflects a mix of skepticism and hope regarding the future of AI pricing and accessibility.
