@@ -1,0 +1,8 @@
+AI is deciding whether or not people receive medical care  (15 pts, 5 comments)
+https://news.ycombinator.com/item?id=49838266
+
+The Hacker News discussion revolves around an article that highlights the increasing role of AI in determining whether individuals receive medical care, particularly in the context of health insurance companies like United, Cigna, and Humana. The post raises concerns about the ethical implications of relying on AI for such critical decisions.
+
+In the comments, there is a consensus on the dangers of using AI in healthcare, with users expressing skepticism about its ethical framework. Some argue that AI's non-deterministic nature allows for a lack of accountability, making it easier for companies to deny responsibility for decisions made by algorithms. Others point out that the absence of ethics in AI is a deliberate choice, suggesting that it reflects a troubling trend in how healthcare is managed.
+
+Notable insights include the idea that AI can create a facade of objectivity while potentially leading to harmful outcomes, as well as the notion that the reliance on AI could result in a lack of transparency and understanding in medical decision-making. Overall, the discussion underscores a significant concern about the intersection of technology and healthcare ethics.
