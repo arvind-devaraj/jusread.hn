@@ -159947,6 +159947,10 @@
     "probability": 0.215,
     "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators"
   },
+  "49835096": {
+    "probability": 0.458,
+    "title": "Postgres SELECT DISTINCT Does Not Scale"
+  },
   "49835237": {
     "probability": 0.668,
     "title": "GPT-6 Sol is like GPT-5.6 Terra, GPT-6 Luna is like GPT-5.6 Asteroid"
@@ -160063,6 +160067,14 @@
     "probability": 0.38,
     "title": "GitLab Outage"
   },
+  "49838040": {
+    "probability": 0.393,
+    "title": "The Murky History of Soviet-Born Tetris"
+  },
+  "49838247": {
+    "probability": 0.482,
+    "title": "Remembering Johannes Doerfert"
+  },
   "49838260": {
     "probability": 0.801,
     "title": "Rails and AI"
@@ -160094,6 +160106,10 @@
   "49839672": {
     "probability": 0.582,
     "title": "Show HN: Avoid smooth spinners, use low-FPS spinners"
+  },
+  "49840054": {
+    "probability": 0.536,
+    "title": "Plan mode is dead"
   },
   "49840300": {
     "probability": 0.439,
@@ -160159,6 +160175,14 @@
     "probability": 0.455,
     "title": "Theranos founder reportedly to be transferred to halfway home next year"
   },
+  "49842409": {
+    "probability": 0.567,
+    "title": "I wrote a ray tracer in Brainfuck"
+  },
+  "49842462": {
+    "probability": 0.484,
+    "title": "An airport cooled by natural ventilation"
+  },
   "49842483": {
     "probability": 0.214,
     "title": "Oracle on the hook to pay data centre investors even if site has no electricity"
@@ -160202,6 +160226,10 @@
   "49843899": {
     "probability": 0.359,
     "title": "Nobody Asked for a Crab Chair"
+  },
+  "49844497": {
+    "probability": 0.633,
+    "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about"
   },
   "49844642": {
     "probability": 0.464,
@@ -160363,6 +160391,14 @@
     "probability": 0.466,
     "title": "Supreme Court permits states to use SAVE database for citizenship checks"
   },
+  "49848955": {
+    "probability": 0.498,
+    "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?"
+  },
+  "49849141": {
+    "probability": 0.504,
+    "title": "How we learned to stop worrying and love campus surveillance"
+  },
   "49849312": {
     "probability": 0.156,
     "title": "Rising sea destroys homes, erases beaches in California"
@@ -160371,8 +160407,60 @@
     "probability": 0.853,
     "title": "Too AI; Didn't Read"
   },
+  "49849832": {
+    "probability": 0.455,
+    "title": "Excel now supports multiple values in a single cell"
+  },
+  "49849985": {
+    "probability": 0.885,
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face"
+  },
   "49850042": {
     "probability": 0.894,
     "title": "\"Someone just sent me an ad that features an AI version of me. What do I do?\""
+  },
+  "49850305": {
+    "probability": 0.357,
+    "title": "What even is an OS now?"
+  },
+  "49850999": {
+    "probability": 0.873,
+    "title": "FTC chair suggests AI developers should be liable for conduct of agents"
+  },
+  "49851032": {
+    "probability": 0.454,
+    "title": "Tell HN: Codex Is Down [fixed]"
+  },
+  "49851759": {
+    "probability": 0.261,
+    "title": "Brazil Bans Online Betting"
+  },
+  "49852065": {
+    "probability": 0.42,
+    "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days"
+  },
+  "49852302": {
+    "probability": 0.473,
+    "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case"
+  },
+  "49852717": {
+    "probability": 0.398,
+    "title": "We're gonna need a lot more mathematicians"
+  },
+  "49853175": {
+    "probability": 0.938,
+    "title": "A single function Jev-like wrapper for LLMs, including vision models"
+  },
+  "49854399": {
+    "probability": 0.677,
+    "title": "CAPTCHAs don't prove you're human – they prove you're American"
+  },
+  "49854693": {
+    "probability": 0.293,
+    "title": "Fifteen years later, the Apple Cards origin story"
+  },
+  "49854875": {
+    "probability": 0.674,
+    "title": "How to keep enjoying programming in a world of LLMs"
   }
 }
