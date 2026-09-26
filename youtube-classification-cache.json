@@ -1,0 +1,3470 @@
+{
+  "--DenwMEBtk": {
+    "title": "Private video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "--NZb480zlg": {
+    "title": "Week 5 – Lecture: Optimisation",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "-DGMjrOiyO8": {
+    "title": "Introduction to Large Language Models (LLMs)",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "-KK8SuvwoRQ": {
+    "title": "China’s DeepSeek - A Balanced Overview",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "-Ll8DtpNtvk": {
+    "title": "Build an LLM from Scratch 3: Coding attention mechanisms",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "-P62N9lb_Rs": {
+    "title": "Deep Learning: Understanding the Core Concepts - F. Cicala (Google)",
+    "topic": "Neural Network Foundations"
+  },
+  "-SeGfpu3hn0": {
+    "title": "Instruction Fine-Tuning and In-Context Learning of LLM (w/ Symbols)",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "-TMy_fzSDHw": {
+    "title": "DALL-E: Generates Images from Text",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "-igxoH9mPeE": {
+    "title": "Transformers are Universal Learning Machines",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "00CDaXujiSQ": {
+    "title": "AI Engineering: A Practical Guide to Building Real-World AI Systems",
+    "topic": "AI Agents"
+  },
+  "0FHdB00Mx7c": {
+    "title": "Malte Pietsch – The Invasion of Transformers - Boosting Search with Latest NLP",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "0KeR6i1_56g": {
+    "title": "Week 10 – Lecture: Self-supervised learning (SSL) in computer vision (CV)",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "0PGRqDy9C04": {
+    "title": "nanochat by Karpathy - How to build your own ChatGPT for $100",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "0QczhVg5HaI": {
+    "title": "Why Neural Networks can learn (almost) anything",
+    "topic": "Neural Network Foundations"
+  },
+  "0SmNEp4zTpc": {
+    "title": "Transformers - Part 1 - Self-attention: an introduction",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "0VH1Lim8gL8": {
+    "title": "Deep Learning State of the Art (2020)",
+    "topic": "Research & Literature Review"
+  },
+  "0VLAoVGf_74": {
+    "title": "How DeepSeek Rewrote the Transformer [MLA]",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "0_lKUPYEYyY": {
+    "title": "Types of Machine Learning 2",
+    "topic": "Supervised Learning"
+  },
+  "0bMe_vCZo30": {
+    "title": "Week 1 – Lecture: History, motivation, and evolution of Deep Learning",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "0e3IwVOEEns": {
+    "title": "Machine Learning: the algebra behind the hype",
+    "topic": "Linear Algebra for ML"
+  },
+  "0pP4EwWJgIU": {
+    "title": "Comparing machine learning models in scikit-learn",
+    "topic": "Model Evaluation & Metrics"
+  },
+  "0sW-oWuHxX4": {
+    "title": "What is DeepSeek? [Technical Report Explained] | Multi-Head Latent Attention | Mixture of Experts",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "0u2hdSpNS2o": {
+    "title": "(How) Do LLMs Reason/Plan? (Talk given at Microsoft Research; 4/11/25)",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "0v7TQIh_kes": {
+    "title": "Anthropic Revealed Secrets to Building Powerful Agents",
+    "topic": "AI Agents"
+  },
+  "13CZPWmke6A": {
+    "title": "Ilya Sutskever: Deep Learning | Lex Fridman Podcast #94",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "16gVylZniJE": {
+    "title": "Building intelligent agents with Gemma 3",
+    "topic": "AI Agents"
+  },
+  "1BFE1Tfs8tM": {
+    "title": "Attention is all you need. A Transformer Tutorial. 1: Self-Attention",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "1LzdESG6-2E": {
+    "title": "The power of Bayesian reasoning | BBC Ideas",
+    "topic": "Probability & Statistics"
+  },
+  "1OI0uuz9jkI": {
+    "title": "Intro to Reinforcement Learning Made Simple",
+    "topic": "Reinforcement Learning"
+  },
+  "1OLrT3dEzhA": {
+    "title": "Building AI Agents from Scratch | Full Course",
+    "topic": "AI Agents"
+  },
+  "1W-sWmFQPZY": {
+    "title": "BERT v/s Word2Vec Simplest Example",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "1WHaFWMMXLI": {
+    "title": "Mathematics of LLMs in Everyday Language",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "1fXB0Lc9RMI": {
+    "title": "Dive into Deep Learning - Lecture 4: Logistic/Softmax regression and Cross Entropy Loss with PyTorch",
+    "topic": "Loss Functions & Information Theory (Entropy, KL Divergence)"
+  },
+  "1il-s4mgNdI": {
+    "title": "What does it mean for computers to understand language? | LM1",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "1oYRBUXb0NU": {
+    "title": "Data Learning: Towards Better Understanding of Contrastive Learning",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "1pgiu--4W3I": {
+    "title": "The Breakthrough Behind Modern AI Image Generators | Diffusion Models Part 1",
+    "topic": "Generative Models"
+  },
+  "1pmyTnGOevU": {
+    "title": "Introduction to LLM Post Training by Maxime Labonne, PhD",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "1qHR9G8ojQg": {
+    "title": "Recent advances in NLP By Manu Chandra Chief Data Scientist & Co-founder at FN MathLogic",
+    "topic": "AI Product Strategy"
+  },
+  "1whm0D1984g": {
+    "title": "Intro to AI Agents and how to build them",
+    "topic": "AI Agents"
+  },
+  "1yvBqasHLZs": {
+    "title": "Ilya Sutskever: \"Sequence to sequence learning with neural networks: what a decade\"",
+    "topic": "AI Agents"
+  },
+  "2CjHGdu29ec": {
+    "title": "Deep Learning for AI, Yoshua Bengio",
+    "topic": "Deep Learning Architectures"
+  },
+  "2EBd-NWayB8": {
+    "title": "Bending Probability Distributions to Our Will!",
+    "topic": "Generative Models"
+  },
+  "2O3vCltvicM": {
+    "title": "Neural Networks for Computer Vision | EuroSciPy 2014 | Kyle Kastner",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "2TT384U4vQg": {
+    "title": "Deep dive - Better Attention layers for Transformer models",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "2aUj5aEMxhA": {
+    "title": "Day 9 | Transformer Architecture Series | Transformer Decoder Explained: How LLMs Generate Text",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "2ec1kM-8ZgI": {
+    "title": "🤖 Algorithmic Trading Technical Guide",
+    "topic": "AI Product Strategy"
+  },
+  "2hheJ4BBrkY": {
+    "title": "Implementing the Attention Mechanism from scratch: PyTorch Deep Learning Tutorial",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "2sbkKGI6RTM": {
+    "title": "AI Agents for Business Efficiency: What Should They Do for Your Business? A Leader's Guide to Unlock",
+    "topic": "AI Agents"
+  },
+  "2tQbrvtTxlI": {
+    "title": "Episode 41 - The Deep Learning Bible",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "2yJSoaGU2i4": {
+    "title": "Deep Learning Day: Generative Modeling",
+    "topic": "Generative Models"
+  },
+  "35X6zlhoCy4": {
+    "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 10 - Post-training by Archit Sharma",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "36-r2zsENuk": {
+    "title": "Deepseek Decoded in 14 Mins!!!",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "37Yt41ouaNM": {
+    "title": "GPU Technology Conference 2014: Machine Learning Intro (part 3) GTC",
+    "topic": "Hardware & Distributed Training"
+  },
+  "3CuHzRKdfB0": {
+    "title": "Latent Space Reasoning : Looking at the research",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "3EZpHAsTRc8": {
+    "title": "Types of Machine Learning",
+    "topic": "Linear Algebra for ML"
+  },
+  "3G5hWM6jqPk": {
+    "title": "MIT 6.S191 (2023): Deep Generative Modeling",
+    "topic": "Generative Models"
+  },
+  "3X3EY2Fgp3g": {
+    "title": "Alec Radford, OpenAI: CLIP - Learning Transferable Visual Models From Natural Language Supervision",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "3bo8S1pAbqk": {
+    "title": "How CNNs Work (Convolutional Neural Nets)",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "3ea2O7qfPjo": {
+    "title": "TEST TIME Optimized AI REASONING (MIT)",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "3gb-ZkVRemQ": {
+    "title": "Stanford CS25: V4 I Jason Wei & Hyung Won Chung of OpenAI",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "3jmcHZq3A5s": {
+    "title": "Simple Explanation of AutoEncoders",
+    "topic": "Neural Network Foundations"
+  },
+  "3pOw5b-p1cc": {
+    "title": "[Podcast] The Secret Origin of Modern AI",
+    "topic": "Research & Literature Review"
+  },
+  "3uxOyk-SczU": {
+    "title": "Dimensionality Reduction",
+    "topic": "Dimensionality Reduction"
+  },
+  "46f2QTDB08Q": {
+    "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 16: Alignment - RL 1",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "4AzsiCMw_-s": {
+    "title": "CS 182: Lecture 12: Part 2: Transformers",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "4Bdc55j80l8": {
+    "title": "Illustrated Guide to Transformers Neural Network: A step by step explanation",
+    "topic": "Neural Network Foundations"
+  },
+  "4FZvqtnQ5Hw": {
+    "title": "Day 28: Product Quantization (PQ) Explained: HNSW vs IVF vs PQ vs LSH – Which Should You Use?",
+    "topic": "Model Quantization & Compression"
+  },
+  "4GiqzUHD5AA": {
+    "title": "Context Engineering for Agents",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "4NITt8iQxCA": {
+    "title": "The 7 Types of AI Agents",
+    "topic": "AI Agents"
+  },
+  "4Ps7ahonRCY": {
+    "title": "Understanding AI from the nuts and bolts",
+    "topic": "AI Product Strategy"
+  },
+  "4S-XDefSjTM": {
+    "title": "Few-Shot Learning (2/3): Siamese Networks",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "4VwXBrMoC0E": {
+    "title": "[GCV @ CVPR25] Kaiming He - Towards End-to-End Generative Modeling",
+    "topic": "Generative Models"
+  },
+  "4howBU7THbM": {
+    "title": "Stanford CS231N | Spring 2025 | Lecture 12: Self-Supervised Learning",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "5C62TZMhU9U": {
+    "title": "Lecture 14: Optimization Techniques (Exponential Weighted Average, ADAM, Nesterov, RMS-Prop)",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "5Ca06hCv2ko": {
+    "title": "Get to Know PyTorch - A Cutting Edge Open Source AI Framework for Deep Learning - Sahdev Zala, IBM",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "5Gu840uTGN0": {
+    "title": "CPSC 393 || Lecture 20 Transformers II",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "5LnTt2NE1fA": {
+    "title": "OpenAI o3 & o4-mini shocking abilities",
+    "topic": "AI Agents"
+  },
+  "5MaWmXwxFNQ": {
+    "title": "A Complete Overview of Word Embeddings",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "5PL0TmQhItY": {
+    "title": "Word Embeddings",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "5Sze3kHAZqE": {
+    "title": "The End of Finetuning — with Jeremy Howard of Fast.ai",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "5WoItGTWV54": {
+    "title": "Lecture 13 | Generative Models",
+    "topic": "Generative Models"
+  },
+  "5XaH2DmUbAg": {
+    "title": "Why AI needs quantization?",
+    "topic": "Model Quantization & Compression"
+  },
+  "5eAXoPSBgnE": {
+    "title": "Deep Learning 3: Neural Networks Foundations",
+    "topic": "Neural Network Foundations"
+  },
+  "5eqRuVp65eY": {
+    "title": "AI can't cross this line and we don't know why.",
+    "topic": "AI Agents"
+  },
+  "5fA4xYPV3nc": {
+    "title": "Bilinear form Chapter 1",
+    "topic": "Linear Algebra for ML"
+  },
+  "5hAGhmHNTQQ": {
+    "title": "A Fun & Absurd Introduction to Vector Databases • Alexander Chatzizacharias • GOTO 2024",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "5mGMDdT6YrM": {
+    "title": "You will be executing immediately in 20 minutes | Blitzscaling Director's Cut",
+    "topic": "AI Product Strategy"
+  },
+  "5sLYAQS9sWQ": {
+    "title": "How Large Language Models Work",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "5tvmMX8r_OM": {
+    "title": "MIT 6.S191 (2021): Introduction to Deep Learning",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "5vcj8kSwBCY": {
+    "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 14 – Transformers and Self-Attention",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "5vfIT5LOkR0": {
+    "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 16 - Multimodal Deep Learning, Douwe Kiela",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "5w4hCMcojl4": {
+    "title": "Ultimate RemNote Review: Best Student Note-Taking App?",
+    "topic": "Research & Literature Review"
+  },
+  "5zuqRU2N_to": {
+    "title": "I Visualized a Decoder-Only Transformer",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "663CtIO8lyc": {
+    "title": "Contrastive Learning",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "67QaOWGM3I4": {
+    "title": "Private video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "6HO4gVW5F7E": {
+    "title": "From RLHF with PPO/DPO to ORPO + How to build ORPO on Trainium/Neuron SDK",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "6HuKFh0BatQ": {
+    "title": "TF/IDF",
+    "topic": "Linear Algebra for ML"
+  },
+  "6Q-ESEmDf4Q": {
+    "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 9: Scaling laws 1",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "6QewMQT4iMM": {
+    "title": "MIT 6.S191 Lecture 5 Multimodal Deep Learning",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "6R16reLVl3I": {
+    "title": "Clustering (1): Basics",
+    "topic": "Clustering"
+  },
+  "6Rs1XXrSyac": {
+    "title": "How Hidden Data Powers Generative AI: Inside the Latent Space Revolution",
+    "topic": "Generative Models"
+  },
+  "6XLJ7TZXSPg": {
+    "title": "ChatGPT - Semantics: Transformers & NLP 2",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "6ekqbACEUFY": {
+    "title": "AI Agentic workflow - How to build AI Agents with Python.",
+    "topic": "AI Agents"
+  },
+  "6jyL6NB3_LI": {
+    "title": "S3E1 Transformers/LLMs Explained Like Never Before: Intuition, Math & Code in an Illustrated Trilogy",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "6muxKPBtTx0": {
+    "title": "Clustering 9: Evaluating clustering systems",
+    "topic": "Clustering"
+  },
+  "6o1JTph9z7U": {
+    "title": "The 2025 AI Index",
+    "topic": "AI Product Strategy"
+  },
+  "6yIMb0K-aS4": {
+    "title": "How language model post-training is done today",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "77nHShlpCfQ": {
+    "title": "The Definitive Guide to Building AI Agents in 2025 - Frameworks, Patterns and Use Cases!",
+    "topic": "AI Agents"
+  },
+  "79zW4SQ4SHU": {
+    "title": "Distributed Pytorch",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "7HZk7kGk5bU": {
+    "title": "Visualize Back Propagation: (5) Momentum",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "7Id8SPH31UE": {
+    "title": "Can Contrastive Learning Work? -  SimCLR Explained",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "7ZU85v4Kt-Y": {
+    "title": "Do Reranking Models Actually Improve RAG?",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "7aO3cNuUjag": {
+    "title": "The Brain Behind OpenAI & Google 🤖 | 🎙️ Łukasz Kaiser, Lead Researcher at OpenAI | AI Podcast 🟣",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "7j_NE6Pjv-E": {
+    "title": "Model Context Protocol (MCP), clearly explained (why it matters)",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "7o9TMQAHgkQ": {
+    "title": "Introduction to Intuition for the Algorithms of Machine Learning Course",
+    "topic": "Neural Network Foundations"
+  },
+  "7v933EUdxzU": {
+    "title": "Deep Learning | Stanford CS221: AI (Autumn 2019)",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "7xTGNNLPyMI": {
+    "title": "Deep Dive into LLMs like ChatGPT",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "83FFn7GqLu0": {
+    "title": "Knowledge Distillation in Deep Neural Network",
+    "topic": "Model Quantization & Compression"
+  },
+  "84gqSbLcBFE": {
+    "title": "Let’s Write a Pipeline - Machine Learning Recipes #4",
+    "topic": "MLOps & Pipelines"
+  },
+  "88bS806ZAdU": {
+    "title": "Paper Discussion: Attention is all you need",
+    "topic": "Research & Literature Review"
+  },
+  "8FpdEmySsuc": {
+    "title": "Lukasz Kaiser at AI Frontiers 2017: One Model to Learn It All",
+    "topic": "Deep Learning Architectures"
+  },
+  "8Oog7TXHvFY": {
+    "title": "Making sense of the confusion matrix",
+    "topic": "Model Evaluation & Metrics"
+  },
+  "8QLlz-NvfxA": {
+    "title": "Data Mining - Principal Component Analysis (PCA) and Multidimensional Scaling (MDS) in 7 MINUTES",
+    "topic": "Principal Component Analysis (PCA)"
+  },
+  "8jtAzxUwDj0": {
+    "title": "Proximal Policy Optimization (PPO) for LLMs Explained Intuitively",
+    "topic": "Reinforcement Learning"
+  },
+  "8lsJ7zLa2Pk": {
+    "title": "Which Agentic AI Framework to Pick? LangGraph vs. CrewAI vs. AutoGen",
+    "topic": "AI Agents"
+  },
+  "8wSH4XukcH8": {
+    "title": "Agent OS: LLM OS Micro Architecture for Composable, Reusable AI Agents",
+    "topic": "AI Agents"
+  },
+  "8zAP2qWAsKg": {
+    "title": "DeepMind x UCL | Deep Learning Lectures | 7/12 |  Deep Learning for Natural Language Processing",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "96KqiPQlP4s": {
+    "title": "Transformer Neural Network: Visually Explained",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "9Ge0sMm65jo": {
+    "title": "Train Your Own LLM – Tutorial",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "9MvD-XsowsE": {
+    "title": "Stanford CS231N | Spring 2025 | Lecture 11: Large Scale Distributed Training",
+    "topic": "Hardware & Distributed Training"
+  },
+  "9PGmMdkTZls": {
+    "title": "Introduction to Language Models (LLM's, Prompt Engineering, Encoder/Decoder and more)",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "9TTv9TehIT8": {
+    "title": "Why Context Engineering Is the Future of Building AI Agents?",
+    "topic": "AI Agents"
+  },
+  "9TwTKt50ZG8": {
+    "title": "Distributed ML Talk @ UC Berkeley",
+    "topic": "Hardware & Distributed Training"
+  },
+  "9r7FIXEAGvs": {
+    "title": "Shannon Entropy and Information Gain",
+    "topic": "Loss Functions & Information Theory (Entropy, KL Divergence)"
+  },
+  "9vM4p9NN0Ts": {
+    "title": "Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "9zKuYvjFFS8": {
+    "title": "Variational Autoencoders",
+    "topic": "Generative Models"
+  },
+  "A6h7shg8rEw": {
+    "title": "LLaMA: Open and Efficient Foundation Language",
+    "topic": "Research & Literature Review"
+  },
+  "AIp2ZHy4zvc": {
+    "title": "Question generation using Natural Language Processing by QuestGen.AI",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "AIpXjFwVdIE": {
+    "title": "How Google Translate Works - The Machine Learning Algorithm Explained!",
+    "topic": "Neural Network Foundations"
+  },
+  "ANyxBVxmdZ0": {
+    "title": "Lecture 7: Convolutional Networks",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "AS_HlJbJjH8": {
+    "title": "RAG Retrieval Deep Dive: BM25, Embeddings, and the Power of Agentic Search",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "ATvnsoz8qZs": {
+    "title": "o3 Is Really F***ing Useful",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "AV0vDmQlvmA": {
+    "title": "Dive into Deep Learning D2L at WAIC'20",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "AVAwJT9EcJ0": {
+    "title": "MLG 025 Convolutional Neural Networks",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "AZhUhGsgz4s": {
+    "title": "Introduction to Reasoning LLMs [1hr Talk]",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "A_ZKMsZ3f3o": {
+    "title": "Tutorial 41-Performance Metrics(ROC,AUC Curve) For Classification Problem In Machine Learning Part 2",
+    "topic": "Model Evaluation & Metrics"
+  },
+  "AdLgPmcrXwQ": {
+    "title": "Stanford CS25: V4 I Aligning Open Language Models",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "Ae_Ieh93K64": {
+    "title": "DeepSeek, Reasoning Models, and the Future of LLMs",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "AhE8RhPGH1A": {
+    "title": "Intro to Deep Learning (ML Tech Talks)",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "Anc2_mnb3V8": {
+    "title": "Gradient Descent vs Evolution | How Neural Networks Learn",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "AoIomknRDw8": {
+    "title": "AL/ML Lecture #1: Review of AI and ML Fundamentals",
+    "topic": "AI Product Strategy"
+  },
+  "Aw6Q4dHE984": {
+    "title": "How to Make AI Work at Work",
+    "topic": "AI Agents"
+  },
+  "AwQHqWyHRpU": {
+    "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 2 - Deep Learning Intuition",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "B-M5q51U8SM": {
+    "title": "How Convolution Works",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "B1RSE73RdRE": {
+    "title": "LLMs for Everything and Everyone! - Sebastian Raschka - Lightning AI",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "BB6aqCT3i8k": {
+    "title": "CPSC 393 || Lecture 22 Generative Models I",
+    "topic": "Generative Models"
+  },
+  "BWuAeCBvavw": {
+    "title": "Knowledge Distillation | Machine Learning",
+    "topic": "Model Quantization & Compression"
+  },
+  "BprirYymXrg": {
+    "title": "LLM Lecture: A Deep Dive into Transformers, Prompts, and Human Feedback",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "Bt77m-fd7eA": {
+    "title": "Building Better Language Models - Colin Raffel (UNC, Huggingface)",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "CDung1LnLbY": {
+    "title": "DSPy and ColBERT with Omar Khattab! - Weaviate Podcast #85",
+    "topic": "AI Product Strategy"
+  },
+  "CHFiTTPeyUw": {
+    "title": "Transformer Encoder - Built From Scratch with Python | Machine Learning | Data Science",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "CKaN5PgkSBc": {
+    "title": "TRPO (Trust Region Policy Optimization) : In depth  Research Paper Review",
+    "topic": "Reinforcement Learning"
+  },
+  "CLOAswsxudo": {
+    "title": "MIT 6.S094: Computer Vision",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "CQTCS8SO8bs": {
+    "title": "S1 E2    Solving real usecases with Neural Networks (Regression, Classification, etc)",
+    "topic": "Neural Network Foundations"
+  },
+  "CVwctY8nqhQ": {
+    "title": "Using cuDNN with Neural Networks and GPUs",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "CbXj7091OWA": {
+    "title": "1. Build Your First Machine Learning Model",
+    "topic": "Neural Network Foundations"
+  },
+  "CiOgT00dFq4": {
+    "title": "Reinforcement Learning Workshop 2: Off-Policy On-Policy Algorithms",
+    "topic": "Reinforcement Learning"
+  },
+  "Csa5R12jYRg": {
+    "title": "Tensors Explained - Data Structures of Deep Learning",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "CtohaKO4O1M": {
+    "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "CwNlWRKW8fo": {
+    "title": "CNN Fundamental 3- Why Residual Networks ResNet Works",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "CwjLMV52tzI": {
+    "title": "Introduction to Clustering",
+    "topic": "Clustering"
+  },
+  "Cwumn5eHbZk": {
+    "title": "Contrastive learning in unsupervised learning with Prannay Khosla",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "CxCslLiG_Kc": {
+    "title": "OpenAI’s 7 Hour AI Agents Course in 15 Minutes",
+    "topic": "AI Agents"
+  },
+  "D-ekE-Wlcds": {
+    "title": "Word Embedding Explained and Visualized - word2vec and wevi",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "D0COTRYrVEs": {
+    "title": "Lecture 19: Introduction to Transformers",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "D6EIhheu8AA": {
+    "title": "Reasoning Models Can Be Effective Without Thinking (Apr 2025)",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "D8GOeCFFby4": {
+    "title": "The most complex model we actually understand",
+    "topic": "AI Agents"
+  },
+  "DB6QSYw9XBY": {
+    "title": "A Theory of the Mechanics of Information - Christopher Hazard",
+    "topic": "Probability & Statistics"
+  },
+  "DB7oOZ5hyrE": {
+    "title": "Deep Learning at Scale with Horovod feat. Travis Addair | Stanford MLSys Seminar Episode 10",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "DE6WpzsSvgU": {
+    "title": "ArrrZero: Why DeepSeek R1 is less important than R1-Zero",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "DINUVMojNwU": {
+    "title": "ChatGPT Position and Positional embeddings: Transformers & NLP 3",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "DIu8Ej04ZHY": {
+    "title": "DeepSeek Explained -  Training, Design and Key Concepts",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "DIz0oA_Z3jw": {
+    "title": "Retrieval Augmented Generation for LLMs  A Survey",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "DPSXVJF5jIs": {
+    "title": "Understanding Binary Cross-Entropy / Log Loss in 5 minutes: a visual explanation",
+    "topic": "Loss Functions & Information Theory (Entropy, KL Divergence)"
+  },
+  "DZWEbG6t-K4": {
+    "title": "Reasoning Models in Generative AI: How the Next Generation of LLMs Can Think",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "D_jt-xO_RmI": {
+    "title": "Deep Learning Bootcamp: Kaiming He",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "Dfu7vC9jo4w": {
+    "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 15: Alignment - SFT/RLHF",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "DiJsg93zQDc": {
+    "title": "In-Context Learning: A Case Study of Simple Function Classes",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "Dov68JsIC4g": {
+    "title": "How Machines Learn to Act",
+    "topic": "Reinforcement Learning"
+  },
+  "DpK_i6iA0i0": {
+    "title": "Deep Learning(CS7015): Lec 1.3 The Deep Revival",
+    "topic": "Deep Learning Architectures"
+  },
+  "DrhJLHiia7g": {
+    "title": "What is Deep Learning? (DL 01)",
+    "topic": "Deep Learning Architectures"
+  },
+  "DsvwIv1uP3E": {
+    "title": "The 48 Laws of Power in under 15 minutes   A summary of all the laws from Robert Greene's Book",
+    "topic": "Research & Literature Review"
+  },
+  "E0k9Ppq6yXY": {
+    "title": "Stateful Agents — Full Workshop with Charles Packer of Letta and MemGPT",
+    "topic": "AI Agents"
+  },
+  "E60J8fXfMwY": {
+    "title": "Vanishing and Exploding Gradients",
+    "topic": "Generative Models"
+  },
+  "ELTGIye424E": {
+    "title": "Transformer Architecture Explained | Attention Is All You Need | Foundation of BERT, GPT-3, RoBERTa",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "EMgbAqT8DS4": {
+    "title": "Tutorial on AI & AI Agents (simple explanations)",
+    "topic": "AI Agents"
+  },
+  "ERibwqs9p38": {
+    "title": "Lecture 2 | Word Vector Representations: word2vec",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "EV7WhVT270Q": {
+    "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+    "topic": "AI Agents"
+  },
+  "EYxNJQEadqg": {
+    "title": "GenAI Futures. Part-4. Training Foundation Models with Reinforcement Learning. RLHF, LLM, GRPO, PPO",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "EccunX_9P7E": {
+    "title": "AI & Deep Learning Course #46 - LLM Hallucinations",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "Eh6sMN5htls": {
+    "title": "Reinforcement Learning with Human Feedback (RLHF) | Reinforcement Learning with Human Feedback LLM",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "EkELQw9tdWE": {
+    "title": "From Research to Production with PyTorch",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "ElwVHavh1N8": {
+    "title": "Statistics and Probability for Data Science | Data Science | Edureka | ML/DS Rewind - 1",
+    "topic": "Probability & Statistics"
+  },
+  "EqLBAmtKMnQ": {
+    "title": "Feature Selection Techniques Easily Explained | Machine Learning",
+    "topic": "Feature Selection & Engineering"
+  },
+  "EuxAqb8E62Q": {
+    "title": "Deep Learning with PyTorch - Introduction",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "EzDsrEvdgNQ": {
+    "title": "If LLMs are text models, how do they generate images?",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "F0GQ0l2NfHA": {
+    "title": "Generative AI for Developers – Comprehensive Course",
+    "topic": "AI Agents"
+  },
+  "F1ka6a13S9I": {
+    "title": "Nuts and Bolts of Applying Deep Learning (Andrew Ng)",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "FBm5IdblD0Y": {
+    "title": "Post-Training for LLM by Soumya Batra (Meta, Co-author of LLAMA models) Host: Professor Shub A",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "FKCV76N9Ys0": {
+    "title": "Deep Learning(CS7015): Lec 5.9 Gradient Descent with Adaptive Learning Rate",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "FLpS7OfD5-s": {
+    "title": "Why MCP really is a big deal | Model Context Protocol with Tim Berglund",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "FWFA4DGuzSc": {
+    "title": "The Transformer neural network architecture EXPLAINED. “Attention is all you need”",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "Fbs4lnGLS8M": {
+    "title": "Monte Carlo Tree Search (MCTS) Tutorial",
+    "topic": "Reinforcement Learning"
+  },
+  "FepOyFtYQ6I": {
+    "title": "How I Finally Understood Self-Attention (With PyTorch)",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "FngLY8SM1LU": {
+    "title": "AI Won’t Replace You -  But Lack of This Skill Will | The Right Way to Learn AI",
+    "topic": "AI Product Strategy"
+  },
+  "FpDsDn-fBKA": {
+    "title": "Tutorial 12- Stochastic Gradient Descent vs Gradient Descent",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "FrDnPTPgEmk": {
+    "title": "Generative AI for business",
+    "topic": "AI Product Strategy"
+  },
+  "FtFZ-vBA-eA": {
+    "title": "Pretraining Large Language Models: Everything You Need to Know!",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "FwOTs4UxQS4": {
+    "title": "AI Agents, Clearly Explained",
+    "topic": "AI Agents"
+  },
+  "G1WNlLxPLSE": {
+    "title": "Optimizing vLLM Performance through Quantization | Ray Summit 2024",
+    "topic": "Model Quantization & Compression"
+  },
+  "G5lmya6eKtc": {
+    "title": "The Future of Natural Language Processing",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "G7i330EJAfU": {
+    "title": "An Image Is Worth 16x16 Words - Paper Explained",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "GI4Tpi48DlA": {
+    "title": "Highlights of the Fireside Chat with Ilya Sutskever & Jensen Huang: AI Today & Vision of the Future",
+    "topic": "AI Product Strategy"
+  },
+  "GLa7z5rkSf4": {
+    "title": "OpenAI's CLIP Explained and Implementation | Contrastive Learning | Self-Supervised Learning",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "GNHr_TQLPzk": {
+    "title": "Multi Head Attention-Boost Your AI Knowledge in Tamil-Attention All You Need: Transformers",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "GibjI5FoZsE": {
+    "title": "Yoshua Bengio: Deep Learning Cognition | Full Keynote - AI in 2020 & Beyond",
+    "topic": "Deep Learning Architectures"
+  },
+  "GiyMGBuu45w": {
+    "title": "NLP: Understanding the N-gram language models",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "Gl9mYGb6sjA": {
+    "title": "Distillation Scaling Laws",
+    "topic": "Model Quantization & Compression"
+  },
+  "Gz8W1r90olc": {
+    "title": "Tai-Danae Bradley | Category Theory and Language Models | The Cartesian Cafe with Timothy Nguyen",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "H1AllrJ-_30": {
+    "title": "Autoencoder Explained",
+    "topic": "Generative Models"
+  },
+  "H9NVFiqLLFU": {
+    "title": "Private video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "HNzs7XEz33s": {
+    "title": "ChatGPT Guide | Get 100+ Answers at Once | OpenAI API Zapier Tutorial",
+    "topic": "AI Product Strategy"
+  },
+  "HQI6O5DlyFc": {
+    "title": "Foundation models and the next era of AI",
+    "topic": "AI Product Strategy"
+  },
+  "HTRnuDZJVbs": {
+    "title": "Is it 3 Years, or 3 Decades Away? Disagreements on AGI Timelines",
+    "topic": "AI Agents"
+  },
+  "HXZNi3TUA38": {
+    "title": "Large Language Models (AI for Project Managers)",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "HXoJBZ-T61E": {
+    "title": "Machine Learning Fundamentals: AI Audiobook for Autodidacts",
+    "topic": "AI Agents"
+  },
+  "HfnjQIhQzME": {
+    "title": "Applying the four step \"Embed, Encode, Attend, Predict\" framework to predict document similarity",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "Hi9WasDwU2U": {
+    "title": "Revisiting ResNets in 2023",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "HkFDWwmtZ-M": {
+    "title": "2025 AI AGENT Masterclass - Learn How To Build ANYTHING With LLMs",
+    "topic": "AI Agents"
+  },
+  "HkZOGGvZzg4": {
+    "title": "Easily Build Advanced Soft Prompt Engineering techniques, Prompt Tuning and Prefix Tuning",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "I0tj4Y7xaOQ": {
+    "title": "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 14 - Reasoning and Agents by Shikhar Murty",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "I98l3wLJ5Oo": {
+    "title": "Orchestrating LLM AI Agents with CrewAI | Ai Heroes 2024 Talk",
+    "topic": "AI Agents"
+  },
+  "IAN9xfSo6ms": {
+    "title": "Introducing the AI Agents Podcast | E01",
+    "topic": "AI Agents"
+  },
+  "IFVl5lC1Yzs": {
+    "title": "Deep Learning History and Recent Timeline",
+    "topic": "Deep Learning Architectures"
+  },
+  "IGu7ivuy1Ag": {
+    "title": "How a Transformer works at inference vs training time",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "IIqf-oUTHe0": {
+    "title": "Lecture 10 - Knowledge Distillation | MIT 6.S965",
+    "topic": "Model Quantization & Compression"
+  },
+  "IMAhwv5dn8E": {
+    "title": "How GPT/ChatGPT Work - An Understandable Introduction to the Technology - Professor Harry Surden",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "IPkRVpXtbdY": {
+    "title": "Introduction to Entropy for Data Science",
+    "topic": "Loss Functions & Information Theory (Entropy, KL Divergence)"
+  },
+  "ISNdQcPhsts": {
+    "title": "Coding a Transformer from scratch on PyTorch, with full explanation, training and inference.",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "IVv5XAl2y3M": {
+    "title": "Machine Learning: Where are We?",
+    "topic": "Research & Literature Review"
+  },
+  "IWvTU6swl_E": {
+    "title": "Adam Optimizer in 20 min",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "IbE0tbjy6JQ": {
+    "title": "PCA 1: curse of dimensionality",
+    "topic": "Principal Component Analysis (PCA)"
+  },
+  "IlTGoELs-Zg": {
+    "title": "Logistic Regression: Logistic Vs. Linear Regression, Log Odds & Maximum Likelihood",
+    "topic": "Linear Classifiers"
+  },
+  "ImdZwPh3chU": {
+    "title": "Frameworks",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "IpGxLWOIZy4": {
+    "title": "A Friendly Introduction to Machine Learning",
+    "topic": "Linear Algebra for ML"
+  },
+  "Iw_3cRf3lnM": {
+    "title": "Self Coding Agents — Colin Flaherty, Augment Code",
+    "topic": "AI Agents"
+  },
+  "J8Eh7RqggsU": {
+    "title": "Overview Artificial Intelligence Course | Stanford CS221: Learn AI (Autumn 2019)",
+    "topic": "AI Agents"
+  },
+  "J8XjGwl7Ykk": {
+    "title": "How the Transformer Changed the Face of Artificial Intelligence | Podcast",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "J9GrpTuVSEE": {
+    "title": "GenAI Futures. Part-1. LLM Architecture Evolution. https://www.bytegoose.com",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "JB8T_zN7ZC0": {
+    "title": "How convolutional neural networks work, in depth",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "JCk6qJtaCSU": {
+    "title": "Adv. LLM Agents MOOC | UC Berkeley Sp25 | Code Agents & AI Vulnerability Detection by Charles Sutton",
+    "topic": "AI Agents"
+  },
+  "JGeTcRfKgBo": {
+    "title": "Conditional Probability",
+    "topic": "Probability & Statistics"
+  },
+  "JIdxR_Wownw": {
+    "title": "[Webinar] A Quick Primer on Agents: The Good, the Bad, and the Future",
+    "topic": "AI Agents"
+  },
+  "JIsgyk0Paic": {
+    "title": "Reinforcement Learning for Agents - Will Brown, ML Researcher at Morgan Stanley",
+    "topic": "AI Agents"
+  },
+  "JV3pL1_mn2M": {
+    "title": "AI Engineering in 76 Minutes (Complete Course/Speedrun!)",
+    "topic": "AI Product Strategy"
+  },
+  "JfaLQqfXqPA": {
+    "title": "RFT, DPO, SFT: Fine-tuning with OpenAI — Ilan Bigio, OpenAI",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "Jj1-zb38Yfw": {
+    "title": "Agentic AI Explained So Anyone Can Get It!",
+    "topic": "AI Agents"
+  },
+  "Jj_w_zOEu4M": {
+    "title": "How Does Batch Normalization Work",
+    "topic": "Neural Network Foundations"
+  },
+  "Ju-pFJNfOfY": {
+    "title": "RLHF, PPO and DPO for Large language models",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "Jup65F24WlY": {
+    "title": "BERT Masked Language Modelling: Should I pre-train on domain-specific text?",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "K20lVDVjPn4": {
+    "title": "Epoch, Batch, Batch Size, & Iterations",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "K9mkU8cj7hQ": {
+    "title": "Career as a ChatGPT Prompt Engineer? Watch This",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "KDAgdIGr2yE": {
+    "title": "Gini Impurity - Understand the maths and concept with a complete example",
+    "topic": "Loss Functions & Information Theory (Entropy, KL Divergence)"
+  },
+  "KHpM3UXdMxM": {
+    "title": "Neural Language Models Introduction: Maryland, Muppets, and Masking",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "KJtZARuO3JY": {
+    "title": "Visualizing transformers and attention | Talk for TNG Big Tech Day '24",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "KMSa5CccEEQ": {
+    "title": "Jay Alammar on LLMs, RAG, and AI Engineering",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "KOBmBjlMVAE": {
+    "title": "L10.1 Techniques for Reducing Overfitting",
+    "topic": "Regularization"
+  },
+  "KVDKWrsP3es": {
+    "title": "Are LLMs the Beginning or End of NLP?",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "KZGOrJxxIrA": {
+    "title": "Demystifying LLMs: What Happens When You Chat with AI",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "KcSXcpluDe4": {
+    "title": "How AI 'Understands' Images (CLIP) - Computerphile",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "KgolhE7p-KY": {
+    "title": "How To Learn Math for Machine Learning FAST (Even With Zero Math Background)",
+    "topic": "Linear Algebra for ML"
+  },
+  "KmAISyVvE1Y": {
+    "title": "Lecture 12.1 Self-attention",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "KpBmD3bLfX4": {
+    "title": "Dive into Deep Learning Lec7: Regularization in PyTorch from Scratch (Custom Loss Function Autograd)",
+    "topic": "Regularization"
+  },
+  "KphmOJnLAdI": {
+    "title": "The matrix math behind transformer neural networks, one step at a time!!!",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "L3cFbMK3eRI": {
+    "title": "What is Agentic AI? Explained for AI Enthusiasts, Beginners, and Professionals",
+    "topic": "AI Agents"
+  },
+  "LE3NfEULV6k": {
+    "title": "Transfer learning and Transformer models (ML Tech Talks)",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "LK2-lrLvhTA": {
+    "title": "Eldar Kurtić - Beginner Friendly Introduction to LLM Quantization: From Zero to Hero",
+    "topic": "Model Quantization & Compression"
+  },
+  "LKz36eHzN10": {
+    "title": "RAG - Vector DBs for RAG | Indexing and Similarity in Vector DBs",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "LQnqxbR74Hw": {
+    "title": "Local open-source LLM better than DeepSeek? Gemma 3 deep dive",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "L_xBe7MbPwk": {
+    "title": "Tutorial 35- Logistic Regression Indepth Intuition- Part 1| Data Science",
+    "topic": "Linear Classifiers"
+  },
+  "LejHYUf1mkg": {
+    "title": "Machine Learning 101",
+    "topic": "AI Product Strategy"
+  },
+  "LfPkUYRGvbI": {
+    "title": "Introduction to Generative Models (Definition, Variational Autoencoders, and Diffusion Models )",
+    "topic": "Generative Models"
+  },
+  "LlKAna21fLE": {
+    "title": "A friendly introduction to linear algebra for ML (ML Tech Talks)",
+    "topic": "Linear Algebra for ML"
+  },
+  "LnlW9gdjWfc": {
+    "title": "Private video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "Lo0FDmSbTp4": {
+    "title": "\"OpenAI is Not God” - The DeepSeek Documentary on Liang Wenfeng, R1 and What's Next",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "LqQsjQpX4xk": {
+    "title": "Multilayer Perceptron Regression: Pytorch Deep Learning Tutorial",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "LxfUGhug-iQ": {
+    "title": "CS231n Winter 2016: Lecture 7: Convolutional Neural Networks",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "Ly3GAnq2p34": {
+    "title": "MIT 6.S191 Lecture 4: Deep Generative Models",
+    "topic": "Generative Models"
+  },
+  "LyJtbe__2i0": {
+    "title": "PyTorch 101 Crash Course For Beginners in 2026 | Daniel Bourke",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "LzeC1AQ-U5o": {
+    "title": "Building Blocks for LLM Systems & Products: Eugene Yan",
+    "topic": "AI Product Strategy"
+  },
+  "M2ToEXF6Olw": {
+    "title": "Adding vs. concatenating positional embeddings & Learned positional encodings",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "M51Zu9p5YAA": {
+    "title": "Cohere’s Guide to RAG Complexity: Behind the Scenes with Compass",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "MD2fYip6QsQ": {
+    "title": "Who's Adam and What's He Optimizing? | Deep Dive into Optimizers for Machine Learning!",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "ME3V57k0US0": {
+    "title": "Podcast: The Curse of Dimensionality",
+    "topic": "Dimensionality Reduction"
+  },
+  "MUvFuZpxLU8": {
+    "title": "Understanding the Origins and Taxonomy of Neural Scaling Laws",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "McLdlg5Gc9s": {
+    "title": "What is vLLM? Efficient AI Inference for Large Language Models",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "MdR0eh1ozn8": {
+    "title": "Podcast : Attention Is All You Need",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "MmxPBgrrn4Q": {
+    "title": "Build a Transformer with JAX",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "MsD28INtSv8": {
+    "title": "1. Black Box Machine Learning",
+    "topic": "MLOps & Pipelines"
+  },
+  "Mv4ZCiphwRU": {
+    "title": "China's Deepseek AI Explained",
+    "topic": "AI Product Strategy"
+  },
+  "N1EZpa7lZc8": {
+    "title": "Flash Attention Machine Learning",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "N6BghzuFLIg": {
+    "title": "Intro to Data Science - Crash Course for Beginners",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "N7_wT3y_8e4": {
+    "title": "Epoch in Neural Network|neural network example step by step |Neural network end to end example data",
+    "topic": "Neural Network Foundations"
+  },
+  "N7n66FL7wqM": {
+    "title": "UMass CS685 S23 (Advanced NLP) #18: Scaling laws of large language models",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "NEKcvmk8U8s": {
+    "title": "The first artificial neuron - Explained!",
+    "topic": "Neural Network Foundations"
+  },
+  "NRCZJUviZN0": {
+    "title": "Regularization and Data Augmentation",
+    "topic": "Regularization"
+  },
+  "NSvTjB23-ak": {
+    "title": "An Introduction to Multiagent Systems (2nd edition) by Michael Wooldridge",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "NUf5q4cWhdQ": {
+    "title": "BERT Demystified: Like I’m Explaining It to My Younger Self",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "N_PocrMHWbw": {
+    "title": "The entire history of Computer Vision explained one core concept at a time.",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "NamKkerrlnQ": {
+    "title": "Decoding the Decoder LLM without de code: Ishan Anand",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "NhP8raTpZVs": {
+    "title": "Mikael Brunila - Cosine Capital: Large Language Models and the Embedding of All Things",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "Nhl5nzUNQCA": {
+    "title": "Ash Maurya - 10 Steps to Product / Market Fit - Pioneers Festival 2012",
+    "topic": "AI Product Strategy"
+  },
+  "NmLK_WQBxB4": {
+    "title": "MIT 6.S191 (2023): Convolutional Neural Networks",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "NoVMk_P6fgY": {
+    "title": "Unpacking AI Agent Hype vs. Reality with Arvind Narayanan",
+    "topic": "AI Agents"
+  },
+  "No_eX8raeUk": {
+    "title": "AI Buzz and Beyond, Exploring AI Engineering with Chip Huyen",
+    "topic": "AI Product Strategy"
+  },
+  "NpmnWgQgcsA": {
+    "title": "ChatGPT - Explained!",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "NrCjFbBy_vs": {
+    "title": "Mixture of Experts LLM - MoE explained in simple terms",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "NvgNI3waAy4": {
+    "title": "Scaling Laws for Large Language Models",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "NwubVF3tXe4": {
+    "title": "How to train English to Hindi Language Translator Model using Transformers | Hugging Face 🤗",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "O1AR4iL30mg": {
+    "title": "The Magic of LLM Distillation — Rishabh Agarwal, Google DeepMind",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "O5xeyoRL95U": {
+    "title": "Deep Learning Basics: Introduction and Overview",
+    "topic": "Neural Network Foundations"
+  },
+  "OBkMbPpLCqw": {
+    "title": "How to Make Small Language Models Work. Yejin Choi Presents at Data + AI Summit 2024",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "OE-15MWhA9U": {
+    "title": "Building Agentic Systems with Protocols: MCP & A2A",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "OFS90-FX6pg": {
+    "title": "The 35 Year History of ChatGPT",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "OFbnpY_k7js": {
+    "title": "Perceptron | Neural Networks",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "ONKOXwucLvE": {
+    "title": "How To Use AI Agents To Do ALL Your Work - Full CrewAI Course for Beginners",
+    "topic": "AI Agents"
+  },
+  "ONrkO9QIryA": {
+    "title": "Lecture 1:  A Survey of Deep Learning",
+    "topic": "Neural Network Foundations"
+  },
+  "OZ_NgoFDiHI": {
+    "title": "Master Autonomous AI Agents in Microsoft Copilot Studio - Easy to Build & Extremely Powerful",
+    "topic": "AI Agents"
+  },
+  "Oe01fr0w0YU": {
+    "title": "12 | Neural Language Models | TTIC 31190 (NLP) - Fall 2020",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "Oqm9vsf_hvU": {
+    "title": "A visual and intuitive understanding of deep learning",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "OtgrQtPHKDg": {
+    "title": "AI Explained: Diffusion Models | From Pixel Art To Molecular Design",
+    "topic": "AI Agents"
+  },
+  "OyFJWRnt_AY": {
+    "title": "CS480/680 Lecture 19: Attention and Transformer Networks",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "P3MAbZ2eMUI": {
+    "title": "What is LangChain? 101 Beginner's Guide Explained with Animations",
+    "topic": "AI Agents"
+  },
+  "PBH2nImUM5c": {
+    "title": "RLHF+CHATGPT: What you must know",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "PPWEmjnqsF8": {
+    "title": "The Statistical Interpretation of Entropy",
+    "topic": "Loss Functions & Information Theory (Entropy, KL Divergence)"
+  },
+  "PTcH_Uk01a8": {
+    "title": "Deep Learning Battle: Pytorch vs. Tensorflow - Jon Krohn",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "Pabqg33sUrg": {
+    "title": "DeepSeek R1 Coldstart: How to TRAIN a 1.5B Model to REASON",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "Pft04KLw5Lk": {
+    "title": "Emerging architectures for LLM applications",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "Pnd8bCJ4Z3A": {
+    "title": "Transformers, explained: Understand the model behind ChatGPT",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "PoGXBI9aAYM": {
+    "title": "AI Agent Orchestration and Evaluation Deep Dive using LangChain, LangGraph and LangSmith",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "PvPNts2HXzs": {
+    "title": "[2024 Best AI Paper] A Survey on Retrieval-Augmented Text Generation for Large Language Models",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "Pytt93Q-b2I": {
+    "title": "NLP Demystified 11: Essential Training Techniques for Neural Networks",
+    "topic": "Neural Network Foundations"
+  },
+  "Q1JCrG1bJ-A": {
+    "title": "Residual Networks and Skip Connections (DL 15)",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "QDX-1M5Nj7s": {
+    "title": "MIT Introduction to Deep Learning (2023) | 6.S191",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "Qd6anWv0mv0": {
+    "title": "Agentic AI: Workflows vs. agents",
+    "topic": "AI Agents"
+  },
+  "QhujcQk8pyU": {
+    "title": "6 Months of Building AI Agents in 43 Minutes (without the hype)",
+    "topic": "AI Agents"
+  },
+  "Qj4wY8Db11E": {
+    "title": "LLMs & Transformers Demystified: Your Intro to AI Engineering (Lecture 1)",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "QyrUentbkvw": {
+    "title": "Understanding Word2Vec",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "QzcbnI42-VI": {
+    "title": "HC32-T1: Machine Learning Scale Out",
+    "topic": "Hardware & Distributed Training"
+  },
+  "QzulmoOg2JE": {
+    "title": "Learning Rate Decay (C2W2L09)",
+    "topic": "Regularization"
+  },
+  "R-o_a6dvzQM": {
+    "title": "LangGraph Simplified: Master Custom AI Agent Creation",
+    "topic": "AI Agents"
+  },
+  "R11BmqHNouw": {
+    "title": "Training Hub: continuous learning for LLMs",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "RM6ZArd2nVc": {
+    "title": "LLM Agents MOOC | UC Berkeley CS294-196 Fall 2024 | LLM Agents: History & Overview by Shunyu Yao",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "RNF0FvRjGZk": {
+    "title": "I Visualised Attention in Transformers",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "RUlQmkFY4F8": {
+    "title": "KV Cache in 15 min",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "RjuKEMVe_Q4": {
+    "title": "Build generative apps better and faster with Vertex AI Agent Builder",
+    "topic": "AI Agents"
+  },
+  "Rke0V_VkF3c": {
+    "title": "How AI Image Generation Works: DALL-E, Stable Diffusion, Midjourney",
+    "topic": "Generative Models"
+  },
+  "RveLjcNl0ds": {
+    "title": "How to Train LLMs to \"Think\" (o1 & DeepSeek-R1)",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "Rvy1SrgQlDk": {
+    "title": "Contrastive Language-Image Pretraining (CLIP)",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "RwaLaDtTqag": {
+    "title": "2025 State of Foundation Models",
+    "topic": "AI Product Strategy"
+  },
+  "Rz480gieWus": {
+    "title": "Loss Functions Explained: The \"GPS\" of Deep Learning",
+    "topic": "Loss Functions & Information Theory (Entropy, KL Divergence)"
+  },
+  "S1tN9a4Proc": {
+    "title": "A friendly introduction to distributed training (ML Tech Talks)",
+    "topic": "Hardware & Distributed Training"
+  },
+  "S27pHKBEp30": {
+    "title": "LSTM is dead. Long Live Transformers!",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "S2IzmZ7dzBU": {
+    "title": "Adagrad and RMSProp Intuition| How Adagrad and RMSProp optimizer work in deep learning",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "S7GOt85DWBs": {
+    "title": "LLMs | Scaling Laws | Lec 11",
+    "topic": "Research & Literature Review"
+  },
+  "S9eKuRVigjY": {
+    "title": "Building a ML Transformer in a Spreadsheet",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "SDdmrHYf7PU": {
+    "title": "LLM Unboxed",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "SHTOI0KtZnU": {
+    "title": "How to Read a Research Paper",
+    "topic": "Research & Literature Review"
+  },
+  "SIMrO9-oGw8": {
+    "title": "Private video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "SQ3fZ1sAqXI": {
+    "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 1: Overview and Tokenization",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "SUAuB5g_oCw": {
+    "title": "Ep.# 141: Road to AGI (and Beyond) #1 — The AI Timeline is Accelerating",
+    "topic": "AI Product Strategy"
+  },
+  "SY5PvZrJhLE": {
+    "title": "GPT-3: Language Models are Few-Shot Learners (Paper Explained)",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "SZn3ms9YfqU": {
+    "title": "Why Do We Need Residual In Transformers",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "SZorAJ4I-sA": {
+    "title": "Transformers, explained: Understand the model behind GPT, BERT, and T5",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "SftOqbMrGfE": {
+    "title": "Epochs, Iterations and Batch Size | Deep Learning Basics",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "SmZmBKc7Lrs": {
+    "title": "The Most Important Algorithm in Machine Learning",
+    "topic": "Research & Literature Review"
+  },
+  "Sy1psHS3w3I": {
+    "title": "LLM Agents MOOC | UC Berkeley Fall 2024 | Enterprise GenAI Trends & AI Agents by Burak Gokturk",
+    "topic": "AI Agents"
+  },
+  "SyWMFPFvsd0": {
+    "title": "Attention is all you need. A Transformer Tutorial: 7. Decoder Masked Multihead Attention",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "T3PsRW6wZSY": {
+    "title": "Introduction",
+    "topic": "Neural Network Foundations"
+  },
+  "TIqf4LMNCjU": {
+    "title": "Better not Bigger: Distilling LLMs into Specialized Models",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "TPDiqPnJDTs": {
+    "title": "Lec 21 | Instruction Tuning",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "TQQlZhbC5ps": {
+    "title": "Transformer Neural Networks - EXPLAINED! (Attention is all you need)",
+    "topic": "Neural Network Foundations"
+  },
+  "TRjq7t2Ms5I": {
+    "title": "Building Production-Ready RAG Applications: Jerry Liu",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "TV8SyEuSMIA": {
+    "title": "Give Me 28 Minutes and I'll Completely Change the Way You Build AI Agents",
+    "topic": "AI Agents"
+  },
+  "TYLyAfFn_ME": {
+    "title": "Best Explanation of Partial Derivatives and Gradients",
+    "topic": "Backpropagation & Automatic Differentiation"
+  },
+  "TgK0hLvyAdE": {
+    "title": "Understanding Text:  A Journey from Probabilistic Models to NN by Dr. Dakshinamurthy #ODSC_India",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "Tv4xuIXwDMA": {
+    "title": "Pretraining LLMs: Lessons from Cohere",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "U0s0f995w14": {
+    "title": "Pytorch Transformers from Scratch (Attention is all you need)",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "U1dozb0xQGc": {
+    "title": "Lukasz Kaiser – Transformers - How Far Can They Go?",
+    "topic": "Research & Literature Review"
+  },
+  "UFem7xa3Q2Q": {
+    "title": "Stanford CS224N NLP with Deep Learning | Spring 2022 | Guest Lecture: Scaling Language Models",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "UHDIgsWmqtE": {
+    "title": "R Govys Feb 2024: Generative AI: A Survey of Current Practices, Challenges, and Best Practices",
+    "topic": "AI Product Strategy"
+  },
+  "UKcWu1l_UNw": {
+    "title": "THIS is why large language models can understand the world",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "UPqMdszWHy0": {
+    "title": "Building AI Agents That Work - My Talk at Google NEXT",
+    "topic": "AI Agents"
+  },
+  "UU1WVnMk4E8": {
+    "title": "Create a Large Language Model from Scratch with Python – Tutorial",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "UV81LAb3x2g": {
+    "title": "crewAI Crash Course For Beginners-How To Create Multi AI Agent For Complex Usecases",
+    "topic": "AI Agents"
+  },
+  "UVX7SYGCKkA": {
+    "title": "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 12 - Efficient Training, Shikhar Murty",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "UYJ539hgDS0": {
+    "title": "Agentic AI - What and How!",
+    "topic": "AI Agents"
+  },
+  "UZ7fJy5K3UQ": {
+    "title": "Diffusion Language Models Explained With Simple Math!",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "UZDiGooFs54": {
+    "title": "The moment we stopped understanding AI [AlexNet]",
+    "topic": "AI Product Strategy"
+  },
+  "UZQ-2XIDcA8": {
+    "title": "Private video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "UaJDdft6BdI": {
+    "title": "Self-supervised vision",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "Uv0AIRr3ptg": {
+    "title": "Stanford CS224N NLP with Deep Learning | 2023 | PyTorch Tutorial,  Drew Kaul",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "UwhwtTjDP8k": {
+    "title": "Information, Entropy, Cross-Entropy, and KL Divergence",
+    "topic": "Loss Functions & Information Theory (Entropy, KL Divergence)"
+  },
+  "V8r__fXx7tU": {
+    "title": "Rotary Positional Embeddings Explained | Transformer",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "VGO9O3JgS3c": {
+    "title": "Transformer - Attention Is All You Need | PyTorch Implementation",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "VHm6_uC4vxM": {
+    "title": "101 ways to solve search (by Pratik Bhavsar)",
+    "topic": "Research & Literature Review"
+  },
+  "VKPngyO0iKg": {
+    "title": "Building Brain-Like Memory for AI | LLM Agent Memory Systems",
+    "topic": "AI Agents"
+  },
+  "VM9KPBBBizw": {
+    "title": "How to Efficiently Serve an LLM?",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "VPRSBzXzavo": {
+    "title": "How ChatGPT is Trained",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "VUzA1UHWsF4": {
+    "title": "What is GRPO algorithm used for Training DeepSeek",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "VXG6WzS-Xb4": {
+    "title": "Matrix Multiplication Concept Explained",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "VXHNke_u1lQ": {
+    "title": "The unspoken Truth About Autonomous Agents: Why LangGraph Will Dominate in 2024",
+    "topic": "AI Agents"
+  },
+  "Vc2C1NZkH0E": {
+    "title": "N-gram Language Modeling | Theory, Math, Code",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "Vce8w1sy0e8": {
+    "title": "Momentum Optimizer in Deep Learning | Explained in Detail",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "Vmqy3VP6DFk": {
+    "title": "GPT-1 | Paper Explained & PyTorch Implementation",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "VnpRp7ZglfA": {
+    "title": "The FASTEST introduction to Reinforcement Learning on the internet",
+    "topic": "Reinforcement Learning"
+  },
+  "Vs85VCzug0I": {
+    "title": "Stanford CS330 I Unsupervised Pre-training for Few-shot Learning l 2022 I Lecture 8",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "VvUz0Q9e09g": {
+    "title": "L6.3 Automatic Differentiation in PyTorch -- Code Example",
+    "topic": "Backpropagation & Automatic Differentiation"
+  },
+  "VyWAvY2CF9c": {
+    "title": "Deep Learning Crash Course for Beginners",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "VzvG23gmcYU": {
+    "title": "A gentle visual intro to Transformer models",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "W-0-u6XVbE4": {
+    "title": "Overfitting And Underfitting Machine Learning | Machine Learning Tutorial For Beginners |Simplilearn",
+    "topic": "Overfitting & Underfitting"
+  },
+  "W0TcVrI_vRg": {
+    "title": "LM.2 What is a language model?",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "W7ZM2U2ds5M": {
+    "title": "Introduction to Representation learning:  Approaches, Challenges and Applications",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "WNsJNIVALwY": {
+    "title": "What is a Generative AI Agent?",
+    "topic": "AI Agents"
+  },
+  "WWs_X6RZqow": {
+    "title": "How I Finally Understood LLM Attention",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "WZMsWr1tmXA": {
+    "title": "Neural Networks Simply Explained",
+    "topic": "Neural Network Foundations"
+  },
+  "WiPW5v8lz_c": {
+    "title": "Machine Translation of Human Languages in the Age of LLMs: Is This the End of the Language Barrier?",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "Wj5ole72Q9g": {
+    "title": "Data Science in 60 Minutes | What Is Data Science | Neural Networks | Great Learning",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "WkLadFimfcE": {
+    "title": "The Incredible Physics Behind AI Images: How DALL-E, Imagen, and MidJourney Work",
+    "topic": "AI Agents"
+  },
+  "WmvZwR4rKJg": {
+    "title": "LLM Quantization Explained: GPTQ, AWQ, QLoRA, GGUF and More",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "WnFOQJYxRXI": {
+    "title": "Rebuilding ChatGPT with Python—LIVE Transformer Training!",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "Wnn4wrIht2s": {
+    "title": "Post-Training, RL, Experiments and Indic AI | Tokenbender",
+    "topic": "AI Agents"
+  },
+  "WtNpneVKNoY": {
+    "title": "How LLMs got better at reasoning",
+    "topic": "Research & Literature Review"
+  },
+  "X4VvO3G6_vw": {
+    "title": "LoRA (Low-rank Adaption of AI Large Language Models) for fine-tuning LLM models",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "XCgWoLu-zK8": {
+    "title": "LLM Post-Training: A Deep Dive into Reasoning Large Language Models",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "XD5gQM576qs": {
+    "title": "ML  From First Principles",
+    "topic": "Linear Algebra for ML"
+  },
+  "XMnxKGVnEUc": {
+    "title": "Paper: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "topic": "Research & Literature Review"
+  },
+  "XNKeayZW4dY": {
+    "title": "Keras Tutorial For Beginners | Creating Deep Learning Models Using Keras In Python | Edureka",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "XSSTuhyAmnI": {
+    "title": "What are Transformer Neural Networks?",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "XTrUktMOcEk": {
+    "title": "Depths of Python: Forget Syntax, Learn this Superpower",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "XUFLq6dKQok": {
+    "title": "FORMATION DEEP LEARNING COMPLETE (2021)",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "X_R-mgE5nM8": {
+    "title": "Advanced Machine Learning Techniques: AI Audiobook for Autodidacts Ch. 3",
+    "topic": "AI Agents"
+  },
+  "XlVmZk9IOxo": {
+    "title": "Ilya Sutskever Calls Peak Data and the End of Pretraining",
+    "topic": "AI Agents"
+  },
+  "XuA58R5sNVQ": {
+    "title": "Batch normalization",
+    "topic": "Regularization"
+  },
+  "Y8Tj9kq4iWY": {
+    "title": "Attention Sink: The Fluke That Made LLMs Actually Usable",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "YK61MhwZ8Go": {
+    "title": "Deleted video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "YLiXgPhb8cQ": {
+    "title": "Rich Sutton, Toward a better Deep Learning",
+    "topic": "Deep Learning Architectures"
+  },
+  "YMZm7LdGQp8": {
+    "title": "Build the LLM OS | Autonomous LLMs as the new Operating System",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "YOvxh_ma5qE": {
+    "title": "Multimodal Embeddings: Introduction & Use Cases (with Python)",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "YQOH10NFCjs": {
+    "title": "Compression of C(An Observation on Generalization - lya Sutskever)",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "YR9EztOF0R8": {
+    "title": "Learning to Reason, Insights from Language Modeling",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "YVU5wAA6Txo": {
+    "title": "PEFT LoRA Explained in Detail - Fine-Tune your LLM on your local GPU",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "YXTYbr3hiFU": {
+    "title": "An Unexpected Reinforcement Learning Renaissance",
+    "topic": "Reinforcement Learning"
+  },
+  "YacPECoI5SY": {
+    "title": "Adam. Rmsprop. Momentum. Optimization Algorithm. - Principles in Deep Learning",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "Yb3g3wjDsX4": {
+    "title": "Attention in Transformers Query, Key and Value in Machine Learning",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "Yf1o0TQzry8": {
+    "title": "Ilya Sutskever (OpenAI Chief Scientist) — Why next-token prediction could surpass human intelligence",
+    "topic": "AI Agents"
+  },
+  "YkyoJFmnaco": {
+    "title": "Next-Gen AI - Multi-Agent LLMs and Policy Gradient RL Explained",
+    "topic": "AI Agents"
+  },
+  "Ym_UReAdo_Y": {
+    "title": "ALC 2023 Keynote: Opening Keynote: What’s Going on in (Generative) AI?",
+    "topic": "AI Agents"
+  },
+  "YzyBSDn3OQU": {
+    "title": "Foundation Models Tutorial, and Why Not to Fine Tune Them",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "Z-numtJvK2o": {
+    "title": "Evolution of Neural Networks: Zero to Hero",
+    "topic": "Neural Network Foundations"
+  },
+  "Z0PIs-On5NQ": {
+    "title": "HW for DL: Part 4b - Reduced Precision and Pruning",
+    "topic": "Model Quantization & Compression"
+  },
+  "ZAO6y_oJtFA": {
+    "title": "Street Fighting Transformers",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "ZBKpAp_6TGI": {
+    "title": "Coding Stable Diffusion from scratch in PyTorch",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "ZLbVdvOoTKM": {
+    "title": "How to Build an LLM from Scratch | An Overview",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "ZMO5tv30ri8": {
+    "title": "nanoAhaMoment: RL for LLM from Scratch with 1 GPU - Part 1",
+    "topic": "Hardware & Distributed Training"
+  },
+  "ZPLym9rJtM8": {
+    "title": "Implementing the Self-Attention Mechanism from Scratch in PyTorch!",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "ZaVP2SY23nc": {
+    "title": "Week 8 – Lecture: Contrastive methods and regularised latent variable models",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "Zar2TJv-sE0": {
+    "title": "Build an LLM from Scratch 5: Pretraining on Unlabeled Data",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "Zf1MLaWIOfQ": {
+    "title": "False Positives vs. False Negatives in Science and Statistics (Type 1 and Type 2 Error)",
+    "topic": "Probability & Statistics"
+  },
+  "ZqXnPcyIAL8": {
+    "title": "Dimensionality Reduction: Principal Components Analysis, Part 1",
+    "topic": "Principal Component Analysis (PCA)"
+  },
+  "ZshcPdavsdU": {
+    "title": "On the Opportunities and Risks of Foundation Models (intro)",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "ZuiJjkbX0Og": {
+    "title": "How LLMs work for Web Devs: GPT in 600 lines of Vanilla JS - Ishan Anand",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "Zxf24EDKVq4": {
+    "title": "Evolution of AI Thinking for building Products of the Next Decade - Mr. Shailesh Kumar",
+    "topic": "AI Product Strategy"
+  },
+  "_4UfFQ13Dgw": {
+    "title": "An Attentive Survey Of Attention Models - A Review on Attention in Deep Learning",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "_56bfCu02ZE": {
+    "title": "A Neural Network Primer",
+    "topic": "Neural Network Foundations"
+  },
+  "_7lYRPEgrb4": {
+    "title": "Deep Learning with PyTorch - Gradient Descent, Mini-Batch GD and SGD",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "_H3aw6wkCv0": {
+    "title": "Stefan Otte: Deep Neural Networks with PyTorch | PyData Berlin 2018",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "_HfdncCbMOE": {
+    "title": "MIT 6.S191 (2025): Large Language Models (Liquid AI)",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "_JB0AO7QxSA": {
+    "title": "Lecture 7 | Training Neural Networks II",
+    "topic": "Neural Network Foundations"
+  },
+  "_JZPKbEp6gk": {
+    "title": "Components Of Stable Diffusion - Stable Diffusion Masterclass",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "_MNlLhU33H0": {
+    "title": "Adv. LLM Agents MOOC | UC Berkeley CS294-280 Sp25 | Learning to Reason with LLMs by Jason Weston",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "_UVfwBqcnbM": {
+    "title": "Transformers for beginners | What are they and how do they work",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "_bdz8A-_XLI": {
+    "title": "Your guide to tuning foundation models",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "_e6pgQ8yvqI": {
+    "title": "AI Agents & the Future of Work with LangChain’s Harrison Chase | AI Basics with Google Cloud",
+    "topic": "AI Agents"
+  },
+  "_fZwxh2aro8": {
+    "title": "Let me explain PyTorch in 7 Concepts",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "_tEek2jPn-4": {
+    "title": "How Much Statistics Do You REALLY Need for Data Science?",
+    "topic": "Probability & Statistics"
+  },
+  "a4faeWKtQts": {
+    "title": "🧠 Deep Learning Architectures in Computer Vision",
+    "topic": "Deep Learning Architectures"
+  },
+  "a83Ms_D1jvQ": {
+    "title": "Week 1 - Intro to Classical ML",
+    "topic": "Linear Algebra for ML"
+  },
+  "aDW44NPhNw0": {
+    "title": "Machine Learning: Testing and Error Metrics",
+    "topic": "MLOps & Pipelines"
+  },
+  "aGt3iy2STlw": {
+    "title": "Cornell CS 6785: Deep Generative Models. Lecture 1: Course Introduction",
+    "topic": "Generative Models"
+  },
+  "aHCDrAbH_go": {
+    "title": "Building Effective Agents with LangGraph",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "aOEoxyA4uXU": {
+    "title": "How to implement Perceptron from scratch with Python",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "aOIHiclLDrc": {
+    "title": "Introduction to NLP | TF-IDF",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "aXLIebCK0pE": {
+    "title": "How LLM transformers work with matrix math and code - made easy!",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "aircAruvnKk": {
+    "title": "But what is a neural network? | Deep learning chapter 1",
+    "topic": "Neural Network Foundations"
+  },
+  "aw3H-wPuRcw": {
+    "title": "Cross Attention | Method Explanation | Math Explained",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "azOmzumh0vQ": {
+    "title": "Yoshua Bengio: Deep Learning | Lex Fridman Podcast #4",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "b9qwLkJW2ig": {
+    "title": "NLP is not NLU and GPT-3 - Walid Saba",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "bBBYPuVUnug": {
+    "title": "Sequence to Sequence Learning with Encoder-Decoder Neural Network Models by Dr. Ananth Sankar",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "bCz4OMemCcA": {
+    "title": "Attention is all you need (Transformer) - Model explanation (including math), Inference and Training",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "bJVtvrE3n4w": {
+    "title": "Deleted video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "bL1Zymz1b7g": {
+    "title": "Learning in deep neural networks",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "bMJdCDqfZ6A": {
+    "title": "MASTERY: Outperform 99% Of People & Become The Best",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "bN6YylvZCzM": {
+    "title": "CMU Advanced NLP Spring 2025 (5): Attention and Transformers",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "bNwI3IUOKyg": {
+    "title": "Why We Don't Use the Mean Squared Error (MSE) Loss in Classification",
+    "topic": "Linear Classifiers"
+  },
+  "bQ5BoolX9Ag": {
+    "title": "Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "bUH5tvIZInE": {
+    "title": "Mixture of Experts for Realtime AI Applications | Founders Inc Tech Talk",
+    "topic": "AI Product Strategy"
+  },
+  "bYmeuc5voUQ": {
+    "title": "RAAIS 2019 - Ashish Vaswani, Senior Research Scientist at Google AI",
+    "topic": "AI Product Strategy"
+  },
+  "bZQun8Y4L2A": {
+    "title": "State of GPT | BRK216HFS",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "bZzyPscbtI8": {
+    "title": "Building AI Agents in Pure Python - Beginner Course",
+    "topic": "AI Agents"
+  },
+  "baykhvFS_e4": {
+    "title": "How Decoder-Only Transformers (like GPT) Work",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "bcOA9rD55t8": {
+    "title": "The Attention Mechanism in GPTs",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "bfCs3wqRSQY": {
+    "title": "What is Self-Supervised Learning? [Quick Introduction]",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "bkotYVjsPMc": {
+    "title": "LLM Post-Training: Reinforcement Learning, Scaling, and Fine-Tuning",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "bs2brAnviCE": {
+    "title": "The LLM Reasoning Revolution: Regimes and Architectures",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "c-ETGG9Ncoo": {
+    "title": "PyTorch Complete Training 2024: Learning PyTorch from Basics to Advanced",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "c36lUUr864M": {
+    "title": "Deep Learning With PyTorch - Full Course",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "c3MT2qV5f9w": {
+    "title": "Deep Dive on PyTorch Quantization - Chris Gottbrath",
+    "topic": "Model Quantization & Compression"
+  },
+  "cI0whHUpcos": {
+    "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "cP2z7MFJScU": {
+    "title": "Self-Supervised Learning",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "cUvG8VQ3kMc": {
+    "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context,Agentic",
+    "topic": "AI Agents"
+  },
+  "cbYxHkgkSVs": {
+    "title": "Attention Is All You Need (Transformer) | Paper Explained",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "cpLi-82koFM": {
+    "title": "Why are vector databases so FAST?",
+    "topic": "Linear Algebra for ML"
+  },
+  "cybEKSNBp-w": {
+    "title": "LLM: Pretraining, Instruction fine-tuning and RLHF",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "d6vkM_xCJko": {
+    "title": "CS 152 NN—17:  CNN Architectures: Resnet",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "d7IRM40VMYM": {
+    "title": "GPT in PyTorch",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "dMUes74-nYY": {
+    "title": "Lecture 7 Self-Supervised Learning -- UC Berkeley Spring 2020 - CS294-158 Deep Unsupervised Learning",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "dNFC57Bz10c": {
+    "title": "GPT-1 to GPT-4: The Evolution of AI Language Models",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "d_ixlCubqQw": {
+    "title": "Transformer models: Decoders",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "dichIcUZfOw": {
+    "title": "Visual Guide to Transformer Neural Networks - (Episode 1) Position Embeddings",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "dnF463_Ar9I": {
+    "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 15 - After DPO by Nathan Lambert",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "dw977hx_KAs": {
+    "title": "What is Agentic AI? Society of AI Agents with Agentic AI framework Magentic-One (Autogen)",
+    "topic": "AI Agents"
+  },
+  "dyNGd06MWn4": {
+    "title": "Stanford CS231N | Spring 2025 | Lecture 3: Regularization and Optimization",
+    "topic": "Regularization"
+  },
+  "e3MX7HoGXug": {
+    "title": "Model Context Protocol (MCP), Clearly Explained (Why it Matters)",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "e4ZRydWasEo": {
+    "title": "Private video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "e6VptUfmMNE": {
+    "title": "The Definitive Guide to GenAI Mastery: GenAI Roadmap (2025)",
+    "topic": "AI Product Strategy"
+  },
+  "e9-0BxyKG10": {
+    "title": "Transformers and Self-Attention (DL 19)",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "eKqWC577WlI": {
+    "title": "Colin Raffel: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "eT5tUxIpwwE": {
+    "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary,",
+    "topic": "AI Agents"
+  },
+  "eYVl2ckF-nQ": {
+    "title": "The Lifecycle of Data Science - Data Science Wednesday",
+    "topic": "MLOps & Pipelines"
+  },
+  "eZdOkDtYMoo": {
+    "title": "Lecture 15 | Efficient Methods and Hardware for Deep Learning",
+    "topic": "Hardware & Distributed Training"
+  },
+  "eh-muwX6qbQ": {
+    "title": "Interview Prep Day 2- Linear Regression Interview Question-The Most Important Algorithm In ML & DS🔥🔥",
+    "topic": "Linear Algebra for ML"
+  },
+  "ehwGnnANum8": {
+    "title": "Learn to Build a Product Based Company Ft. Ambi Moorthy | GoZen",
+    "topic": "AI Product Strategy"
+  },
+  "euwN5DHfLEo": {
+    "title": "torch.nn.Embedding explained (+ Character-level language model)",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "ewjlmLQI9kc": {
+    "title": "BERT and GPT in Language Models like ChatGPT or BLOOM |  EASY Tutorial on Large Language Models LLM",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "f5XpEIGCk_o": {
+    "title": "Adam and AdamW Lucidly Explained!",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "f737qbwIOmM": {
+    "title": "A Thorough Exploration of Data Science Algorithms",
+    "topic": "Research & Literature Review"
+  },
+  "fEvKo90qBns": {
+    "title": "The Lean Startup | Eric Ries | Talks at Google",
+    "topic": "AI Product Strategy"
+  },
+  "fFt4kR4ntAA": {
+    "title": "What is Semantic Search?",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "fGDT63dZcvE": {
+    "title": "Backpropagation: How Neural Networks Learn",
+    "topic": "Backpropagation & Automatic Differentiation"
+  },
+  "fJ40w_2h8kk": {
+    "title": "What is PyTorch? (Machine/Deep Learning)",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "fMGPF2gpK4w": {
+    "title": "747: Technical Intro to Transformers and LLMs — with Kirill Eremenko",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "fTjPEE0fk-U": {
+    "title": "How Did They Do It? DeepSeek V3 and R1 Explained",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "fWiieyG2zes": {
+    "title": "Private video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "fWlEHF5RhpQ": {
+    "title": "Watch 3 AI Engineers Explain Transformers (Complete Mathematical Meltdown)",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "fYgsZnkFeck": {
+    "title": "Context Engineering: What It Is and Why It Matters",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "fcgPYo3OtV0": {
+    "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 10: Inference",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "fdY7dt3ijgY": {
+    "title": "OpenAI Spinning Up in Deep RL Workshop",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "fiXDxS7xGks": {
+    "title": "The Rise and Fall of the Vector DB category: Jo Kristian Bergum (ex-Chief Scientist, Vespa)",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "fkTB3gP9d-g": {
+    "title": "The Secret SYSTEM PROMPT for Building AI Agents in 2025",
+    "topic": "AI Agents"
+  },
+  "fkf4IBRSeEc": {
+    "title": "Principal Component Analysis (PCA)",
+    "topic": "Principal Component Analysis (PCA)"
+  },
+  "fmnFOzmdUBE": {
+    "title": "Masked Language Modeling (MLM) in BERT pretraining explained",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "frosrL1CEhw": {
+    "title": "Neural Attention - This simple example will change how you think about it",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "g-Hb26agBFg": {
+    "title": "Principal Component Analysis (PCA)",
+    "topic": "Principal Component Analysis (PCA)"
+  },
+  "g-Yb7CFWItk": {
+    "title": "AI Agents for PMs in 69 Minutes — Masterclass with IBM VP",
+    "topic": "AI Product Strategy"
+  },
+  "g3sEsBGkLU0": {
+    "title": "Transformer Encoder in 100 lines of code!",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "gG5NCkMerHU": {
+    "title": "The Epistemology of Deep Learning - Yann LeCun",
+    "topic": "Research & Literature Review"
+  },
+  "gJ9kaJsE78k": {
+    "title": "Visual Guide to Transformer Neural Networks - (Episode 3) Decoder’s Masked Attention",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "gJlp6CuUN9U": {
+    "title": "Prefix-Tuning: Optimizing Continuous Prompts for Generation - Overview",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "gMi5BcBdyso": {
+    "title": "AI & Deep Learning Course #35 - Transformer Decoder",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "gQddtTdmG_8": {
+    "title": "Vectoring Words (Word Embeddings) - Computerphile",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "gRAFRuoum90": {
+    "title": "Frontier LLMs | Lecture 4 | RL with Verifiable Rewards, DeepSeek R1, GRPO",
+    "topic": "Reinforcement Learning"
+  },
+  "gajUDdlBX3w": {
+    "title": "Model Selection in Machine Learning",
+    "topic": "Automated Model Tuning"
+  },
+  "gc56tEmbZ1E": {
+    "title": "Machine Learning Models",
+    "topic": "MLOps & Pipelines"
+  },
+  "gtykKBUd8Hg": {
+    "title": "Phillip Isola -- When and Why Does Contrastive Learing Work?",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "h5OdTpUqkYE": {
+    "title": "MLG 034 Large Language Models 1",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "h7iBpEHGVNc": {
+    "title": "Lecture 3 | Loss Functions and Optimization",
+    "topic": "Linear Classifiers"
+  },
+  "hAnfnc2dWBs": {
+    "title": "Linear classifiers (1): Basics",
+    "topic": "Linear Classifiers"
+  },
+  "hC_qASRcBhU": {
+    "title": "Transforming AI | NVIDIA GTC 2024 Panel Hosted by Jensen Huang",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "hDjEd43R7Ik": {
+    "title": "Deep Learning for Recommender Systems | Alexandros Karatzoglou",
+    "topic": "Deep Learning Architectures"
+  },
+  "hLHSka8sUbY": {
+    "title": "👨‍🏫 Knowledge Distillation: Principles and Advanced Techniques",
+    "topic": "Model Quantization & Compression"
+  },
+  "hM49MPmakNI": {
+    "title": "3 1 Introduction to N grams 8 41",
+    "topic": "Neural Network Foundations"
+  },
+  "hM7uHV1daQw": {
+    "title": "Demystifying the Math Behind Machine Learning’s Magic",
+    "topic": "Linear Algebra for ML"
+  },
+  "hN739XOzwpg": {
+    "title": "Neural Language Models",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "hNcMyP5WGcE": {
+    "title": "LLM Post-Training: A Deep Dive into Reasoning Large Language Models (Feb 2025)",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "hZ4a4NgM3u0": {
+    "title": "Autoencoders | Deep Learning Animated",
+    "topic": "Generative Models"
+  },
+  "he_86Y4lQLw": {
+    "title": "Tutorial on Automatic Differentiation",
+    "topic": "Backpropagation & Automatic Differentiation"
+  },
+  "hjnVLfvhN0Q": {
+    "title": "Dive Into Deep Learning, Lecture 2: PyTorch Automatic Differentiation (torch.autograd and backward)",
+    "topic": "Backpropagation & Automatic Differentiation"
+  },
+  "hthRRfapPR8": {
+    "title": "LangGraph: Building a Dangerously Smart AI Agent – Dynamic Code Generation & Execution!",
+    "topic": "AI Agents"
+  },
+  "hvRiZ1dqODQ": {
+    "title": "6 tips for Context Engineering AI Agents (from Manus AI) #agent #llms #context",
+    "topic": "AI Agents"
+  },
+  "iAvWWIDaUEw": {
+    "title": "Lec 24 | Alignment of Language Models-I",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "iB-ZPOXzVv8": {
+    "title": "Why Use LangChain? A Blunt Overview for Advanced Engineers",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "iBT9cB8yHQw": {
+    "title": "Colin Raffel | Applied Mathematics (APPM) Department Colloquium",
+    "topic": "Research & Literature Review"
+  },
+  "iDulhoQ2pro": {
+    "title": "Attention Is All You Need",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "iE7cvm4QbWw": {
+    "title": "ChatGPT GPT-4 | Learn About it",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "iEt2UbqAhls": {
+    "title": "What Decision Makers Should Know About Machine Learning",
+    "topic": "MLOps & Pipelines"
+  },
+  "iGJ1XSkCyU0": {
+    "title": "What Is Self-Supervised Learning and Why Care?",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "iIjtgrjgAug": {
+    "title": "Metrics - Ep. 23 (Deep Learning SIMPLIFIED)",
+    "topic": "Model Evaluation & Metrics"
+  },
+  "iL1c1KmYPM0": {
+    "title": "Stanford CS330 I Variational Inference and Generative Models l 2022 I Lecture 11",
+    "topic": "Generative Models"
+  },
+  "iNHAoGGRNMI": {
+    "title": "AI Engineering Insights from Chip Huyen’s Book | Chapter 1: Introduction to Building AI Applications",
+    "topic": "AI Product Strategy"
+  },
+  "iRqpsCHqLUI": {
+    "title": "LLMs for Devs: Model Selection, Hallucinations, Agents, AGI – Jodie Burchell | The Marco Show",
+    "topic": "AI Product Strategy"
+  },
+  "iTlj3gMYzw8": {
+    "title": "Using pre-trained models in TensorFlow | Machine Learning for web developers",
+    "topic": "MLOps & Pipelines"
+  },
+  "iVCp0Jq-2UA": {
+    "title": "Large Language Models as a Building Blocks",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "iaiIRZe2ZNQ": {
+    "title": "State of Machine Learning [March 2025]",
+    "topic": "Research & Literature Review"
+  },
+  "ib-wTAvCZqg": {
+    "title": "Architecting and Testing Controllable Agents: Lance Martin",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "iqmjzecbJHE": {
+    "title": "Orignal transformer paper \"Attention is all you need\" introduced by a layman | Shawn's ML Notes",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "itIab9ZTAqk": {
+    "title": "LLMs: A Journey Through Time and Architecture",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "iudXf5n_3ro": {
+    "title": "MOMENTUM Gradient Descent (in 3 minutes)",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "iv-5mZ_9CPY": {
+    "title": "But how do AI images and videos actually work? | Guest video by Welch Labs",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "ix_rK8AdFiA": {
+    "title": "NVIDIA GTC May 2020 Keynote FULL",
+    "topic": "Hardware & Distributed Training"
+  },
+  "j1XRLh7yzzY": {
+    "title": "Practical RAG - Choosing the Right Embedding Model, Chunking Strategy, and More",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "j6jNrY3-614": {
+    "title": "Agentic AI Roadmap 2025 | Roadmap to Learn Agentic AI in 2025 | Learn AI Agents in 6 Months!",
+    "topic": "AI Agents"
+  },
+  "j6yF0ouLwi8": {
+    "title": "🧠 Decoding Deep Learning: A Brutally Honest Look Inside the Black Box 🧠",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "jDzuGEcnRkA": {
+    "title": "Stanford CS330 I Unsupervised Pre-Training:Contrastive Learning l 2022 I Lecture 7",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "jEeL5Gf4vkk": {
+    "title": "Dr Kaiming He- 2023 Future Science Prize Laureates Lecture  何恺明- 2023年未来科学大奖获奖者学术报告会",
+    "topic": "Research & Literature Review"
+  },
+  "jFl5Fewrieo": {
+    "title": "EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "jZWCF-wfduQ": {
+    "title": "Deep Dive // LLM Post Training: A Deep Dive into Reasoning LLMs",
+    "topic": "Research & Literature Review"
+  },
+  "jaZgLWtIVkE": {
+    "title": "DeepSeek Multihead Latent Attention",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "jk2FsJxZFo8": {
+    "title": "LLM inference optimization: Architecture, KV cache and Flash attention",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "jkrNMKz9pWU": {
+    "title": "A Hackers' Guide to Language Models",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "jmLid2x9eKg": {
+    "title": "Supervised Machine Learning: Crash Course Statistics #36",
+    "topic": "Supervised Learning"
+  },
+  "jpmZp3eX-wI": {
+    "title": "An Introduction to Markov Decision Processes and Reinforcement Learning",
+    "topic": "Reinforcement Learning"
+  },
+  "jrJKRYAdh7I": {
+    "title": "Knowledge Distillation: How LLMs train each other",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "jxB-lQyAAxU": {
+    "title": "The Truth about AI is Devastating: Proof by MIT, Harvard",
+    "topic": "AI Agents"
+  },
+  "k-Cj6H6Zwos": {
+    "title": "How I'd Learn AI Agents FAST if I Had to Start Over (Full Roadmap)",
+    "topic": "AI Agents"
+  },
+  "k0_UmXpYB0U": {
+    "title": "Private video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "k2pD3k1485A": {
+    "title": "Direct Preference Optimization (DPO) - How to fine-tune LLMs directly without reinforcement learning",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "k63qGsH1jLo": {
+    "title": "Distilling the Knowledge in a Neural Network",
+    "topic": "Model Quantization & Compression"
+  },
+  "k6QWYwOvJs0": {
+    "title": "Data Science Interview Questions (with answers)",
+    "topic": "AI Product Strategy"
+  },
+  "k8_OEVdWGiU": {
+    "title": "Deleted video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "k8fTYJPd3_I": {
+    "title": "Gradient Descent With Momentum (C2W2L06)",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "kA4mD3y4aqA": {
+    "title": "Introduction to Feature Selection in Machine Learning | What is Feature Selection",
+    "topic": "Feature Selection & Engineering"
+  },
+  "kAlD1Wx8lzw": {
+    "title": "Breaking down the OG GPT Paper by Alec Radford",
+    "topic": "Research & Literature Review"
+  },
+  "kBhHVscx5So": {
+    "title": "AI Agents - The Future Workforce with Thomas Barton",
+    "topic": "AI Agents"
+  },
+  "kPL-6-9MVyA": {
+    "title": "RAG Agents in Prod: 10 Lessons We Learned — Douwe Kiela, creator of RAG",
+    "topic": "AI Agents"
+  },
+  "kRZE7gRCPQA": {
+    "title": "AI Agent Mastery: Agent Architectures",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "kS9DazKNX-Y": {
+    "title": "Semantic Search: A Deep Dive Into Vector Databases (with Zain Hasan)",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "kTeBcaffvN8": {
+    "title": "8b. Loss Functions | Cross-Entropy, KL Divergence,  in  under 2 hours",
+    "topic": "Loss Functions & Information Theory (Entropy, KL Divergence)"
+  },
+  "kWLed8o5M2Y": {
+    "title": "Transformer Neural Networks Derived from Scratch",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "kY14KfZQ1TI": {
+    "title": "Intro To Deep Learning With PyTorch - Deep Learning with Pytorch 1",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "kxx6TfpAkEU": {
+    "title": "Knowledge Distillation with Llama 3.1 405B | Llama for Developers",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "kyQ0CRkYhy4": {
+    "title": "1: Introduction to Neural Networks and Deep Learning; Training Deep NNs",
+    "topic": "Neural Network Foundations"
+  },
+  "kytMd3_x9RU": {
+    "title": "Everything You Wanted to Know About Optimization",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "l-CjXFmcVzY": {
+    "title": "Create ChatGPT From Scratch in 40 Minute",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "l44uC7jfnvY": {
+    "title": "Knowledge Distillation in Machine Learning: Full Tutorial with Code",
+    "topic": "Model Quantization & Compression"
+  },
+  "l4is4uHvKlU": {
+    "title": "Transformer Embeddings - EXPLAINED!",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "l8pRSuU81PU": {
+    "title": "Let's reproduce GPT-2 (124M)",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "lD3_VF5bmWg": {
+    "title": "BM25 Algorithm and Hybrid Search: AI Explained",
+    "topic": "AI Agents"
+  },
+  "lFbxTlD5R98": {
+    "title": "Machine Intelligence - Lecture 7 (Clustering, k-means, SOM)",
+    "topic": "Clustering"
+  },
+  "lVqwznaVi78": {
+    "title": "SBERT (Sentence Transformers) is not BERT Sentence Embedding: Intro & Tutorial (#sbert  Ep 37)",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "lYRWzCPGM2Q": {
+    "title": "10 minutes paper (episode 20); InstructGPT",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "lbGugemmozk": {
+    "title": "Vision Language Models | Multi Modality, Image Captioning, Text-to-Image | Advantages of VLM's",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "lbKg3OSTsgA": {
+    "title": "Self-Supervised Learning",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "lpkSGTT8uMg": {
+    "title": "Bias Variance Trade off",
+    "topic": "Overfitting & Underfitting"
+  },
+  "ly0TRNr7I_M": {
+    "title": "Transfer Learning in Natural Language Processing (NLP) | Liling Tan | PyCon SG 2019",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "m8pOnJxOcqY": {
+    "title": "Convolution Neural Networks - EXPLAINED",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "m9UCVqd5lGY": {
+    "title": "GPT-1 Paper Explained",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "mMa2PmYJlCo": {
+    "title": "Visual Guide to Transformer Neural Networks - (Episode 2) Multi-Head & Self-Attention",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "mQDlCZZsOyo": {
+    "title": "Whitepaper Companion Podcast - Foundational LLMs & Text Generation",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "mRmVKNklE9I": {
+    "title": "Machine Learning Blink 11.1 (Introduction to Principle Component Analysis PCA)",
+    "topic": "Principal Component Analysis (PCA)"
+  },
+  "mVLO9PHFc0I": {
+    "title": "Turns out Attention wasn't all we needed - How have modern Transformer architectures evolved?",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "mX2y3NWmaCQ": {
+    "title": "The Mystery of 'Latent Space' in Machine Learning Explained!",
+    "topic": "Research & Literature Review"
+  },
+  "mYo7UFwnW1k": {
+    "title": "🚀Build an AI Agent from SCRATCH with Python! (No Frameworks)",
+    "topic": "AI Agents"
+  },
+  "mcep6W8oB1I": {
+    "title": "Stanford CS25: V3 I Recipe for Training Helpful Chatbots",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "mctizdBujk4": {
+    "title": "Evaluation 6: precision and recall",
+    "topic": "Model Evaluation & Metrics"
+  },
+  "mdKjMPmcWjY": {
+    "title": "Optimizers - EXPLAINED!",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "mfAV_bigdRA": {
+    "title": "Improving LLM accuracy with Monte Carlo Tree Search",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "mg-iU-WxiNs": {
+    "title": "How LLMs Learn to Reason [GRPO]",
+    "topic": "Reinforcement Learning"
+  },
+  "mk5jAAGpIbE": {
+    "title": "Evolution of the Transformer architecture 2017–2025 | Comparing the attention mechanisms",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "mozBidd58VQ": {
+    "title": "Building a Neural Network with PyTorch in 15 Minutes | Coding Challenge",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "ms-Ooh9mjiE": {
+    "title": "Overfitting, Underfitting, and Model Capacity",
+    "topic": "Overfitting & Underfitting"
+  },
+  "n233GPgOHJg": {
+    "title": "Stable Diffusion Models Explained Once and for All (1.5, 2, XL, Cascade, 3)",
+    "topic": "Generative Models"
+  },
+  "n7iT5r0Sl_Y": {
+    "title": "How I use Claude Code (+ my best tips)",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "n8ywyA2_nVE": {
+    "title": "Ensembles 3: AdaBoost - Diversity in action",
+    "topic": "Ensemble Learning"
+  },
+  "n9OkJBluOa4": {
+    "title": "Exploring foundation models - Session 1",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "nEHNwdrbfGA": {
+    "title": "Stanford CS25: V5 I The Advent of AGI, Div Garg",
+    "topic": "AI Agents"
+  },
+  "nEMVfvc12Xk": {
+    "title": "HuggingFace Transformer Pipelines: Language, Vision, Audio, Multi-Modal",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "nEvKduLXFvk": {
+    "title": "Visualizing Principal Component Analysis (PCA)",
+    "topic": "Principal Component Analysis (PCA)"
+  },
+  "nH6H8bI6IMQ": {
+    "title": "MLG 036 Autoencoders",
+    "topic": "Generative Models"
+  },
+  "nMaIjeUmShM": {
+    "title": "Private video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "nNIlnKuCNcI": {
+    "title": "Hugging Face's AI Agents Course In 20 Minutes",
+    "topic": "AI Agents"
+  },
+  "nR74lBO5M3s": {
+    "title": "Stanford Seminar: Google's Multilingual Neural Machine Translation System",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "nSrj1J6ODoM": {
+    "title": "RLHF Explained",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "nTlLAS7N7qE": {
+    "title": "Transformers for beginners | What are they and how do they work",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "nc7FzLiB_AY": {
+    "title": "What is ResNet? (with 3D Visualizations)",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "ncviEm-WlHU": {
+    "title": "[#4] LORA - Low-Rank Adaptation for Large Language Models - A Paper A day [Podcast]",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "ne6vnKoTHwk": {
+    "title": "Principal Component Analysis (PCA) | Dimensionality Reduction Techniques  (2/5)",
+    "topic": "Principal Component Analysis (PCA)"
+  },
+  "nf-r9gnum7o": {
+    "title": "The Three Elements of PyTorch",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "njKP3FqW3Sk": {
+    "title": "MIT 6.S191 (2020): Introduction to Deep Learning",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "nt5DwCuYY5c": {
+    "title": "A Critical Skill People Learn Too LATE: Learning Curves In Machine Learning.",
+    "topic": "Overfitting & Underfitting"
+  },
+  "ntIa-xPRTlw": {
+    "title": "How AI actually reasons: inside model thought processes",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "nxONOq84-6s": {
+    "title": "AI & Deep Learning Course #44 - Fine Tuning a LLM into an Assistant Model",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "nx_3SsRk5Xc": {
+    "title": "The Agent Network — Dharmesh Shah, Agent.ai + CTO of HubSpot",
+    "topic": "AI Agents"
+  },
+  "oGk1v1jQITw": {
+    "title": "Deep Learning for Natural Language Processing (Richard Socher, Salesforce)",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "oGpzWAlP5p0": {
+    "title": "MIT 6.S191 (2025): Convolutional Neural Networks",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "oJNHXPs0XDk": {
+    "title": "Neural Network Architectures & Deep Learning",
+    "topic": "Deep Learning Architectures"
+  },
+  "oMaMYuysjO4": {
+    "title": "Day 1 Talk 3: Evolution of Foundational LLMs [Arctic LLM Workshop]",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "oR670Txwh88": {
+    "title": "The Art of Learning Data Science (How to learn data science)",
+    "topic": "Feature Selection & Engineering"
+  },
+  "oSCRZkSQ1CE": {
+    "title": "Jeff Dean (Google): Exciting Trends in Machine Learning",
+    "topic": "AI Product Strategy"
+  },
+  "oXPX8GIOiU4": {
+    "title": "Lecture 9: Hardware and Software",
+    "topic": "Hardware & Distributed Training"
+  },
+  "olXGVhiyl-Q": {
+    "title": "DeepSeek AI explained like I'm 5",
+    "topic": "AI Product Strategy"
+  },
+  "opA4E4g0Sns": {
+    "title": "Parameter Efficient Fine Tuning PEFT   A Complete Guide to LoRA, QLoRA, Adapters, and Beyond",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "orDKvo8h71o": {
+    "title": "Stanford CS25: V4 I Hyung Won Chung of OpenAI",
+    "topic": "AI Product Strategy"
+  },
+  "os5by3jKUvc": {
+    "title": "S1 E1 Intuitive introduction to Neural Networks",
+    "topic": "Neural Network Foundations"
+  },
+  "osKyvYJ3PRM": {
+    "title": "Everything You Need To Know About Large Language Models (LLMs)",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "oyYur3uVl4w": {
+    "title": "Deploying Machine Learning Models - Full Guide",
+    "topic": "MLOps & Pipelines"
+  },
+  "p3840QxlYzc": {
+    "title": "The CORRECT way to use ChatGPT (in 2026)",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "p3CcfIjycBA": {
+    "title": "154 - Understanding the training and validation loss curves",
+    "topic": "Loss Functions & Information Theory (Entropy, KL Divergence)"
+  },
+  "p7F4f42iZ-c": {
+    "title": "What You MUST Know About AI Engineering | Chip Huyen, Author of “AI Engineering”",
+    "topic": "AI Product Strategy"
+  },
+  "p9PwDuDYfjw": {
+    "title": "LLM Post-Training: A Deep Dive into Reasoning Large Language Models",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "pHiMN_gy9mk": {
+    "title": "2020 Machine Learning Roadmap (87% valid for 2024)",
+    "topic": "MLOps & Pipelines"
+  },
+  "pRM_P6UfdIc": {
+    "title": "Low Level Technicals of LLMs: Daniel Han",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "pVnbkJ9TMyE": {
+    "title": "CS 152 NN—2:  Intro to ML—Low validation loss, high training loss",
+    "topic": "Regularization"
+  },
+  "p_ADPkATAGA": {
+    "title": "#7 Matrix Operations Special Matrices Matrix Decompositions",
+    "topic": "Linear Algebra for ML"
+  },
+  "pdNYw6qwuNc": {
+    "title": "What Are Neural Networks Even Doing? (Manifold Hypothesis)",
+    "topic": "Neural Network Foundations"
+  },
+  "pi7LF-OpO6k": {
+    "title": "OpenAI o1's New Paradigm: Test-Time Compute Explained",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "pj9-rr1wDhM": {
+    "title": "Convolutional Neural Networks Explained (CNN Visualized)",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "pu3-PeBG0YU": {
+    "title": "Fine Tuning Large Language Models with InstructLab",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "q1gXyyLksA8": {
+    "title": "Building Reliable Agents With LangGraph",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "q5REn6OAPRg": {
+    "title": "Model Distillation: Same LLM Power but 3240x Smaller",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "q5XUXZ0K4m8": {
+    "title": "Some Fundamental Architectural Elements",
+    "topic": "Neural Network Foundations"
+  },
+  "q9972BRoXzQ": {
+    "title": "[UCLA RL-LLM] Chapter 0: Course outline and prologue",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "qDcl-FRnwSU": {
+    "title": "Decision Tree Algorithm | Decision Tree in Python | Machine Learning Algorithms | Edureka",
+    "topic": "Supervised Learning"
+  },
+  "qPzZeP7t5ZQ": {
+    "title": "Language Modeling: A Tutorial on Data Preparation, Model Training, and Adaptation",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "qXEuY6qLISE": {
+    "title": "On large language models and transformers: perspectives from physics, neuroscience, and theory",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "qaWMOYf4ri8": {
+    "title": "What are Transformer Models and how do they work?",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "qbKtU0X6-WU": {
+    "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 10 - Efficiently Evaluating DNNs on GPUs",
+    "topic": "Hardware & Distributed Training"
+  },
+  "qqN63hbziaI": {
+    "title": "What is LLM quantization?",
+    "topic": "Model Quantization & Compression"
+  },
+  "qsO5jVrzoas": {
+    "title": "What are AI Agents.  Let's build one",
+    "topic": "AI Agents"
+  },
+  "qscouq3lo0s": {
+    "title": "WHY AND HOW OF SCALING LARGE LANGUAGE MODELS | NICHOLAS JOSEPH",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "qx7hirqgfuU": {
+    "title": "Why Deep Learning Works Unreasonably Well [How Models Learn Part 3]",
+    "topic": "AI Product Strategy"
+  },
+  "r-vYJqcFxBI": {
+    "title": "Deleted video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "r1bquDz5GGA": {
+    "title": "PyTorch in 1 Hour",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "r3TpcHebtxM": {
+    "title": "Dave Plummer explains Deepseek R1",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "r60AufkavHY": {
+    "title": "All AI Concepts Explained with 1 Real-Life Example | LLM, Gen AI, Agents, RAG, RLHF & More",
+    "topic": "AI Agents"
+  },
+  "rBCqOTEfxvg": {
+    "title": "Attention is all you need; Attentional Neural Network Models | Łukasz Kaiser | Masterclass",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "rBuePohZxPE": {
+    "title": "history to 2024",
+    "topic": "Neural Network Foundations"
+  },
+  "rE4PbltQwxo": {
+    "title": "Kullback Leibler (KL) Divergence for Machine Learning | Relation to Cross Entropy | Explained",
+    "topic": "Loss Functions & Information Theory (Entropy, KL Divergence)"
+  },
+  "rJmBhnLzjOM": {
+    "title": "How Neural Networks Work | Neural Networks Explained",
+    "topic": "Neural Network Foundations"
+  },
+  "rPBFvvw2OM4": {
+    "title": "Regularization In Machine Learning | Regularization Example | Machine Learning Tutorial |Simplilearn",
+    "topic": "Regularization"
+  },
+  "rQy6b-vtoOc": {
+    "title": "What Are LLM Agents? - LLM Concepts ( EP - 8 ) #largelanguagemodels #aiagents #llm #genai",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "rUQUv4u7jFs": {
+    "title": "[EEML'24] Jovana Mitrović - Vision Language Models",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "rURRYI66E54": {
+    "title": "AI Language Models & Transformers - Computerphile",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "rcWMRA9E5RI": {
+    "title": "But What Are Transformers?",
+    "topic": "Deep Learning Architectures"
+  },
+  "rhZgXNdhWDY": {
+    "title": "Retrieval Augmented Generation (RAG) Explained: Embedding, Sentence BERT, Vector Database (HNSW)",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "rmVRLeJRkl4": {
+    "title": "Stanford CS224N: NLP with Deep Learning | Winter 2021 | Lecture 1 - Intro & Word Vectors",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "rn1sjMFRzTQ": {
+    "title": "AI Hardware: Training, Inference, Devices and Model Optimization",
+    "topic": "AI Product Strategy"
+  },
+  "ruyyyRp79uQ": {
+    "title": "Introduction to NLP & All About NLP Pipelines | Natural Language Processing",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "s-jYxgKMqRc": {
+    "title": "Master CrewAI: Your Ultimate Beginner's Guide!",
+    "topic": "AI Agents"
+  },
+  "s91WGN5-5A0": {
+    "title": "Deep Learning Day: Reasoning",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "sAzL4XMke80": {
+    "title": "ResNet Explained!",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "sDv4f4s2SB8": {
+    "title": "Gradient Descent, Step-by-Step",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "sJE8qZmQWGU": {
+    "title": "Ilya Sutskever full talk at NeurIPS 2024 Vancouver 15/12/2024",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "sNv5jpAwkcU": {
+    "title": "How To Reduce LLM Decoding Time With KV-Caching!",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "sVC4DL2secQ": {
+    "title": "Making Sense of LLM Tool Use & MCP",
+    "topic": "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)"
+  },
+  "sVcwVQRHIc8": {
+    "title": "Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "sYliwvml9Es": {
+    "title": "A hacker's guide to open source LLMs - posit::conf(2023)",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "sZE-fe96iuI": {
+    "title": "A Free Course on Using Agents Created by ChatGPT Agent",
+    "topic": "AI Agents"
+  },
+  "saQw83AHfzU": {
+    "title": "Applied Artificial Intelligence — 6: Foundation Models",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "saddiaejp0s": {
+    "title": "Make AI Think Like YOU: A Guide to LLM Alignment",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "sbvv-uQmwVY": {
+    "title": "Deep Learning(CS7015): Lec 4.10 Information content, Entropy & cross entropy",
+    "topic": "Loss Functions & Information Theory (Entropy, KL Divergence)"
+  },
+  "soZRfdnkUQg": {
+    "title": "Introduction to Probability | 365 Data Science Online Course",
+    "topic": "Probability & Statistics"
+  },
+  "syWB-YMYZvI": {
+    "title": "Ali Ghodsi, Lec 12: Neural Networks, Autoencoders, Word2Vec",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "sznZ78HquPc": {
+    "title": "Attention is all you need explained",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "t1caDsMzWBk": {
+    "title": "LoRA & QLoRA Fine-tuning Explained In-Depth",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "t45S_MwAcOw": {
+    "title": "Transformer models and BERT model: Overview",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "t6vRqvLeRro": {
+    "title": "Beyond Pretraining: How Post-Training Optimization is Transforming Large Language Models",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "tEQ9N5JjGW0": {
+    "title": "Controlling Language Models–Lisa Li (Stanford)",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "tRsX1Bk1kx8": {
+    "title": "KL Divergence - Intuition and Math Clearly Explained",
+    "topic": "Loss Functions & Information Theory (Entropy, KL Divergence)"
+  },
+  "trYjGml_ouk": {
+    "title": "Introduction to Vision Language Models - OpenCV Live! 166",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "ttE0F7fghfk": {
+    "title": "Hyperparameter Optimization - The Math of Intelligence #7",
+    "topic": "Hyperparameter Tuning"
+  },
+  "tvIzBouq6lk": {
+    "title": "NLP Demystified 14: Machine Translation With Sequence-to-Sequence and Attention",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "twTIGuVhKbQ": {
+    "title": "Intuition behind reverse mode algorithmic differentiation (AD)",
+    "topic": "Backpropagation & Automatic Differentiation"
+  },
+  "tx5OapbK-8A": {
+    "title": "How to Build Effective AI Agents (without the hype)",
+    "topic": "AI Agents"
+  },
+  "u60_v-kujsI": {
+    "title": "ADALINE: Adaptive Linear Neurons - EXPLAINED!",
+    "topic": "Neural Network Foundations"
+  },
+  "u6aEYuemt0M": {
+    "title": "Deep Learning for Computer Vision (Andrej Karpathy, OpenAI)",
+    "topic": "Deep Learning Architectures"
+  },
+  "uF-8s33HRxM": {
+    "title": "Top 10 MCP Servers for AI Agents You Should Know (2025)",
+    "topic": "AI Agents"
+  },
+  "uIsej_SIIQU": {
+    "title": "How Do Transformers Work?",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "uQmYZTTqDC0": {
+    "title": "Uncertainty - Lecture 2 - CS50's Introduction to Artificial Intelligence with Python 2020",
+    "topic": "Probability & Statistics"
+  },
+  "uRNPnTxwvKQ": {
+    "title": "Chain of Thought Prompting - Overview",
+    "topic": "LLM Reasoning & Test-Time Compute"
+  },
+  "uROyCFqg8Fk": {
+    "title": "Why AI Can't Think — But Still Outsmarts You",
+    "topic": "AI Agents"
+  },
+  "uTxCRsAHCK4": {
+    "title": "The $100 Billion Bet: Transformers Won",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "uZeDTwWcnuY": {
+    "title": "Linear Algebra - Math for Machine Learning",
+    "topic": "Linear Algebra for ML"
+  },
+  "ufvd0DC2_EI": {
+    "title": "MLVU 7.1: Deep learning and automatic differentiation",
+    "topic": "Backpropagation & Automatic Differentiation"
+  },
+  "ukIYZw3uRX0": {
+    "title": "Introduction - Recent Developments in Neural Search",
+    "topic": "Neural Network Foundations"
+  },
+  "umurJ8GsuH0": {
+    "title": "Segment Anything Model (SAM) Breakdown | Computer Vision Breakthrough",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "uocYQH0cWTs": {
+    "title": "10 years of NLP history explained in 50 concepts | From Word2Vec, RNNs to GPT",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "v05XKEy-2Q4": {
+    "title": "Generate Text Embeddings Locally for Vector Search Databases",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "v1tyQtncsE4": {
+    "title": "Building LLM Agents in 3 Levels of Complexity: From Scratch, OpenAI Functions & LangChain",
+    "topic": "AI Agents"
+  },
+  "vGYcWvYnXiI": {
+    "title": "AI Basics: Accuracy, Epochs, Learning Rate, Batch Size and Loss",
+    "topic": "AI Agents"
+  },
+  "vSczTbgc8Rc": {
+    "title": "SVD Visualized, Singular Value Decomposition explained | SEE Matrix , Chapter 3 #SoME2",
+    "topic": "Linear Algebra for ML"
+  },
+  "vT1JzLTH4G4": {
+    "title": "Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "vUuB6RNUGx0": {
+    "title": "Masterclass: Knowledge Graphs & Massive Language Models — The Future of AI, RelationalAI | KGC 2023",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "vVSU8dtGUvE": {
+    "title": "PyTorch Autograd Fundamentals",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "vcAlvSqWWs0": {
+    "title": "Advanced Fine-Tuning Strategies for Large Language Models: Techniques, Trends, and Real-World Impact",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "viCl2T7vx64": {
+    "title": "Why the name Query, Key and Value? Self-Attention in Transformers | Part 4",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "vloSQ0tW13s": {
+    "title": "10 Years of Competitive Programming: Brutal Truths, Tips & How Effort Beats Talent",
+    "topic": "Research & Literature Review"
+  },
+  "vmSkqGu_lMs": {
+    "title": "JSALT 2024 Summer School -Large Language Models",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "vsfbplnJyA8": {
+    "title": "Context Engineering: The Outer Loop | Hammad Bashir",
+    "topic": "Prompt Engineering & In-Context Learning"
+  },
+  "vsqKGZT8Qn8": {
+    "title": "Vision Transformer Basics",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "vw0Zy_oCWxE": {
+    "title": "Reinforcement Learning Explained with Maze-Solving Robot",
+    "topic": "Reinforcement Learning"
+  },
+  "w-eWTxbRQcU": {
+    "title": "Random Forests : Data Science Concepts",
+    "topic": "Overfitting & Underfitting"
+  },
+  "w1UsKanMatM": {
+    "title": "Residual Networks (ResNet) [Physics Informed Machine Learning]",
+    "topic": "Convolutional Neural Networks (CNNs)"
+  },
+  "w8yWXqWQYmU": {
+    "title": "Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)",
+    "topic": "Neural Network Foundations"
+  },
+  "wGufowECsiM": {
+    "title": "How to ACTUALLY LEARN like a GENIUS",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "wJ60luXn5Ns": {
+    "title": "138 - The need for scaling, dropout, and batch normalization in deep learning",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "wNdYpD2YhSk": {
+    "title": "Regularization - Prevent Overfitting in Neural Networks",
+    "topic": "Regularization"
+  },
+  "wSVqBm2z4Rk": {
+    "title": "Early Language Models - Historical Context",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "wUEZ2p-DJp4": {
+    "title": "What is Parameter Offloading? - LLM Concepts ( EP 2 ) #llm #ai #artificialintelligence",
+    "topic": "Fine-Tuning & PEFT (LoRA/QLoRA)"
+  },
+  "wVnFSJDVC4I": {
+    "title": "A Practical-ish Introduction to Data Science • Mark West • GOTO 2020",
+    "topic": "AI Product Strategy"
+  },
+  "wi0M2J4uE5I": {
+    "title": "AI Showdown: ChatGPT vs. OPT vs. BLOOM - Which Language Model Reigns Supreme?",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "wj3ZYbKKUHI": {
+    "title": "Attention Mechanism | Deep Learning",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "wjZofJX0v4M": {
+    "title": "Transformers, the tech behind LLMs | Deep Learning Chapter 5",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "wkxgZirbCr4": {
+    "title": "Patrick Landreman: A Crash Course in Applied Linear Algebra | PyData New York 2019",
+    "topic": "Linear Algebra for ML"
+  },
+  "wu8npoU37cI": {
+    "title": "Become an AI Researcher Course – LLM, Math, PyTorch, Neural Networks, Transformers",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "x1ZDxlgBGfo": {
+    "title": "AI Agents Explained: Basics",
+    "topic": "AI Agents"
+  },
+  "x3sAlTERozo": {
+    "title": "Transformer (Decoder); Pretraining & Finetuning",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "x6f5JOPhci0": {
+    "title": "How optimization for machine learning works, part 1",
+    "topic": "Optimization Algorithms (SGD, Adam, Momentum)"
+  },
+  "xT4jxQUl0X8": {
+    "title": "DeepSeek's GRPO (Group Relative Policy Optimization) | Reinforcement Learning for LLMs",
+    "topic": "Reinforcement Learning"
+  },
+  "xTmU8ZImUO8": {
+    "title": "LangChain Explained in 10 Minutes (Components Breakdown + Build Your First AI Chatbot)",
+    "topic": "AI Agents"
+  },
+  "xTpHD5WLuoA": {
+    "title": "Correlation and Regression Analysis: A Complete Tutorial",
+    "topic": "Probability & Statistics"
+  },
+  "xVe87QpNE80": {
+    "title": "PydanticAI: The Best AI Agent Framework Has Arrived",
+    "topic": "AI Product Strategy"
+  },
+  "xbdLowiQTlk": {
+    "title": "Domain Adaptation for Dense Information Retrieval",
+    "topic": "Retrieval-Augmented Generation (RAG) & Vector Search"
+  },
+  "xpZFNIOaQns": {
+    "title": "Tune Your ML Models to the Highest Accuracy with Amazon SageMaker Automatic Model Tuning",
+    "topic": "Automated Model Tuning"
+  },
+  "xqL_m5LYQJI": {
+    "title": "Mathematics behind Shannon Entropy, Cross-Entropy and KL Divergence",
+    "topic": "Loss Functions & Information Theory (Entropy, KL Divergence)"
+  },
+  "xtxxLWZznBI": {
+    "title": "Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis",
+    "topic": "Hardware & Distributed Training"
+  },
+  "xy-4lLaIgZs": {
+    "title": "MLVU 12.1: Recommender systems",
+    "topic": "Linear Algebra for ML"
+  },
+  "y-UGrYbJsJk": {
+    "title": "What every AI engineer needs to know about GPUs — Charles Frye, Modal",
+    "topic": "Hardware & Distributed Training"
+  },
+  "y9AK1YKRoLg": {
+    "title": "Complete Road Map Towards Data Science In 2021",
+    "topic": "AI Product Strategy"
+  },
+  "yCj8jHnm5OQ": {
+    "title": "BERT Paper Explained",
+    "topic": "Research & Literature Review"
+  },
+  "yFFp9RYpOb0": {
+    "title": "Private video",
+    "topic": "Self-Supervised & Contrastive Learning"
+  },
+  "yN7ypxC7838": {
+    "title": "All Machine Learning Models Explained in 5 Minutes | Types of ML Models Basics",
+    "topic": "Deep Learning Architectures"
+  },
+  "yQvELPjmyn0": {
+    "title": "Vector-Quantized Variational Autoencoders (VQ-VAEs)",
+    "topic": "Word Embeddings & Language Representations"
+  },
+  "ySI5P37Xf_k": {
+    "title": "A Study Pathway for Data Science in 2020 (7 Steps)",
+    "topic": "Feature Selection & Engineering"
+  },
+  "yT84Y5zCnaA": {
+    "title": "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 2 - Transformer-Based Models & Tricks",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "yiLU0_nnSAk": {
+    "title": "AI Researcher ROADMAP - Learn THIS - Step by Step ROADMAP Plan To Become Top 1%",
+    "topic": "AI Product Strategy"
+  },
+  "ylEk1TE1uBo": {
+    "title": "Stanford CS25: V3 I Beyond LLMs: Agents, Emergent Abilities, Intermediate-Guided Reasoning, BabyLM",
+    "topic": "AI Agents"
+  },
+  "yoDfgtO9xBM": {
+    "title": "Understand ChatGPT Better Than 99% of People",
+    "topic": "LLM Alignment & RLHF (DPO)"
+  },
+  "yovC_VpD3ys": {
+    "title": "SigLip2 Model Explained in Simple Words and Installed Locally",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "yxC444aiHs4": {
+    "title": "Build It and They will Come!  An LLM from Scratch",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "yy4-aepVly4": {
+    "title": "What is a Masked Language Model (MLM)? Masked vs. Causal AI",
+    "topic": "Neural Language Models (NLMs)"
+  },
+  "z-37nL4ZHt0": {
+    "title": "AI Memory Overview July 2025 - Where is AI Memory Today",
+    "topic": "AI Product Strategy"
+  },
+  "z-ktPPe_TZ4": {
+    "title": "Introduction to Reinforcement Learning (non technical)",
+    "topic": "Reinforcement Learning"
+  },
+  "z0Jwbw1OFI4": {
+    "title": "Pedro Domingos, University of Washington, Machine Learning for Data Management",
+    "topic": "MLOps & Pipelines"
+  },
+  "z1xs9jdZnuY": {
+    "title": "Transformer (Attention is all you need)",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "zAvr5KQsGZQ": {
+    "title": "Chip Huyen: AI Engineering - Part 1",
+    "topic": "AI Product Strategy"
+  },
+  "zDBF0xwQW-0": {
+    "title": "SysML 18: Bill Dally, Hardware for Deep Learning",
+    "topic": "Hardware & Distributed Training"
+  },
+  "zDHAzALZnB4": {
+    "title": "Deep Learning | A Deep Learning Journey | Yoshua Bengio | NeurIPS",
+    "topic": "Deep Learning Frameworks (PyTorch/TensorFlow)"
+  },
+  "zHY6WiTtGWQ": {
+    "title": "Self Attention",
+    "topic": "Transformers & Attention Mechanisms"
+  },
+  "zHcQPKP6NpM": {
+    "title": "Exploratory Data Analysis",
+    "topic": "Unsupervised Learning"
+  },
+  "zJlmzYdA8aY": {
+    "title": "Achieve Unimaginable Levels of Domain Knowledge through SBERT Extreme in 3D   (SBERT 48)",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "zUJNypPc-Vo": {
+    "title": "W5L19: Gaussian Mixture Models: Expectation-Maximization Algorithm",
+    "topic": "Generative Models"
+  },
+  "zYeIqzULzr0": {
+    "title": "Experimenting with Reinforcement Learning with Verifiable Rewards (RLVR)",
+    "topic": "Reinforcement Learning"
+  },
+  "zdejKiH06CU": {
+    "title": "[EEML'24] Anastasija Ilić & Ioana Bica - Vision Language Model Tutorial",
+    "topic": "Vision-Language & Multimodal Models"
+  },
+  "zizonToFXDs": {
+    "title": "Introduction to large language models",
+    "topic": "Large Language Models (LLMs) & Pretraining"
+  },
+  "zvqV72ylvzU": {
+    "title": "ML Research Paper Explained - A Reinforcement Learning Algorithm with no Burn in Cost",
+    "topic": "Reinforcement Learning"
+  },
+  "zzXyPGEtseI": {
+    "title": "Is human data enough? | David Silver",
+    "topic": "AI Product Strategy"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "Supervised Learning": [
+    "Introduction to supervised learning with labeled data",
+    "Classification and regression explained",
+    "Training a model with labeled examples"
+  ],
+  "Unsupervised Learning": [
+    "Unsupervised learning without labels explained",
+    "Finding hidden patterns in unlabeled data",
+    "Clustering and unsupervised techniques overview"
+  ],
+  "Linear Algebra for ML": [
+    "Matrices, vectors and linear algebra for machine learning",
+    "Understanding eigenvalues and eigenvectors for ML",
+    "Linear algebra fundamentals for data science"
+  ],
+  "Probability & Statistics": [
+    "Probability theory and statistics for machine learning",
+    "Bayes theorem and statistical inference explained",
+    "Understanding distributions and hypothesis testing"
+  ],
+  "Feature Selection & Engineering": [
+    "Feature engineering techniques for machine learning",
+    "Selecting the best features for your model",
+    "Creating new features from raw data"
+  ],
+  "Dimensionality Reduction": [
+    "Reducing the number of features with dimensionality reduction",
+    "t-SNE and UMAP for visualizing high dimensional data",
+    "Compressing feature space while preserving structure"
+  ],
+  "Overfitting & Underfitting": [
+    "Understanding overfitting and underfitting in machine learning",
+    "Bias-variance tradeoff explained",
+    "Why your model overfits the training data"
+  ],
+  "Regularization": [
+    "L1 and L2 regularization explained",
+    "Dropout and weight decay to prevent overfitting",
+    "Regularization techniques in deep learning"
+  ],
+  "Hyperparameter Tuning": [
+    "Hyperparameter tuning with grid search and random search",
+    "Optimizing model hyperparameters",
+    "Bayesian optimization for hyperparameter search"
+  ],
+  "Model Evaluation & Metrics": [
+    "Precision, recall, and F1 score explained",
+    "Evaluating model performance with confusion matrices",
+    "Cross-validation and evaluation metrics for machine learning"
+  ],
+  "Data Augmentation": [
+    "Data augmentation techniques for images",
+    "Increasing training data with augmentation",
+    "Augmenting datasets to improve model generalization"
+  ],
+  "Linear Classifiers": [
+    "Logistic regression and linear classifiers explained",
+    "Support vector machines for classification",
+    "Linear decision boundaries in classification"
+  ],
+  "Clustering": [
+    "K-means clustering explained",
+    "Hierarchical clustering and DBSCAN",
+    "Unsupervised clustering algorithms"
+  ],
+  "Principal Component Analysis (PCA)": [
+    "Principal component analysis explained",
+    "Dimensionality reduction with PCA",
+    "Understanding PCA for feature compression"
+  ],
+  "Ensemble Learning": [
+    "Random forests and gradient boosting explained",
+    "Bagging and boosting ensemble methods",
+    "Combining multiple models with ensemble learning"
+  ],
+  "Neural Network Foundations": [
+    "Introduction to neural networks",
+    "How neurons and layers work in a neural network",
+    "The basics of artificial neural networks"
+  ],
+  "Deep Learning Architectures": [
+    "Overview of deep learning model architectures",
+    "Comparing different neural network architectures",
+    "Designing deep learning architectures"
+  ],
+  "Convolutional Neural Networks (CNNs)": [
+    "Convolutional neural networks explained",
+    "How CNNs work for image recognition",
+    "ResNet and CNN architectures for computer vision"
+  ],
+  "Generative Models": [
+    "Generative adversarial networks explained",
+    "Diffusion models for image generation",
+    "Variational autoencoders and generative modeling"
+  ],
+  "Neural Language Models (NLMs)": [
+    "Neural language models explained",
+    "How language models predict the next word",
+    "N-gram and neural approaches to language modeling"
+  ],
+  "MLOps & Pipelines": [
+    "Deploying machine learning models to production",
+    "Building ML pipelines and MLOps best practices",
+    "CI/CD for machine learning systems"
+  ],
+  "Automated Model Tuning": [
+    "Automated hyperparameter tuning with AutoML",
+    "AutoML tools for automatic model selection",
+    "Automating the machine learning tuning process"
+  ],
+  "AI Product Strategy": [
+    "Building AI products and strategy",
+    "How companies are integrating AI into products",
+    "AI product management and strategy talk"
+  ],
+  "Research & Literature Review": [
+    "Reading and reviewing machine learning research papers",
+    "Paper explained: a new research contribution",
+    "How to read academic papers in AI"
+  ],
+  "Transformers & Attention Mechanisms": [
+    "Attention is all you need explained",
+    "How the transformer architecture works",
+    "Self-attention mechanism in transformers"
+  ],
+  "Large Language Models (LLMs) & Pretraining": [
+    "Pretraining large language models explained",
+    "How LLMs like GPT are trained",
+    "Understanding large language model training"
+  ],
+  "Fine-Tuning & PEFT (LoRA/QLoRA)": [
+    "Fine-tuning LLMs with LoRA and QLoRA",
+    "Parameter efficient fine-tuning explained",
+    "Adapting pretrained models with PEFT techniques"
+  ],
+  "Model Quantization & Compression": [
+    "Quantizing neural networks for efficient inference",
+    "Model compression and knowledge distillation",
+    "Reducing model size with quantization techniques"
+  ],
+  "Retrieval-Augmented Generation (RAG) & Vector Search": [
+    "Retrieval augmented generation explained",
+    "Vector databases and semantic search for RAG",
+    "Building a RAG pipeline with embeddings"
+  ],
+  "AI Agents": [
+    "What are AI agents and how do they work",
+    "Building autonomous AI agents",
+    "Agentic AI systems explained"
+  ],
+  "Word Embeddings & Language Representations": [
+    "Word2vec and word embeddings explained",
+    "Understanding vector representations of words",
+    "BERT and sentence embeddings for NLP"
+  ],
+  "Reinforcement Learning": [
+    "Introduction to reinforcement learning",
+    "Markov decision processes and Q-learning",
+    "Reward, policy and value functions in RL"
+  ],
+  "LLM Alignment & RLHF (DPO)": [
+    "Reinforcement learning from human feedback explained",
+    "Aligning language models with RLHF and DPO",
+    "How ChatGPT is aligned with human preferences"
+  ],
+  "Optimization Algorithms (SGD, Adam, Momentum)": [
+    "Gradient descent and the Adam optimizer explained",
+    "Momentum and RMSProp optimization algorithms",
+    "How stochastic gradient descent trains neural networks"
+  ],
+  "Loss Functions & Information Theory (Entropy, KL Divergence)": [
+    "Cross entropy loss and KL divergence explained",
+    "Understanding entropy and information theory for machine learning",
+    "Choosing the right loss function for your model"
+  ],
+  "Backpropagation & Automatic Differentiation": [
+    "Backpropagation explained step by step",
+    "How automatic differentiation works in PyTorch",
+    "Computing gradients with the chain rule"
+  ],
+  "Self-Supervised & Contrastive Learning": [
+    "Self-supervised learning explained",
+    "Contrastive learning with SimCLR and CLIP",
+    "Learning representations without labels"
+  ],
+  "Vision-Language & Multimodal Models": [
+    "Vision language models like CLIP explained",
+    "Multimodal models combining text and images",
+    "Building multimodal AI systems"
+  ],
+  "Deep Learning Frameworks (PyTorch/TensorFlow)": [
+    "Introduction to PyTorch for deep learning",
+    "Building neural networks with TensorFlow and Keras",
+    "PyTorch tutorial for beginners"
+  ],
+  "Hardware & Distributed Training": [
+    "Training large models across multiple GPUs",
+    "Distributed and parallel training strategies",
+    "Hardware acceleration for deep learning with GPUs"
+  ],
+  "Agent Frameworks & Orchestration (LangGraph/CrewAI/MCP)": [
+    "Building agents with LangGraph and CrewAI",
+    "Orchestrating multi-agent systems with the Model Context Protocol",
+    "Using MCP to connect agent tools"
+  ],
+  "LLM Reasoning & Test-Time Compute": [
+    "How OpenAI o1 reasons with test-time compute",
+    "DeepSeek R1 and reasoning language models",
+    "Chain of thought reasoning in large language models"
+  ],
+  "Prompt Engineering & In-Context Learning": [
+    "Prompt engineering techniques for LLMs",
+    "In-context learning and few-shot prompting",
+    "Writing effective prompts for language models"
+  ]
+}

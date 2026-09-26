@@ -42,7 +42,7 @@ def main():
         all_posts = get_past_month_hn_posts(session)
     print(f"Retrieved {len(all_posts)} posts from the last {LOOKBACK_DAYS} days.")
 
-    popular_posts = [post for post in all_posts if post.get('points', 0) >= 10]
+    popular_posts = [post for post in all_posts if post.get('points', 0) >= 50]
 
     # Classification only depends on the title, so results are cached
     # by HN item id and reused across runs instead of re-embedding

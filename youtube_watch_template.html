@@ -1,0 +1,481 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>YouTube Watch Feed</title>
+</head>
+<body>
+
+<style>
+  :root {
+    --bg: #faf7f1;
+    --surface: #ffffff;
+    --ink: #241f1a;
+    --ink-soft: #6b6153;
+    --border: #e6ddc9;
+    --accent: #c65d1e;
+    --accent-soft: #f3e3cf;
+    --track: #ece2cc;
+    --font-display: Georgia, "Iowan Old Style", "Times New Roman", serif;
+    --font-body: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16130f;
+      --surface: #201b14;
+      --ink: #f1ead9;
+      --ink-soft: #ab9d84;
+      --border: #392f22;
+      --accent: #e2874a;
+      --accent-soft: #40301f;
+      --track: #2c2419;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #16130f;
+    --surface: #201b14;
+    --ink: #f1ead9;
+    --ink-soft: #ab9d84;
+    --border: #392f22;
+    --accent: #e2874a;
+    --accent-soft: #40301f;
+    --track: #2c2419;
+  }
+  :root[data-theme="light"] {
+    --bg: #faf7f1;
+    --surface: #ffffff;
+    --ink: #241f1a;
+    --ink-soft: #6b6153;
+    --border: #e6ddc9;
+    --accent: #c65d1e;
+    --accent-soft: #f3e3cf;
+    --track: #ece2cc;
+  }
+
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--font-body);
+  }
+  body {
+    padding: 1.5rem 1.25rem 4rem;
+  }
+  .page {
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  .layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 360px;
+    gap: 1.75rem;
+    align-items: start;
+  }
+
+  .player-wrap {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background: var(--track);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  .player-wrap iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+  .video-facade {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    padding: 0;
+    border: 0;
+    cursor: pointer;
+    background: none;
+  }
+  .video-facade img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .play-badge {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 4rem;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.65);
+    color: #fff;
+    font-size: 1.4rem;
+    padding-left: 0.25rem;
+  }
+  .video-facade:hover .play-badge { background: var(--accent); }
+  .watch-fallback {
+    position: absolute;
+    inset: 0;
+    display: block;
+  }
+  .watch-fallback img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .watch-fallback-overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    background: rgba(0, 0, 0, 0.45);
+    color: #fff;
+    font-family: var(--font-mono);
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+  .watch-fallback:hover .watch-fallback-overlay { background: rgba(0, 0, 0, 0.6); }
+
+  .now-playing-title {
+    font-family: var(--font-display);
+    font-size: clamp(1.3rem, 2.4vw, 1.7rem);
+    font-weight: 600;
+    margin: 1rem 0 0.4rem;
+    line-height: 1.3;
+  }
+  .now-playing-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    font-family: var(--font-mono);
+    margin-bottom: 0.9rem;
+  }
+  .topic-badge {
+    background: var(--accent-soft);
+    color: var(--accent);
+    border-radius: 999px;
+    padding: 0.2rem 0.65rem;
+    font-weight: 600;
+    font-size: 0.74rem;
+  }
+  .now-playing-desc {
+    font-size: 0.92rem;
+    line-height: 1.6;
+    color: var(--ink);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 0.9rem 1.1rem;
+    white-space: pre-wrap;
+    max-height: 9rem;
+    overflow-y: auto;
+  }
+
+  .side-col-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-bottom: 0.7rem;
+  }
+  .side-col-header h2 {
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-soft);
+    margin: 0;
+    font-weight: 600;
+  }
+  .shuffle-btn {
+    font-family: var(--font-mono);
+    font-size: 0.74rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--ink-soft);
+    border-radius: 7px;
+    padding: 0.35rem 0.6rem;
+    cursor: pointer;
+  }
+  .shuffle-btn:hover { color: var(--ink); }
+
+  #search {
+    width: 100%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    color: var(--ink);
+    padding: 0.5rem 0.7rem;
+    font-family: var(--font-body);
+    font-size: 0.88rem;
+    margin-bottom: 0.9rem;
+  }
+  #search:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+
+  .related-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    max-height: calc(100vh - 2rem);
+    overflow-y: auto;
+  }
+  .related-item {
+    display: grid;
+    grid-template-columns: 8.5rem 1fr;
+    gap: 0.6rem;
+    text-align: left;
+    background: none;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    padding: 0.3rem;
+    cursor: pointer;
+    color: var(--ink);
+    font-family: var(--font-body);
+  }
+  .related-item:hover { background: var(--surface); border-color: var(--border); }
+  .related-item[aria-current="true"] {
+    background: var(--accent-soft);
+    border-color: var(--accent);
+  }
+  .related-thumb {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    border-radius: 6px;
+    overflow: hidden;
+    background: var(--track);
+  }
+  .related-thumb img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .related-info { min-width: 0; }
+  .related-title {
+    font-size: 0.86rem;
+    font-weight: 600;
+    line-height: 1.3;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .related-meta {
+    margin-top: 0.3rem;
+    font-size: 0.72rem;
+    color: var(--ink-soft);
+    font-family: var(--font-mono);
+  }
+  .related-empty {
+    color: var(--ink-soft);
+    font-size: 0.85rem;
+    font-family: var(--font-mono);
+    padding: 1rem 0;
+  }
+
+  @media (max-width: 900px) {
+    .layout { grid-template-columns: 1fr; }
+    .related-list { max-height: none; }
+  }
+</style>
+
+<div class="page">
+  <div class="eyebrow">YouTube &middot; watch feed (experimental)</div>
+
+  <div class="layout">
+    <div class="main-col">
+      <div id="player-wrap" class="player-wrap"></div>
+      <div id="now-playing-title" class="now-playing-title"></div>
+      <div id="now-playing-meta" class="now-playing-meta"></div>
+      <div id="now-playing-desc" class="now-playing-desc"></div>
+    </div>
+
+    <div class="side-col">
+      <input id="search" type="text" placeholder="Search all videos&hellip;" aria-label="Search videos" />
+      <div class="side-col-header">
+        <h2 id="related-heading">Related</h2>
+        <button id="shuffle-btn" class="shuffle-btn" type="button">Shuffle &#x1F500;</button>
+      </div>
+      <div id="related-list" class="related-list"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const DATA = __DATA__;
+  const BY_ID = new Map(DATA.map(v => [v.video_id, v]));
+
+  const playerWrap = document.getElementById("player-wrap");
+  const titleEl = document.getElementById("now-playing-title");
+  const metaEl = document.getElementById("now-playing-meta");
+  const descEl = document.getElementById("now-playing-desc");
+  const relatedListEl = document.getElementById("related-list");
+  const relatedHeading = document.getElementById("related-heading");
+  const searchEl = document.getElementById("search");
+  const shuffleBtn = document.getElementById("shuffle-btn");
+
+  const RELATED_LIMIT = 40;
+  let query = "";
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+    }[c]));
+  }
+
+  function formatDate(iso) {
+    return new Date(iso).toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" });
+  }
+
+  function embedSrc(videoId) {
+    const params = new URLSearchParams({ enablejsapi: "1", origin: window.location.origin });
+    return `https://www.youtube.com/embed/${encodeURIComponent(videoId)}?${params.toString()}`;
+  }
+
+  function thumbUrl(videoId) {
+    return `https://img.youtube.com/vi/${encodeURIComponent(videoId)}/hqdefault.jpg`;
+  }
+
+  function renderPlayer(video) {
+    if (video.embeddable) {
+      playerWrap.innerHTML = `
+        <button class="video-facade" type="button" aria-label="Play ${escapeHtml(video.title)}">
+          <img src="${thumbUrl(video.video_id)}" alt="" />
+          <span class="play-badge">&#9654;</span>
+        </button>`;
+      playerWrap.querySelector(".video-facade").addEventListener("click", () => {
+        playerWrap.innerHTML = `
+          <iframe
+            src="${embedSrc(video.video_id)}&autoplay=1"
+            title="${escapeHtml(video.title)}"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen>
+          </iframe>`;
+      });
+    } else {
+      playerWrap.innerHTML = `
+        <a class="watch-fallback" href="https://www.youtube.com/watch?v=${encodeURIComponent(video.video_id)}" target="_blank" rel="noopener noreferrer">
+          <img src="${thumbUrl(video.video_id)}" alt="" />
+          <div class="watch-fallback-overlay">&#9654; Watch on YouTube</div>
+        </a>`;
+    }
+  }
+
+  function renderNowPlaying(video) {
+    renderPlayer(video);
+    titleEl.textContent = video.title;
+    metaEl.innerHTML = `
+      <span class="topic-badge">${escapeHtml(video.topic)}</span>
+      <span>${escapeHtml(video.channel || "")}</span>
+      <span>${formatDate(video.published_at)}</span>`;
+    descEl.textContent = video.description || "No description.";
+  }
+
+  function renderRelated(currentVideo) {
+    const q = query.trim().toLowerCase();
+    let pool;
+    if (q) {
+      relatedHeading.textContent = "Search results";
+      pool = DATA.filter(v =>
+        v.video_id !== currentVideo.video_id &&
+        (v.title.toLowerCase().includes(q) || (v.channel || "").toLowerCase().includes(q))
+      );
+    } else {
+      relatedHeading.textContent = `More in "${currentVideo.topic}"`;
+      pool = DATA.filter(v => v.video_id !== currentVideo.video_id && v.topic === currentVideo.topic);
+    }
+
+    const items = pool.slice(0, RELATED_LIMIT);
+
+    if (!items.length) {
+      relatedListEl.innerHTML = `<div class="related-empty">Nothing else found.</div>`;
+      return;
+    }
+
+    relatedListEl.innerHTML = items.map(v => `
+      <button class="related-item" type="button" data-video-id="${escapeHtml(v.video_id)}" aria-current="false">
+        <div class="related-thumb"><img src="${thumbUrl(v.video_id)}" alt="" loading="lazy" /></div>
+        <div class="related-info">
+          <div class="related-title">${escapeHtml(v.title)}</div>
+          <div class="related-meta">${escapeHtml(v.channel || "")}</div>
+        </div>
+      </button>`
+    ).join("");
+  }
+
+  function selectVideo(videoId, { pushHistory = true } = {}) {
+    const video = BY_ID.get(videoId);
+    if (!video) return;
+
+    renderNowPlaying(video);
+    renderRelated(video);
+
+    if (pushHistory) {
+      const url = new URL(window.location.href);
+      url.searchParams.set("v", videoId);
+      history.pushState({ videoId }, "", url);
+    }
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  relatedListEl.addEventListener("click", (e) => {
+    const btn = e.target.closest(".related-item");
+    if (!btn) return;
+    selectVideo(btn.dataset.videoId);
+  });
+
+  searchEl.addEventListener("input", () => {
+    query = searchEl.value;
+    const current = BY_ID.get(new URL(window.location.href).searchParams.get("v")) || DATA[0];
+    renderRelated(current);
+  });
+
+  shuffleBtn.addEventListener("click", () => {
+    const random = DATA[Math.floor(Math.random() * DATA.length)];
+    selectVideo(random.video_id);
+  });
+
+  window.addEventListener("popstate", () => {
+    const id = new URL(window.location.href).searchParams.get("v");
+    if (id && BY_ID.has(id)) selectVideo(id, { pushHistory: false });
+  });
+
+  const initialId = new URL(window.location.href).searchParams.get("v");
+  const initialVideo = (initialId && BY_ID.get(initialId)) || DATA[Math.floor(Math.random() * DATA.length)];
+  selectVideo(initialVideo.video_id, { pushHistory: true });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,543 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>YouTube Playlist Digest</title>
+</head>
+<body>
+
+<style>
+  :root {
+    --bg: #faf7f1;
+    --surface: #ffffff;
+    --ink: #241f1a;
+    --ink-soft: #6b6153;
+    --border: #e6ddc9;
+    --accent: #c65d1e;
+    --accent-soft: #f3e3cf;
+    --track: #ece2cc;
+    --font-display: Georgia, "Iowan Old Style", "Times New Roman", serif;
+    --font-body: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16130f;
+      --surface: #201b14;
+      --ink: #f1ead9;
+      --ink-soft: #ab9d84;
+      --border: #392f22;
+      --accent: #e2874a;
+      --accent-soft: #40301f;
+      --track: #2c2419;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #16130f;
+    --surface: #201b14;
+    --ink: #f1ead9;
+    --ink-soft: #ab9d84;
+    --border: #392f22;
+    --accent: #e2874a;
+    --accent-soft: #40301f;
+    --track: #2c2419;
+  }
+  :root[data-theme="light"] {
+    --bg: #faf7f1;
+    --surface: #ffffff;
+    --ink: #241f1a;
+    --ink-soft: #6b6153;
+    --border: #e6ddc9;
+    --accent: #c65d1e;
+    --accent-soft: #f3e3cf;
+    --track: #ece2cc;
+  }
+
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--font-body);
+  }
+  body {
+    padding: 2.5rem 1.25rem 5rem;
+  }
+  .page {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 600;
+  }
+  h1 {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 5vw, 2.75rem);
+    margin: 0.35rem 0 0.6rem;
+    text-wrap: balance;
+    font-weight: 500;
+  }
+  .stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    color: var(--ink-soft);
+    font-size: 0.92rem;
+    padding-bottom: 1.6rem;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 1.4rem;
+  }
+  .stats strong {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    color: var(--ink);
+    font-weight: 600;
+  }
+
+  .toolbar {
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    padding: 0.75rem 0;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    align-items: center;
+    z-index: 5;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 0.9rem;
+  }
+  #search {
+    flex: 1 1 220px;
+    min-width: 160px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    color: var(--ink);
+    padding: 0.5rem 0.7rem;
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+  }
+  #search:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+  .sort-group {
+    display: flex;
+    gap: 0.35rem;
+  }
+  .sort-btn {
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--ink-soft);
+    border-radius: 7px;
+    padding: 0.45rem 0.65rem;
+    cursor: pointer;
+    letter-spacing: 0.02em;
+  }
+  .sort-btn:hover { color: var(--ink); }
+  .sort-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .sort-btn[aria-pressed="true"] {
+    background: var(--accent-soft);
+    border-color: var(--accent);
+    color: var(--ink);
+  }
+
+  .topic-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 1.4rem;
+  }
+  .topic-chip {
+    font-family: var(--font-mono);
+    font-size: 0.74rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--ink-soft);
+    border-radius: 999px;
+    padding: 0.35rem 0.75rem;
+    cursor: pointer;
+    letter-spacing: 0.01em;
+  }
+  .topic-chip:hover { color: var(--ink); }
+  .topic-chip[aria-pressed="true"] {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+  .topic-chip .count { opacity: 0.7; margin-left: 0.3rem; }
+
+  #count-line {
+    color: var(--ink-soft);
+    font-size: 0.82rem;
+    margin: 0 0 1rem;
+    font-family: var(--font-mono);
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
+    gap: 1.5rem;
+  }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  .video-embed {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background: var(--track);
+  }
+  .video-embed iframe,
+  .video-embed .yt-target {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+  .watch-fallback {
+    position: absolute;
+    inset: 0;
+    display: block;
+  }
+  .watch-fallback img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .watch-fallback-overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    background: rgba(0, 0, 0, 0.45);
+    color: #fff;
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+  .watch-fallback:hover .watch-fallback-overlay { background: rgba(0, 0, 0, 0.6); }
+  .video-facade {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    padding: 0;
+    border: 0;
+    cursor: pointer;
+    background: none;
+  }
+  .video-facade img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .play-badge {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 3.2rem;
+    height: 3.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.65);
+    color: #fff;
+    font-size: 1.1rem;
+    padding-left: 0.2rem;
+  }
+  .video-facade:hover .play-badge { background: var(--accent); }
+  .card-body {
+    padding: 0.9rem 1rem 1.1rem;
+  }
+  .card-body a.title-link {
+    color: var(--ink);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.98rem;
+    line-height: 1.35;
+    display: block;
+  }
+  .card-body a.title-link:hover { color: var(--accent); }
+  .card-body a.title-link:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+  .meta {
+    margin-top: 0.55rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    font-size: 0.78rem;
+    color: var(--ink-soft);
+    font-family: var(--font-mono);
+  }
+  .topic-badge {
+    background: var(--accent-soft);
+    color: var(--accent);
+    border-radius: 999px;
+    padding: 0.2rem 0.6rem;
+    font-weight: 600;
+    font-size: 0.72rem;
+  }
+
+  #empty {
+    display: none;
+    text-align: center;
+    color: var(--ink-soft);
+    padding: 3rem 0;
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+  }
+  .show-more-btn {
+    display: block;
+    width: 100%;
+    margin-top: 1.5rem;
+    padding: 0.7rem;
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--ink-soft);
+    cursor: pointer;
+  }
+  .show-more-btn:hover { color: var(--ink); }
+
+  @media (max-width: 480px) {
+    body { padding: 1.5rem 0.85rem 3rem; }
+    .grid { gap: 1rem; }
+    .toolbar { top: 0; padding: 0.6rem 0; }
+    .sort-group { flex-wrap: wrap; }
+  }
+</style>
+
+<div class="page">
+  <div class="header">
+    <div class="eyebrow">YouTube &middot; playlist digest</div>
+    <h1>Watch Later, Classified</h1>
+    <div class="stats">
+      <div><strong id="stat-count">__STAT_COUNT__</strong> videos</div>
+      <div><strong>__STAT_TOPICS__</strong> topics</div>
+      <div><strong>__STAT_CHANNELS__</strong> channels</div>
+    </div>
+
+    <div class="toolbar">
+      <input id="search" type="text" placeholder="Filter by title or channel&hellip;" aria-label="Filter videos" />
+      <div class="sort-group" role="group" aria-label="Sort videos">
+        <button class="sort-btn" data-key="shuffled" aria-pressed="true">Shuffle &#x1F500;</button>
+        <button class="sort-btn" data-key="newest" aria-pressed="false">Newest</button>
+        <button class="sort-btn" data-key="oldest" aria-pressed="false">Oldest</button>
+        <button class="sort-btn" data-key="topic" aria-pressed="false">Topic</button>
+        <button class="sort-btn" data-key="channel" aria-pressed="false">Channel</button>
+      </div>
+    </div>
+
+    <div id="topic-chips" class="topic-chips"></div>
+    <div id="count-line"></div>
+  </div>
+
+  <div id="grid" class="grid"></div>
+  <div id="empty">No videos match &ldquo;<span id="empty-term"></span>&rdquo;</div>
+  <button id="show-more" class="show-more-btn" type="button" hidden></button>
+</div>
+
+<script>
+  const DATA = __DATA__;
+
+  const gridEl = document.getElementById("grid");
+  const countLine = document.getElementById("count-line");
+  const emptyEl = document.getElementById("empty");
+  const emptyTerm = document.getElementById("empty-term");
+  const searchEl = document.getElementById("search");
+  const sortBtns = Array.from(document.querySelectorAll(".sort-btn"));
+  const chipsEl = document.getElementById("topic-chips");
+  const showMoreBtn = document.getElementById("show-more");
+
+  const PAGE_SIZE = 24;
+
+  let sortKey = "shuffled";
+  let query = "";
+  let activeTopic = "";
+  let visibleCount = PAGE_SIZE;
+
+  // Fisher-Yates, in place. Randomizing DATA's order (once per page load,
+  // and again on demand) means the default view surfaces a different slice
+  // of the library each visit instead of always the same newest videos.
+  function shuffle(arr) {
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+  shuffle(DATA);
+
+  const topicCounts = new Map();
+  DATA.forEach(v => topicCounts.set(v.topic, (topicCounts.get(v.topic) || 0) + 1));
+  const topics = Array.from(topicCounts.keys()).sort();
+
+  function renderChips() {
+    const allChip = `<button class="topic-chip" data-topic="" aria-pressed="${activeTopic === "" ? "true" : "false"}">All<span class="count">${DATA.length}</span></button>`;
+    const topicChips = topics.map(t =>
+      `<button class="topic-chip" data-topic="${escapeHtml(t)}" aria-pressed="${activeTopic === t ? "true" : "false"}">${escapeHtml(t)}<span class="count">${topicCounts.get(t)}</span></button>`
+    ).join("");
+    chipsEl.innerHTML = allChip + topicChips;
+  }
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+    }[c]));
+  }
+
+  function formatDate(iso) {
+    return new Date(iso).toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" });
+  }
+
+  // The embedded player's UI (including the volume slider) relies on
+  // postMessage between nested frames, gated by this origin param — without
+  // it matching the page's real origin, those controls silently misbehave.
+  function embedSrc(videoId) {
+    const params = new URLSearchParams({ enablejsapi: "1", origin: window.location.origin });
+    return `https://www.youtube.com/embed/${encodeURIComponent(videoId)}?${params.toString()}`;
+  }
+
+  function render() {
+    const q = query.trim().toLowerCase();
+    let rows = DATA.filter(v =>
+      (!activeTopic || v.topic === activeTopic) &&
+      (!q || v.title.toLowerCase().includes(q) || (v.channel || "").toLowerCase().includes(q))
+    );
+
+    rows = rows.slice().sort((a, b) => {
+      if (sortKey === "newest") return new Date(b.published_at) - new Date(a.published_at);
+      if (sortKey === "oldest") return new Date(a.published_at) - new Date(b.published_at);
+      if (sortKey === "topic") return a.topic.localeCompare(b.topic);
+      if (sortKey === "channel") return (a.channel || "").localeCompare(b.channel || "");
+      return 0;
+    });
+
+    const visibleRows = rows.slice(0, visibleCount);
+
+    countLine.textContent = visibleRows.length < rows.length
+      ? `Showing ${visibleRows.length} of ${rows.length} videos`
+      : (q || activeTopic)
+        ? `Showing ${rows.length} of ${DATA.length} videos`
+        : `Showing all ${rows.length} videos`;
+
+    emptyEl.style.display = rows.length ? "none" : "block";
+    emptyTerm.textContent = q;
+
+    const remaining = rows.length - visibleRows.length;
+    showMoreBtn.hidden = remaining <= 0;
+    showMoreBtn.textContent = `Show ${Math.min(PAGE_SIZE, remaining)} more (${remaining} remaining)`;
+
+    // Embeddability is looked up server-side via the Data API at build time
+    // (youtube_feed.get_embeddable_status) and baked into v.embeddable,
+    // since it can't be reliably detected client-side.
+    //
+    // Embeddable videos start as a thumbnail + play button rather than a
+    // live iframe: a real youtube.com/embed/... iframe pulls in several
+    // hundred KB of player JS/CSS on its own, so rendering two dozen of
+    // them up front made the page heavy. The iframe is only created once
+    // the user clicks to play (see the gridEl click handler below).
+    gridEl.innerHTML = visibleRows.map(v => `
+      <div class="card">
+        <div class="video-embed" data-video-id="${escapeHtml(v.video_id)}">
+          ${v.embeddable ? `
+          <button class="video-facade" type="button" aria-label="Play ${escapeHtml(v.title)}">
+            <img src="https://img.youtube.com/vi/${encodeURIComponent(v.video_id)}/hqdefault.jpg" alt="" loading="lazy" />
+            <span class="play-badge">&#9654;</span>
+          </button>` : `
+          <a class="watch-fallback" href="https://www.youtube.com/watch?v=${encodeURIComponent(v.video_id)}" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.youtube.com/vi/${encodeURIComponent(v.video_id)}/hqdefault.jpg" alt="" loading="lazy" />
+            <div class="watch-fallback-overlay">&#9654; Watch on YouTube</div>
+          </a>`}
+        </div>
+        <div class="card-body">
+          <a class="title-link" href="https://www.youtube.com/watch?v=${encodeURIComponent(v.video_id)}" target="_blank" rel="noopener noreferrer">${escapeHtml(v.title)}</a>
+          <div class="meta">
+            <span class="topic-badge">${escapeHtml(v.topic)}</span>
+            <span>${escapeHtml(v.channel || "")}</span>
+            <span>${formatDate(v.published_at)}</span>
+          </div>
+        </div>
+      </div>`
+    ).join("");
+  }
+
+  sortBtns.forEach(btn => {
+    btn.addEventListener("click", () => {
+      sortKey = btn.dataset.key;
+      if (sortKey === "shuffled") shuffle(DATA); // re-roll on every click, not just first load
+      sortBtns.forEach(b => b.setAttribute("aria-pressed", b === btn ? "true" : "false"));
+      visibleCount = PAGE_SIZE;
+      render();
+    });
+  });
+
+  chipsEl.addEventListener("click", (e) => {
+    const btn = e.target.closest(".topic-chip");
+    if (!btn) return;
+    activeTopic = btn.dataset.topic;
+    visibleCount = PAGE_SIZE;
+    renderChips();
+    render();
+  });
+
+  searchEl.addEventListener("input", () => {
+    query = searchEl.value;
+    visibleCount = PAGE_SIZE;
+    render();
+  });
+
+  showMoreBtn.addEventListener("click", () => {
+    visibleCount += PAGE_SIZE;
+    render();
+  });
+
+  gridEl.addEventListener("click", (e) => {
+    const facade = e.target.closest(".video-facade");
+    if (!facade) return;
+    const container = facade.closest(".video-embed");
+    const videoId = container.dataset.videoId;
+    container.innerHTML = `
+      <iframe
+        src="${embedSrc(videoId)}&autoplay=1"
+        title="Video player"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>`;
+  });
+
+  renderChips();
+  render();
+</script>
+
+</body>
+</html>

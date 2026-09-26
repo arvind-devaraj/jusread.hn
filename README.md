@@ -1,6 +1,7 @@
 # jusread.hn
 
-A tool that builds a "tech-only" Hacker News feed: it pulls the last 30 days of HN stories, filters to posts with more than 5 points, then uses local embeddings to classify each title as tech-related or not.
+A daily-curated feed that filters Hacker News down to AI/LLM-relevant posts using embedding-based classification, ranked by recency instead of raw points so today's discussion doesn't get buried under last month's viral thread.
+Runs fully automated twice a day — fetch, classify, summarize, deploy — with zero-touch operation, live at [ai-epoch.pages.dev](https://ai-epoch.pages.dev).
 
 ## Running
 
