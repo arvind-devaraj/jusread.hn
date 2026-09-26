@@ -159275,6 +159275,10 @@
     "probability": 0.497,
     "title": "Jev Can't Be Calibrated"
   },
+  "49816907": {
+    "probability": 0.425,
+    "title": "Reflections on 1,000 Days of Math"
+  },
   "49817280": {
     "probability": 0.49,
     "title": "Why is Hacker News like that?"
@@ -159555,6 +159559,10 @@
     "probability": 0.508,
     "title": "Show HN: An open-source manufacturing ERP/MES/QMS"
   },
+  "49824846": {
+    "probability": 0.324,
+    "title": "Scientists build most accurate atomic clock"
+  },
   "49824864": {
     "probability": 0.624,
     "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest"
@@ -159606,6 +159614,10 @@
   "49826076": {
     "probability": 0.817,
     "title": "OpenAI's Next Marketing Stunt"
+  },
+  "49826087": {
+    "probability": 0.394,
+    "title": "16GB iPod Nano 3G Upgrade"
   },
   "49826113": {
     "probability": 0.26,
@@ -159667,6 +159679,10 @@
     "probability": 0.679,
     "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta"
   },
+  "49827900": {
+    "probability": 0.493,
+    "title": "The Lost Atomic Update on Loongson CPU"
+  },
   "49828019": {
     "probability": 0.567,
     "title": "Show HN: Trader News – Hacker News for Finance"
@@ -159707,9 +159723,17 @@
     "probability": 0.362,
     "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi"
   },
+  "49829202": {
+    "probability": 0.453,
+    "title": "Modern Object Pascal Introduction for Programmers"
+  },
   "49829387": {
     "probability": 0.486,
     "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers"
+  },
+  "49829472": {
+    "probability": 0.71,
+    "title": "Fourier Analysis: Drawing Llamas with Circles"
   },
   "49829528": {
     "probability": 0.73,
@@ -159862,6 +159886,10 @@
   "49832692": {
     "probability": 0.377,
     "title": "Europe Must Choose Between Power and Dependence"
+  },
+  "49832768": {
+    "probability": 0.525,
+    "title": "A searchable library of forgotten public-domain film clips from 1915 onward"
   },
   "49832844": {
     "probability": 0.501,
@@ -160199,6 +160227,10 @@
     "probability": 0.839,
     "title": "Uproar in France over award-winning author accused of using AI"
   },
+  "49842764": {
+    "probability": 0.283,
+    "title": "PipePipe: NewPipe hard fork implementing SponsorBlock"
+  },
   "49842788": {
     "probability": 0.616,
     "title": "Anthropic: The Situation Report"
@@ -160423,6 +160455,10 @@
     "probability": 0.357,
     "title": "What even is an OS now?"
   },
+  "49850781": {
+    "probability": 0.419,
+    "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin"
+  },
   "49850999": {
     "probability": 0.873,
     "title": "FTC chair suggests AI developers should be liable for conduct of agents"
@@ -160430,6 +160466,10 @@
   "49851032": {
     "probability": 0.454,
     "title": "Tell HN: Codex Is Down [fixed]"
+  },
+  "49851355": {
+    "probability": 0.626,
+    "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites"
   },
   "49851759": {
     "probability": 0.261,
@@ -160443,6 +160483,10 @@
     "probability": 0.473,
     "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case"
   },
+  "49852462": {
+    "probability": 0.455,
+    "title": "HomelabFest will be in St. Louis in September 2027"
+  },
   "49852717": {
     "probability": 0.398,
     "title": "We're gonna need a lot more mathematicians"
@@ -160451,9 +160495,17 @@
     "probability": 0.938,
     "title": "A single function Jev-like wrapper for LLMs, including vision models"
   },
+  "49854161": {
+    "probability": 0.418,
+    "title": "Is your Postgres migration safe or not safe?"
+  },
   "49854399": {
     "probability": 0.677,
     "title": "CAPTCHAs don't prove you're human – they prove you're American"
+  },
+  "49854416": {
+    "probability": 0.496,
+    "title": "Floci: Locally emulating any cloud service"
   },
   "49854693": {
     "probability": 0.293,
@@ -160462,5 +160514,69 @@
   "49854875": {
     "probability": 0.674,
     "title": "How to keep enjoying programming in a world of LLMs"
+  },
+  "49854945": {
+    "probability": 0.453,
+    "title": "The Copilot+ PC brand is dead"
+  },
+  "49855018": {
+    "probability": 0.754,
+    "title": "One Month Without AI"
+  },
+  "49855315": {
+    "probability": 0.427,
+    "title": "Breaking Up with Google Play: Why Conversations Is Now Free"
+  },
+  "49856034": {
+    "probability": 0.847,
+    "title": "CEO of Mistral: AI is software. It can be controlled"
+  },
+  "49856149": {
+    "probability": 0.964,
+    "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior"
+  },
+  "49856665": {
+    "probability": 0.792,
+    "title": "OpenAI bots meddled with multiple US Government agency sites"
+  },
+  "49857323": {
+    "probability": 0.422,
+    "title": "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely"
+  },
+  "49857442": {
+    "probability": 0.239,
+    "title": "Plunging test scores are a slow-moving catastrophe"
+  },
+  "49857528": {
+    "probability": 0.834,
+    "title": "Show HN: A Claude Code skill to analyze your chess games"
+  },
+  "49857572": {
+    "probability": 0.461,
+    "title": "Automattic has a new board after failed attempt to put CEO on leave"
+  },
+  "49857651": {
+    "probability": 0.299,
+    "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees"
+  },
+  "49857729": {
+    "probability": 0.647,
+    "title": "Drawgent: Coding agent on a live Excalidraw canvas"
+  },
+  "49857899": {
+    "probability": 0.362,
+    "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband"
+  },
+  "49858253": {
+    "probability": 0.39,
+    "title": "US jury says Apple owes record $5.7B in haptic technology patent case"
+  },
+  "49858513": {
+    "probability": 0.768,
+    "title": "Show HN: Reladraw – A diagram language where you decide where to place things"
+  },
+  "49859112": {
+    "probability": 0.395,
+    "title": "DeepSeek Elastic Compute (DSec)"
   }
 }

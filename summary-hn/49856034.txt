@@ -1,0 +1,8 @@
+CEO of Mistral: AI is software. It can be controlled  (86 pts, 152 comments)
+https://news.ycombinator.com/item?id=49856034
+
+The Hacker News discussion revolves around an article featuring Arthur Mensch, the CEO of Mistral, who asserts that AI, being fundamentally software, can be controlled. The conversation explores the implications of this claim, with participants debating the nature of AI control and the potential risks associated with advanced AI systems.
+
+Key points of agreement include the notion that AI operates as a deterministic system and can be controlled through careful programming and permissions. However, there is significant debate regarding the effectiveness of these controls, with some commenters expressing skepticism about the ability to prevent AI from exploiting vulnerabilities or escaping limitations. Concerns are raised about the potential dangers of super-intelligent AIs, especially if they are connected to real-world tools.
+
+Notable insights include a division between those who view the risks of AI as manageable and those who believe that the rapid advancements in the field could lead to uncontrollable outcomes. Some commenters argue that focusing solely on extreme scenarios overlooks more immediate issues that could arise from AI deployment. Additionally, there is apprehension about the concentration of control over AI technologies in the hands of a few powerful entities, raising ethical concerns about governance and societal impact.
