@@ -1,0 +1,8 @@
+Sam Altman says people don't want an AI to act as CEO  (11 pts, 8 comments)
+https://news.ycombinator.com/item?id=49094061
+
+The Hacker News discussion revolves around Sam Altman's assertion that people generally do not want AI to take on the role of CEO. The conversation reflects a mix of opinions on the implications of AI in leadership positions and the value of human oversight in corporate governance.
+
+In the comments, there is a notable debate about the role of AI in the workplace. Some commenters express skepticism about AI's ability to replace the human element in leadership, emphasizing the importance of human judgment and emotional intelligence. Others argue that AI could effectively handle communication and decision-making tasks traditionally associated with CEOs, suggesting that the role could be well-suited for AI. A few commenters also highlight the self-interest of current CEOs in resisting AI adoption, pointing out the potential for cost savings and efficiency if AI were to take over more jobs.
+
+Overall, the discussion reveals a tension between the potential benefits of AI in corporate roles and the inherent value of human leadership, with various perspectives on how these dynamics will shape the future of work.

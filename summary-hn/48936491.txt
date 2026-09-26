@@ -1,0 +1,6 @@
+Show HN: Ratel, give agents unlimited tools and skills without context bloat  (17 pts, 16 comments)
+https://news.ycombinator.com/item?id=48936491
+
+The Hacker News discussion centers around Ratel, a library designed to enhance the capabilities of AI agents without causing "context bloat," which can lead to hallucinations and high token costs. The creators, Giacomo and Roberto, explain that Ratel allows agents to maintain a comprehensive set of tools while only revealing the relevant ones for each task, resulting in significant cost savings—one user reported an 81% reduction in token expenses within the first month. Ratel is open source, framework-agnostic, and supports both keyword and semantic retrieval.
+
+In the comments, there is some skepticism regarding the authenticity of the positive feedback, with users questioning whether the discussion is astroturfed. Others compare Ratel to existing solutions like RAG (Retrieval-Augmented Generation) and MCP (Multi-Context Processing), debating its unique advantages. Some commenters express enthusiasm about the potential cost savings and the innovative approach to managing tool visibility for agents. Notably, the creators emphasize their focus on improving retrieval algorithms and expanding framework support while maintaining performance efficiency by using Rust for the core implementation.

@@ -1,0 +1,8 @@
+Another researcher says OpenAI trained on conversations, then claimed breakthrou  (254 pts, 15 comments)
+https://news.ycombinator.com/item?id=49643112
+
+The Hacker News discussion revolves around a claim made by a researcher that OpenAI trained its models on conversations and subsequently presented their capabilities as breakthroughs. The original post, shared on Mastodon, sparked interest and debate among users, leading to various comments and discussions about the nature of the claims and the sources of information.
+
+In the comments, there is a mix of agreement and skepticism. Some users express frustration over the lack of direct links to the original sources, while others engage in lighthearted banter about the terminology for posts on different platforms, such as "toots" on Mastodon and "skeets" on Bluesky. A few commenters also touch on the technical aspects of AI, suggesting that the models are now proficient at short-scale math, which may contribute to the perception of breakthroughs.
+
+Notably, the discussion highlights the challenges of verifying claims in the rapidly evolving AI landscape and the importance of citing original sources to maintain credibility. Overall, the conversation reflects a blend of curiosity, humor, and critical examination of the claims surrounding AI advancements.

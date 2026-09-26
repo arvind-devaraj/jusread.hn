@@ -1,0 +1,8 @@
+LLM Classification Is Feature Engineering  (82 pts, 17 comments)
+https://news.ycombinator.com/item?id=49742437
+
+The Hacker News discussion revolves around a blog post titled "LLM Classification Is Feature Engineering," which argues that instead of using large language models (LLMs) directly as classifiers, they should be employed to extract useful features from messy input data. This approach allows traditional machine learning models to make the final classification decisions, providing better transparency and calibration.
+
+In the comments, there is a consensus on the utility of using LLMs for feature extraction rather than direct classification. Some users express concerns about the stability of the features when switching LLM versions, while others suggest combining LLMs with traditional models or using multiple LLMs to optimize the classification process. Notable insights include the idea of using LLMs to generate prompts for simpler models and the potential for iterative optimization of rules for rule-based engines.
+
+Overall, the discussion highlights a shift towards leveraging LLMs as tools for enhancing traditional machine learning workflows, emphasizing the importance of feature engineering and model calibration in achieving reliable outcomes.

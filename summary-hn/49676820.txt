@@ -1,0 +1,8 @@
+Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases  (248 pts, 137 comments)
+https://news.ycombinator.com/item?id=49676820
+
+The Hacker News discussion revolves around a benchmarking initiative called "Real-SWE," which evaluates AI models using private, real-world enterprise codebases. The post highlights the challenges and methodologies of benchmarking AI performance in a way that reflects practical applications rather than theoretical scenarios.
+
+In the comments, there is a mix of agreement and skepticism regarding the validity and transparency of these benchmarks. Some users express concerns about the lack of reproducibility and transparency in the benchmarking process, questioning the reliability of results derived from unknown codebases. Others argue that while transparency may be compromised, the benchmarks could still provide valuable insights if they build a history of reliability. There are also discussions about the potential biases in benchmarks and the importance of independent testing entities.
+
+Notable insights include the recognition that while some benchmarks may not measure speed or user experience, they can still be useful for comparing AI models. Additionally, users share personal experiences with various AI tools, highlighting differences in performance and usability, which suggests that practical experience often diverges from benchmark results. Overall, the conversation reflects a broader debate about the effectiveness and integrity of AI benchmarking in real-world scenarios.

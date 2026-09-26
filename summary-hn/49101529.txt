@@ -1,0 +1,8 @@
+Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals  (14 pts, 11 comments)
+https://news.ycombinator.com/item?id=49101529
+
+The Hacker News discussion revolves around the concept of the "commodification of intelligence," particularly in the context of circular financing deals involving AI companies. The original post raises questions about the implications of these financial arrangements and their potential risks.
+
+In the comments, participants debate the distinction between healthy and risky circular financing, with some expressing concern about the opacity of off-balance-sheet deals. There is a consensus that while some companies, like Nvidia, maintain transparency, others, such as Meta, may not. The discussion also touches on broader market dynamics, with references to the instability in Asian markets and its potential impact on U.S. indices like NASDAQ. 
+
+Notably, there is skepticism about the intelligence of large language models (LLMs), with some commenters questioning whether they truly exhibit intelligence or if their perceived value is inflated by marketing. Overall, the conversation highlights the complexities of evaluating financial practices in the tech sector and the ongoing debate about the nature of AI intelligence.

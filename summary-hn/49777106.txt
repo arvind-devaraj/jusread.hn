@@ -1,0 +1,8 @@
+Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)  (94 pts, 17 comments)
+https://news.ycombinator.com/item?id=49777106
+
+The Hacker News discussion revolves around Laya, a local AI model running on Mac M4 using CoreML, which achieves 45 decisions per second. The original post highlights its capabilities, particularly in relation to its performance in tasks like playing the game Snake.
+
+In the comments, there is a debate about the future of local large language models (LLMs) and their potential to disrupt data center reliance. Some users, like PaulRobinson, argue that local LLMs are the future, especially for control problems, while others, like bigyabai, express skepticism, pointing out that Laya is based on the older BeRT model and questioning its disruptive potential. There are also discussions about the model's suitability for different user groups, with some believing it may be more beneficial for companies than the general public.
+
+Notable insights include the idea that while Laya may excel in deterministic tasks with training data, it may not perform as well in zero-shot scenarios. Additionally, there is a suggestion that combining Laya with another model like Jev could optimize performance and cost efficiency. Overall, the conversation reflects a mix of optimism and skepticism regarding the practical applications and future of local AI models.

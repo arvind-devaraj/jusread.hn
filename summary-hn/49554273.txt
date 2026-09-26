@@ -1,0 +1,8 @@
+OpenAI begins rolling out GPT-6 Astra  (222 pts, 208 comments)
+https://news.ycombinator.com/item?id=49554273
+
+The Hacker News discussion centers around the rollout of OpenAI's latest AI model, GPT-6 Astra, which the company claims to be the "world's most intelligent." This release is part of OpenAI's strategy to regain market leadership from competitor Anthropic, especially as it prepares for a public listing. The model is initially available to select organizations through OpenAI's Daybreak Access program, with broader access expected for paying customers in the coming days.
+
+In the comments, users express skepticism about the timing and marketing of the release, with some questioning whether the model has actually been launched or if the news articles were published prematurely. There is a debate about the implications of the model's rollout, with some commenters suggesting that it is primarily aimed at corporations and government entities rather than individual users. Notably, there is criticism of OpenAI's handling of the announcement, including a brief period when the launch blog post was live before being taken down, leading to confusion about the model's availability.
+
+Overall, the discussion reflects a mix of excitement and skepticism about the advancements in AI, with some users highlighting the potential societal impacts of such powerful models while others critique the marketing strategies and communication mishaps surrounding the release.

@@ -1,0 +1,8 @@
+Jaron Lanier: there is no AI (2023)  (33 pts, 80 comments)
+https://news.ycombinator.com/item?id=48980238
+
+The Hacker News discussion centers around an article by Jaron Lanier titled "There is no AI," which argues that current AI technologies, particularly large language models (LLMs), should not be considered true artificial intelligence. Lanier emphasizes that these models are tools rather than autonomous intelligences, a sentiment that resonates with some commenters who feel that the term "AI" is misleading.
+
+In the comments, there is a mix of agreement and debate. Some users argue that while LLMs have evolved, they fundamentally operate on the same principles and do not possess genuine reasoning capabilities. Others suggest that the definition of intelligence should be broadened to include non-human-like forms of reasoning, likening LLMs to calculators or other non-human intelligences. A notable point of contention is the idea of the Turing Test and whether it should account for a more rigorous evaluation of intelligence.
+
+Overall, the discussion reflects a broader skepticism about the current state of AI, with many participants advocating for a clearer distinction between human-like intelligence and the capabilities of existing AI technologies. The conversation highlights the ongoing debate about the implications of labeling these systems as "intelligent" and the potential for misunderstanding their true nature.

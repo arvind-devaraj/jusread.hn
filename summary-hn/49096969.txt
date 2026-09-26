@@ -1,0 +1,8 @@
+Handbook.md shows that long policy documents do not reliably govern agents  (247 pts, 156 comments)
+https://news.ycombinator.com/item?id=49096969
+
+The Hacker News discussion revolves around the paper titled "Handbook.md," which explores the limitations of long policy documents in effectively governing AI agents, particularly in enterprise settings. The paper uses a benchmark that simulates how employees follow company handbooks across various domains like Finance and HR, highlighting the challenges AI faces in adhering to complex instructions over time.
+
+In the comments, users share their experiences with AI models, particularly Claude, noting that while these models can initially follow instructions well, they often deviate from them after a short period. There is a consensus that static instructions are insufficient for maintaining compliance, and many suggest creating custom programming harnesses or using hooks to enforce rules and ensure ongoing adherence. Some commenters argue that LLMs (Large Language Models) inherently struggle with rule compliance as the complexity of tasks increases, emphasizing the need for external checks like CI/CD systems to mitigate this issue.
+
+Notable insights include the idea that AI agents may require a structured approach, such as using subagents for compliance checks, and that the design of the programming harness plays a crucial role in maintaining context and rule adherence. Overall, the discussion reflects a blend of practical advice and skepticism about the capabilities of AI in following long-term directives.

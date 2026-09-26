@@ -1,0 +1,6 @@
+Superhuman Attention  (16 pts, 5 comments)
+https://news.ycombinator.com/item?id=49479823
+
+The Hacker News discussion revolves around a blog post titled "Superhuman Attention," which discusses a product designed to prevent performance-related regressions in software, particularly as AI takes on more coding tasks. The author argues that the risk of such regressions will increase with AI involvement, but the specifics of how this product outperforms existing solutions remain unclear.
+
+In the comments, users express frustration with the writing style of the post, describing it as repetitive and difficult to read. Several commenters point out the excessive use of colons, suggesting that the author may have instructed their language model to replace em dashes with colons, leading to awkward prose. Overall, the consensus is that while the topic is relevant, the presentation detracts from its value, with some users humorously critiquing the writing as circus-like in its stiltedness.

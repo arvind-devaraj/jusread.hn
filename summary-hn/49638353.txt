@@ -1,0 +1,8 @@
+OpenAI might have stolen another major proof  (243 pts, 135 comments)
+https://news.ycombinator.com/item?id=49638353
+
+The Hacker News discussion revolves around allegations that OpenAI may have improperly used data from a mathematician's work to claim a significant mathematical proof. The original post references a tweet suggesting that OpenAI's AI models might have synthesized this proof without proper attribution or consent from the original researcher.
+
+In the comments, there is a debate about the nature of discovery and collaboration between humans and AI. Some users argue that AI's contributions are merely extensions of existing knowledge rather than unique discoveries, while others emphasize that all scientific progress builds on previous ideas. A notable point of contention is whether OpenAI's practices constitute exploitation or appropriation of researchers' work, with some commenters expressing concern over the ethical implications of AI training on proprietary data without consent.
+
+Several participants highlight the potential for AI to enhance discovery but caution against overstating its capabilities, suggesting that claims of AI achieving advanced understanding could mislead the public and investors. Overall, the discussion reflects a mix of skepticism about AI's role in research and a recognition of the collaborative nature of scientific advancement.

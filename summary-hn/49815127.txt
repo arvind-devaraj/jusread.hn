@@ -1,0 +1,8 @@
+OpenAI is enlisting an influencer army to make it look 'good for the world'  (203 pts, 202 comments)
+https://news.ycombinator.com/item?id=49815127
+
+The Hacker News discussion revolves around a Business Insider article that claims OpenAI is employing influencers to enhance its public image and promote the idea that its technology is "good for the world." The title's language, particularly the phrase "influencer army," sparked debate among commenters, with some criticizing it as hyperbolic and suggesting a more neutral framing of the situation.
+
+In the comments, there is a mix of agreement and skepticism regarding the effectiveness and ethics of influencer marketing in the tech industry. Some users argue that while AI is widely used and beneficial, there remains significant public concern about its implications, drawing parallels to other controversial technologies. Others express frustration with the perception that AI is being forced upon users, highlighting a disconnect between its utility and public sentiment. Notably, some commenters suggest that the push for a positive AI narrative may be driven by the companies themselves as a means of regulatory capture, while others point out the existence of an "AI doom industry" that profits from fear surrounding the technology.
+
+Overall, the discussion reflects a complex landscape of opinions on AI, where its usefulness is acknowledged, but concerns about its societal impact and the motivations behind its promotion are also prevalent.

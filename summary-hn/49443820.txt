@@ -1,0 +1,8 @@
+Ask HN: What is one simple thing LLMs are insanely bad at?  (26 pts, 63 comments)
+https://news.ycombinator.com/item?id=49443820
+
+The Hacker News discussion titled "Ask HN: What is one simple thing LLMs are insanely bad at?" revolves around users sharing their experiences with large language models (LLMs) like ChatGPT and Claude, specifically focusing on tasks that these models struggle to perform accurately. The original poster seeks ideas for training specialized models by identifying these shortcomings.
+
+In the comments, several recurring themes emerge. Users highlight issues such as LLMs' poor spatial reasoning, inconsistency in responses, and challenges with humor and concise answers. Many agree that while LLMs can generate creative content, they often produce repetitive or unvaried prose. Additionally, there are concerns about LLMs generating incorrect or fabricated information, particularly in technical contexts like data analysis or gaming tips. Some users suggest that LLMs struggle with keyword searches and business name suggestions, often leading to redundant or already existing names.
+
+Notable insights include the idea that while LLMs can be trained to improve their writing style, they still require context and guidance to produce desired outputs. Users also discuss the importance of refining prompts to achieve better results, indicating that the interaction style can significantly influence the quality of the responses. Overall, the discussion underscores the limitations of LLMs in specific areas, while also hinting at potential avenues for improvement through specialized training.

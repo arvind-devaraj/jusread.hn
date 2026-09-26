@@ -1,0 +1,8 @@
+Ask HN: What's the endgame of the AI comments buried in every post?  (11 pts, 9 comments)
+https://news.ycombinator.com/item?id=49362305
+
+The Hacker News discussion revolves around the increasing presence of AI-generated comments in post threads, which often receive downvotes and are typically found at the end of comment sections. The original poster questions the purpose behind these comments and why they have become a common aspect of the platform.
+
+In the comments, users speculate on various motivations for these AI comments. One theory suggests that they are part of a strategy to create "seasoned" accounts that can be sold to marketers or other entities for promotional purposes. Others believe the intent might be to generate activity and make posts appear more popular, potentially influencing the site's algorithm. However, some commenters point out that the presence of downvoted comments could backfire, as it may trigger moderation mechanisms that reduce the visibility of the thread.
+
+Notably, there is a consensus that high karma from such comments doesn't provide significant benefits on Hacker News, leading to further questioning of the rationale behind this behavior. Overall, the discussion highlights concerns about authenticity and the impact of AI on online discourse.

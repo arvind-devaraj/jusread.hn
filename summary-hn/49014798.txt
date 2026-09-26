@@ -1,0 +1,8 @@
+Why I'm building a note taking app without AI  (16 pts, 11 comments)
+https://news.ycombinator.com/item?id=49014798
+
+The Hacker News discussion revolves around a blog post by a developer explaining their decision to create a note-taking app without integrating AI. The developer emphasizes the value of human cognition in the note-taking process, arguing that the app is designed for users who prefer to engage actively with their notes rather than relying on AI for transcription or summarization.
+
+In the comments, there is a mix of support and skepticism. Some users express concern that the app may not scale beyond a hobby project, suggesting that AI-driven tools for transcription and summarization are more commercially viable. Others empathize with the developer's frustration over receiving critical comments that focus on user activity rather than the app itself. There is also a debate about the extent to which AI tools, like autocomplete, are used in the development process, with some commenters questioning the developer's claim of minimal AI involvement.
+
+Notable insights include the recognition of the emotional investment developers have in their projects and the challenges they face when receiving feedback. The discussion highlights a broader tension in the tech community regarding the role of AI in productivity tools and the balance between automation and human input.

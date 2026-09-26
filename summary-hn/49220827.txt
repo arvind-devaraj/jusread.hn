@@ -1,0 +1,8 @@
+Auto Mode will be the default in Claude Code – because humans can't be trusted  (22 pts, 6 comments)
+https://news.ycombinator.com/item?id=49220827
+
+The Hacker News discussion revolves around the introduction of "Auto Mode" as the default setting in Claude Code, an AI tool. The post argues that this mode is necessary because humans cannot be trusted to manually approve every command, which can be tedious and impractical.
+
+In the comments, there is a debate about the trustworthiness of Auto Mode. Some users, like pseufaux, express skepticism, arguing that while Auto Mode reduces risk, it doesn't eliminate it entirely, and unacceptable failures could still occur. Others, like jeffyaw, find Auto Mode appealing after building trust in the system over time, despite initial issues with command execution. Kingstnap supports Auto Mode, suggesting that manual approval is unrealistic for the volume of commands processed. In contrast, brooke2k prefers manual review for smaller tasks, emphasizing the importance of human oversight. Overflowy shares a method to safely use Auto Mode, while doc_ick raises concerns about the potential dangers of allowing AI to operate without human intervention.
+
+Overall, the discussion highlights a divide between those who see the efficiency of Auto Mode as beneficial and those who prioritize human control and oversight to prevent potential errors.

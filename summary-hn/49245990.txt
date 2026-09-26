@@ -1,0 +1,8 @@
+Don't Build Mindreading  (21 pts, 13 comments)
+https://news.ycombinator.com/item?id=49245990
+
+The Hacker News discussion revolves around a LessWrong article titled "Don't Build Mindreading," which argues against the development of brain-computer interface (BCI) technology that could enable telepathy. The author expresses concern that such technology could be misused for authoritarian purposes, particularly in enforcing government-mandated purity tests.
+
+In the comments, there is a debate about the relevance of mindreading technology compared to existing social controls like social media and propaganda. Some commenters, like bigyabai, argue that the fears surrounding BCI are exaggerated and that authoritarian regimes already have effective means to control populations without needing mindreading capabilities. Others, like mcphage, challenge this perspective by highlighting the potential dangers of such technology in the hands of oppressive governments, suggesting that it could exacerbate existing power imbalances.
+
+Notable insights include a critique of technologists for focusing on speculative technologies while neglecting the political implications of current technologies. There is also a discussion about the nature of authoritarianism, with some commenters arguing that the existence of effective social controls makes the fear of mindreading seem unfounded, while others maintain that any new technology could still pose significant risks if misused.

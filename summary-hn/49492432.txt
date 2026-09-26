@@ -1,0 +1,8 @@
+Warp builds self-improving agents on Claude  (44 pts, 38 comments)
+https://news.ycombinator.com/item?id=49492432
+
+The Hacker News discussion revolves around a blog post from Warp, a startup that builds self-improving agents using Anthropic's Claude language model. The article highlights how Warp's AI-powered terminal enhances user experience by integrating these agents, which can adapt and improve based on user feedback.
+
+In the comments, there is a mix of confusion and skepticism regarding Warp's business model and the relationship with Anthropic. Some users express concern that Warp may be relying on subsidized access to Claude, potentially leading to higher costs for users once they are locked in. Others debate the effectiveness of the self-improving agents, with some finding the output quality lacking and questioning the reliability of such systems in deterministic workflows.
+
+Notable insights include a critical view of the article's presentation, with several commenters suggesting it feels overly promotional and lacking in substance. There is also a broader discussion about the implications of using AI agents in software development, with some users highlighting the challenges of ensuring reliable outcomes when integrating human feedback into the process. Overall, the conversation reflects a mix of curiosity, skepticism, and a desire for clarity on the practical applications and limitations of Warp's technology.

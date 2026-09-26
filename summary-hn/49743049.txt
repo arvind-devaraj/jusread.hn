@@ -1,0 +1,8 @@
+Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents  (31 pts, 41 comments)
+https://news.ycombinator.com/item?id=49743049
+
+The Hacker News discussion revolves around Skillsync, a tool developed by Nars and Nishant that allows users to transfer AI chat sessions across different coding agents seamlessly. The platform addresses the issue of vendor lock-in by enabling users to move their conversations, reasoning, and tool calls from one agent to another without losing context. Skillsync features a local-first desktop app and an open-source engine called txcript, which translates session formats, making them searchable and portable.
+
+In the comments, users express enthusiasm for Skillsync's potential to enhance productivity by allowing them to switch between AI models like Claude and Codex without losing their progress. Some commenters raise concerns about potential degradation in session quality when transferring between agents, while others suggest additional features, such as analyzing sessions across different harnesses. There is also a discussion about the importance of maintaining a complete session log versus summarizing it into a markdown format, with some users advocating for the former to preserve context.
+
+Notable insights include the realization of how locked-in users can become with specific agents, often without being aware of it until they attempt to switch. The conversation highlights the value of collaboration and knowledge sharing among team members, as Skillsync enables users to build on each other's work more effectively. Overall, the discussion reflects a strong interest in the tool's capabilities and its potential to transform how users interact with AI coding agents.

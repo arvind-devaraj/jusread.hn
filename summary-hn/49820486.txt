@@ -1,0 +1,6 @@
+Ask HN: Do you offload your coding to AI, or keep your skills sharp?  (11 pts, 15 comments)
+https://news.ycombinator.com/item?id=49820486
+
+The Hacker News discussion revolves around a software engineer's concern about the impact of AI on their coding skills and relevance in the industry. The poster reflects on their transition from hands-on coding to managing AI agents that handle coding tasks, questioning the value they bring if AI can perform these tasks more efficiently. They seek insights from other engineers on whether to continue coding manually or focus on orchestrating AI tools.
+
+In the comments, there is a consensus that while AI can enhance productivity, the core value of software engineers lies in problem-solving, system design, and understanding the context of their work. Many commenters advocate for a hybrid approach, where they use AI for repetitive tasks while maintaining manual coding for critical components to keep their skills sharp. Notable insights include the idea that coding is more than just typing—it's about design and decision-making—and that engineers should adapt to leverage AI without losing their foundational skills. Some express a desire to balance efficiency with the enjoyment of coding, emphasizing the importance of staying engaged with the craft.

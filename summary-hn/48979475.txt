@@ -1,0 +1,8 @@
+Controlling Reasoning Effort in LLMs  (84 pts, 8 comments)
+https://news.ycombinator.com/item?id=48979475
+
+The Hacker News discussion centers around an article titled "Controlling Reasoning Effort in LLMs," which explores methods for managing the reasoning capabilities of large language models (LLMs). The article highlights techniques for prompting LLMs to reason more effectively, including a formalization of the "think step by step" approach that emerged with earlier models like GPT-3.
+
+In the comments, users express a mix of agreement and skepticism regarding the nature of reasoning in LLMs. Some, like simonw, find humor in the evolution of reasoning prompts, while others, such as razorbeamz, argue that LLMs merely create an illusion of reasoning rather than genuinely engaging in it. There is also discussion about practical implementations, with users sharing insights on customizing models for better reasoning performance and referencing related research.
+
+Notable insights include the acknowledgment that while LLMs may not reason in a philosophical sense, their outputs can still be effective in practical applications. Additionally, some commenters express interest in further exploring techniques to enhance reasoning in LLMs, indicating a desire for ongoing experimentation in this area.

@@ -1,0 +1,8 @@
+Ask HN: Hugging Face is out. Who is hosting open models?  (11 pts, 9 comments)
+https://news.ycombinator.com/item?id=49465640
+
+The Hacker News discussion revolves around a user expressing a desire to move away from Hugging Face (HF) due to its impending acquisition by Nvidia. The post raises questions about alternative platforms for hosting open models.
+
+In the comments, there is a mix of curiosity and skepticism regarding the acquisition. Some users question the implications of HF being acquired, while others speculate on how the company has been generating revenue and how it might continue to do so post-acquisition. A notable point of agreement is the recognition of a potential opportunity for new players to emerge in the open model hosting space, with suggestions for creating platforms similar to The Pirate Bay or AcademicTorrents for sharing models.
+
+Overall, the discussion highlights concerns about the future of HF under Nvidia's ownership and the broader implications for the open-source model community, suggesting a potential shift in the landscape as users seek alternatives.

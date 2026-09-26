@@ -1,0 +1,8 @@
+Explorative modeling: Train on the best of K guesses  (51 pts, 19 comments)
+https://news.ycombinator.com/item?id=49135245
+
+The Hacker News discussion revolves around a blog post titled "Explorative modeling: Train on the best of K guesses," which introduces a new approach to generative modeling that aims to improve the quality of generated outputs by selecting the best sample from multiple guesses. The author argues that this method could potentially render previous image models obsolete if the results hold up at scale.
+
+In the comments, there is a mix of enthusiasm and skepticism. Many users, like FeepingCreature and kamranjon, express excitement about the potential significance of this development, noting its simplicity and effectiveness. However, some commenters, such as zimablue22 and yorwba, raise concerns about the novelty of the approach, suggesting it closely resembles existing methods like GRPO (Group-Relative Policy Optimization) and other sampling techniques without adequately acknowledging prior work. Others, like cousin_it, highlight the shortcomings of current generative models, particularly in comparison to GANs.
+
+Overall, the discussion reflects a blend of optimism about the new method's capabilities and critical analysis regarding its originality and relation to established techniques in the field of generative modeling.

@@ -1,0 +1,6 @@
+Inflect-Micro-v2: complete voice in 9.36M parameters  (122 pts, 11 comments)
+https://news.ycombinator.com/item?id=49053375
+
+The Hacker News discussion centers around the release of Inflect-Micro-v2, a text-to-speech (TTS) model that operates with just 9.36 million parameters. The model is noted for its impressive quality given its small size, primarily producing a single male English voice. However, it does not support voice cloning or speech-to-text (STT) capabilities, which some users had hoped for.
+
+In the comments, there is a consensus on the model's remarkable quality for its size, with several users expressing surprise at how well it performs compared to older TTS technologies. However, opinions vary regarding its listening experience; while some find it significantly better than past tools, others feel it still lacks the naturalness of modern TTS systems. Users also highlight limitations, such as the model's fixed voice and the occasional awkward inflections. Overall, the discussion reflects excitement about the advancements in TTS technology while acknowledging areas for improvement.

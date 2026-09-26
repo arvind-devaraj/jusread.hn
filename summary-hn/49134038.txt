@@ -1,0 +1,8 @@
+On the non-use of AI in my writing process  (117 pts, 99 comments)
+https://news.ycombinator.com/item?id=49134038
+
+The blog post titled "On the non-use of AI in my writing process" discusses the author's decision to avoid using AI tools in their writing. They express concerns about the limitations of AI, particularly in creative contexts, and argue that AI-generated content lacks the depth and "soul" that human writing possesses. The author also makes a technical error by incorrectly attributing the underlying technology of large language models (LLMs) to generative adversarial networks (GANs), which sparked significant debate in the comments.
+
+In the Hacker News discussion, commenters largely focus on the author's technical misstep, with many pointing out that LLMs are primarily based on transformer architecture rather than GANs. Some commenters argue that the error undermines the author's credibility, while others suggest that it should not detract from the broader points about AI's limitations in creative writing. There is also a debate about the implications of AI in various fields, with some users arguing that AI can indeed plan narratives and engage with real-world phenomena more effectively than the author suggests.
+
+Notable insights include the recognition that while AI may not replicate the human experience in writing, it can still be a useful tool in certain contexts, such as software development. Additionally, the discussion touches on broader concerns about the ecological impact of AI technologies and the ideological biases that may influence opinions on AI's role in society.

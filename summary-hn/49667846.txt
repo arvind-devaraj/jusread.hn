@@ -1,0 +1,8 @@
+OpenAI: "We use ... de-identified data to improve ChatGPT"  (19 pts, 8 comments)
+https://news.ycombinator.com/item?id=49667846
+
+The Hacker News discussion revolves around a statement from OpenAI regarding their use of de-identified user data to improve ChatGPT and Codex. The post highlights a distinction between whether human agents accessed specific user data related to a particular research effort (the Navier Stokes problem) and the broader practice of using user feedback and de-identified data for model improvement.
+
+In the comments, there is a mix of skepticism and concern about the effectiveness of de-identification, with some commenters questioning whether it truly protects user privacy. Others express distrust towards big tech companies, drawing parallels to past issues with data privacy and ethical practices, particularly referencing the behavior of companies like Facebook and Google. There are also concerns about the potential for these companies to become more exploitative as they face increased competition and financial pressures.
+
+Overall, the discussion reflects a broader anxiety about data privacy, the ethical responsibilities of tech companies, and the implications of using user data for AI development, with a call for greater transparency and accountability.

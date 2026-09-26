@@ -1,0 +1,8 @@
+Show HN: Orate – On-device neural text-to-speech queue for Mac  (17 pts, 17 comments)
+https://news.ycombinator.com/item?id=48997941
+
+The Hacker News discussion centers around a new Mac application called Orate, developed by a long-time HN user, which allows users to convert selected text on their screen into speech using advanced text-to-speech (TTS) AI models. The app operates entirely on-device and offline, ensuring user privacy, and is available for a one-time purchase of $4.99, with a promotional discount for HN users. Orate features functionalities like tagging, playback controls, and an optional HD voice tier for more expressive reading.
+
+In the comments, users express enthusiasm for the app and suggest additional features such as OCR for printed text, device synchronization, and character voices for fiction. However, some users report technical issues, including crashes and problems with activation, prompting the developer to engage in troubleshooting and release updates. There is a general consensus on the app's potential utility, especially with the upcoming iOS version, but concerns about its current stability and performance are prevalent.
+
+Notably, users appreciate the convenience of a keyboard shortcut for reading text, and there is interest in expanding the app to other platforms like Windows and Linux. Overall, the discussion highlights both excitement for the app's capabilities and a desire for improvements and additional features.

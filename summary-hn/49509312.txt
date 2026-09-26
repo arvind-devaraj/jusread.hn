@@ -1,0 +1,8 @@
+A milestone in expanding access to AI  (12 pts, 7 comments)
+https://news.ycombinator.com/item?id=49509312
+
+The Hacker News discussion revolves around OpenAI's announcement of reaching a $1 billion annualized revenue run rate for ChatGPT Ads within just 200 days of its launch. This rapid growth is highlighted as a significant milestone in expanding access to AI technologies.
+
+In the comments, users express a mix of admiration and skepticism. Many agree that achieving such a revenue milestone in a short time is impressive, with some noting the rarity of such rapid success in the tech industry. However, there are critiques regarding the implications of "expanding access" to AI, with some commenters questioning whether this refers to genuine accessibility or merely increased monetization through advertising. Additionally, there are calls for transparency regarding the effectiveness of the ads, with one user expressing a desire to see concrete examples.
+
+Notable insights include a critique of the phrase "protecting the trust people place in ChatGPT," suggesting it may be more of a marketing slogan than a tangible goal. Overall, the discussion reflects a blend of enthusiasm for OpenAI's growth and caution about the potential commercialization of AI.

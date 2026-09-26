@@ -1,0 +1,8 @@
+Tell HN: OpenAI brings back 5 hour limit for plus and business standard users  (117 pts, 130 comments)
+https://news.ycombinator.com/item?id=49600233
+
+The Hacker News discussion revolves around OpenAI's decision to reinstate a five-hour usage limit for Plus and Business Standard users, which has led to varied reactions among users. The post highlights that this change affects how limits reset, making it less favorable for users who rely on consistent access.
+
+In the comments, users express a mix of frustration and acceptance regarding the new limits. Some see the five-hour cap as a way to manage resource allocation more effectively, while others criticize it as a bait-and-switch tactic that complicates usage. There are discussions about alternative services, such as Hyper and Opencode Go, with users weighing their benefits against OpenAI's offerings. Notably, some commenters argue that the pricing and limitations are likely to increase over time as companies seek to balance demand with operational costs.
+
+Overall, the conversation reflects a broader concern about the sustainability and profitability of AI services, with users questioning the fairness of constant changes in pricing and usage policies. Some believe that the current model is more about retaining users than providing genuine value, while others acknowledge the necessity of managing resources in a rapidly evolving landscape.

@@ -1,0 +1,6 @@
+Show HN: An AI agent that trades inside limits you set, starting on paper  (17 pts, 9 comments)
+https://news.ycombinator.com/item?id=49182263
+
+The Hacker News discussion revolves around a project titled "An AI agent that trades inside limits you set, starting on paper." The creator, who has spent a year developing the tool, seeks feedback primarily on its safety model rather than the trading mechanics. The AI operates through a structured loop that includes market screening, candidate analysis, order routing, position monitoring, and exit strategies, all while adhering to user-defined capital, risk limits, and autonomy levels.
+
+In the comments, there is a debate about the effectiveness of using Large Language Models (LLMs) in trading compared to traditional machine learning methods. Some users question whether LLMs provide a significant advantage, while others express skepticism about the author's motivations for selling the tool instead of using it for personal gain. Notably, one commenter highlights the potential for selling tools without incurring the same risks as trading, suggesting that the business model does not necessarily indicate the tool's efficacy. Overall, the discussion reflects a mix of curiosity, skepticism, and interest in the intersection of AI and trading.

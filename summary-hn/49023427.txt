@@ -1,0 +1,8 @@
+Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents  (49 pts, 20 comments)
+https://news.ycombinator.com/item?id=49023427
+
+The Hacker News discussion revolves around OneCLI, an open-source credential gateway designed to securely manage secrets for AI agents. The creators, Jonathan and Guy, explain that traditional vaults can be risky because once secrets are delivered to agents, their handling is uncertain. OneCLI acts as a proxy that verifies requests from AI agents, ensuring they only access the credentials they are authorized to use, while also providing features like human-in-the-loop approvals for sensitive actions.
+
+In the comments, users express interest in the product, with some sharing their own experiences with similar tools like Infisical and discussing the broader landscape of credential management solutions. A notable debate arises around the effectiveness of OneCLI compared to existing methods like OAuth and SSO, with some commenters arguing that these established systems already address similar concerns. Others highlight the potential risks of agents misusing legitimate access, emphasizing the importance of tightly scoped permissions.
+
+Overall, the discussion showcases a mix of enthusiasm for OneCLI's approach, skepticism about the security of any credential management system, and a competitive atmosphere as users promote their own solutions. The conversation reflects a growing awareness of the complexities involved in managing secrets in an era of increasingly autonomous AI agents.

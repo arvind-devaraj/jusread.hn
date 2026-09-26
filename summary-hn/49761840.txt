@@ -1,0 +1,8 @@
+Alibaba open-sources AI model that can detect cancer and nearly 150 conditions  (127 pts, 11 comments)
+https://news.ycombinator.com/item?id=49761840
+
+The Hacker News discussion centers around Alibaba's recent announcement of an open-source AI model capable of detecting cancer and nearly 150 other medical conditions. The model's weights are approximately 5GB, and it consists of around 131 million parameters, including a modified BERT-base-Chinese text encoder and a 3D U-Net-style vision encoder.
+
+In the comments, users express curiosity about the model's specifications, particularly its parameter count and size. There is a general agreement on the significance of the model's capabilities, with some users referencing related scholarly articles and studies on cancer diagnosis. A few comments humorously touch on the idea of predicting the future, with one user suggesting a hypothetical model named "Crystal bAill" for future predictions, while another points out that detecting cancer can be seen as a form of predicting a potential future.
+
+Overall, the discussion highlights excitement about advancements in AI for medical applications, alongside a light-hearted exchange about the nature of prediction and intelligence.

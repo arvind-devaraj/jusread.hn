@@ -1,0 +1,8 @@
+Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost  (47 pts, 10 comments)
+https://news.ycombinator.com/item?id=49699267
+
+The Hacker News discussion revolves around Nari Labs' announcement of their open-source speech models, Qwen3-TTS (text-to-speech) and Qwen3-ASR (automatic speech recognition). The post highlights their achievements in creating fast, accurate, and cost-effective models that outperform several closed-source competitors in terms of latency and accuracy, as measured by the Coval voice AI benchmarks. Nari Labs aims to democratize speech technology, making it accessible for all applications without high costs.
+
+In the comments, users express excitement about the advancements and inquire about the technical aspects that contributed to the speed improvements, with some speculating on potential architectural changes. There are questions about the open-source status of the ASR engine and requests for demos to showcase the models' capabilities. Some commenters emphasize the need for independent evaluations to verify the claims made by Nari Labs, while others express optimism about the growing competition in the TTS market.
+
+Overall, the discussion reflects a strong interest in open-source solutions for speech technology, with a focus on performance and affordability, alongside a recognition of the need for transparency and validation in claims of quality.

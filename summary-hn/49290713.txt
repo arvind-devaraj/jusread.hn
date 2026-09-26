@@ -1,0 +1,8 @@
+Ask HN: How much money do you spend monthly on subscriptions for AI models?  (13 pts, 32 comments)
+https://news.ycombinator.com/item?id=49290713
+
+The Hacker News discussion revolves around users sharing their monthly spending on subscriptions for AI models, both for personal use and professional work. The original poster asks for a breakdown of expenses and the specific models used for various purposes, such as coding projects or AI assistants.
+
+In the comments, there is a wide range of spending reported, with some users spending nothing at all, while others report costs ranging from $10 to over $300 per month. Many users express frustration about the cumulative costs of multiple subscriptions, especially when using different models for different tasks. Notably, some users highlight the significant return on investment (ROI) they experience from AI tools, citing time savings in coding and project management. Others emphasize their preference for local models or hardware investments over subscription services, indicating a trend towards self-hosting AI solutions.
+
+Overall, the discussion reveals a mix of opinions on the value of AI subscriptions, with some users finding them indispensable for productivity, while others question their cost-effectiveness.

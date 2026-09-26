@@ -1,0 +1,8 @@
+Who's making money from using/exploiting AI?  (11 pts, 6 comments)
+https://news.ycombinator.com/item?id=49047714
+
+The Hacker News discussion revolves around the question of who is financially benefiting from advancements in AI, specifically looking for concrete examples of increased profitability due to AI. The original poster seeks instances where companies have seen significant financial gains rather than just improved efficiency.
+
+In the comments, several users share their experiences and insights. One commenter notes that web designers are completing projects more quickly, leading to increased business, though they can't quantify the profit increase. Another mentions receiving a surge of inquiries due to their website being recommended by AI, despite not actively engaging with AI tools. A third commenter discusses the flow of investment in AI, highlighting a cycle where chip manufacturers and cloud providers fund AI labs, which in turn boosts their own sales. Additionally, there is a mention of AI making exploitation cheaper, suggesting that some may profit from reduced costs in targeting lucrative markets. Lastly, a user shares their success in creating a service that generates videos from presentations using AI voiceovers, indicating a direct financial benefit from AI advancements.
+
+Overall, the discussion reflects a mix of personal anecdotes and broader economic observations, emphasizing both direct and indirect ways AI is influencing profitability across various sectors.

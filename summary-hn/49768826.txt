@@ -1,0 +1,8 @@
+Ask HN: How do you interview devs in a post-AI world?  (14 pts, 8 comments)
+https://news.ycombinator.com/item?id=49768826
+
+The Hacker News discussion revolves around the challenges of interviewing developers in a world increasingly influenced by AI coding assistants. The original poster expresses discomfort with candidates who rely heavily on AI tools for coding, questioning the effectiveness of traditional interview methods like leetcode and system design assessments in this new landscape.
+
+In the comments, there is a consensus that conventional technical interviews may not adequately assess a candidate's problem-solving abilities or thought processes. Some commenters suggest focusing on candidates' real-world experiences and project contributions instead. Others propose alternatives like paid work trials to better evaluate candidates' skills, although this approach may exclude those currently employed. A few participants note that AI's impact on the hiring process has been more pronounced in CV filtering rather than in the interview format itself.
+
+Notable insights include the idea that traditional interview methods may not reflect a candidate's true capabilities in a post-AI context, and the recognition that both candidates and employers are looking for ways to mitigate hiring risks. Overall, the discussion highlights the need for evolving interview strategies to adapt to the changing landscape of software development.

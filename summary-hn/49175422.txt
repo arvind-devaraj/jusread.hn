@@ -1,0 +1,8 @@
+Ask HN: Dear Anthropic, can we please have thought traces back?  (10 pts, 7 comments)
+https://news.ycombinator.com/item?id=49175422
+
+The Hacker News discussion revolves around a user requesting Anthropic to reintroduce "thought traces" in their language model, Claude. The user expresses frustration over the inability to verify how the model arrives at its conclusions, suggesting that Opus 4.6 remains superior due to its transparency.
+
+In the comments, several users agree on the importance of thought traces for understanding model reasoning. Some argue that newer models like DeepSeek-V4-Flash-0731 and Kimi K3 are outperforming Claude, highlighting that Claude's lack of transparency leads to mistakes that are harder to catch. Others express disappointment in Anthropic's approach, suggesting that their focus on competition is hindering innovation. A few users mention that while there are ways to enable some form of thought tracing in Claude, it doesn't fully address the concerns raised.
+
+Overall, the discussion reflects a desire for greater transparency in AI models to enhance user trust and understanding, with a consensus that current offerings from Anthropic may not meet these needs as effectively as competitors.

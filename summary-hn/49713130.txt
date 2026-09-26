@@ -1,0 +1,8 @@
+GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt  (15 pts, 6 comments)
+https://news.ycombinator.com/item?id=49713130
+
+The Hacker News discussion revolves around the paper titled "GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt," which explores how a single prompt can effectively unalign large language models (LLMs) from their safety training. The paper suggests that this method could potentially work on both open and closed weight models, although the authors primarily tested it on open-weight models.
+
+In the comments, there is a mix of curiosity and caution. Some users express interest in the implications of the findings, particularly the idea that unalignment can occur without extensive fine-tuning or datasets. Others share personal experiences with prompt experimentation, highlighting concerns about potential bans from platforms for using certain prompts, even if they believe they haven't violated any rules. A notable point of debate is whether the method described in the paper constitutes a "jailbreak" of the models, with some commenters seeking clarification on how it could apply to closed-weight models.
+
+Overall, the discussion reflects a blend of intrigue about the research's implications for LLM safety and apprehension regarding the risks of experimenting with prompts in practice.

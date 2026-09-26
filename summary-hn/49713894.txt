@@ -1,0 +1,6 @@
+Show HN: Pizza Bot – An inbox for AI agents that work in the background  (48 pts, 31 comments)
+https://news.ycombinator.com/item?id=49713894
+
+The Hacker News discussion centers around the launch of Pizza Bot, a self-hosted desktop application designed to manage AI agents through an email-like interface. The app allows users to run AI agents in the background, with completed tasks appearing in an "Unread" section and pending approvals in an "Action" section. It supports various model providers and is built to be user-friendly for non-technical users, stemming from the creator's frustration with manual CRM logging.
+
+In the comments, users express excitement about the app's potential, with some discussing its asynchronous task management capabilities. There are questions about its differentiation from other tools like Linear and Paperclip, with users seeking clarity on its unique features and use cases. Notable insights include the importance of an intuitive interface for knowledge workers and the desire for open-source solutions in the AI agent space. Some users also raised concerns about the app's desktop nature versus a web-based approach, while others appreciated the focus on privacy and self-hosting capabilities. Overall, the discussion highlights a mix of enthusiasm for the app's functionality and curiosity about its practical applications.

@@ -1,0 +1,8 @@
+Classified estimates show the NSA is paying billions to test AI models  (165 pts, 94 comments)
+https://news.ycombinator.com/item?id=49845952
+
+The Hacker News discussion revolves around a report indicating that the NSA is spending billions to test AI models, raising questions about the agency's intentions and capabilities. Commenters express skepticism about the NSA's stated purpose of "testing," suggesting that the agency is likely using AI for more covert operations, including social engineering and election interference. 
+
+A significant point of debate is the NSA's focus—some argue it is primarily inward-looking, while others assert that its mission remains outward-focused, akin to the CIA's operations. There are also discussions about the NSA's ability to access AI models, with some commenters suggesting that the agency could easily obtain these technologies through various means, while others highlight the potential legal and ethical constraints.
+
+Notable insights include concerns about the NSA's disregard for laws and regulations, as evidenced by past revelations from whistleblower Edward Snowden. Additionally, there is a general consensus that the implications of AI in intelligence work could be profound, with some commenters warning that AI technologies represent a new frontier in state power and surveillance capabilities.

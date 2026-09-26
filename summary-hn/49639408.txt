@@ -1,0 +1,8 @@
+More questions about whether researchers can trust OpenAI with unpublished math  (406 pts, 471 comments)
+https://news.ycombinator.com/item?id=49639408
+
+The Hacker News discussion revolves around concerns regarding the trustworthiness of OpenAI in handling unpublished mathematical work. The original post raises questions about the legitimacy of claims made by OpenAI regarding its ability to solve complex mathematical problems, suggesting that the AI's contributions may not be entirely original or independent.
+
+In the comments, there is significant debate about the nature of discovery and originality in both human and AI contexts. Some users argue that all discoveries are built upon existing knowledge, while others emphasize the importance of individual creativity and the distinction between human cognition and AI processes. A recurring theme is the comparison of AI's role in mathematical breakthroughs to historical figures like Einstein, with differing opinions on whether AI can truly innovate or merely synthesize existing ideas.
+
+Notable insights include the acknowledgment that while AI can assist in research and potentially accelerate discovery, the ethical implications of credit and originality remain contentious. Some commenters express skepticism about OpenAI's claims, arguing that the AI's reliance on human-generated data raises questions about the authenticity of its contributions. Overall, the discussion highlights the complexities of collaboration between human researchers and AI, as well as the philosophical implications of defining originality in the age of machine learning.

@@ -1,0 +1,8 @@
+Show HN: Agentic CUDA Kernel Optimizer  (31 pts, 10 comments)
+https://news.ycombinator.com/item?id=49842596
+
+The Hacker News discussion centers around a project called the Agentic CUDA Kernel Optimizer, developed by a user who aimed to optimize CUDA kernels while learning about langgraph. The project involves using AI agents to run kernels, benchmark them, and profile performance using tools like Nsight. The developer highlights the challenge of ensuring that the optimized kernels maintain correctness, discussing methods for regression testing, including using reference kernels and AI-generated inputs.
+
+In the comments, there is a mix of appreciation for the technical achievement and skepticism about the effectiveness of the approach. Some commenters express concerns about the potential for the AI to "game" correctness tests, while others question whether this method is more effective than simply using existing AI tools like Claude or Codex for optimization. The developer clarifies that the project aims to provide a structured framework for AI optimization, allowing for more controlled experimentation compared to raw AI prompts.
+
+Notable insights include the recognition of the complexity involved in validating the correctness of optimized kernels and the debate over the necessity and effectiveness of the structured approach versus more straightforward AI solutions. Overall, the discussion reflects both enthusiasm for innovative AI applications in programming and caution regarding their reliability.

@@ -1,0 +1,6 @@
+Ask HN: Can we please limit the AI news flood?  (714 pts, 344 comments)
+https://news.ycombinator.com/item?id=49657850
+
+The Hacker News discussion revolves around a user's concern that the platform has become overwhelmingly focused on AI-related news, overshadowing other interesting topics that were previously popular. The user notes that their non-AI submissions receive little traction, making it difficult to discover diverse content. They suggest that Y Combinator (YC) could help by curating content or implementing tagging to filter out AI posts.
+
+In the comments, there is a mix of agreement and debate. Some users acknowledge that the current AI hype is reflective of broader industry trends, while others express frustration that non-AI content is being buried. Several commenters suggest alternative platforms for non-AI discussions, like lobste.rs and tildes.net, while others argue that HN's focus on AI could alienate long-time users. Notably, some believe that the moderation team may be intentionally steering the community towards a younger, pro-AI user base, which could impact the diversity of discussions on the platform.

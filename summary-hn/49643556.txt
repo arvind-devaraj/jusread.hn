@@ -1,0 +1,8 @@
+Tell HN: OpenAI keeps re-enabling the 'allow training' setting  (411 pts, 164 comments)
+https://news.ycombinator.com/item?id=49643556
+
+The Hacker News discussion revolves around a user's concern that OpenAI is repeatedly re-enabling the 'allow training' setting for their AI models, despite the user having disabled it multiple times. The original poster urges others to check their settings to ensure they are not inadvertently allowing their data to be used for training.
+
+In the comments, there is a mix of agreement and skepticism regarding OpenAI's practices. Some users suggest that if the behavior is intentional, it reflects poorly on the company's ethics, while others speculate it could be a technical issue rather than malice. There is also a debate about the reliability of competing services, with some users sharing experiences of similar issues with Anthropic's Claude, indicating that such practices may not be unique to OpenAI. 
+
+Notable insights include discussions on how to document the setting changes for potential legal claims and the broader implications of trusting AI companies with user data. The conversation highlights a general distrust towards tech companies regarding data privacy and user consent, with some users advocating for exploring alternative services.

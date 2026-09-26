@@ -1,0 +1,8 @@
+Why hasn't AI increased unemployment?  (14 pts, 14 comments)
+https://news.ycombinator.com/item?id=49034854
+
+The Hacker News discussion revolves around a tweet by Peter McCrory questioning why AI has not led to increased unemployment, despite concerns about its impact on jobs. The comments reflect a mix of perspectives on the relationship between AI and employment.
+
+Many commenters agree that AI tends to automate specific tasks rather than entire jobs, which can lead to increased productivity without immediate job loss. However, some argue that this perspective might be misleading due to statistical modeling that obscures the true impact of AI on employment. There are also concerns about the future, with predictions that AI could significantly disrupt white-collar jobs and alter the workforce composition.
+
+Notable insights include skepticism about the stability of the current labor market, with some commenters pointing to layoffs linked to AI spending and the potential for companies to manipulate employment statistics. Overall, the discussion highlights a complex interplay between technological advancement, economic factors, and labor market dynamics.

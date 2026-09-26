@@ -1,0 +1,6 @@
+Show HN: ThoughtDAG – An editable context graph for LLM conversations  (94 pts, 47 comments)
+https://news.ycombinator.com/item?id=49307700
+
+The Hacker News discussion centers around "ThoughtDAG," a tool designed to create an editable context graph for conversations with large language models (LLMs). The creator, chatchan, explains that each question and answer forms a node, and users can manipulate the context by adding or removing connections (edges) between nodes. This allows for more controlled interactions with the LLM, as only relevant context is included in requests.
+
+In the comments, users express interest in the tool's potential and suggest improvements, such as comparing ThoughtDAG to similar projects and integrating it with existing applications. There is a debate about whether it should remain a standalone app or function as a plugin for other systems. Some users appreciate the concept of managing complex workflows through a visual graph, while others raise concerns about performance and usability. Notably, chatchan addresses a security issue raised by a commenter, demonstrating responsiveness to feedback. Overall, the discussion highlights excitement for the innovative approach of ThoughtDAG while also pointing out areas for enhancement and integration.

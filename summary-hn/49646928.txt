@@ -1,0 +1,6 @@
+Show HN: Open-source simulation testing infra for voice agents  (14 pts, 5 comments)
+https://news.ycombinator.com/item?id=49646928
+
+The Hacker News discussion revolves around the launch of an open-source platform called Egma, designed for simulation-based testing of voice agents. Created by brothers Nischal and Naman, the platform aims to address the high costs associated with existing simulation testing tools by allowing users to integrate their own speech-to-text (STT), language model (LLM), and text-to-speech (TTS) services without markup fees. The brothers emphasize the need for reliable testing methods to build trust in voice agents, highlighting their own frustrations with repetitive manual testing and the challenges of identifying issues in production.
+
+In the comments, users express enthusiasm for the project, with one noting the practicality of transforming manual testing into a repeatable infrastructure. There is a discussion about which production metrics should trigger testing scenarios, such as transcription errors or deviations in business outcomes. The creators respond positively to feedback and express eagerness to learn how others are currently testing their voice agents. Overall, the conversation reflects a shared interest in improving the reliability and efficiency of voice agent testing.

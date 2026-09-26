@@ -1,0 +1,8 @@
+Predictive intelligence to anticipate anything.  (21 pts, 30 comments)
+https://news.ycombinator.com/item?id=49684879
+
+The Hacker News discussion revolves around a tool called Prior, which claims to provide predictive intelligence for various domains, including sports and markets. The post raises questions about the tool's ability to make accurate predictions and whether it accounts for the impact of its predictions on the systems it analyzes.
+
+In the comments, there is a mix of skepticism and curiosity. Some users doubt the tool's effectiveness, arguing that complex systems are inherently unpredictable and that the tool may be more of a marketing gimmick than a reliable forecasting tool. Others share their experiences using Prior, with mixed results. Notably, one user mentioned it predicted a 51% likelihood for a political outcome, which sparked debate about the validity of such predictions. There are also discussions about the ethical implications of acting on predictions and the potential for users to misinterpret the tool's accuracy.
+
+Overall, the conversation highlights a general skepticism about the feasibility of predictive intelligence, with many commenters emphasizing the limitations of such tools in dealing with complex, chaotic systems.

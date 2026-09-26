@@ -1,0 +1,8 @@
+Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?  (169 pts, 86 comments)
+https://news.ycombinator.com/item?id=48956879
+
+The Hacker News discussion revolves around a blog post comparing the performance of two AI models, Fable 5 and GPT-5.6 Sol, in solving an NP-Hard problem, specifically focusing on the impact of the "/goal" command on their effectiveness. The post explores how this command influences the models' ability to achieve specific tasks and whether it enhances their performance in complex problem-solving scenarios.
+
+In the comments, users debate the clarity of the visual data presented in the post, with some expressing confusion over the chart's inverted y-axis. A significant point of discussion is the utility of the "/goal" command, with some users advocating for its effectiveness in guiding AI tasks, while others express concerns about potential over-engineering or misinterpretation of goals by the models. There are differing opinions on the importance of time constraints versus explicit task definitions, with some users finding time limits beneficial for maintaining focus, while others argue that they can lead to incomplete or suboptimal results.
+
+Notable insights include the recognition that the initial hypothesis generation phase is crucial for the success of AI tasks, and that the models' understanding of goals can vary significantly. Some users highlight the importance of clear exit criteria and the need for careful prompt design to avoid unintended consequences, such as overfitting or producing convoluted solutions. Overall, the discussion reflects a mix of enthusiasm and caution regarding the use of AI models in complex problem-solving.

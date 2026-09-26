@@ -1,0 +1,8 @@
+OpenAI expands ChatGPT ads with Sponsored Agents  (148 pts, 160 comments)
+https://news.ycombinator.com/item?id=49727041
+
+The Hacker News discussion revolves around OpenAI's announcement of expanding ChatGPT's advertising capabilities through "Sponsored Agents." This initiative raises concerns and skepticism among commenters regarding the implications of AI-driven advertising and the company's claims about its progress toward achieving artificial general intelligence (AGI).
+
+Key points of debate include whether OpenAI's focus on monetization through ads indicates a lack of genuine advancement toward AGI, with some commenters arguing that if they were close to AGI, they could generate revenue more effectively through their AI capabilities rather than selling ads. Others express frustration with the ongoing discussions about AGI, suggesting that the company's actions contradict its claims of having achieved significant intelligence.
+
+Notable insights include concerns about the potential for AI chatbots to inundate online spaces with misleading advertising and the ambiguity surrounding liability for such interactions. The conversation reflects a mix of skepticism about OpenAI's motivations, humor about the implications of AI in advertising, and a broader critique of the tech industry's direction.

@@ -1,0 +1,8 @@
+Human vs. AI – Diff-based line-level provenance for text under agentic editing  (53 pts, 15 comments)
+https://news.ycombinator.com/item?id=49232300
+
+The Hacker News discussion revolves around the concept of tracking the provenance of text generated or modified by AI, particularly in the context of version control systems like Git. The original post highlights the importance of distinguishing between human and AI contributions to maintain clarity and accountability in collaborative projects.
+
+In the comments, users express varying opinions on the necessity and implementation of such tracking. Some, like gritzko and alansaber, emphasize the value of annotations and detailed provenance markers to identify AI-generated content that has been altered by humans. Others, like spuz and drusepth, discuss technical approaches to integrating AI contributions into Git workflows, including using hooks and pre-commit tools to manage authorship and commit messages effectively.
+
+A notable insight from the discussion is the tension between the desire for transparency in AI usage and the practical realities of modern coding practices, where many developers rely heavily on AI tools. Some commenters, like hamandcheese, question the need for detailed tracking, suggesting that the focus should be on the final output rather than the specific contributions of AI versus human authors. Overall, the conversation reflects a broader debate about the role of AI in creative and technical work, and how best to acknowledge its influence.

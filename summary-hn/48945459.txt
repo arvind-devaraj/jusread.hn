@@ -1,0 +1,6 @@
+Time-Series Language Models for Reasoning over Multivariate Data at Scale (ICML)  (17 pts, 11 comments)
+https://news.ycombinator.com/item?id=48945459
+
+The Hacker News discussion centers around a research paper titled "Time-Series Language Models for Reasoning over Multivariate Data at Scale," presented at ICML. The paper explores innovative approaches to applying language models to time-series data, aiming to enhance reasoning capabilities in handling complex, multivariate datasets.
+
+In the comments, there is a strong consensus of excitement and optimism about the project, with users expressing enthusiasm for its potential impact. Many commenters use phrases like "super cool" and "incredible team," indicating a positive reception and high expectations for future developments. Notably, the tone is overwhelmingly supportive, with no significant debate or criticism present in the discussion. Overall, the community seems eager to see how this research will evolve and contribute to the field.

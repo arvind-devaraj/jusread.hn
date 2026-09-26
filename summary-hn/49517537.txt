@@ -1,0 +1,8 @@
+Google Antigravity introduces Boost deep reasoning (/boost)  (69 pts, 50 comments)
+https://news.ycombinator.com/item?id=49517537
+
+The Hacker News discussion revolves around Google's launch of the Boost feature in its Antigravity platform, which is designed to enhance deep reasoning capabilities. The feature is only available to paid users, leading to criticism regarding Google's decision to limit access based on payment tiers. Users express frustration over the perceived neglect of the Antigravity IDE and the overall rollout of Antigravity 2.0, which many feel has not met expectations.
+
+Key points of debate include dissatisfaction with Google's handling of usage quotas, with several commenters sharing negative experiences related to inconsistent limits and retroactive changes that affected their subscriptions. There is a consensus that Google's reputation among developers has declined due to these issues, with many expressing disappointment in the usability and reliability of their AI models compared to competitors.
+
+Notable insights include a sense of skepticism about the effectiveness of the new Boost feature, with some commenters questioning whether it offers any substantial improvements over existing capabilities. Overall, the discussion reflects a broader frustration with Google's approach to its AI products and a desire for more reliable and user-friendly tools.

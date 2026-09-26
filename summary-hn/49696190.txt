@@ -1,0 +1,8 @@
+Ask HN: Are 80s high school hobby programmers overwhelmingly pro-AI?  (12 pts, 29 comments)
+https://news.ycombinator.com/item?id=49696190
+
+The Hacker News discussion titled "Ask HN: Are 80s high school hobby programmers overwhelmingly pro-AI?" explores whether individuals from this demographic view AI as a miraculous technology that should be rapidly advanced. The original poster questions the general sentiment among this group regarding AI's potential and implications.
+
+In the comments, there is a consensus that 80s hobby programmers are not overwhelmingly pro-AI. Many respondents express skepticism or caution about AI, emphasizing that while it can be a useful tool for specific tasks, it also has significant limitations. Some commenters note that younger generations tend to be more enthusiastic about AI, while older programmers often have a more critical perspective shaped by their experiences and the cultural narratives of the time, including science fiction that critiques technology's societal impact.
+
+Notable insights include the distinction between hobby programmers and executives, with some commenters highlighting that executive enthusiasm for AI does not necessarily reflect the views of engineers or hobbyists. Additionally, there is a recognition that many from this generation have a sentimental attachment to traditional programming and computing, which influences their views on the adoption of AI technologies. Overall, the discussion reveals a nuanced landscape of opinions, with a predominant caution towards AI among the 80s hobby programmer cohort.

@@ -1,0 +1,8 @@
+Security auditing in the age of (good enough) AI  (92 pts, 15 comments)
+https://news.ycombinator.com/item?id=49793957
+
+The Hacker News discussion revolves around the implications of using AI for security auditing, as highlighted in a blog post titled "Security auditing in the age of (good enough) AI." The post argues that while AI can enhance the efficiency of security audits, there are concerns about relying on "good enough" AI, particularly in a field where security is paramount.
+
+In the comments, there is a mix of agreement and debate. Some users, like suhacker256 and PostOnce, emphasize the potential of AI to improve security practices, especially for small businesses that have previously neglected security. Others, like Segv77 and AndrewKemendo, express skepticism about the idea of "good enough" security, arguing that complacency can lead to significant vulnerabilities. The discussion also touches on the need for a shift in mindset regarding security, with some commenters suggesting that organizations should assume they will eventually be compromised and focus on resilience and recovery.
+
+Notable insights include the recognition that security is a spectrum rather than a binary state, and the acknowledgment that AI can both aid defenders and empower attackers. Overall, the conversation reflects a cautious optimism about AI's role in security auditing while highlighting the critical need for rigorous standards and proactive strategies in cybersecurity.

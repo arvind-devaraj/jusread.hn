@@ -1,0 +1,8 @@
+Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users  (314 pts, 278 comments)
+https://news.ycombinator.com/item?id=49199357
+
+The Hacker News discussion revolves around OpenAI's announcement regarding improvements to the GPT-5.6 Sol model in ChatGPT and the expansion of free access to the GPT-5.6 Luna model for users. The post highlights the benefits of these updates, particularly for free users who can now utilize Luna without limits.
+
+In the comments, users express mixed opinions about the different models—Luna, Sol, and Terra. Many agree that Luna is a cost-effective option, though some find it less reliable for complex tasks compared to Sol. There is a notable debate about the quality and pricing of these models, with some users arguing that while Luna is cheaper, it lacks the depth of knowledge found in Sol. Others criticize the engagement-driven responses of the models, suggesting that they prioritize user engagement over providing direct answers.
+
+Overall, the discussion reflects a broader concern about the commoditization of AI models and the need for OpenAI to maintain a competitive edge in a rapidly evolving market. Users also share personal experiences and preferences regarding the models, indicating a diverse range of use cases and expectations.

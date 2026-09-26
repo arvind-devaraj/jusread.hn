@@ -1,0 +1,8 @@
+Ask HN: Do you say please and thank you to your LLMs?  (16 pts, 47 comments)
+https://news.ycombinator.com/item?id=48945125
+
+The Hacker News discussion revolves around the question of whether users express politeness—specifically saying "please" and "thank you"—when interacting with large language models (LLMs). The post emphasizes that this inquiry is separate from discussions about the consciousness or emotional understanding of LLMs.
+
+In the comments, there is a mix of opinions. Some users maintain that they do use polite language out of habit or to retain a sense of humanity in their interactions, while others argue that it is unnecessary since LLMs lack feelings and consciousness. A few commenters suggest that politeness might influence the quality of responses, while others caution against anthropomorphizing machines, asserting that it could lead to unhealthy relational dynamics. Notably, some users find catharsis in expressing frustration or gratitude towards LLMs, viewing it as a way to maintain their own emotional well-being.
+
+Overall, the discussion highlights a broader debate about the implications of human-like interactions with AI and the balance between maintaining politeness and recognizing the non-sentient nature of these systems.

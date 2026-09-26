@@ -1,0 +1,8 @@
+Overtraining as the path to human-like AI  (19 pts, 6 comments)
+https://news.ycombinator.com/item?id=48960118
+
+The Hacker News discussion revolves around an article titled "Overtraining as the path to human-like AI," which suggests that overtraining AI models could lead to advancements toward artificial general intelligence (AGI). The author extrapolates findings from a specific case of "grokking" in a simple model to broader implications for AGI, proposing a massive training run.
+
+In the comments, there is significant skepticism about the article's claims. One user critiques the leap from a small-scale experiment to AGI, pointing out that the dataset described as "small" is actually comparable to current large training sets. Others argue that human learning involves complex sensory integration and metaphorical understanding that current language models lack. There is also a discussion about the clarity of the goals for achieving AGI and whether recent advancements in AI models have addressed previous shortcomings.
+
+Notably, some commenters suggest that large companies may already be experimenting with unconventional ideas in AI development, indicating that the concept of "grokking" is not new in the field. Overall, the discussion highlights a mix of skepticism and curiosity regarding the potential pathways to AGI and the methodologies being explored.

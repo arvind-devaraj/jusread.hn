@@ -1,0 +1,8 @@
+Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design  (72 pts, 8 comments)
+https://news.ycombinator.com/item?id=49093232
+
+The Hacker News discussion centers around a paper titled "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design," which introduces a model aimed at automating the design process for robots, potentially leading to more efficient and customized designs compared to traditional humanoid robots. The paper suggests that if custom designs can be produced cheaply and optimized for specific tasks, the need for generalist humanoid robots may diminish.
+
+In the comments, there is a mix of agreement and debate. Some users, like esjeon, argue that automated design could reduce the appeal of humanoids by making tailored robots more viable. Others, like spwa4, delve into the societal implications of humanoid robots, suggesting that the desire for them is rooted in historical contexts of servitude and colonialism. Ben_w expands on this by discussing the broader category of domestic workers and how technology has replaced many tasks traditionally performed by them.
+
+Notable insights include concerns about the validity of the results presented in the paper, with fxtentacle questioning the feasibility of the optimization times reported. Additionally, pk-protect-ai envisions a future where robots could evolve and improve themselves, hinting at a more autonomous and self-sustaining robotic ecosystem. Overall, the discussion reflects a blend of technical skepticism and philosophical considerations regarding the role of robots in society.

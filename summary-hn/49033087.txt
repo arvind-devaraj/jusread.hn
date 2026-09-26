@@ -1,0 +1,8 @@
+Hetzner is working on LLM Inference  (139 pts, 70 comments)
+https://news.ycombinator.com/item?id=49033087
+
+The Hacker News discussion revolves around Hetzner's development of LLM (Large Language Model) inference services, as detailed in a blog post. Users express interest in Hetzner's offerings, comparing them to other providers in the EU, and discussing the implications of using older hardware versus newer, more expensive options.
+
+In the comments, there is a mix of agreement and debate regarding the quality of customer support from Hetzner, with some users appreciating its directness while others find it intimidating. Comparisons are made to competitors like Infomaniak, Scaleway, and OVH, with users sharing experiences and frustrations regarding their services. A notable point of contention is Hetzner's use of older server hardware, which some argue is a drawback, while others believe it offers a favorable price-to-performance ratio for certain workloads.
+
+Overall, the discussion highlights a growing interest in EU-based LLM inference solutions, the varying levels of customer support across providers, and the trade-offs between cost and hardware performance in the cloud hosting market.

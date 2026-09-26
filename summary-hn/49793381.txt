@@ -1,0 +1,8 @@
+Ask HN: Why does it matter if no one reads your novel as long as the AIs do?  (10 pts, 27 comments)
+https://news.ycombinator.com/item?id=49793381
+
+The Hacker News discussion revolves around the idea that AI could consume and surface content created by authors, even if no humans read it directly. The original post suggests a potential future where creators are compensated for their work through AI consumption, leading to a creator-only economy. The author questions whether this model could be viable for various forms of content, not just novels.
+
+In the comments, there is significant debate about the value of human readership versus AI consumption. Some users argue that authors write primarily for human engagement and that financial compensation alone does not fulfill the creative purpose. Others point out that certain fields, like mathematics, may accept limited readership, but this doesn't translate well to creative writing. There are also concerns about who would pay for AI consumption and how the quality of writing would be assessed in such a model.
+
+Notable insights include the idea that while AI can assist in content consumption, it should not replace the human connection that authors seek with their readers. Many commenters emphasize that the intrinsic value of writing lies in its impact on human audiences, not just in potential financial gain from AI interactions.

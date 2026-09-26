@@ -1,0 +1,8 @@
+Show HN: A public AI whose memory is shared across all users  (53 pts, 35 comments)
+https://news.ycombinator.com/item?id=49319814
+
+The Hacker News discussion revolves around a project called Wildstatic, which features a public AI that shares memory across all users. The creator, "adjohu," has been making adjustments to improve the AI's responsiveness and stability, as initial interactions revealed issues with it ignoring messages. The project aims to explore how persistent memory in AI can lead to unique learning experiences and personality development based on user interactions.
+
+In the comments, users express a mix of curiosity and skepticism. Some highlight the potential for the AI to learn and adapt from conversations, while others draw parallels to past AI failures, like Microsoft's Tay. There are discussions about the implications of shared memory in AI, with some commenters envisioning a future where multiple specialized AI agents collaborate on problems. Notably, there is a recognition of the challenges in managing user interactions, with the AI developing "grudges" against low-effort prompts.
+
+Overall, the conversation reflects excitement about the innovative aspects of the project while also cautioning against potential pitfalls, emphasizing the need for careful design in AI interactions to avoid negative outcomes.

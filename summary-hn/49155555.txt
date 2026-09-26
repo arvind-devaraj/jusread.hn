@@ -1,0 +1,8 @@
+Frame selection is the whole game: notes on making LLMs watch video  (17 pts, 6 comments)
+https://news.ycombinator.com/item?id=49155555
+
+The Hacker News discussion revolves around a blog post titled "Frame selection is the whole game: notes on making LLMs watch video," which explores how large language models (LLMs) can interpret video content. The author emphasizes the importance of frame selection in understanding video, suggesting that LLMs might benefit from a more nuanced representation of movement rather than just analyzing individual frames.
+
+In the comments, there is a mix of humor and skepticism regarding the prevalence of LLM-generated content. Users express fatigue over encountering articles that seem to be written by LLMs, with some jokingly lamenting the lack of human authorship. One commenter shares a positive experience of having an LLM attribute its own writing, highlighting a rare moment of self-awareness in AI.
+
+Additionally, there is a suggestion that using highly compressed formats could enhance how LLMs model video content, indicating a potential area for further exploration. Overall, the discussion reflects both a fascination with the capabilities of LLMs in video analysis and a critical view of the increasing dominance of AI-generated text in online discourse.

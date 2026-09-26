@@ -1,0 +1,8 @@
+Show HN: JevBench, a reproducible benchmark for typed decision models  (134 pts, 35 comments)
+https://news.ycombinator.com/item?id=49800574
+
+The Hacker News discussion revolves around JevBench, a benchmarking tool for evaluating typed decision models, particularly Jev, which claims to be faster and cheaper than large language models (LLMs) while maintaining similar intelligence. The benchmark assesses models based on accuracy, latency, and cost, with Jev currently leading the leaderboard. The post includes links to demos and the project's GitHub repository.
+
+In the comments, users express a mix of skepticism and interest. Some highlight the challenges of benchmarking in the SaaS industry, noting that many vendors prohibit public comparisons to control narratives about their products. Others question the reliability of Jev's benchmarks, suggesting that they may not adequately represent the model's capabilities. Notably, there are concerns about the accuracy of Jev's classifiers, with users sharing experiences of the model misclassifying inputs.
+
+Overall, the discussion reflects a broader debate about the validity of AI benchmarks, the transparency of model performance, and the implications of proprietary restrictions in the AI space. Users emphasize the importance of independent verification and express caution regarding claims made by companies about their models' superiority.

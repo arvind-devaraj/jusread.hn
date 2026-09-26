@@ -1,0 +1,8 @@
+Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces  (36 pts, 13 comments)
+https://news.ycombinator.com/item?id=49360140
+
+The Hacker News discussion revolves around a paper titled "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces," which critiques the tendency to interpret intermediate outputs from language models (LLMs) as evidence of reasoning or thought processes. The author argues that such interpretations are misleading since LLMs lack internal states and their outputs are merely probabilistic responses rather than genuine insights.
+
+In the comments, there is a debate about the utility of these intermediate tokens, with some users suggesting that terms like "aha" can serve as rhetorical devices to draw attention to important insights. Others argue that these tokens do not represent reasoning but rather noise, and that anthropomorphizing LLMs can lead to misuse and misunderstanding of their capabilities. A few commenters note that monitoring these outputs can help catch errors early, while others emphasize that only the final conclusions of LLMs should be considered relevant.
+
+Notable opinions include a strong call to discourage anthropomorphization to avoid perpetuating bad practices, and a critique of the paper's prescriptive title, with some users expressing frustration over being told how to interpret LLM outputs. Overall, the discussion highlights a tension between recognizing the potential utility of intermediate outputs and cautioning against misinterpretation of LLM behavior.

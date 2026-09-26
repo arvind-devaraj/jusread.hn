@@ -1,0 +1,8 @@
+Show HN: Bullshit Detector – agent skills that fact-check videos and articles  (55 pts, 60 comments)
+https://news.ycombinator.com/item?id=49096917
+
+The Hacker News discussion revolves around a project called "Bullshit Detector," which aims to provide AI skills that fact-check videos and articles by analyzing claims and comparing them against various sources. The creator, Serhii Korniienko, explains that the tool is designed to break down content into claims and perform extensive web searches to verify them, rather than being a simple browser extension.
+
+In the comments, users express a mix of enthusiasm and skepticism. Some suggest that the tool could benefit from being a browser extension for easier access, while others raise concerns about how the tool determines the credibility of sources and reconciles conflicting information. There is a notable debate about the reliability of various news sources and the challenges of discerning truth in a landscape filled with misinformation. Several commenters propose using empirical sources and multiple AI models to cross-verify claims, highlighting the complexities of establishing a "ground truth."
+
+Overall, the discussion reflects a shared interest in combating misinformation, with participants offering insights on improving the tool's methodology and addressing the inherent challenges of fact-checking in a digital age.

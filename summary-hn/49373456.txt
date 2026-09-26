@@ -1,0 +1,6 @@
+Show HN: I trained a 125M model to autocomplete piano on-device  (383 pts, 79 comments)
+https://news.ycombinator.com/item?id=49373456
+
+The Hacker News discussion revolves around a project where the creator trained a 125M-parameter transformer model to autocomplete piano performances in real-time on an iPhone 15. The model functions similarly to coding tools like GitHub Copilot, but instead of code, it generates music based on a few notes played on a MIDI piano. The app is available for free, and the creator is open to questions about the model and its training process.
+
+Commenters generally express excitement about the project, with many suggesting areas for improvement, particularly in rhythm and composition. Some users propose features like generating multi-part accompaniments or enhancing the model's ability to respond to a player's style. There is a consensus that while the current implementation is impressive, there is significant potential for further development, such as optimizing for quality over speed or incorporating more nuanced musical elements. Notable insights include the challenge of creating meaningful musical accompaniment and the comparison to earlier music generation projects, highlighting the evolution of AI in music.

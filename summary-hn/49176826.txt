@@ -1,0 +1,8 @@
+White House excludes open models from framework to test advanced AI capabilities  (21 pts, 5 comments)
+https://news.ycombinator.com/item?id=49176826
+
+The Hacker News discussion revolves around a recent Axios article reporting that the White House has excluded open AI models from a new framework designed to test advanced AI capabilities. The article suggests that this exclusion may primarily affect non-U.S. open weight models, particularly those from China, aligning with anti-globalist sentiments and lobbying efforts from companies like Anthropic and OpenAI.
+
+In the comments, there is a debate about the clarity and credibility of the Axios article. One commenter points out that the article may only apply to U.S.-based closed models, while another criticizes Axios for its perceived lack of journalistic integrity. There is also a call for verification of the claims made in the article, as the details of the framework are not publicly accessible.
+
+Overall, the discussion highlights concerns about transparency in government regulations on AI, the potential implications for international competition, and skepticism regarding the reliability of media sources reporting on such significant topics.

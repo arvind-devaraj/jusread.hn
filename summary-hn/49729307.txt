@@ -1,0 +1,8 @@
+Backflip: Apple now wants to train AI models with user data after all  (28 pts, 5 comments)
+https://news.ycombinator.com/item?id=49729307
+
+The Hacker News discussion revolves around a recent article reporting that Apple has changed its stance and now intends to train AI models using user data. This shift raises concerns about privacy and data consent among users.
+
+In the comments, there is a mix of frustration and resignation regarding the site's cookie consent policy, which some users found confusing. A few commenters noted that the site clearly states that using it without payment means user data will be sold, with no option to opt-out. Others expressed a desire for an archived version of the article to avoid the consent issues.
+
+Notably, the conversation highlights a broader sentiment about data privacy, with users feeling cornered by consent options that offer little real choice, akin to Microsoft's approach. Overall, the discussion reflects a growing unease about how tech companies handle user data, especially in the context of AI development.

@@ -1,0 +1,8 @@
+Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots  (275 pts, 104 comments)
+https://news.ycombinator.com/item?id=49246804
+
+The Hacker News discussion revolves around the release of Needle 2, a compact 14MB agentic language model (LLM) designed for use in mobile devices, wearables, smart homes, and small robots. Developed by Cactus Compute, Needle 2 is optimized for low-resource environments, boasting impressive performance metrics such as 500 tokens/sec on a Raspberry Pi 5 and efficient power consumption compared to larger models. The model focuses on structured extraction and tool calling, allowing it to perform specific tasks with minimal parameters.
+
+In the comments, users express curiosity about the model's capabilities given its small size, with some questioning how much world knowledge it can retain. There is a consensus that while Needle 2 excels in structured environments, its limited parameter count may restrict its performance in more complex scenarios. Discussions also touch on the importance of confidence scores in the model's responses, with some users suggesting that the model's outputs should be calibrated to avoid confusion in user interactions.
+
+Notable insights include the recognition of Needle 2's potential for edge AI applications, particularly in robotics and IoT devices, and the suggestion that combining it with existing technologies like Home Assistant could enhance its utility. Overall, the discussion highlights both excitement for the model's capabilities and caution regarding its limitations in broader applications.

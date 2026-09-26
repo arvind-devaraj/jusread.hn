@@ -1,0 +1,6 @@
+Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models  (28 pts, 7 comments)
+https://news.ycombinator.com/item?id=49026810
+
+The Hacker News discussion revolves around a project called Echo, which aims to enhance AI performance by utilizing a pool of open-weight models instead of relying on a single model for various tasks. The creator of Echo conducted experiments with multiple models, demonstrating that a hypothetical system that intelligently combines model outputs could outperform individual models. Echo attempts to replicate this advantage by dynamically allocating computation and selecting models for each request, achieving results comparable to a leading system (Fable) at a significantly lower cost.
+
+In the comments, there is some skepticism regarding the lack of detailed benchmarks and transparency about the models used in Echo. Some users express concerns about the system's readiness and privacy policies, while others note that the concept of combining models has been explored in other contexts, suggesting potential for this approach. Notably, some commenters draw parallels to existing systems and express cautious optimism about the future of such multi-model strategies in AI.

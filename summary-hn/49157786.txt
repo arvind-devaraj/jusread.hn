@@ -1,0 +1,8 @@
+What's the largest software project AI can complete on its own?  (52 pts, 57 comments)
+https://news.ycombinator.com/item?id=49157786
+
+The Hacker News discussion revolves around the potential of AI to independently complete large software projects, as explored in a linked paper. Users share their experiences and challenges when using AI for software development, particularly in creating programming languages and other applications. 
+
+A key point of debate is whether AI-generated code can be as safe or reliable as human-written code. Some commenters argue that while AI can excel at small tasks, it often struggles with larger architectural decisions, leading to inconsistent or unusable outputs. Others express skepticism about the quality of AI-generated code, noting that it can result in messy, duplicated, or poorly structured projects that require significant human intervention for maintenance and refactoring.
+
+Notable insights include the idea that AI can be effective for specific tasks but often needs guidance to avoid pitfalls, such as creating redundant code or failing to recognize when larger changes are necessary. Several participants emphasize the importance of human oversight in AI-driven projects, suggesting that while AI can assist in coding, it is not yet capable of fully autonomous software development without human input.

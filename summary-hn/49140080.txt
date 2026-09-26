@@ -1,0 +1,8 @@
+Persistent State Machines: LLM Attention with INT4 In-Memory Cells  (10 pts, 5 comments)
+https://news.ycombinator.com/item?id=49140080
+
+The Hacker News discussion revolves around a paper titled "Persistent State Machines: LLM Attention with INT4 In-Memory Cells," which appears to present a novel approach to machine learning and AI. However, the reception of the paper is largely negative, with several commenters labeling it as "buzzword salad" and questioning the credibility of the author, who is described as an administrative scrivener and independent researcher without a strong background in computer science or mathematics.
+
+The main points of debate in the comments focus on the perceived lack of rigor and credibility in the paper. Commenters express skepticism about the author's qualifications and the absence of peer review, suggesting that these factors contribute to the paper's questionable value. One user seeks clarification on what constitutes "AI slop," prompting another to outline specific indicators, such as the author's background and the platform of publication (Zenodo), which is often associated with less rigorous research.
+
+Overall, the discussion highlights a broader concern within the tech community regarding the proliferation of low-quality AI research and the importance of credibility and peer review in academic work.

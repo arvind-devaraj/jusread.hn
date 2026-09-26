@@ -1,0 +1,8 @@
+OpenAI’s amazing — but vastly oversold — new model Astra  (24 pts, 9 comments)
+https://news.ycombinator.com/item?id=49148959
+
+The Hacker News discussion revolves around Gary Marcus's critique of OpenAI's new model, Astra, which he argues is being oversold in terms of its capabilities. He suggests that the perceived advancements in the model's intelligence may not be as significant as claimed, attributing improvements to verification tools rather than genuine enhancements in the underlying models.
+
+In the comments, there is a mix of agreement and debate. Some users express skepticism about the hype surrounding Astra, while others defend the model's potential, arguing that it excels in specific areas like math and language. A recurring theme is the distinction between general intelligence and the specific capabilities of AI models, with some commenters questioning the relevance of traditional intelligence theories in this context. Notably, there are critiques of Marcus's arguments as overly pessimistic or misaligned with the actual advancements in AI.
+
+Overall, the discussion highlights a divide between those who view Astra as a significant step forward and those who believe it is merely an incremental improvement, with varying opinions on the implications for AI's future development.

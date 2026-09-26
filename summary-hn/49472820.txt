@@ -1,0 +1,8 @@
+Terminal-Bench-Science: Evaluating AI agents on scientific research workflows  (108 pts, 34 comments)
+https://news.ycombinator.com/item?id=49472820
+
+The Hacker News discussion revolves around the announcement of "Terminal-Bench-Science," a benchmarking framework designed to evaluate AI agents on scientific research workflows. The framework aims to provide more relevant assessments than traditional benchmarks, which often focus on toy tasks rather than real-world applications in scientific research.
+
+In the comments, users express a mix of agreement and debate regarding the effectiveness of different AI models, such as GPT Sol, Opus, and Claude, in handling scientific tasks. Some users praise GPT Sol for its performance in mathematical sciences, while others note that Opus 5 outperforms Fable 5 in scientific contexts, despite personal experiences suggesting otherwise. There is also concern about the reliability of these models in following complex instructions and producing correct outputs, with some users emphasizing the importance of correctness in scientific applications.
+
+Notable insights include a recognition of the need for AI to improve scientific workflows and the potential for future advancements in self-improvement across various scientific disciplines. However, there is skepticism about the current capabilities of AI models, with some commenters warning against relying on them for critical scientific tasks due to issues with instruction adherence and correctness. Overall, the discussion highlights both excitement and caution regarding the integration of AI into scientific research.

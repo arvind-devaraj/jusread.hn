@@ -1,0 +1,8 @@
+Ask HN: Any Software Engineers here who enjoy their AI-native dev workflow?  (11 pts, 10 comments)
+https://news.ycombinator.com/item?id=49586386
+
+The Hacker News discussion titled "Ask HN: Any Software Engineers here who enjoy their AI-native dev workflow?" invites software engineers to share their experiences with integrating AI into their development processes. The original poster seeks insights specifically from those actively employed in software development, rather than hobbyists or managers.
+
+In the comments, several themes emerge. Many engineers express that while AI has improved their productivity by automating mundane tasks, it has also shifted their sense of fulfillment. Some, like tonytamps and pkos98, note that they find more joy in solving personal problems rather than those related to their jobs, as AI takes over routine coding tasks. Others, such as TomEleff, emphasize the importance of retaining control over core ideas and architecture, using AI more as a tool for execution rather than a replacement for critical thinking. There is a general consensus that the enjoyment of coding can diminish when the craft becomes overly automated, with some commenters feeling detached from their work.
+
+Notably, conqrr compares the experience of coding with AI to flipping burgers, suggesting that while some tasks may be enjoyable without pressure, the joy of craftsmanship can be lost in a highly automated environment. Overall, the discussion reflects a mix of appreciation for AI's efficiency and concern about the potential loss of job satisfaction and creative engagement in software development.

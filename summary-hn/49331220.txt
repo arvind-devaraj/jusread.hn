@@ -1,0 +1,8 @@
+How to disable or avoid intrusive AI  (163 pts, 69 comments)
+https://news.ycombinator.com/item?id=49331220
+
+The Hacker News discussion revolves around a guide on how to disable or avoid intrusive AI features in various applications. The original post highlights the frustration many users feel about unwanted AI integrations that clutter interfaces and detract from user experience.
+
+In the comments, there is a lively debate about whether the market for AI is irrational or if companies are simply responding to unseen consumer demands. Some users argue that while many dislike intrusive AI features, they feel compelled to use them due to their prevalence. Others contend that a significant portion of the user base appreciates AI tools when they can choose to engage with them on their own terms. Notably, some commenters express concern that companies are prioritizing investor interests over genuine user needs, leading to the proliferation of unwanted features.
+
+Several practical suggestions for disabling or mitigating AI features are shared, including browser extensions and alternative search engines. Overall, the discussion reflects a broader tension between corporate strategies and consumer preferences, with many users feeling overwhelmed by AI's encroachment into their digital lives.

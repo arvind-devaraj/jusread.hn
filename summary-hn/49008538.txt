@@ -1,0 +1,8 @@
+Can a MUD evaluate LLMs? A $99 proof of concept  (102 pts, 70 comments)
+https://news.ycombinator.com/item?id=49008538
+
+The Hacker News discussion centers around a proof-of-concept experiment conducted by the author and friends to evaluate large language models (LLMs) using a MUD (multi-user dungeon), a type of text-based game. They spent approximately $99 on API credits to score various LLMs across four behavioral dimensions, discovering that the reliability of LLM judges can vary significantly. Their findings highlighted inconsistencies in model evaluations, suggesting that biases may exist but are not definitively proven. The authors emphasize that this is a preliminary study and are seeking feedback as they plan a more robust Phase 2.
+
+In the comments, there is a mix of nostalgia for MUDs and discussions about their evolution and relevance in the current gaming landscape. Some commenters lament the decline of text-based role-playing games in favor of more visually oriented platforms like Discord, while others express hope for the integration of modern AI technologies into MUDs. Notably, there are differing opinions on the role of narrative versus gameplay mechanics in MUDs, with some arguing that the text-based nature is essential for creativity, while others believe that players are more interested in gameplay progression.
+
+Overall, the discussion reflects a broader interest in reviving MUDs and exploring their potential with contemporary AI, alongside a recognition of the challenges posed by changing player preferences and attention spans.

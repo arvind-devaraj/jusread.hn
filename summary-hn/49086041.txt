@@ -1,0 +1,8 @@
+"Uncensored" open LLMs are measurably more optimistic than their base models  (19 pts, 6 comments)
+https://news.ycombinator.com/item?id=49086041
+
+The Hacker News discussion revolves around a research paper titled "Uncensored" open LLMs are measurably more optimistic than their base models. The paper explores how uncensored language models exhibit a more optimistic tone compared to their original, uncensored versions. The author, who is not a native English speaker, used AI to refine the writing but asserts that the research and analysis are entirely their own and available in a linked repository.
+
+In the comments, there is a general consensus that the findings are not surprising, with one user suggesting that caution in language models stems from shame and anxiety. Another commenter humorously speculates that the paper might have been written by Claude, a reference to another AI model. There is also a discussion about the title of the paper, with some suggesting that the original title was clearer and more descriptive, while the author opted for a shorter title to attract more readers.
+
+Overall, the discussion highlights the ongoing interest in the behavior of language models and the nuances of their outputs, as well as the challenges of effectively communicating research findings.

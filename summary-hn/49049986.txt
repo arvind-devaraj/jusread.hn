@@ -1,0 +1,6 @@
+Ask HN: What do you do when your AI agents are working?  (10 pts, 8 comments)
+https://news.ycombinator.com/item?id=49049986
+
+The Hacker News discussion revolves around the challenges faced by developers when their AI agents are actively working, leading to increased downtime and distractions. The original poster expresses a struggle with managing this waiting time, often resorting to distractions like YouTube or Hacker News, and seeks advice on maintaining focus during these periods.
+
+In the comments, there are two main strategies discussed. One approach is to orchestrate multiple AI agents across different projects to minimize downtime, though some users find this leads to overwhelming context switching. Another common strategy is to engage in parallel workstreams, allowing for asynchronous tasks that keep productivity flowing while waiting for AI outputs. Notable insights include the importance of balancing manual work with AI assistance and the need for effective task management to handle simultaneous agent outputs without losing context. Overall, the discussion highlights a shared experience among developers navigating the complexities of integrating AI into their workflows.

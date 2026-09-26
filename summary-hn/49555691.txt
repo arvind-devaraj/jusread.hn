@@ -1,0 +1,8 @@
+OpenAI's GPT-6 Astra on ARC-AGI-3  (69 pts, 32 comments)
+https://news.ycombinator.com/item?id=49555691
+
+The Hacker News discussion revolves around OpenAI's GPT-6 Astra and its performance on the ARC-AGI-3 benchmark, which measures AI capabilities. The post highlights a cost/score curve that suggests higher reasoning quality can lead to fewer overall turns taken, prompting a debate about the implications of this finding for AI efficiency and the nature of intelligence.
+
+In the comments, users discuss the economic analogy of investing in higher quality solutions to reduce long-term costs, with some questioning the validity of using human performance as a benchmark for AI. There is a notable debate about the definition of AGI (Artificial General Intelligence) and whether current AI can truly be considered intelligent, with some arguing that the goalposts for defining AGI are continually shifting. Others express skepticism about the relevance of the tests used to measure intelligence, suggesting they may not accurately reflect true cognitive abilities.
+
+Overall, the discussion reveals a mix of curiosity and skepticism about AI's capabilities, the metrics used to evaluate them, and the philosophical implications of defining intelligence in both machines and humans.

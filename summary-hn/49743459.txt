@@ -1,0 +1,8 @@
+Show HN: Craigslist for agent skills, curated by a human  (17 pts, 14 comments)
+https://news.ycombinator.com/item?id=49743459
+
+The Hacker News discussion revolves around a new platform called SkillBay, created by Nick, which aims to connect users with curated paid skills for various tasks, particularly in the realm of AI. Nick's motivation stems from his experience using AI for tasks like redlining contracts and generating videos, and he believes others might benefit from purchasing expertise to enhance their efficiency.
+
+In the comments, there is a mix of skepticism and curiosity. Some users question the value of buying skills when similar outputs can be generated for free using AI tools. Others suggest that while the Hacker News audience may not be the target market, there are non-technical users willing to pay for convenience. A few commenters express concerns about the platform's lack of a competitive edge and the potential oversaturation of skills, while others speculate that influencer branding might play a role in skill popularity.
+
+Notable insights include the recognition that as skills become more complex, there may still be a market for curated expertise, even if it seems counterintuitive to some in the tech-savvy community. Additionally, there is a consensus that domain-specific knowledge is often lacking in AI-generated content, which could justify the need for human-curated skills.

@@ -1,0 +1,8 @@
+How Organizations Use AI: Evidence from ChatGPT [pdf]  (102 pts, 55 comments)
+https://news.ycombinator.com/item?id=49290768
+
+The Hacker News discussion centers around a paper titled "How Organizations Use AI: Evidence from ChatGPT," which is a study on the adoption and implementation of AI technologies in organizations. While the paper is 69 pages long, many commenters note that the main text is only 23 pages, with the rest consisting of images, tables, and references. There is a general sentiment that the paper lacks meaningful analysis and is poorly structured, with figures placed at the end, making it difficult for readers to engage with the data effectively.
+
+In the comments, there is a debate about the paper's formatting and structure, with some users criticizing it for being a "data dump" and lacking clear navigation. Others defend its typical academic style, arguing that it adheres to conventions in social sciences. Additionally, some commenters express skepticism about the increasing number of articles promoting AI's benefits, suggesting a marketing push to bolster public perception before potential downturns in the technology's hype.
+
+Notable insights include concerns about the impact of technology on education, particularly in underprivileged areas, and the disparity in educational quality between affluent and less affluent schools. Overall, the discussion reflects a mix of critique and defense of academic standards, as well as broader societal implications of AI adoption.

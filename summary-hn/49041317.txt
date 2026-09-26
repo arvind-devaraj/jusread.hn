@@ -1,0 +1,8 @@
+Show HN: Open-weight OCR got so cheap I had to share it  (14 pts, 5 comments)
+https://news.ycombinator.com/item?id=49041317
+
+The Hacker News discussion revolves around a post titled "Show HN: Open-weight OCR got so cheap I had to share it," where the author shares their experience of setting up a low-cost OCR (Optical Character Recognition) service using PaddleOCR-VL-1.6. Initially, the author did not intend to create a product but was surprised by the affordability of serving the model, costing only about $1 per 1,000 pages, which is significantly cheaper than competitors.
+
+In the comments, there is a mix of skepticism and critique. Some users question the effectiveness of the OCR for handwritten text, while others point out that despite the emphasis on being "open," there is a lack of documentation for self-hosting, suggesting it functions similarly to a closed-source SaaS. Additionally, some commenters highlight that the service is essentially monetizing an open-source model without offering substantial transparency.
+
+Overall, the discussion reflects a blend of excitement about the low-cost OCR solution and concerns regarding its openness and the potential commercialization of open-source technology.

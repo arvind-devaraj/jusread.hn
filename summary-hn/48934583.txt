@@ -1,0 +1,6 @@
+Show HN: AI Law Tracker – one audited API for US, EU and global AI law  (20 pts, 12 comments)
+https://news.ycombinator.com/item?id=48934583
+
+The Hacker News discussion revolves around the launch of the AI Law Tracker, an API designed to consolidate and track AI-related laws across various jurisdictions, including all 50 US states, DC, the EU, and other global areas. The creator, asm28208, noted the increasing complexity of tracking AI regulations manually, especially with recent changes like the EU's Digital Omnibus affecting the AI Act.
+
+Commenters expressed mixed feelings about the project. Some praised the concept but criticized the website's design, referring to it as "vibe coded," which raised concerns about its professionalism and reliability. Questions were raised about the verification process for the laws listed, with some commenters emphasizing the importance of accountability and the need for a reputable source behind the claims. Others highlighted the challenges of using AI for legal advice, pointing out that legal nuances often require expert interpretation that automated systems may not adequately provide. Overall, while the idea of a centralized AI law tracker is seen as valuable, there are significant concerns regarding its execution and trustworthiness.

@@ -1,0 +1,8 @@
+My agent.md to improve LLM-assisted code quality  (390 pts, 3 comments)
+https://news.ycombinator.com/item?id=49410932
+
+The Hacker News discussion revolves around a post titled "My agent.md to improve LLM-assisted code quality," which outlines guidelines for using language models (LLMs) to enhance the quality of generated code. The author shares strategies aimed at making the code more readable, maintainable, and efficient.
+
+In the comments, there is a consensus on the importance of enforcing coding standards, with one user suggesting that linting should be used to ensure consistent practices, such as always using braces for conditional statements and keeping function names concise. Another commenter expresses a contrasting opinion, stating they prefer to manually review code and add comments themselves, arguing that LLM-generated comments can lead to confusion and reduce code readability. Additionally, a third commenter highlights the effectiveness of using Simplified Technical English to minimize verbosity in code.
+
+Overall, the discussion reflects a balance between leveraging LLMs for code generation and maintaining human oversight to ensure clarity and quality in programming practices.

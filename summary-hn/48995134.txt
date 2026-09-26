@@ -1,0 +1,8 @@
+I built a page that tells you what AI model your laptop can run  (35 pts, 26 comments)
+https://news.ycombinator.com/item?id=48995134
+
+The Hacker News discussion centers around a newly created webpage that helps users determine which AI models their laptops can run based on hardware specifications. The creator, who is not a software developer, shared the tool for personal use and is interested in seeing a more refined version from experienced developers.
+
+In the comments, users express mixed experiences with the tool's accuracy. Some report that it correctly identifies their laptop's capabilities, while others highlight significant discrepancies, such as incorrect RAM and GPU detection. There is a debate about the reliability of the auto-detection feature, with some users suggesting that browser fingerprinting may affect results. Additionally, several commenters recommend alternative tools for checking hardware compatibility with AI models, indicating that the current model suggestions may be outdated.
+
+Notable insights include a desire for users to be able to manually correct detected specifications and a call for the tool to be updated as AI models evolve. Overall, while the tool shows promise, it currently faces challenges in accuracy and user experience.

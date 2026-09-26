@@ -1,0 +1,6 @@
+Show HN: Hacker News with AI stories filtered out  (29 pts, 6 comments)
+https://news.ycombinator.com/item?id=49159018
+
+The post introduces a website called hcker.news, which filters out AI-related stories from Hacker News to address user fatigue with the abundance of AI content. The filtering process involves three steps: automatic removal of known AI keywords and domains, a review by an agent to eliminate remaining AI articles, and manual checks for uncertain cases. Users can also exclude GitHub repositories that show signs of AI authorship based on specific criteria.
+
+In the comments, users discuss various approaches to filtering AI content. One commenter mentions creating a browser extension that hides AI-related stories client-side, while another highlights the challenge of maintaining an up-to-date filter list. There is a consensus that while different methods have their pros and cons, a more comprehensive filtering system can effectively catch nuanced AI discussions that may not explicitly mention AI in their titles. Overall, the discussion reflects a shared desire for a more focused Hacker News experience, free from overwhelming AI news.

@@ -1,0 +1,8 @@
+Chat-based Large Language Models replicate the mechanisms of a psychic's con  (148 pts, 234 comments)
+https://news.ycombinator.com/item?id=49775104
+
+The Hacker News discussion revolves around an article that compares the mechanisms of chat-based large language models (LLMs) to the techniques used by psychics to create the illusion of insight or knowledge. The post raises questions about the nature of AI contributions in complex problem-solving, particularly in the context of recent mathematical breakthroughs.
+
+In the comments, there is a lively debate about the extent to which LLMs can operate independently versus relying on human guidance. Some commenters argue that while LLMs have shown impressive capabilities, they still require human mathematicians to steer and refine their outputs. Others contend that recent achievements, such as solving the Navier-Stokes problem, were accomplished by the AI without significant human intervention. This leads to discussions about the credit given to tools versus the people using them, and whether humans enhance or hinder AI performance.
+
+Notable insights include the recognition of the need for skepticism regarding both AI's capabilities and the motivations of those developing it. Some commenters express concern about the proprietary nature of these tools and the potential biases of their creators, while others highlight the importance of maintaining a balanced skepticism to avoid ignorance. Overall, the conversation reflects a mix of admiration for AI's potential and caution about its implications.

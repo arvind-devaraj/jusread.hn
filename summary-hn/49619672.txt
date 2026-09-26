@@ -1,0 +1,8 @@
+ex-OpenAI Researcher Quits Anthropic over AI Safety Fears  (16 pts, 5 comments)
+https://news.ycombinator.com/item?id=49619672
+
+The Hacker News discussion revolves around an ex-OpenAI researcher's resignation from Anthropic due to concerns about AI safety, specifically fears of uncontrolled AI potentially leading to catastrophic outcomes. The article highlights the growing anxiety within the AI community regarding the risks associated with advanced AI technologies.
+
+In the comments, there is a mix of skepticism and concern. Some users question the credibility of the researcher, noting their junior status and limited published work, suggesting that the media may be overreacting to the situation. Others point out that the issue of AI safety is serious, referencing the Alignment Lead at Anthropic, who has indicated a significant probability of AI posing existential risks within the next decade. There are also comments reflecting a sense of envy towards the researcher’s ability to leave their job due to financial success in the AI field.
+
+Overall, the discussion captures a tension between alarmism and the genuine need for caution in AI development, with varying perspectives on the implications of the researcher's departure.

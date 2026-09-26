@@ -1,0 +1,8 @@
+Terrence Tao: AI Is Teaching Us Something Uncomfortable About Our Own Minds [video]  (16 pts, 6 comments)
+https://news.ycombinator.com/item?id=49680084
+
+The Hacker News discussion revolves around a video featuring mathematician Terrence Tao, who explores the implications of artificial intelligence (AI) on our understanding of human cognition. The central theme is the discomfort that arises as AI systems, particularly large language models (LLMs), challenge traditional notions of intelligence and problem-solving.
+
+In the comments, there is a debate about the framing of LLMs as "next token predictors." Some users argue that this description is overly simplistic and fails to capture the complexity of what these models can do, suggesting that they possess a form of intelligence that allows them to solve problems beyond mere statistical pattern matching. Others express skepticism about the extent to which LLMs can genuinely understand or solve problems, questioning the validity of claims that they can fix software bugs without any knowledge of the underlying code.
+
+Notable insights include the idea that LLMs are Turing complete, meaning they can compute anything that is computable, which some commenters find unsettling. Additionally, there is a discussion about the role of privacy in the context of AI and wealth distribution, highlighting the distinction between human intelligence and LLM capabilities based on the unique information humans possess. Overall, the conversation reflects a mix of fascination and concern regarding the implications of AI on human thought and society.

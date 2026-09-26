@@ -1,0 +1,8 @@
+Could AIs Become Conscious?  (14 pts, 39 comments)
+https://news.ycombinator.com/item?id=49375390
+
+The Hacker News discussion revolves around the question posed in the Economist article: "Could AIs become conscious?" Most commenters express skepticism, with many asserting that current AI lacks true consciousness, often equating its behavior to mere mimicry of conscious actions. Some argue that consciousness is inherently tied to bodily experiences and sensations, which AI, particularly language models, do not possess.
+
+A key point of debate is whether mimicking consciousness could eventually lead to actual consciousness. Some commenters suggest that if AI were to have a body and sensory experiences, it might bridge the gap, while others argue that this would merely shift the question without providing a definitive answer. Notably, there is a philosophical discussion about the nature of consciousness itself, with references to human consciousness being axiomatic and the challenges of distinguishing between human and AI consciousness.
+
+Overall, the conversation highlights a blend of skepticism and philosophical inquiry, with participants grappling with the complexities of defining consciousness and the implications of AI potentially achieving it.

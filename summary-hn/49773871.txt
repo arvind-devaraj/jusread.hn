@@ -1,0 +1,8 @@
+Show HN: AI Facial Attractiveness Model Aligned with Human Preferences  (11 pts, 6 comments)
+https://news.ycombinator.com/item?id=49773871
+
+The Hacker News discussion revolves around a project that presents an AI model designed to evaluate facial attractiveness based on human preferences. The model claims to provide ratings for individuals' attractiveness, with a user sharing their own scores alongside their partner's.
+
+In the comments, there is a mix of humor and skepticism. Some users joke about the ratings, while others question the validity of the model, pointing out that it relies on a limited sample size of only 60 people, which may not accurately represent broader human preferences. There is a consensus that the results should be taken lightly and are more for entertainment than serious scientific analysis.
+
+Notably, one commenter likens the model to a modern version of "Hot or Not," suggesting it may not lead to meaningful insights but rather serve as a novelty. Overall, the discussion highlights both the playful nature of the tool and the concerns regarding its scientific rigor.

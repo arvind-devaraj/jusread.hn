@@ -1,0 +1,8 @@
+Tell HN: Pretending not to use AI has made me a better developer  (13 pts, 5 comments)
+https://news.ycombinator.com/item?id=49157839
+
+The Hacker News discussion revolves around a developer's experience in a game-development community that discourages the use of AI, particularly for coding. The developer shares that while they initially struggled with a complex open-source toolchain, using large language models (LLMs) has significantly improved their ability to fix bugs. However, to align with the community's anti-AI stance, they resort to claiming the LLM-generated code as their own, which they believe has paradoxically enhanced their understanding of the codebase.
+
+In the comments, there is a mix of agreement and criticism. Some users acknowledge the educational benefits of explaining and reviewing code, even if it is AI-generated. Others express concern about the ethical implications of lying about authorship, arguing that it undermines trust within the community and could lead to a superficial understanding of the code. Notably, one commenter emphasizes that a true understanding comes from deep engagement with the code, rather than just a cursory knowledge.
+
+Overall, the discussion highlights a tension between leveraging AI for productivity and maintaining integrity and transparency in collaborative environments. While some see the developer's approach as a clever workaround, others caution against the potential long-term consequences of deception in professional settings.

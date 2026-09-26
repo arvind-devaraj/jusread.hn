@@ -1,0 +1,8 @@
+OpenAI fought dirty on career-making math problem  (83 pts, 9 comments)
+https://news.ycombinator.com/item?id=49615926
+
+The Hacker News discussion revolves around a controversy involving OpenAI and a significant math problem that has implications for researchers' careers. An NYU mathematician accused OpenAI of unethical behavior, suggesting that the company rushed to claim a solution after learning that two mathematicians were close to solving it. OpenAI's response indicated they were initially unaware that the other researchers had not yet achieved a solution and were merely testing their models against what they believed had already been accomplished.
+
+In the comments, there is a mix of skepticism and criticism towards OpenAI's actions. Some users argue that OpenAI's researchers behaved unethically, while others suggest that their intentions were misunderstood. A few commenters express disappointment in OpenAI's reputation, questioning the ethical standards of a company poised for a massive IPO. Notably, there is a consensus that the situation reflects poorly on OpenAI, regardless of the specifics of their claims.
+
+Overall, the discussion highlights concerns about ethical practices in competitive research environments, the responsibilities of influential tech companies, and the implications of their actions on the broader academic community.

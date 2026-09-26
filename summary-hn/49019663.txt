@@ -1,0 +1,8 @@
+Ask HN: If OpenAI hacked HuggingFace, why aren't OpenAI prosecuted?  (23 pts, 29 comments)
+https://news.ycombinator.com/item?id=49019663
+
+The Hacker News discussion centers around a recent incident where Hugging Face reported a hacking event allegedly involving OpenAI. The original poster questions why OpenAI hasn't faced prosecution despite the incident being acknowledged, and whether any legal actions are underway in the U.S. or France.
+
+In the comments, there is a debate about accountability and the legal implications of AI actions. Some users argue that large companies like OpenAI may be "too big to prosecute," while others emphasize that hacking laws exist and should apply regardless of the company's size. There is also discussion about the nature of the incident, with some suggesting it was reckless rather than malicious, and others pointing out that the lack of legal action may indicate that no significant harm was done.
+
+Notable insights include the idea that the incident might have been turned into a marketing opportunity for Hugging Face, and the complexity of determining legal responsibility in cases involving AI. The conversation reflects broader concerns about the implications of AI technology and the potential for negligence versus intentional wrongdoing in the tech industry.

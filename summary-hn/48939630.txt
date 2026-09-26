@@ -1,0 +1,8 @@
+How do you guys keep up with AI news?  (12 pts, 12 comments)
+https://news.ycombinator.com/item?id=48939630
+
+The Hacker News discussion revolves around how individuals keep up with the rapidly evolving landscape of AI news, given the overwhelming volume of updates. The original poster expresses concern about the difficulty of staying informed amidst the constant influx of information.
+
+In the comments, several users share their strategies for managing AI news. Many recommend following specific individuals or curated sources, such as Simon Willison's blog and various YouTube channels, as effective ways to stay updated without becoming overwhelmed. Some users suggest that it's not necessary to keep up with every piece of news, advocating for a more selective approach that aligns with personal interests and goals. Notably, one commenter emphasizes the importance of filtering out less significant news, suggesting that important information will eventually reach those who focus on their specific areas of interest.
+
+Overall, the discussion highlights a consensus on the challenges of staying informed in the fast-paced AI field while offering practical solutions and insights on how to navigate the information overload.

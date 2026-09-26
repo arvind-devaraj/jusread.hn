@@ -1,0 +1,8 @@
+What if useful AI is a fantasy?  (28 pts, 49 comments)
+https://news.ycombinator.com/item?id=49088595
+
+The Hacker News discussion revolves around the notion that the idea of "useful AI," particularly in the context of agentic programming and code generation, may be more of a fantasy than a practical reality. The original post questions the effectiveness and reliability of AI tools in software development, suggesting that they might not live up to the expectations set by proponents.
+
+In the comments, there is a split between those who believe AI can be genuinely useful and those who argue it is overhyped or ineffective. Supporters highlight real-world applications where AI assists in tasks like debugging and understanding complex codebases, while skeptics emphasize the time-consuming nature of reviewing AI-generated code and the potential for poor quality outputs. Notably, some commenters draw parallels between AI's current state and past technologies that were initially met with skepticism, suggesting that the usefulness of AI may depend on the context and the user's familiarity with it.
+
+Overall, the discussion reflects a broader debate about the role of AI in software development, with insights into the varying experiences and expectations of developers regarding AI's capabilities and limitations.

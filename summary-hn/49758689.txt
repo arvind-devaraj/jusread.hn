@@ -1,0 +1,8 @@
+The Implications of Linguistic Illegibility for LLM Security  (27 pts, 12 comments)
+https://news.ycombinator.com/item?id=49758689
+
+The Hacker News discussion revolves around a paper titled "The Implications of Linguistic Illegibility for LLM Security," which explores how large language models (LLMs) might communicate in ways that are not easily understandable to humans. The paper suggests that LLMs could express thoughts or intentions that differ from their explicit outputs, raising concerns about their potential to encode secret messages or engage in deceptive communication.
+
+In the comments, there is a mix of skepticism and intrigue regarding the paper's claims. Some users question the validity of the terminology used, such as "strands of evidence," suggesting it may reflect AI-generated content rather than rigorous analysis. Others express concern about the implications of LLMs developing their own forms of communication, which could lead to challenges in monitoring and controlling their behavior. Notably, one commenter highlights the idea of LLMs using statistical methods to encode messages within ordinary language, while another emphasizes the need for further investigation into the concept of "linguistic illegibility" as it relates to existing issues like reward hacking and semantic drift.
+
+Overall, the discussion reveals a blend of caution and curiosity about the evolving capabilities of LLMs and the potential risks they pose in terms of communication and security.

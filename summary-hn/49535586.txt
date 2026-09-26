@@ -1,0 +1,8 @@
+LLMs: Intelligence vs. Cost  (64 pts, 34 comments)
+https://news.ycombinator.com/item?id=49535586
+
+The Hacker News discussion revolves around a post titled "LLMs: Intelligence vs. Cost," which critiques the presentation of data comparing the costs and performance of various language models (LLMs). The article highlights the challenges of visualizing this information effectively, particularly the use of logarithmic scales in graphs, which some commenters argue can mislead viewers about the differences in model performance.
+
+In the comments, there is significant debate about the appropriateness of using logarithmic scales versus linear scales, with some users arguing that the former can obscure important differences in costs. Others express frustration over the lack of clarity in the graphs presented, suggesting that better practices, such as starting the y-axis at zero, could improve understanding. Additionally, there are discussions about the importance of considering factors like speed and hardware costs when evaluating models, with some commenters advocating for a more comprehensive approach to model selection that includes these dimensions.
+
+Notable insights include the recognition that many users prioritize speed and efficiency over cost, especially when using AI for occasional tasks. There is also a consensus that the way data is visualized can significantly impact interpretation, highlighting the need for clearer and more informative graphical representations in discussions about LLMs.

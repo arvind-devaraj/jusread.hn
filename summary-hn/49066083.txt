@@ -1,0 +1,6 @@
+Show HN: Watch 14-Byte AI "brains" attempt to solve a 2D maze (Its hard)  (23 pts, 7 comments)
+https://news.ycombinator.com/item?id=49066083
+
+The Hacker News discussion revolves around a project where the creator developed a tiny maze-solving AI model, measuring just 14 bytes in size, which achieves a 96.5% success rate on unseen mazes. The AI operates solely based on immediate local observations without access to coordinates or external memory. The creator shared their journey of experimentation, training the model across 46 phases and refining it to improve performance and reduce size.
+
+In the comments, there is a mix of curiosity and constructive feedback. Users express interest in understanding the model's inputs and suggest improvements for the interface, such as adding tooltips for better usability. One commenter recommends exploring NEAT (Neuroevolution of Augmenting Topologies) for potentially achieving even smaller models. The creator acknowledges the feedback and expresses enthusiasm for sharing more insights through a postmortem or blog post, indicating a desire to deepen their understanding of the project. Overall, the discussion highlights the challenges and excitement of working with AI in a compact form.

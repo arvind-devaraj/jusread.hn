@@ -1,0 +1,8 @@
+Show HN: RxFilm Studio–Create and edit your product videos with AI agent  (19 pts, 14 comments)
+https://news.ycombinator.com/item?id=49815095
+
+The post introduces RxFilm Studio, an AI-powered video creation and editing tool designed to simplify the process of making marketing videos for independent developers and small teams. The platform allows users to generate videos from ideas, product websites, images, or existing footage, offering features like story structure, editing, visual effects, voiceovers, and subtitles.
+
+In the comments, users express a mix of enthusiasm and skepticism. Some appreciate the tool's capabilities and potential to streamline video production, while others compare it to existing tools and question its uniqueness. There are suggestions for improving the user interface, particularly regarding the visibility of the AI agent's workflow. Notably, some users express doubts about the reliability of AI in following instructions accurately, citing past experiences with AI-generated content.
+
+Overall, the discussion highlights both excitement for the innovative approach of RxFilm Studio and concerns about the practical effectiveness of AI in video production.

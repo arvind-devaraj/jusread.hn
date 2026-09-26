@@ -1,0 +1,8 @@
+Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)  (42 pts, 8 comments)
+https://news.ycombinator.com/item?id=49758615
+
+The Hacker News discussion revolves around a paper titled "Cache-to-Cache: Direct Semantic Communication Between LLMs," which explores the idea of enabling large language models (LLMs) to communicate directly using a shared semantic representation, referred to as "Neuralese." This approach aims to enhance the efficiency of interactions between different AI agents.
+
+In the comments, there is a debate about the interpretability of Neuralese, with some users questioning whether it can be decoded into human-understandable language. Others assert that it is indeed decodable, reflecting ongoing concerns about the monitorability of AI communications. Additionally, there are discussions about the implications of using semantic representations instead of natural language, with some commenters expressing skepticism about the effectiveness of current multimodal models in interpreting images without relying on embeddings.
+
+Notable insights include the recognition that while the paper is from 2025, its concepts remain relevant and have not yet been widely adopted in production models. There is also curiosity about the potential for creating a family of models that could share and enrich their cache representations, suggesting a future direction for AI development. Overall, the conversation highlights both excitement and caution regarding the evolution of AI communication methods.

@@ -1,0 +1,8 @@
+A walk through of the DeltaNet family of linear attention variants  (262 pts, 110 comments)
+https://news.ycombinator.com/item?id=49085909
+
+The Hacker News discussion revolves around a blog post titled "A walk through of the DeltaNet family of linear attention variants," which introduces the Kimi Delta Attention (KDA) algorithm. The title suggests that readers could have come up with this algorithm themselves, which sparked a humorous and self-deprecating response from commenters who largely felt unqualified to have conceived such a complex idea.
+
+In the comments, many users expressed their confusion and frustration with the technical jargon and notation used in the post, indicating that they found it inaccessible. Some commenters noted that the phrase "you could have" is often perceived as condescending, especially when the content is not easily digestible for the average reader. Others pointed out that while the math may seem complex, it often boils down to basic operations like addition and multiplication.
+
+Notably, some users defended the rhetorical style of the title, suggesting it was meant to highlight the incremental nature of advancements in the field rather than to insult the reader's intelligence. Overall, the discussion reflects a mix of admiration for the complexity of the work, frustration with the communication style, and a recognition of the challenges faced by those outside the specialized field of linear attention algorithms.

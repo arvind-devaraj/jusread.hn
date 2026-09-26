@@ -1,0 +1,8 @@
+Can gzip be a language model?  (188 pts, 74 comments)
+https://news.ycombinator.com/item?id=49797323
+
+The Hacker News discussion revolves around the idea of whether gzip, a widely used compression algorithm, can function as a language model. The original post explores the potential of gzip to predict text continuations based on its compression capabilities, suggesting that it could serve as a "plausibility tester" for text sequences.
+
+In the comments, users engage in a lively debate about the profitability of WinRAR compared to AI companies like OpenAI, with some asserting that WinRAR is indeed profitable due to its unique market position. The conversation shifts to the merits of different compression algorithms, particularly zstd, which many users advocate for due to its efficiency and speed compared to gzip. There is also a discussion about the theoretical implications of using language models as compressors, with some commenters questioning the practicality and efficiency of such an approach.
+
+Notable insights include the recognition that while gzip is fast and effective for certain tasks, it lacks the broader narrative understanding that modern language models possess. Additionally, the conversation touches on the complexities of measuring intelligence through compression ratios, highlighting the challenges of reproducibility in benchmarks. Overall, the discussion reflects a blend of technical analysis, humor, and speculation about the future of compression and language modeling.

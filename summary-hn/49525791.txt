@@ -1,0 +1,8 @@
+There is no AI  (21 pts, 7 comments)
+https://news.ycombinator.com/item?id=49525791
+
+The blog post titled "There is no AI" by Phil Wadler, quoting Jaron Lanier, argues that the term "artificial intelligence" is misleading and does not imply the existence of a true mind or consciousness. Instead, it suggests that AI, particularly large language models, are simply advanced tools that process and generate information based on data created by humans.
+
+In the comments, there is a debate over the definition and implications of AI. Some users, like LoganDark, argue that AI has always been about knowledge and application rather than consciousness, while others, like frnz, express concern about the public perception of AI as possessing a mind. Huurtehoog highlights the conflation of AI with automation, suggesting that the terms can mean different things depending on context. Jujube3 counters the notion that AI is merely a collection of human-made components, emphasizing that AI systems are trained on data, including their own outputs.
+
+Overall, the discussion reflects a mix of philosophical and technical perspectives on what constitutes AI, with notable insights into the implications of language and perception surrounding the technology.

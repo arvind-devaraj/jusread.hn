@@ -1,0 +1,6 @@
+Embedded AI  (30 pts, 9 comments)
+https://news.ycombinator.com/item?id=49397947
+
+The Hacker News discussion revolves around the book "Embedded AI" published by No Starch Press, which focuses on integrating AI into embedded systems. Commenters express skepticism about the quality of books published post-2024, particularly due to concerns about the prevalence of AI-generated content. Some users, however, defend the publisher, noting that No Starch Press is known for its high editorial standards and that the author, David Such, has a solid reputation built over 30 years in embedded engineering.
+
+A key point of debate is the reliance on large language models (LLMs) in the book's content, with some commenters questioning whether this approach undermines the authenticity of the material. Others argue that using AI in books about AI is acceptable. Additionally, there are discussions about the value of reading a book versus using AI tools for explanations, with some suggesting that human insights are still valuable. Overall, the conversation highlights a mix of skepticism and cautious optimism about the book's potential contributions to the field.

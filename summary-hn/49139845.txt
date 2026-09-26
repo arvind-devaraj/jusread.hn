@@ -1,0 +1,6 @@
+Ask HN: I still don't understand why AI agents need "skills"  (12 pts, 12 comments)
+https://news.ycombinator.com/item?id=49139845
+
+The Hacker News discussion revolves around a user's confusion regarding the concept of "skills" in AI frameworks like Claude Code and Codex, questioning why these frameworks don't simply use well-organized Markdown documents instead. The user wonders if there are architectural benefits to the "skills" concept or if it's merely a matter of standardization and convenience.
+
+In the comments, there is a consensus that "skills" are essentially structured Markdown documents that define specific tasks for AI agents. Several commenters highlight that skills allow for better organization and easier access for AI, as they can be loaded and presented in a way that optimizes the AI's performance. Some users also discuss the marketplace for skills, noting that while anyone can create them, many buyers prefer to purchase ready-made skills for convenience. Notably, some commenters view the term "skills" as marketing jargon that adds a layer of sophistication to what is fundamentally a method of organizing information for AI use. Overall, the discussion underscores the balance between technical functionality and user-friendly terminology in AI development.

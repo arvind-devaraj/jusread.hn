@@ -1,0 +1,8 @@
+Show HN: Yap – OSS on-device voice dictation for macOS with no model to download  (66 pts, 24 comments)
+https://news.ycombinator.com/item?id=49073834
+
+The Hacker News discussion centers around an open-source macOS application called Yap, which provides on-device voice dictation without requiring any external models or internet connectivity. The app utilizes Apple's new SpeechAnalyzer and SpeechTranscriber APIs, ensuring that all processing occurs locally for enhanced privacy and speed. Users can set a hotkey to dictate text, which is then pasted into any active input field.
+
+In the comments, users express enthusiasm for Yap's privacy-focused approach compared to existing dictation tools that often rely on online processing or third-party APIs. Some users question how Yap differs from macOS's built-in dictation feature, leading to clarifications about Yap's complete lack of network calls and its open-source nature. There are also discussions about potential improvements, such as removing the Dock icon in favor of a menu bar utility and adding customizable voice commands.
+
+Overall, the conversation highlights a strong interest in privacy-centric software solutions and the potential for local AI models in future applications. Users appreciate the simplicity and efficiency of Yap, while also providing constructive feedback for further development.

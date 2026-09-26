@@ -1,0 +1,8 @@
+Elon Musk's xAI used child porn to train Grok models, lawsuit says  (19 pts, 6 comments)
+https://news.ycombinator.com/item?id=49475883
+
+The Hacker News discussion revolves around a lawsuit alleging that Elon Musk's xAI used child pornography to train its Grok AI models. This serious accusation has sparked a debate about the ethical implications of AI training data and the responsibilities of tech companies in ensuring their datasets are free from illegal content.
+
+In the comments, users express a range of opinions. Some argue that the use of uncensored models can lead to harmful outputs, while others point out that certain controversial content, like images of dead bodies or drug-making instructions, is not inherently illegal. A significant focus is on the legal and ethical responsibilities of high-profile tech leaders like Musk to ensure their companies do not engage with or utilize illegal materials, particularly child sexual abuse material (CSAM). Some commenters also highlight the disparity in legal enforcement based on wealth and power, suggesting that accountability may vary for different individuals.
+
+Overall, the discussion reflects a broader concern about the implications of AI training practices and the need for stricter oversight in the tech industry to prevent the use of harmful or illegal content.

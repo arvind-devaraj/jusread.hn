@@ -1,0 +1,8 @@
+AI by Hand  (82 pts, 9 comments)
+https://news.ycombinator.com/item?id=49300568
+
+The Hacker News discussion revolves around "AI by Hand," a research publication by By Hand Research, founded by Prof. Tom Yeh. The platform focuses on model interpretability and explainability in AI, offering subscribers access to articles and live seminars, as well as a comprehensive research library. Some users expressed confusion about navigating the site, particularly regarding subscription requirements, while others shared tips on accessing content.
+
+In the comments, there was a mix of enthusiasm and constructive feedback. Users like "megadragon9" mentioned creating similar projects that emphasize understanding AI through hands-on coding, echoing the philosophy that true understanding comes from creation. Others, like "copperx," shared personal experiences with the "by hand" teaching method, highlighting its effectiveness in learning complex topics like quantum computation.
+
+Overall, the discussion reflects a shared interest in deepening understanding of AI through practical engagement, with users exchanging resources and insights on how to approach learning in this field.

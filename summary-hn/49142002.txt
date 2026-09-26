@@ -1,0 +1,8 @@
+Show HN: Tone Generator  (10 pts, 7 comments)
+https://news.ycombinator.com/item?id=49142002
+
+The Hacker News discussion revolves around a web-based Tone Generator tool showcased in the post. Users can generate various audio tones, which can be useful for music production or sound testing.
+
+In the comments, there are a few key points of agreement and debate. One user humorously suggests that users should try coding their own tone generator like in the 1970s, while another points out a technical issue with the tool not functioning properly in Lockdown Mode on iPhones. This leads to a clarification about how Lockdown Mode affects the AudioContext feature, prompting a fix to the tool's messaging. Additionally, there’s a technical discussion about mains hum frequencies, with one user correcting a misconception about the frequency of mains hum, which is tied to the electrical system's characteristics.
+
+Overall, the discussion highlights both the utility of the Tone Generator and the technical challenges users face, along with a mix of humor and technical insights from the community.

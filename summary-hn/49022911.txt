@@ -1,0 +1,8 @@
+Show HN: Palmier Pro – Open-source macOS video editor built for AI  (56 pts, 14 comments)
+https://news.ycombinator.com/item?id=49022911
+
+The Hacker News discussion centers around the launch of Palmier Pro, an open-source macOS video editor designed to integrate AI capabilities for video editing. Co-founders Marcos and Harrison explain that the tool was initially developed to streamline the process of creating AI-generated videos, addressing the cumbersome back-and-forth between AI generation and traditional editing. Palmier Pro allows users to manage projects, import media, edit timelines, and generate various media types, all while leveraging local AI models for enhanced performance.
+
+In the comments, users express enthusiasm for the tool's potential to simplify video editing, particularly for those with large media libraries. Many appreciate the native macOS development, contrasting it with heavier Electron-based applications. There is a consensus on the need for further features, such as support for 360-degree videos and improved automation for editing long videos with multiple speakers. Some users also discuss pricing models, suggesting alternatives to subscription-based systems that could better accommodate sporadic video editing needs.
+
+Overall, the discussion highlights excitement for Palmier Pro's capabilities and a desire for user-friendly features that enhance the video editing experience, while also acknowledging the limitations of current AI technology in creative tasks.

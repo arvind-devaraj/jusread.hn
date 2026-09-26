@@ -1,0 +1,6 @@
+Show HN: How well do you use Claude Code?  (13 pts, 8 comments)
+https://news.ycombinator.com/item?id=49042653
+
+The Hacker News discussion revolves around a new tool called Promptster, created to analyze how engineers use AI coding tools like Claude and Codex. The tool provides managers with an aggregate view of code quality and team workflows, while offering personalized coaching for engineers to optimize their usage and save resources. Additionally, there's an open-source tool for individuals to test their local setups.
+
+In the comments, users discuss their experiences with AI coding tools, with some expressing that they do not use them extensively or at all. There is a general agreement on the utility of these tools for productivity, with some commenters emphasizing the importance of knowing how to use them effectively. A notable point of debate arises around the measurement of code quality, with one user questioning how this is defined within the context of the tool. Overall, the discussion highlights varying levels of engagement with AI coding tools and the potential benefits they offer to both managers and engineers.

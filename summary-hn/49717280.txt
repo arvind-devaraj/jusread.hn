@@ -1,0 +1,8 @@
+Learning to solve hard problems in RL for LLMs by never giving up  (103 pts, 6 comments)
+https://news.ycombinator.com/item?id=49717280
+
+The Hacker News discussion revolves around a post titled "Learning to solve hard problems in RL for LLMs by never giving up," which references a paper on arXiv. The post suggests that persistent models, like those developed by OpenAI, can become highly effective over time, particularly in the context of reinforcement learning (RL) for large language models (LLMs).
+
+In the comments, there is a mix of agreement and frustration. One user notes the effectiveness of persistent models, linking it to a recent incident involving OpenAI. Another user expresses concern over the quality of comments, observing that insightful contributions are often overshadowed by trivial ones, which are attributed to AI spambots. Additionally, a user shares a personal experience related to performance measurement in their application, highlighting the technical capabilities of their system. There is also a minor critique about the links provided in the post, which do not direct users to the intended resources.
+
+Overall, the discussion reflects a blend of technical insights, concerns about comment quality, and the challenges of navigating discussions in the context of AI advancements.

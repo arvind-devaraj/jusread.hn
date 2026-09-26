@@ -1,0 +1,6 @@
+Training Text-to-Image Models 3.6× Faster  (50 pts, 10 comments)
+https://news.ycombinator.com/item?id=49729816
+
+The Hacker News discussion revolves around a post by the author detailing a method to train text-to-image models 3.6 times faster and cheaper. This improvement is attributed to a reduction in attention sequence length by four times, which also suggests potential cost savings during inference, although specific figures for inference savings are not provided.
+
+In the comments, there is a mix of curiosity and technical inquiry. Users ask about the implications of the speed and cost improvements, with one commenter questioning whether the faster training also translates to lower costs. The author confirms that it does. Other discussions touch on related research papers and concepts, with some users sharing their insights on the potential for online learning and hidden state reuse in model training. There are also concerns raised about the long-term viability of small labs competing against larger companies, with the author emphasizing their focus on training efficiencies to appeal to prosumers looking for affordable solutions.

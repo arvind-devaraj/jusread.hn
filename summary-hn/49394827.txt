@@ -1,0 +1,8 @@
+Show HN: OzBrain, a shared brain for knowledge between agents and your team  (65 pts, 34 comments)
+https://news.ycombinator.com/item?id=49394827
+
+The Hacker News discussion revolves around OzBrain, a platform designed to facilitate knowledge sharing and management among AI agents and teams. The creator argues that traditional note-taking and task management tools are inadequate for the evolving landscape of agent-driven workflows. OzBrain aims to centralize agent-reasoned knowledge, ensure easy integration with various applications, and maintain an auditable record of changes, all while being user-friendly for non-technical users.
+
+In the comments, users express curiosity about the platform's functionality, comparing it to existing tools like Obsidian and gBrain. Some users appreciate the concept of a cloud-based, agent-focused knowledge system, while others question its advantages over more established solutions. Notable insights include concerns about data accuracy and organization as knowledge grows, as well as the need for a seamless way to manage and retrieve information without overwhelming users.
+
+Overall, the discussion highlights a shared interest in improving knowledge management for tech professionals and small business owners, with varying opinions on the effectiveness and uniqueness of OzBrain compared to existing tools.

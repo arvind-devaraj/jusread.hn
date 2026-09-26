@@ -1,0 +1,8 @@
+Judge relying wholly on AI in order is covered by judicial immunity, court rules  (47 pts, 47 comments)
+https://news.ycombinator.com/item?id=49331625
+
+The Hacker News discussion revolves around a court ruling that judges who rely entirely on AI for decision-making are protected by judicial immunity. This means they cannot be personally sued for their decisions, even if they delegate their judgment to an AI, raising concerns about accountability in the legal system.
+
+In the comments, participants debate the implications of this ruling, with many agreeing that while judges are immune from civil liability, they can still face impeachment or disciplinary actions. However, the consensus is that the bar for such actions is extremely high, making it difficult to hold judges accountable for poor decisions. Some commenters highlight the complexities of the appeal process, noting that it is not straightforward and requires specific grounds for appeal, which can be a barrier for many.
+
+Notable insights include the idea that the legal system's reliance on appeals rather than personal lawsuits against judges reflects broader issues of accountability and fairness. Some users express skepticism about the judicial system's integrity, suggesting that it often favors those with resources, while others point out that the use of AI in judicial decisions raises significant ethical and procedural questions. Overall, the discussion underscores the tension between technological advancements in the legal field and the principles of accountability and due process.

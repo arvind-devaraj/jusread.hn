@@ -1,0 +1,6 @@
+End-to-end infrastructure for training and inferencing open weight models  (67 pts, 13 comments)
+https://news.ycombinator.com/item?id=49570411
+
+The Hacker News discussion revolves around a new platform called AC2, which provides end-to-end infrastructure for training and inferencing open weight models. The original post includes a link to the platform's documentation, but several commenters express frustration over the lack of a visible pricing page, with some humorously referencing a quote by J.P. Morgan suggesting that if you have to ask about pricing, you likely can't afford it.
+
+In the comments, there is a mix of agreement and debate regarding the implications of the quote, with some users criticizing it as elitist and others suggesting that the demo process is a way for the company to gauge potential customers' budgets. Additionally, there is a light-hearted discussion about the term "inferencing," with some commenters questioning its legitimacy and others pointing out that language evolves over time. Overall, the conversation reflects a blend of curiosity about the platform's offerings and skepticism about its pricing transparency.

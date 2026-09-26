@@ -1,0 +1,8 @@
+Ask HN: Do you feel comfortable admitting that you use AI?  (13 pts, 31 comments)
+https://news.ycombinator.com/item?id=49346906
+
+The Hacker News discussion revolves around the comfort level of developers in admitting their use of AI tools for coding and other tasks. The original poster expresses a mix of productivity benefits from using AI while feeling a sense of shame due to the stigma surrounding AI-generated code. They question whether this reluctance stems from a superiority complex among those who reject AI or if it's a valid concern about skill atrophy.
+
+In the comments, there is a mix of agreement and debate. Some users liken AI use to employing calculators, emphasizing that AI can enhance productivity, while others argue that AI's unpredictability makes it fundamentally different. Many commenters share their experiences, with some feeling comfortable using AI and others expressing skepticism about its reliability and the quality of AI-generated outputs. Notably, several users highlight the importance of maintaining personal involvement in the coding process, ensuring that AI serves as a tool rather than a crutch.
+
+Overall, the discussion reflects a broader conversation about the evolving role of AI in the tech industry, the balance between leveraging technology for efficiency, and the need for transparency and accountability in its use.

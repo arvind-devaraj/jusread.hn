@@ -1,0 +1,6 @@
+Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs  (51 pts, 15 comments)
+https://news.ycombinator.com/item?id=49594008
+
+The Hacker News discussion centers around "Engrim," a local-first SQLite memory engine designed for AI command-line interfaces (CLIs). The project aims to provide a lightweight, portable solution for managing memory without relying on cloud services, allowing users to store data in a single .db file. The creator, Tim Gordon, highlights the benefits of local storage, including low latency and enhanced privacy.
+
+In the comments, users express interest in the functionality of Engrim, particularly how memory is triggered for writing. Tim clarifies that it can be automated through connected agents or manually via a CLI command. There is also a discussion about the advantages of Engrim over other memory solutions like gbrain, with some users appreciating its simplicity and performance. Notably, the local-first approach garners positive feedback, with users recognizing the potential to leverage idle desktop resources while avoiding cloud-related costs. Overall, the conversation reflects enthusiasm for Engrim's capabilities and its alignment with current trends in AI memory management.

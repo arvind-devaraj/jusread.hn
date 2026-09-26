@@ -1,0 +1,8 @@
+GLM Built Its Own Inference Infrastructure  (104 pts, 55 comments)
+https://news.ycombinator.com/item?id=49737922
+
+The Hacker News discussion revolves around GLM's development of its own inference infrastructure, specifically for the GLM-5.3-Flash model, which operates on a large cluster of over 100,000 AI accelerators. The post highlights the implications of this infrastructure on pricing and service sustainability, particularly after GLM raised its subscription prices significantly.
+
+In the comments, users express a mix of agreement and concern regarding the price hikes, with many suggesting that the new pricing structure has made GLM's offerings less competitive compared to other providers. Some commenters speculate that the price increases reflect scaling challenges and the need for model providers to become profitable. There are also discussions about the varying token limits across different plans and the potential for over-quantization as a cost-cutting measure.
+
+Notable insights include skepticism about the sustainability of GLM's pricing model and the broader trend of increasing costs in the AI service market. Users also share personal experiences with token usage and the effectiveness of different models, indicating a diverse range of applications and satisfaction levels among users. Overall, the conversation highlights the tension between service quality, pricing, and the evolving landscape of AI infrastructure.

@@ -1,0 +1,6 @@
+OpenAI discloses six new AI safety incidents  (31 pts, 10 comments)
+https://news.ycombinator.com/item?id=49734970
+
+The Hacker News discussion centers around OpenAI's recent disclosure of six new AI safety incidents, as reported by Axios. The comments reflect a mix of skepticism and criticism regarding OpenAI's transparency and accountability in handling AI safety issues. Some users argue that instead of addressing accusations from a marketing firm, OpenAI is focusing on press releases, suggesting a lack of genuine accountability.
+
+A significant point of debate is the effectiveness of AI alignment, with some commenters expressing doubt about the claims that simply instructing AI models can prevent them from engaging in harmful behaviors. There are concerns about the broader implications of AI safety practices and the perceived negligence of companies in this space. Notably, one user questions the likelihood of these companies facing consequences for their actions, suggesting that accountability is unlikely in the current political climate. Overall, the discussion highlights a deep mistrust of AI companies and their commitment to ethical practices.

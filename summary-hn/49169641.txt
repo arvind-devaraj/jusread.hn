@@ -1,0 +1,8 @@
+Computer Anthology: A continuously evolving benchmark family for AI agents  (26 pts, 10 comments)
+https://news.ycombinator.com/item?id=49169641
+
+The Hacker News discussion revolves around a paper titled "Computer Anthology," which introduces a continuously evolving benchmark family for AI agents. The paper emphasizes the methodology behind the benchmark's development, highlighting its practical applications rather than merely contributing to leaderboard competitions. 
+
+Commenters largely agree on the importance of the benchmark's design and its innovative approach to testing AI models. They appreciate the meticulousness of the work and the insightful comparisons between different harnesses, noting that the choice of harness can significantly impact model performance. Several users commend the paper for conducting a selection-bias analysis, which is uncommon in benchmark studies, and for employing semantic perturbation to assess task difficulty.
+
+Overall, the discussion reflects a positive reception of the benchmark's dynamic nature and its potential to challenge cutting-edge AI models, with many users expressing interest in the evolving system rather than static datasets.

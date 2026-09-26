@@ -1,0 +1,8 @@
+"Famous Deep Learning Papers", David Bau  (31 pts, 5 comments)
+https://news.ycombinator.com/item?id=49448082
+
+The Hacker News discussion revolves around a post by David Bau that highlights "Famous Deep Learning Papers." The link provided leads to a collection of significant research in the field of deep learning.
+
+In the comments, users express curiosity about the future of deep learning, particularly regarding potential new architectures that could rival the transformative impact of transformers. There is a mention of Yann LeCun's critical view on transformers, suggesting that alternative approaches should be explored. Some commenters find the content of the post somewhat lacking in depth, while others praise Bau for his thoughtful approach to understanding AI and his focus on human interpretability.
+
+Overall, the discussion reflects a mix of optimism about the future of deep learning and skepticism about current dominant architectures, with a strong appreciation for Bau's contributions to the field.

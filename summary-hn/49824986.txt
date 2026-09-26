@@ -1,0 +1,8 @@
+AP: Avoid language that gives [AI] human characteristics  (15 pts, 8 comments)
+https://news.ycombinator.com/item?id=49824986
+
+The Hacker News discussion revolves around a tweet from the AP Stylebook advising against using language that attributes human characteristics to AI. The post highlights concerns about how such language can mislead people into thinking AI systems possess sentience or consciousness.
+
+In the comments, there is a mix of agreement and debate. Some users argue that the language used to describe AI should be more precise to avoid confusion, with one commenter humorously suggesting that saying "I flew to San Francisco" gives the speaker bird-like qualities. Others express frustration over the public's misunderstanding of AI, emphasizing that computers are tools without sentient thoughts. Notably, one commenter mentions that this misrepresentation can lead to real-life harm, underscoring the importance of clear communication about AI capabilities.
+
+Overall, the discussion reflects a strong consensus on the need for careful language when discussing AI, with several commenters advocating for strict guidelines to prevent any implication of sentience in AI communications.

@@ -1,0 +1,8 @@
+Ask HN: Are functional programmers more upset about how good AI is at coding?  (10 pts, 11 comments)
+https://news.ycombinator.com/item?id=49234658
+
+The Hacker News discussion revolves around the question of whether functional programmers are more upset about the proficiency of AI in coding compared to other programming paradigms. The original post suggests that functional programmers, who value code elegance, might feel threatened by AI's ability to produce working code, especially since hybrid language programmers prioritize functionality over aesthetics.
+
+In the comments, there is a debate about the premise of the post. Some commenters argue that functional programming (FP) concepts, such as composability and immutability, align well with AI capabilities, suggesting that FP practitioners may not be more upset but rather skeptical about AI's impact. Others express frustration, feeling that years of honing their craft in FP could be undermined by AI generating less elegant, imperative code. Notably, one commenter emphasizes that the quality of code remains important to avoid bugs, regardless of the programming paradigm used.
+
+Overall, the discussion highlights differing perspectives on the relationship between AI and programming paradigms, with some seeing AI as a tool that could elevate coding standards, while others worry about the potential dilution of programming quality and craftsmanship.

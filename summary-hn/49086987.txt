@@ -1,0 +1,8 @@
+Scientific computing in the age of agentic AI  (27 pts, 9 comments)
+https://news.ycombinator.com/item?id=49086987
+
+The Hacker News discussion revolves around a post titled "Scientific computing in the age of agentic AI," which likely explores the implications of advanced AI and large-scale computing on scientific research. The conversation touches on the shift from small-scale research projects to large, industry-like research plans, highlighting a sense of nostalgia for the past and concerns about the fun and creativity being lost in this new paradigm.
+
+Commenters express a mix of optimism and skepticism regarding the future shaped by AI and technology. Some, like "willmarch," argue that while there are potential downsides to a highly controlled, technologically dependent society, the alternative—accepting harm and disease—might not be preferable. Others, like "vouaobrasil," caution against the risks of inequality and eugenics that could arise from advancements in genetic engineering and healthcare, advocating instead for smaller, less tech-dependent communities that promote healthier lifestyles.
+
+Overall, the discussion reflects a tension between embracing technological progress for its potential benefits and recognizing the ethical and societal challenges it may bring. Notably, there is a call from some participants to focus on community-oriented solutions rather than solely relying on technological advancements.

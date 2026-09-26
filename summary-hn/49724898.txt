@@ -1,0 +1,8 @@
+Is anyone else losing their motivation to nerd out and tinker because of AI?  (11 pts, 29 comments)
+https://news.ycombinator.com/item?id=49724898
+
+The Hacker News discussion revolves around the impact of AI on personal motivation to engage in tinkering and nerding out with technology. The original post questions whether the rise of AI is diminishing people's desire to experiment and create on their own.
+
+In the comments, there are mixed opinions. Some users, like JohnFen and functionmouse, assert that AI has no effect on their motivation, as they simply choose not to engage with it. Others, like uberman and Festro, argue that AI has actually enhanced their ability to explore new projects and solve problems more efficiently. A key point of contention is the definition of "tinkering." Coldtea and others emphasize that true tinkering involves hands-on work and creativity, rather than relying on AI to do the work for you. Conversely, some commenters, like sejje and mikert89, suggest that using AI can still be a form of tinkering, as it allows for new explorations and learning opportunities.
+
+Notably, several participants express that AI has shifted their approach to projects, enabling them to tackle more complex tasks and access resources more easily. However, there is also a sentiment that relying too heavily on AI may detract from the satisfaction and learning that comes from traditional tinkering. Overall, the discussion highlights a divide between those who view AI as a tool that enhances creativity and those who see it as a potential threat to the essence of hands-on experimentation.

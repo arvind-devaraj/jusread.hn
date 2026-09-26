@@ -1,0 +1,8 @@
+A system prompt to get AI to stop pretending to be human  (17 pts, 9 comments)
+https://news.ycombinator.com/item?id=49049304
+
+The Hacker News discussion revolves around a proposed system prompt designed to make AI models stop pretending to be human. The original post suggests that some users may prefer a more straightforward interaction with AI, avoiding anthropomorphism.
+
+In the comments, there is a split in opinion. Some users appreciate the idea of a more direct approach, expressing concerns about becoming too accustomed to treating AI like humans. Others, however, prefer the human-like qualities of AI, arguing that it enhances the interaction. There are also practical concerns raised about the potential impact on output quality when changing AI behavior, with some users sharing specific examples of AI misinterpretations or corrections that they find frustrating.
+
+Notable insights include a humorous anecdote about an AI making extreme claims after using the prompt, highlighting the unpredictability of AI responses. Overall, the discussion reflects a broader debate on the balance between human-like interaction and the need for clear, functional communication with AI systems.

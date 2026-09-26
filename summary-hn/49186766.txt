@@ -1,0 +1,8 @@
+Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show  (47 pts, 10 comments)
+https://news.ycombinator.com/item?id=49186766
+
+The Hacker News discussion revolves around a Bloomberg article revealing that a significant portion of Microsoft's AI sales is derived from its partnership with OpenAI. This raises questions about the sustainability and authenticity of Microsoft's AI revenue, suggesting that it may not reflect genuine market demand but rather a reliance on external partnerships.
+
+In the comments, there is a consensus of skepticism regarding the long-term viability of AI-driven business models, with several users comparing the situation to past financial collapses like Enron and the Titanic. Some commenters express concern about the lack of a competitive edge ("moat") in the AI space, indicating that many companies may face challenges as the market evolves. Others speculate about the AI revenue structures of competitors like Google and Amazon, questioning the organic growth of their AI services.
+
+Notable insights include the idea that while AI tools are valuable and will persist, the current funding dynamics may lead to significant failures in the industry. Additionally, there is a suggestion that cloud providers are leveraging AI to retain customers, as acquiring hardware for on-premises setups becomes increasingly difficult.

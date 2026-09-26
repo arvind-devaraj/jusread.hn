@@ -1,0 +1,8 @@
+D-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026  (17 pts, 5 comments)
+https://news.ycombinator.com/item?id=49695065
+
+The Hacker News discussion revolves around the D-Matrix Raptor 3D-DRAM Accelerator, which was presented at the Hot Chips 2026 conference. This technology aims to enhance generative inference by integrating DRAM with logic components, addressing challenges related to thermal management and performance.
+
+In the comments, users express curiosity about the Hot Chips conference itself, with one noting its significance in the semiconductor industry. A key point of agreement is the innovative bonding method for stacking DRAM with logic, which reportedly overcomes thermal limitations that typically hinder DRAM performance at high temperatures. Additionally, there are discussions about novel banking strategies that could impact performance.
+
+Notably, some commenters seek clarification on the technical aspects of the article, indicating a desire for more accessible explanations of complex concepts. Overall, the discussion highlights excitement about advancements in semiconductor technology and the potential implications for generative inference applications.

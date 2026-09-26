@@ -1,0 +1,8 @@
+Show HN: Bough, the agent I built to replace Claude Code at work  (10 pts, 5 comments)
+https://news.ycombinator.com/item?id=49711939
+
+The Hacker News discussion centers around a project called Bough, developed by the user alukin as an alternative to Claude Code for coding tasks at work. Bough aims to provide a more tailored experience by addressing specific workflows and user needs, rather than attempting to cater to a broad audience like existing tools.
+
+In the comments, users express interest in the project, with one asking about benchmarking results and the main user experience (UX) issues faced with current solutions. Alukin responds that Bough has been tested against terminal benchmarks, showing promising performance, and highlights that existing tools often try to be all-encompassing, which can lead to inefficiencies. Another commenter humorously inquires about the project's costs and suggests using Pi as a foundation, to which alukin acknowledges Pi's influence but emphasizes that Bough builds on and stabilizes those concepts.
+
+Overall, the discussion reflects a mix of curiosity about Bough's performance and functionality, along with a recognition of the challenges in creating effective coding tools that meet diverse user needs.

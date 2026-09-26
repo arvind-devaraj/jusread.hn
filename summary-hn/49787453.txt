@@ -1,0 +1,8 @@
+Google Rolls Out $899-Plus 'Ai laptops'  (11 pts, 11 comments)
+https://news.ycombinator.com/item?id=49787453
+
+The Hacker News discussion centers around Google's launch of new laptops priced at $899 and above, which are essentially high-end Chromebooks featuring Google Gemini technology. The article from Bloomberg highlights the collaboration with manufacturers like Dell, HP, Lenovo, Acer, and Asus.
+
+In the comments, users express skepticism about the value of these devices, particularly at such high price points. Many agree that while the hardware may be decent, the software experience remains limited compared to traditional operating systems like macOS or Windows. Some commenters point out that Chromebooks are typically more appealing at lower prices, especially for students using Google Suite. There is also a discussion about the potential for improved development tools on ChromeOS, with some noting that it has become more capable recently.
+
+Notable opinions include a general confusion about the purpose of these expensive Chromebooks, with some users questioning why one would choose them over more established options like MacBooks. Overall, the sentiment leans towards skepticism regarding the necessity and value of these new devices in a market already saturated with affordable laptops.
