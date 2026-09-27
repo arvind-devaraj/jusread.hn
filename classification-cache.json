@@ -159519,6 +159519,10 @@
     "probability": 0.412,
     "title": "FBI Hack Exposed FBI's Own Hacking Unit"
   },
+  "49823490": {
+    "probability": 0.396,
+    "title": "A new world airport and its baggage"
+  },
   "49823568": {
     "probability": 0.468,
     "title": "Toyota is finally taking its best-seller electric"
@@ -159927,6 +159931,10 @@
     "probability": 0.487,
     "title": "US Government foots bill for television ad featuring Trump's midterm messaging"
   },
+  "49833444": {
+    "probability": 0.312,
+    "title": "LA Metro has some of the slowest escalators"
+  },
   "49833611": {
     "probability": 0.515,
     "title": "S.F. Democratic Party stands behind Flock surveillance cameras in vote"
@@ -160123,9 +160131,17 @@
     "probability": 0.82,
     "title": "Snowden on AI Surveillance and Freedom of Speech [video]"
   },
+  "49839438": {
+    "probability": 0.411,
+    "title": "Biology might not be quantum, but its math is quantumlike"
+  },
   "49839510": {
     "probability": 0.737,
     "title": "Jev and System One Models: Calibration Beats Accuracy"
+  },
+  "49839567": {
+    "probability": 0.749,
+    "title": "Evolving programming languages in the AI era"
   },
   "49839664": {
     "probability": 0.421,
@@ -160266,6 +160282,10 @@
   "49844642": {
     "probability": 0.464,
     "title": "What happens when you analyze your favorite college football team like the CIA?"
+  },
+  "49844657": {
+    "probability": 0.573,
+    "title": "Does Georgism work? Five years later"
   },
   "49844663": {
     "probability": 0.297,
@@ -160439,6 +160459,10 @@
     "probability": 0.853,
     "title": "Too AI; Didn't Read"
   },
+  "49849820": {
+    "probability": 0.548,
+    "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia"
+  },
   "49849832": {
     "probability": 0.455,
     "title": "Excel now supports multiple values in a single cell"
@@ -160475,9 +160499,17 @@
     "probability": 0.261,
     "title": "Brazil Bans Online Betting"
   },
+  "49851883": {
+    "probability": 0.801,
+    "title": "Generate fonts where every LLM token is the same width"
+  },
   "49852065": {
     "probability": 0.42,
     "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days"
+  },
+  "49852143": {
+    "probability": 0.317,
+    "title": "How one Twitch chat message became code execution on a streamer’s PC"
   },
   "49852302": {
     "probability": 0.473,
@@ -160491,6 +160523,14 @@
     "probability": 0.398,
     "title": "We're gonna need a lot more mathematicians"
   },
+  "49852905": {
+    "probability": 0.29,
+    "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons"
+  },
+  "49853137": {
+    "probability": 0.752,
+    "title": "An agent used DNS to reach an external chatbot"
+  },
   "49853175": {
     "probability": 0.938,
     "title": "A single function Jev-like wrapper for LLMs, including vision models"
@@ -160498,6 +160538,10 @@
   "49854161": {
     "probability": 0.418,
     "title": "Is your Postgres migration safe or not safe?"
+  },
+  "49854219": {
+    "probability": 0.516,
+    "title": "Flip Fluid on Flip Dots"
   },
   "49854399": {
     "probability": 0.677,
@@ -160535,9 +160579,17 @@
     "probability": 0.964,
     "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior"
   },
+  "49856193": {
+    "probability": 0.185,
+    "title": "Improving site performance by shipping more CSS"
+  },
   "49856665": {
     "probability": 0.792,
     "title": "OpenAI bots meddled with multiple US Government agency sites"
+  },
+  "49856988": {
+    "probability": 0.476,
+    "title": "Go Concurrency Distilled"
   },
   "49857323": {
     "probability": 0.422,
@@ -160559,6 +160611,10 @@
     "probability": 0.299,
     "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees"
   },
+  "49857656": {
+    "probability": 0.821,
+    "title": "Turning GLM-5.3-Flash into a Jev-like decision model"
+  },
   "49857729": {
     "probability": 0.647,
     "title": "Drawgent: Coding agent on a live Excalidraw canvas"
@@ -160575,8 +160631,52 @@
     "probability": 0.768,
     "title": "Show HN: Reladraw – A diagram language where you decide where to place things"
   },
+  "49858676": {
+    "probability": 0.585,
+    "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC"
+  },
+  "49858810": {
+    "probability": 0.423,
+    "title": "Japan moves to tighten rules for foreigners"
+  },
   "49859112": {
     "probability": 0.395,
     "title": "DeepSeek Elastic Compute (DSec)"
+  },
+  "49860074": {
+    "probability": 0.416,
+    "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station"
+  },
+  "49861047": {
+    "probability": 0.734,
+    "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization"
+  },
+  "49861062": {
+    "probability": 0.591,
+    "title": "Palantir's Co-Founder Wants Us Less Judgmental About Deadly Iran School Strike"
+  },
+  "49862244": {
+    "probability": 0.754,
+    "title": "Real-time feedback: My closing move in every interview"
+  },
+  "49862299": {
+    "probability": 0.766,
+    "title": "OpenAI agents tried to bruteforce a UN website's API fields"
+  },
+  "49862809": {
+    "probability": 0.274,
+    "title": "What is the size of Yemen? (2024)"
+  },
+  "49863062": {
+    "probability": 0.361,
+    "title": "If we do not stop to help each other, what do we become?"
+  },
+  "49863864": {
+    "probability": 0.843,
+    "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News"
+  },
+  "49864642": {
+    "probability": 0.587,
+    "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election"
   }
 }
