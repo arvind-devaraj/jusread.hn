@@ -160275,6 +160275,10 @@
     "probability": 0.359,
     "title": "Nobody Asked for a Crab Chair"
   },
+  "49844037": {
+    "probability": 0.453,
+    "title": "We Should Be Able to Change Our Languages"
+  },
   "49844497": {
     "probability": 0.633,
     "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about"
@@ -160318,6 +160322,10 @@
   "49845109": {
     "probability": 0.613,
     "title": "Israel weaponises AI for West Bank demolitions"
+  },
+  "49845114": {
+    "probability": 0.442,
+    "title": "C's Flexible Integer Sizes Were Not a Design Mistake"
   },
   "49845133": {
     "probability": 0.519,
@@ -160455,9 +160463,17 @@
     "probability": 0.156,
     "title": "Rising sea destroys homes, erases beaches in California"
   },
+  "49849409": {
+    "probability": 0.398,
+    "title": "Writing Efficient C++ Code (2013)"
+  },
   "49849625": {
     "probability": 0.853,
     "title": "Too AI; Didn't Read"
+  },
+  "49849723": {
+    "probability": 0.346,
+    "title": "Finally, A True Blue Rose Exists"
   },
   "49849820": {
     "probability": 0.548,
@@ -160482,6 +160498,10 @@
   "49850781": {
     "probability": 0.419,
     "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin"
+  },
+  "49850991": {
+    "probability": 0.618,
+    "title": "Exploding variance of means of exponentials: least-squares to the rescue"
   },
   "49850999": {
     "probability": 0.873,
@@ -160522,6 +160542,10 @@
   "49852717": {
     "probability": 0.398,
     "title": "We're gonna need a lot more mathematicians"
+  },
+  "49852832": {
+    "probability": 0.514,
+    "title": "Walgit: A Git server that is one binary in front of an object store"
   },
   "49852905": {
     "probability": 0.29,
@@ -160587,6 +160611,10 @@
     "probability": 0.792,
     "title": "OpenAI bots meddled with multiple US Government agency sites"
   },
+  "49856885": {
+    "probability": 0.532,
+    "title": "Fakecloud: Local AWS cloud emulator for integration tests"
+  },
   "49856988": {
     "probability": 0.476,
     "title": "Go Concurrency Distilled"
@@ -160643,6 +160671,14 @@
     "probability": 0.395,
     "title": "DeepSeek Elastic Compute (DSec)"
   },
+  "49859759": {
+    "probability": 0.398,
+    "title": "Video CDs Break Windows Explorer"
+  },
+  "49859982": {
+    "probability": 0.811,
+    "title": "Faster prompt lookup drafting in llama.cpp"
+  },
   "49860074": {
     "probability": 0.416,
     "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station"
@@ -160671,6 +160707,10 @@
     "probability": 0.361,
     "title": "If we do not stop to help each other, what do we become?"
   },
+  "49863600": {
+    "probability": 0.656,
+    "title": "The internet discovers TLA+. Now what?"
+  },
   "49863864": {
     "probability": 0.843,
     "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News"
@@ -160678,5 +160718,81 @@
   "49864642": {
     "probability": 0.587,
     "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election"
+  },
+  "49864743": {
+    "probability": 0.573,
+    "title": "Rusty thoughts on \"Parse, don't validate\""
+  },
+  "49865106": {
+    "probability": 0.374,
+    "title": "I Posed as a Problem Gambler. DraftKings Made Me a VIP"
+  },
+  "49865343": {
+    "probability": 0.949,
+    "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice"
+  },
+  "49866515": {
+    "probability": 0.387,
+    "title": "Replacing the old battery on rechargeable bike lights"
+  },
+  "49866534": {
+    "probability": 0.273,
+    "title": "Ten lines of code that changed my world"
+  },
+  "49866597": {
+    "probability": 0.587,
+    "title": "Show HN: Building a Markdown editor for Mac, iOS and web"
+  },
+  "49866951": {
+    "probability": 0.323,
+    "title": "In an $80 motel room, a discovery to shed light on the origins of life"
+  },
+  "49867038": {
+    "probability": 0.407,
+    "title": "Tells of a Slop UI"
+  },
+  "49867067": {
+    "probability": 0.546,
+    "title": "On caring for user data: NeoVim caused Vim undo files to be deleted"
+  },
+  "49867486": {
+    "probability": 0.469,
+    "title": "The Normalization of Inexplicable Failures"
+  },
+  "49867553": {
+    "probability": 0.38,
+    "title": "PostmarketOS is rebranding as Nura"
+  },
+  "49867775": {
+    "probability": 0.82,
+    "title": "Show HN: TinyAIArena watch AI agents battle it out"
+  },
+  "49868083": {
+    "probability": 0.814,
+    "title": "There are no \"rogue\" AI agents"
+  },
+  "49868202": {
+    "probability": 0.9,
+    "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue"
+  },
+  "49868404": {
+    "probability": 0.425,
+    "title": "Don't couple your Go code to GitHub"
+  },
+  "49868830": {
+    "probability": 0.623,
+    "title": "Ember-1"
+  },
+  "49868831": {
+    "probability": 0.698,
+    "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]"
+  },
+  "49869574": {
+    "probability": 0.488,
+    "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi"
+  },
+  "49870367": {
+    "probability": 0.482,
+    "title": "When did Google get so weird?"
   }
 }

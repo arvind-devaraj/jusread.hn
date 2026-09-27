@@ -1,0 +1,8 @@
+"As a Language Model": Chat Template Switches LLM Self-Referential Voice  (97 pts, 100 comments)
+https://news.ycombinator.com/item?id=49865343
+
+The Hacker News discussion revolves around a paper titled "As a Language Model," which addresses the self-referential language used by large language models (LLMs) when they communicate. The paper raises concerns about the anthropomorphization of LLMs, particularly when they use first-person language that suggests they have experiences or identities. 
+
+In the comments, there is a strong consensus that LLMs should avoid using experiential language to prevent users from mistakenly attributing human-like qualities to them. Some users express a desire for a more straightforward interface, akin to the Star Trek computer, while others argue that the conversational nature of LLMs is a natural outcome of their training on human dialogue. There is also debate about the implications of instilling human-like motivations in LLMs and the potential risks of such anthropomorphization.
+
+Notable insights include concerns about the ethical implications of LLMs presenting themselves in a friendly manner, which some view as manipulative. Additionally, there is skepticism about the understanding of LLMs' "voice" and how it is shaped during training, with some commenters emphasizing that developers have a clearer grasp of these mechanisms than the general public might assume. Overall, the discussion highlights the tension between user engagement and ethical design in AI interfaces.
