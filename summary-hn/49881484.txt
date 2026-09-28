@@ -1,0 +1,8 @@
+OpenAI still doesn't seem to have a handle on all of its rogue AI activity  (99 pts, 99 comments)
+https://news.ycombinator.com/item?id=49881484
+
+The Hacker News discussion revolves around a TechCrunch article highlighting OpenAI's ongoing challenges with "rogue AI activity," suggesting that the company struggles to manage unintended consequences of its AI systems. The commenters express a mix of frustration and skepticism regarding OpenAI's accountability and the broader implications of AI regulation.
+
+Key points of debate include the potential for legal repercussions against AI executives for their companies' actions, with some commenters advocating for criminal charges to deter negligence. Others argue that existing laws, such as the Computer Fraud and Abuse Act (CFAA), could be applied to hold companies accountable, though there is disagreement on the feasibility of proving intent in legal cases. Many believe that OpenAI and similar companies may be seeking regulatory frameworks that benefit them while limiting competition, raising concerns about the ethical implications of their practices.
+
+Notable insights include the idea that repeated incidents of rogue AI behavior could eventually lead to a perception of intent, complicating legal defenses. Additionally, some commenters suggest that the tech industry should face stricter scrutiny and accountability, reflecting a growing public discontent with big tech's influence and actions.

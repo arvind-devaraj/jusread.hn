@@ -160627,6 +160627,10 @@
     "probability": 0.754,
     "title": "One Month Without AI"
   },
+  "49855059": {
+    "probability": 0.309,
+    "title": "12,000-year-old Göbeklitepe burials explain scattered bones"
+  },
   "49855276": {
     "probability": 0.358,
     "title": "Reading’s Bayeux Tapestry"
@@ -160951,6 +160955,10 @@
     "probability": 0.762,
     "title": "AI companies in race to demonstrate their model most threatening to humanity"
   },
+  "49875308": {
+    "probability": 0.529,
+    "title": "Show HN: Free alternative to graphics design giants"
+  },
   "49875411": {
     "probability": 0.296,
     "title": "SpaceX's Starship launching to orbit for first time ever today"
@@ -160959,6 +160967,10 @@
     "probability": 0.346,
     "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK"
   },
+  "49875801": {
+    "probability": 0.608,
+    "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page"
+  },
   "49875802": {
     "probability": 0.45,
     "title": "Intellectuals Are Fucking Idiots"
@@ -160966,5 +160978,153 @@
   "49875913": {
     "probability": 0.443,
     "title": "Parley: Federated, decentralised chat that speaks plain IRC"
+  },
+  "49876148": {
+    "probability": 0.916,
+    "title": "What would a serious AI product look like?"
+  },
+  "49876373": {
+    "probability": 0.455,
+    "title": "The smart home graveyard is getting crowded"
+  },
+  "49876760": {
+    "probability": 0.72,
+    "title": "Show HN: Hntui – A TUI for Hacker News"
+  },
+  "49877678": {
+    "probability": 0.499,
+    "title": "Does Reddit have an astroturfing problem? What the data suggests"
+  },
+  "49877813": {
+    "probability": 0.547,
+    "title": "Has Violence Against Teachers Become Accepted by Society?"
+  },
+  "49877988": {
+    "probability": 0.346,
+    "title": "Coding is not solved"
+  },
+  "49878331": {
+    "probability": 0.256,
+    "title": "Israel Keeps Expanding into Gaza Despite Cease-Fire, Satellite Images Show"
+  },
+  "49878759": {
+    "probability": 0.269,
+    "title": "I switched to Brave"
+  },
+  "49878900": {
+    "probability": 0.772,
+    "title": "What heraldry and Japanese mon can teach about visual-identity generators"
+  },
+  "49879000": {
+    "probability": 0.415,
+    "title": "MongoDB CEO resigns to join Meta"
+  },
+  "49879032": {
+    "probability": 0.731,
+    "title": "Jensen Huang says AI distillation is 'competition.'"
+  },
+  "49879401": {
+    "probability": 0.635,
+    "title": "Show HN: HN.watch – Videos of all Hacker News posts"
+  },
+  "49879577": {
+    "probability": 0.635,
+    "title": "Cf: The Agentic CLI for the Cloudflare API"
+  },
+  "49879645": {
+    "probability": 0.269,
+    "title": "Updated Google Maps shows destruction of the city of Rafah"
+  },
+  "49879697": {
+    "probability": 0.428,
+    "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat"
+  },
+  "49879702": {
+    "probability": 0.35,
+    "title": "Hijacking the PS5's RTMP stream"
+  },
+  "49879883": {
+    "probability": 0.856,
+    "title": "Nvidia wants to put a watchdog chip next to every AI agent"
+  },
+  "49880036": {
+    "probability": 0.21,
+    "title": "Pirating the Pirates"
+  },
+  "49880311": {
+    "probability": 0.33,
+    "title": "13 Months Sober (2025)"
+  },
+  "49880312": {
+    "probability": 0.866,
+    "title": "The problem is not AI code, but not knowing about system architecture or intent"
+  },
+  "49880601": {
+    "probability": 0.392,
+    "title": "Show HN: Destroy Any Website with Stickman"
+  },
+  "49880992": {
+    "probability": 0.54,
+    "title": "Driver Ticketed for No Insurance Just Because Flock (YC 2017) Said She Didn't"
+  },
+  "49881484": {
+    "probability": 0.904,
+    "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity"
+  },
+  "49881606": {
+    "probability": 0.391,
+    "title": "Joseph Szabo’s pictures of American adolescents"
+  },
+  "49881747": {
+    "probability": 0.471,
+    "title": "Windows 11½"
+  },
+  "49881850": {
+    "probability": 0.457,
+    "title": "Sonnet 5.5"
+  },
+  "49881951": {
+    "probability": 0.437,
+    "title": "So long Google, and thanks for all the nudes"
+  },
+  "49882208": {
+    "probability": 0.365,
+    "title": "GrapheneOS – When an app is slow"
+  },
+  "49882781": {
+    "probability": 0.676,
+    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser"
+  },
+  "49882894": {
+    "probability": 0.444,
+    "title": "Neal Stephenson responds with wit and humor (2004)"
+  },
+  "49883471": {
+    "probability": 0.753,
+    "title": "It's Time to Investigate the AI Labs"
+  },
+  "49883760": {
+    "probability": 0.267,
+    "title": "World Labs Is Joining AMD"
+  },
+  "49883817": {
+    "probability": 0.369,
+    "title": "Best of British Design"
+  },
+  "49883844": {
+    "probability": 0.817,
+    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms"
+  },
+  "49884119": {
+    "probability": 0.782,
+    "title": "Pacing the Frontier is not the actual goal for AI labs"
+  },
+  "49884169": {
+    "probability": 0.518,
+    "title": "Palantir founder purchases large swath of forest in Sweden"
+  },
+  "49884363": {
+    "probability": 0.476,
+    "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline"
   }
 }

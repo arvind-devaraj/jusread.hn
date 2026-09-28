@@ -1,0 +1,8 @@
+The problem is not AI code, but not knowing about system architecture or intent  (338 pts, 222 comments)
+https://news.ycombinator.com/item?id=49880312
+
+The Hacker News discussion centers around the assertion that the real issue with AI in software development isn't the AI-generated code itself, but rather a lack of understanding of system architecture and intent among developers. The original post argues that while AI can produce code efficiently, it doesn't address deeper challenges related to system design, collaboration, and maintenance.
+
+In the comments, there is a lively debate about the implications of AI on coding and software engineering. Some users argue that AI has effectively "solved" coding by making it less of a bottleneck, allowing non-technical people to make changes without deep coding knowledge. Others counter that while AI can generate code, it fails to grasp the complexities of software architecture and the nuances of engineering, which are still critical for successful projects. Notably, several commenters express concern that reliance on AI could lead to a loss of knowledge and oversight in codebases, potentially stifling innovation.
+
+Overall, the discussion highlights a divide between those who see AI as a transformative tool for coding and those who caution against over-reliance on it, emphasizing the importance of human oversight and understanding in software development.
