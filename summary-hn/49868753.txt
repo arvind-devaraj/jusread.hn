@@ -1,0 +1,8 @@
+Calling the AI bluff: Adding "Do not guess" cut made-up claims from 71% to 20%  (65 pts, 13 comments)
+https://news.ycombinator.com/item?id=49868753
+
+The Hacker News discussion revolves around a post that highlights the effectiveness of adding a "Do not guess" instruction to AI prompts, which reportedly reduces the generation of made-up claims from 71% to 20%. The author suggests that this command encourages AI to provide more grounded and accurate responses.
+
+In the comments, there is a general agreement that while the "do not guess" directive can improve the quality of AI outputs, it may not completely eliminate inaccuracies. Some users express skepticism about the long-term effectiveness of such prompts, suggesting that they might eventually lose their impact as they become more widely adopted. Others discuss the nuances of AI behavior, noting that while commands can guide responses, true understanding and accuracy require more than just instructions. There are also debates about the terminology used in prompts, with some commenters advocating for clearer language to enhance AI comprehension.
+
+Notable insights include the comparison of AI interactions to behavioral conditioning, where users hope that specific prompts will yield better results, akin to training animals. Additionally, the conversation touches on the complexity of AI's statistical nature and the challenges in ensuring that it provides reliable information without fabricating details.

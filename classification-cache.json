@@ -159551,6 +159551,10 @@
     "probability": 0.616,
     "title": "Stanford violated AI policy after race-swapping students in ad"
   },
+  "49824144": {
+    "probability": 0.681,
+    "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page"
+  },
   "49824268": {
     "probability": 0.699,
     "title": "Meta VR Glasses"
@@ -160283,6 +160287,10 @@
     "probability": 0.633,
     "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about"
   },
+  "49844629": {
+    "probability": 0.376,
+    "title": "The state of SIMD in Rust in 2026"
+  },
   "49844642": {
     "probability": 0.464,
     "title": "What happens when you analyze your favorite college football team like the CIA?"
@@ -160335,6 +160343,10 @@
     "probability": 0.541,
     "title": "Show HN: Jev Plays Pokémon Red"
   },
+  "49845284": {
+    "probability": 0.42,
+    "title": "Previously unheard recordings of John Coltrane, captured by Frank Tiberi"
+  },
   "49845798": {
     "probability": 0.245,
     "title": "The Netherlands Built a Nix-Basd Linux Desktop Because Microsoft Cut Off the ICC"
@@ -160382,6 +160394,10 @@
   "49847170": {
     "probability": 0.907,
     "title": "The cheap new AI model taking aim at OpenAI and Anthropic"
+  },
+  "49847247": {
+    "probability": 0.561,
+    "title": "Snap Wants to be a State Actor??–Kansas v. Snap"
   },
   "49847306": {
     "probability": 0.416,
@@ -160515,9 +160531,17 @@
     "probability": 0.626,
     "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites"
   },
+  "49851693": {
+    "probability": 0.466,
+    "title": "S3 Is the Future, S3 Is the Past"
+  },
   "49851759": {
     "probability": 0.261,
     "title": "Brazil Bans Online Betting"
+  },
+  "49851795": {
+    "probability": 0.514,
+    "title": "Deterministic Concurrency [video]"
   },
   "49851883": {
     "probability": 0.801,
@@ -160531,6 +160555,10 @@
     "probability": 0.317,
     "title": "How one Twitch chat message became code execution on a streamer’s PC"
   },
+  "49852238": {
+    "probability": 0.751,
+    "title": "Functional Mechanical Sympathy [video]"
+  },
   "49852302": {
     "probability": 0.473,
     "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case"
@@ -160538,6 +160566,10 @@
   "49852462": {
     "probability": 0.455,
     "title": "HomelabFest will be in St. Louis in September 2027"
+  },
+  "49852600": {
+    "probability": 0.529,
+    "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06"
   },
   "49852717": {
     "probability": 0.398,
@@ -160558,6 +160590,10 @@
   "49853175": {
     "probability": 0.938,
     "title": "A single function Jev-like wrapper for LLMs, including vision models"
+  },
+  "49853476": {
+    "probability": 0.823,
+    "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers"
   },
   "49854161": {
     "probability": 0.418,
@@ -160591,6 +160627,10 @@
     "probability": 0.754,
     "title": "One Month Without AI"
   },
+  "49855276": {
+    "probability": 0.358,
+    "title": "Reading’s Bayeux Tapestry"
+  },
   "49855315": {
     "probability": 0.427,
     "title": "Breaking Up with Google Play: Why Conversations Is Now Free"
@@ -160618,6 +160658,10 @@
   "49856988": {
     "probability": 0.476,
     "title": "Go Concurrency Distilled"
+  },
+  "49857281": {
+    "probability": 0.703,
+    "title": "There is more to code review than (automatable) detection"
   },
   "49857323": {
     "probability": 0.422,
@@ -160727,6 +160771,10 @@
     "probability": 0.374,
     "title": "I Posed as a Problem Gambler. DraftKings Made Me a VIP"
   },
+  "49865312": {
+    "probability": 0.483,
+    "title": "Footguns with Postgres \"at time zone 'UTC'\""
+  },
   "49865343": {
     "probability": 0.949,
     "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice"
@@ -160746,6 +160794,10 @@
   "49866951": {
     "probability": 0.323,
     "title": "In an $80 motel room, a discovery to shed light on the origins of life"
+  },
+  "49866988": {
+    "probability": 0.3,
+    "title": "Fragment of oldest known peace treaty found in Turkey"
   },
   "49867038": {
     "probability": 0.407,
@@ -160779,6 +160831,10 @@
     "probability": 0.425,
     "title": "Don't couple your Go code to GitHub"
   },
+  "49868753": {
+    "probability": 0.877,
+    "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%"
+  },
   "49868830": {
     "probability": 0.623,
     "title": "Ember-1"
@@ -160787,12 +160843,128 @@
     "probability": 0.698,
     "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]"
   },
+  "49869142": {
+    "probability": 0.624,
+    "title": "Oral history of John Chowning, inventor of FM synthesis [video]"
+  },
   "49869574": {
     "probability": 0.488,
     "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi"
   },
+  "49869755": {
+    "probability": 0.538,
+    "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)"
+  },
+  "49869773": {
+    "probability": 0.517,
+    "title": "What I did at Recurse Center"
+  },
+  "49869995": {
+    "probability": 0.51,
+    "title": "Imp is a full port of DSPy to the BEAM"
+  },
+  "49870070": {
+    "probability": 0.542,
+    "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?"
+  },
+  "49870295": {
+    "probability": 0.267,
+    "title": "Self-Hosting on the Dark Web"
+  },
+  "49870304": {
+    "probability": 0.515,
+    "title": "Have an LLC"
+  },
   "49870367": {
     "probability": 0.482,
     "title": "When did Google get so weird?"
+  },
+  "49870417": {
+    "probability": 0.472,
+    "title": "Allegations of US interference in Quebec election"
+  },
+  "49870837": {
+    "probability": 0.628,
+    "title": "Lunar Terminator Paradox"
+  },
+  "49870928": {
+    "probability": 0.226,
+    "title": "EV Sales Are Booming in Europe with Gasoline at $10 a Gallon"
+  },
+  "49872472": {
+    "probability": 0.752,
+    "title": "Self-parking car using genetic algorithm (2021)"
+  },
+  "49872474": {
+    "probability": 0.507,
+    "title": "Was silent reading unusual during Augustine's time?"
+  },
+  "49872497": {
+    "probability": 0.234,
+    "title": "Research finds 485 chemicals in US pesticide products linked to breast cancer"
+  },
+  "49872522": {
+    "probability": 0.783,
+    "title": "As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'"
+  },
+  "49872723": {
+    "probability": 0.403,
+    "title": "Owed a billion dollars in Nvidia stock"
+  },
+  "49872766": {
+    "probability": 0.491,
+    "title": "Musk, the Movie"
+  },
+  "49872883": {
+    "probability": 0.4,
+    "title": "Nissan's third generation e-POWER powertrain"
+  },
+  "49872980": {
+    "probability": 0.529,
+    "title": "Microsoft drops Copilot+ branding from its new laptops"
+  },
+  "49873048": {
+    "probability": 0.427,
+    "title": "Armada: Encrypted, Open-Source, Discord Alternative (Built on Nostr)"
+  },
+  "49873241": {
+    "probability": 0.939,
+    "title": "Thinking fast and slow in AI: The role of metacognition (2021)"
+  },
+  "49874551": {
+    "probability": 0.504,
+    "title": "Made by Mechanical Means"
+  },
+  "49874728": {
+    "probability": 0.807,
+    "title": "Prompting Claude Opus 5.5"
+  },
+  "49875006": {
+    "probability": 0.631,
+    "title": "Maybe don't let Muse run your Facebook Marketplace account"
+  },
+  "49875142": {
+    "probability": 0.53,
+    "title": "37,500 border drawings: a map of the world as people remember it"
+  },
+  "49875148": {
+    "probability": 0.762,
+    "title": "AI companies in race to demonstrate their model most threatening to humanity"
+  },
+  "49875411": {
+    "probability": 0.296,
+    "title": "SpaceX's Starship launching to orbit for first time ever today"
+  },
+  "49875466": {
+    "probability": 0.346,
+    "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK"
+  },
+  "49875802": {
+    "probability": 0.45,
+    "title": "Intellectuals Are Fucking Idiots"
+  },
+  "49875913": {
+    "probability": 0.443,
+    "title": "Parley: Federated, decentralised chat that speaks plain IRC"
   }
 }

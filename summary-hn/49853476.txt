@@ -1,0 +1,8 @@
+The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers  (97 pts, 13 comments)
+https://news.ycombinator.com/item?id=49853476
+
+The post discusses the Cartesian Hand, a robotic gripper designed for in-hand manipulation using all-linear fingers. It highlights the device's capabilities in handling objects with simple geometries, such as lab equipment, while acknowledging its limitations with more complex shapes, like chopsticks or rounded handles.
+
+In the comments, users debate the effectiveness of the Cartesian Hand in various scenarios. Some express optimism about its potential, noting that it can manipulate chopsticks by rolling them between grippers, while others point out fundamental challenges, such as holding rounded objects or bowls of liquid. A recurring theme is the importance of wrist joints for stability and the need for advanced sensors to replicate human-like dexterity. Additionally, there are discussions about the role of AI in enhancing the gripper's functionality and the challenges of adapting motion planning for different actuator types.
+
+Notable insights include the recognition that the Cartesian Hand sidesteps some complexities of human hand mechanics by using a flat, non-deforming surface for contact, allowing for detailed sensor integration. Overall, the discussion reflects a mix of enthusiasm for the technology's simplicity and skepticism about its limitations in more dynamic environments.
