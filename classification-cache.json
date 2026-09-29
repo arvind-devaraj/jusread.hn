@@ -160699,6 +160699,10 @@
     "probability": 0.362,
     "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband"
   },
+  "49858193": {
+    "probability": 0.558,
+    "title": "How to win a beer with high-dimensional statistics"
+  },
   "49858253": {
     "probability": 0.39,
     "title": "US jury says Apple owes record $5.7B in haptic technology patent case"
@@ -160739,6 +160743,10 @@
     "probability": 0.591,
     "title": "Palantir's Co-Founder Wants Us Less Judgmental About Deadly Iran School Strike"
   },
+  "49861755": {
+    "probability": 0.668,
+    "title": "What reversing, modernising old games tells us about the economic impact of AI"
+  },
   "49862244": {
     "probability": 0.754,
     "title": "Real-time feedback: My closing move in every interview"
@@ -160746,6 +160754,10 @@
   "49862299": {
     "probability": 0.766,
     "title": "OpenAI agents tried to bruteforce a UN website's API fields"
+  },
+  "49862602": {
+    "probability": 0.672,
+    "title": "Simulating Airband AM Radios"
   },
   "49862809": {
     "probability": 0.274,
@@ -160794,6 +160806,10 @@
   "49866597": {
     "probability": 0.587,
     "title": "Show HN: Building a Markdown editor for Mac, iOS and web"
+  },
+  "49866903": {
+    "probability": 0.236,
+    "title": "Who Killed Paulina Borsook's Career?"
   },
   "49866951": {
     "probability": 0.323,
@@ -160883,6 +160899,10 @@
     "probability": 0.482,
     "title": "When did Google get so weird?"
   },
+  "49870376": {
+    "probability": 0.207,
+    "title": "Booted up in 1993, this server still runs – but not for much longer (2017)"
+  },
   "49870417": {
     "probability": 0.472,
     "title": "Allegations of US interference in Quebec election"
@@ -160894,6 +160914,10 @@
   "49870928": {
     "probability": 0.226,
     "title": "EV Sales Are Booming in Europe with Gasoline at $10 a Gallon"
+  },
+  "49871992": {
+    "probability": 0.23,
+    "title": "European industry is doing better than you may think"
   },
   "49872472": {
     "probability": 0.752,
@@ -160910,6 +160934,10 @@
   "49872522": {
     "probability": 0.783,
     "title": "As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'"
+  },
+  "49872612": {
+    "probability": 0.291,
+    "title": "Behold the pawpaw"
   },
   "49872723": {
     "probability": 0.403,
@@ -160978,6 +161006,10 @@
   "49875913": {
     "probability": 0.443,
     "title": "Parley: Federated, decentralised chat that speaks plain IRC"
+  },
+  "49876052": {
+    "probability": 0.334,
+    "title": "The systems that no one will test"
   },
   "49876148": {
     "probability": 0.916,
@@ -161059,6 +161091,10 @@
     "probability": 0.866,
     "title": "The problem is not AI code, but not knowing about system architecture or intent"
   },
+  "49880411": {
+    "probability": 0.471,
+    "title": "Phyllotaxis: An audio-reactive LED display"
+  },
   "49880601": {
     "probability": 0.392,
     "title": "Show HN: Destroy Any Website with Stickman"
@@ -161099,9 +161135,21 @@
     "probability": 0.444,
     "title": "Neal Stephenson responds with wit and humor (2004)"
   },
+  "49883159": {
+    "probability": 0.498,
+    "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials"
+  },
   "49883471": {
     "probability": 0.753,
     "title": "It's Time to Investigate the AI Labs"
+  },
+  "49883536": {
+    "probability": 0.259,
+    "title": "Scientists solve 1840s space weather mystery"
+  },
+  "49883539": {
+    "probability": 0.17,
+    "title": "California farmers are struggling to sell grapes as demand for wine drops"
   },
   "49883760": {
     "probability": 0.267,
@@ -161126,5 +161174,69 @@
   "49884363": {
     "probability": 0.476,
     "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline"
+  },
+  "49884625": {
+    "probability": 0.617,
+    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model"
+  },
+  "49885493": {
+    "probability": 0.837,
+    "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?"
+  },
+  "49886005": {
+    "probability": 0.815,
+    "title": "Anthropic's IPO prospectus shows AI vision, surging costs"
+  },
+  "49886195": {
+    "probability": 0.414,
+    "title": "1996 chat room simulator connected to Win95 and System 7 web desktops"
+  },
+  "49886416": {
+    "probability": 0.9,
+    "title": "OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns"
+  },
+  "49886482": {
+    "probability": 0.472,
+    "title": "Tank Body Problem"
+  },
+  "49887337": {
+    "probability": 0.25,
+    "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982"
+  },
+  "49889275": {
+    "probability": 0.188,
+    "title": "US Forces Exit Iraq"
+  },
+  "49889306": {
+    "probability": 0.759,
+    "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription"
+  },
+  "49889934": {
+    "probability": 0.291,
+    "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning"
+  },
+  "49890051": {
+    "probability": 0.501,
+    "title": "Using any C++ library in Godot"
+  },
+  "49890226": {
+    "probability": 0.708,
+    "title": "AI companies leak data to advertisers [pdf]"
+  },
+  "49891290": {
+    "probability": 0.882,
+    "title": "Jeeves. Reasoning improves Jev-like decision models"
+  },
+  "49891295": {
+    "probability": 0.314,
+    "title": "You Are No Longer Invited to Dinner"
+  },
+  "49891480": {
+    "probability": 0.622,
+    "title": "500k facial scans at UK stations yield no arrests, 1 false positive"
+  },
+  "49891550": {
+    "probability": 0.209,
+    "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS"
   }
 }

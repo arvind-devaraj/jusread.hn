@@ -1,0 +1,8 @@
+Jeeves. Reasoning improves Jev-like decision models  (74 pts, 30 comments)
+https://news.ycombinator.com/item?id=49891290
+
+The Hacker News discussion revolves around a GitHub project called "Jeeves," which aims to enhance decision-making models by incorporating reasoning capabilities. The term "noul" is introduced, referring to a method of providing calibrated probabilities for binary outcomes (yes/no), which sparks curiosity and some confusion among commenters.
+
+In the comments, there is a mix of technical discussions about the nature of digital and analog circuits, with some users debating the implications of "no hallucinations" in AI models. Others express nostalgia for the original Ask Jeeves, suggesting that the project represents a revival of that concept in a modern AI context. There is also a discussion about the performance of Jeeves compared to existing models like Jev, with some users questioning the efficiency and practicality of using Jeeves over traditional LLMs.
+
+Notable insights include the recognition that the project could signify a shift in how decision models are approached, with a hybrid method combining traditional techniques and newer reasoning capabilities. Additionally, there is a light-hearted tone in some comments, reflecting on the evolution of AI and its historical references, while also expressing skepticism about the practical advantages of Jeeves in comparison to existing solutions.

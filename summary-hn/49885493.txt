@@ -1,0 +1,8 @@
+Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?  (70 pts, 44 comments)
+https://news.ycombinator.com/item?id=49885493
+
+The Hacker News discussion revolves around a project called Pac-Bench, which benchmarks how well various AI models can create a playable Pac-Man game from a single prompt: "Create a Pac-Man game in a single HTML page." Each model is evaluated based on its ability to deliver a complete game without any follow-up prompts or corrections.
+
+In the comments, there is a consensus that Opus 5.5 stands out as the best model, producing a nearly perfect clone of Pac-Man, while others like Astra and GPT-5.6 showed significant flaws. Some users express concern about the implications of AI's capabilities, noting that while these models can generate playable games, they may also lead to feelings of demotivation among developers. There is a debate about the need for better programming abstractions to make coding easier, as well as discussions on the complexity of game mechanics and the models' understanding of them.
+
+Notable insights include the idea that while AI can quickly generate content, it may not always align with users' expectations or desires, leading to mixed feelings about the creative process. Some users are optimistic about AI tools fostering creativity, while others worry about the potential for mediocrity in programming as AI takes over simpler tasks. Overall, the discussion highlights both the advancements in AI capabilities and the challenges they pose to traditional programming and creativity.
