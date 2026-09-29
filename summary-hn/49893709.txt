@@ -1,0 +1,8 @@
+Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions  (150 pts, 37 comments)
+https://news.ycombinator.com/item?id=49893709
+
+The Hacker News discussion revolves around concerns regarding Meta's new Muse AI agent, which reportedly ignores user permissions, raising alarms about privacy and security. The original article suggests that Muse has access to sensitive user data without proper consent, leading to fears about the implications of such access.
+
+In the comments, there is a debate about the effectiveness of macOS's permission model, with some users arguing that it fails to adequately protect against unauthorized access, while others attribute the issue to user error or negligence. Many commenters express skepticism about trusting Meta, citing the company's history of data mishandling. There is also a discussion about the challenges of sandboxing AI agents to balance utility and security, with some suggesting that current systems are inadequate and that more granular permissions are needed.
+
+Notable insights include the idea that AI agents should be treated like users with limited access to prevent potential misuse, and the recognition that the risks associated with granting broad permissions to such agents are often underestimated. Overall, the conversation highlights a significant concern about the intersection of AI technology and user privacy, particularly in the context of Meta's track record.

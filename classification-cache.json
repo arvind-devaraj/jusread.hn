@@ -160663,6 +160663,10 @@
     "probability": 0.476,
     "title": "Go Concurrency Distilled"
   },
+  "49857231": {
+    "probability": 0.441,
+    "title": "The art forger who became a national hero"
+  },
   "49857281": {
     "probability": 0.703,
     "title": "There is more to code review than (automatable) detection"
@@ -160807,6 +160811,10 @@
     "probability": 0.587,
     "title": "Show HN: Building a Markdown editor for Mac, iOS and web"
   },
+  "49866783": {
+    "probability": 0.567,
+    "title": "Software occlusion culling in Block Game"
+  },
   "49866903": {
     "probability": 0.236,
     "title": "Who Killed Paulina Borsook's Career?"
@@ -160867,6 +160875,10 @@
     "probability": 0.624,
     "title": "Oral history of John Chowning, inventor of FM synthesis [video]"
   },
+  "49869441": {
+    "probability": 0.479,
+    "title": "Digital Audio on the ZX Spectrum's 1-Bit Beeper"
+  },
   "49869574": {
     "probability": 0.488,
     "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi"
@@ -160914,6 +160926,10 @@
   "49870928": {
     "probability": 0.226,
     "title": "EV Sales Are Booming in Europe with Gasoline at $10 a Gallon"
+  },
+  "49871018": {
+    "probability": 0.431,
+    "title": "NAND-16: a computer built from 277,248 NAND gates"
   },
   "49871992": {
     "probability": 0.23,
@@ -161035,6 +161051,10 @@
     "probability": 0.346,
     "title": "Coding is not solved"
   },
+  "49878093": {
+    "probability": 0.392,
+    "title": "Walking Men"
+  },
   "49878331": {
     "probability": 0.256,
     "title": "Israel Keeps Expanding into Gaza Despite Cease-Fire, Satellite Images Show"
@@ -161042,6 +161062,10 @@
   "49878759": {
     "probability": 0.269,
     "title": "I switched to Brave"
+  },
+  "49878857": {
+    "probability": 0.593,
+    "title": "A Staff Engineer's Guide to Inventing Work"
   },
   "49878900": {
     "probability": 0.772,
@@ -161151,6 +161175,10 @@
     "probability": 0.17,
     "title": "California farmers are struggling to sell grapes as demand for wine drops"
   },
+  "49883635": {
+    "probability": 0.585,
+    "title": "Virus Stole a Human Gene and Won't Let Go of It"
+  },
   "49883760": {
     "probability": 0.267,
     "title": "World Labs Is Joining AMD"
@@ -161223,6 +161251,14 @@
     "probability": 0.708,
     "title": "AI companies leak data to advertisers [pdf]"
   },
+  "49890647": {
+    "probability": 0.696,
+    "title": "Show HN: Raven – The harness of harnesses, built for RSI"
+  },
+  "49890829": {
+    "probability": 0.578,
+    "title": "New Cyber-OSINT model released"
+  },
   "49891290": {
     "probability": 0.882,
     "title": "Jeeves. Reasoning improves Jev-like decision models"
@@ -161238,5 +161274,113 @@
   "49891550": {
     "probability": 0.209,
     "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS"
+  },
+  "49891769": {
+    "probability": 0.818,
+    "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound"
+  },
+  "49891881": {
+    "probability": 0.261,
+    "title": "Climate is accumulating 4 Hiroshima atomic bombs worth of heat per second"
+  },
+  "49892120": {
+    "probability": 0.202,
+    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds"
+  },
+  "49892175": {
+    "probability": 0.391,
+    "title": "Sustainable energy without the hot air (2008)"
+  },
+  "49892245": {
+    "probability": 0.257,
+    "title": "How Delhi cut electricity loss from 50 to 5 percent"
+  },
+  "49892721": {
+    "probability": 0.321,
+    "title": "The new Firefox design is here"
+  },
+  "49893157": {
+    "probability": 0.778,
+    "title": "Ask HN: What are you reading?"
+  },
+  "49893266": {
+    "probability": 0.57,
+    "title": "Where's the \"Intelligence Explosion\"?"
+  },
+  "49893509": {
+    "probability": 0.394,
+    "title": "America.gov"
+  },
+  "49893653": {
+    "probability": 0.336,
+    "title": "Google ending ChromeOS support two years early"
+  },
+  "49893709": {
+    "probability": 0.908,
+    "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions"
+  },
+  "49893876": {
+    "probability": 0.647,
+    "title": "Claude partial outage"
+  },
+  "49894005": {
+    "probability": 0.427,
+    "title": "macOS Golden Gate Is a Buggy Mess"
+  },
+  "49894351": {
+    "probability": 0.558,
+    "title": "Show HN: NSL – WSL for Linux"
+  },
+  "49895304": {
+    "probability": 0.376,
+    "title": "PS5 Relapse Exploit"
+  },
+  "49896050": {
+    "probability": 0.705,
+    "title": "DraftKings is using AI to behaviorally target chronic gamblers"
+  },
+  "49896586": {
+    "probability": 0.683,
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price"
+  },
+  "49896600": {
+    "probability": 0.26,
+    "title": "DevDay 2026 Recap"
+  },
+  "49896604": {
+    "probability": 0.661,
+    "title": "Dots: Always-on agents"
+  },
+  "49896712": {
+    "probability": 0.452,
+    "title": "Tcl/Tk 9.1"
+  },
+  "49896975": {
+    "probability": 0.551,
+    "title": "ChatGPT Pro 500"
+  },
+  "49897075": {
+    "probability": 0.606,
+    "title": "GLM-5.3 and the spread of advanced cyber capabilities"
+  },
+  "49897826": {
+    "probability": 0.369,
+    "title": "The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging"
+  },
+  "49898877": {
+    "probability": 0.436,
+    "title": "Nicholas Polson has authored 258 academic papers in 2026 so far"
+  },
+  "49898952": {
+    "probability": 0.433,
+    "title": "AI needs $6T in annual revenue to justify data centre boom"
+  },
+  "49899051": {
+    "probability": 0.286,
+    "title": "Memory Companies Have Destroyed the Consumer Market"
+  },
+  "49899090": {
+    "probability": 0.215,
+    "title": "U.S. postal inspectors shut down website selling counterfeit postage labels"
   }
 }
