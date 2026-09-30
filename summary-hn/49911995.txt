@@ -1,0 +1,8 @@
+Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents  (104 pts, 44 comments)
+https://news.ycombinator.com/item?id=49911995
+
+The Hacker News discussion revolves around the launch of Magnitude, an open-source inference engine designed for running AI agents efficiently on local hardware. Developed by Anders and Tom, the engine aims to optimize performance across various platforms (Mac, Linux, Windows) and is reported to be up to twice as fast as existing solutions like llama.cpp. Key features include on-device compilation, dynamic memory allocation, and hybrid paged attention, which collectively enhance performance while allowing users to run multiple agent sessions simultaneously without significant resource strain.
+
+In the comments, users express curiosity about the business model, with the founders suggesting a future hybrid workload approach that combines local and cloud inference, charging per token for cloud services. There is also a discussion about the benchmarks provided, with some users questioning their methodology and seeking comparisons with other engines like MLX. Notably, some commenters highlight the need for better multi-GPU support and express skepticism about the performance claims, while others praise the potential of Magnitude to improve local model inference.
+
+Overall, the conversation reflects a mix of excitement about the innovative features of Magnitude and a critical examination of its performance claims and future capabilities, particularly regarding multi-device utilization and support for larger models.

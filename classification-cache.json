@@ -161087,6 +161087,10 @@
     "probability": 0.731,
     "title": "Jensen Huang says AI distillation is 'competition.'"
   },
+  "49879346": {
+    "probability": 0.591,
+    "title": "Getting out of the way: my robotics crash course"
+  },
   "49879401": {
     "probability": 0.635,
     "title": "Show HN: HN.watch – Videos of all Hacker News posts"
@@ -161106,6 +161110,10 @@
   "49879702": {
     "probability": 0.35,
     "title": "Hijacking the PS5's RTMP stream"
+  },
+  "49879758": {
+    "probability": 0.64,
+    "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality"
   },
   "49879883": {
     "probability": 0.856,
@@ -161159,6 +161167,10 @@
     "probability": 0.365,
     "title": "GrapheneOS – When an app is slow"
   },
+  "49882754": {
+    "probability": 0.348,
+    "title": "Burning Man death rates – A short lesson in statistics"
+  },
   "49882781": {
     "probability": 0.676,
     "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser"
@@ -161203,6 +161215,10 @@
     "probability": 0.552,
     "title": "Testing WebGPU data layouts with Facet"
   },
+  "49883970": {
+    "probability": 0.396,
+    "title": "I could've accessed 17T Microsoft records"
+  },
   "49884119": {
     "probability": 0.782,
     "title": "Pacing the Frontier is not the actual goal for AI labs"
@@ -161210,6 +161226,10 @@
   "49884169": {
     "probability": 0.518,
     "title": "Palantir founder purchases large swath of forest in Sweden"
+  },
+  "49884346": {
+    "probability": 0.611,
+    "title": "Reverse-engineering a $35 backup camera display (AMT630A)"
   },
   "49884363": {
     "probability": 0.476,
@@ -161279,6 +161299,10 @@
     "probability": 0.696,
     "title": "Show HN: Raven – The harness of harnesses, built for RSI"
   },
+  "49890707": {
+    "probability": 0.706,
+    "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot"
+  },
   "49890733": {
     "probability": 0.461,
     "title": "NASA asked several former SR-71A staffers to help secret restart"
@@ -161307,6 +161331,10 @@
     "probability": 0.209,
     "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS"
   },
+  "49891721": {
+    "probability": 0.793,
+    "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'"
+  },
   "49891769": {
     "probability": 0.818,
     "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound"
@@ -161330,6 +161358,14 @@
   "49892721": {
     "probability": 0.321,
     "title": "The new Firefox design is here"
+  },
+  "49893002": {
+    "probability": 0.392,
+    "title": "Backblaze drive stats for Q2 2026"
+  },
+  "49893144": {
+    "probability": 0.391,
+    "title": "Building a certificate authority for the whole Internet"
   },
   "49893157": {
     "probability": 0.778,
@@ -161491,6 +161527,10 @@
     "probability": 0.686,
     "title": "Why Is Sam Altman a Free Man?"
   },
+  "49906432": {
+    "probability": 0.519,
+    "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm"
+  },
   "49906637": {
     "probability": 0.563,
     "title": "Pi.dev: You Said No MCP"
@@ -161502,5 +161542,73 @@
   "49907057": {
     "probability": 0.254,
     "title": "Most data centers refusing to say how much water, electricity they use"
+  },
+  "49908394": {
+    "probability": 0.339,
+    "title": "The last time my family was replaced by technology"
+  },
+  "49908757": {
+    "probability": 0.336,
+    "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available"
+  },
+  "49908962": {
+    "probability": 0.579,
+    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering"
+  },
+  "49909056": {
+    "probability": 0.841,
+    "title": "What TLA+ can and can't check"
+  },
+  "49909583": {
+    "probability": 0.316,
+    "title": "A brief history of the Bloomberg terminal"
+  },
+  "49909610": {
+    "probability": 0.3,
+    "title": "SDF Public Access Unix System ... est. 1987"
+  },
+  "49910553": {
+    "probability": 0.638,
+    "title": "The AI Race Just Got Awkward"
+  },
+  "49910613": {
+    "probability": 0.515,
+    "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management"
+  },
+  "49911757": {
+    "probability": 0.778,
+    "title": "Commit description as a thinking tool"
+  },
+  "49911759": {
+    "probability": 0.381,
+    "title": "Let's Ditch Google (Verb)"
+  },
+  "49911928": {
+    "probability": 0.632,
+    "title": "Claude Says"
+  },
+  "49911995": {
+    "probability": 0.902,
+    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents"
+  },
+  "49912444": {
+    "probability": 0.375,
+    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs"
+  },
+  "49912955": {
+    "probability": 0.435,
+    "title": "Surprisingly complex waves reveal the brain's inner workings"
+  },
+  "49913192": {
+    "probability": 0.328,
+    "title": "EDG C++ front-end goes public"
+  },
+  "49913255": {
+    "probability": 0.372,
+    "title": "America.gov goes crazy on \"play Minecraft\""
+  },
+  "49913571": {
+    "probability": 0.519,
+    "title": "Gemini 4 Argon"
   }
 }

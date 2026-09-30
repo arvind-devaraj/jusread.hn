@@ -1,0 +1,8 @@
+What TLA+ can and can't check  (116 pts, 28 comments)
+https://news.ycombinator.com/item?id=49909056
+
+The Hacker News discussion revolves around a post titled "What TLA+ can and can't check," which explores the capabilities and limitations of TLA+ (Temporal Logic of Actions), a formal specification language used for modeling and verifying system behaviors. The author emphasizes that while TLA+ can help create formal models and check properties of systems, it cannot fully replace the need for human understanding in software development.
+
+In the comments, there is a consensus that while formal verification tools like TLA+ can enhance software design, they are not a panacea. Some commenters argue that relying solely on probabilistic models or LLMs (Large Language Models) without a solid grasp of the underlying concepts can lead to issues. Others discuss the challenges of ensuring that TLA+ specifications align with actual implementations, highlighting the gap between formal models and practical coding. Notably, there are discussions about the limitations of TLA+ in modeling concurrent systems and weak memory semantics, as well as the potential of other tools like Quint to simplify formal modeling.
+
+Overall, the discussion reflects a nuanced view of TLA+ as a valuable tool in software development, but one that requires a foundational understanding of the systems being built to be truly effective.
