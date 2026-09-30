@@ -160727,6 +160727,10 @@
     "probability": 0.395,
     "title": "DeepSeek Elastic Compute (DSec)"
   },
+  "49859482": {
+    "probability": 0.432,
+    "title": "Commodore 64: Mercenary"
+  },
   "49859759": {
     "probability": 0.398,
     "title": "Video CDs Break Windows Explorer"
@@ -160798,6 +160802,10 @@
   "49865343": {
     "probability": 0.949,
     "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice"
+  },
+  "49866031": {
+    "probability": 0.17,
+    "title": "Stuck in the Suez Canal – the short version (2021)"
   },
   "49866515": {
     "probability": 0.387,
@@ -161191,6 +161199,10 @@
     "probability": 0.817,
     "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms"
   },
+  "49883913": {
+    "probability": 0.552,
+    "title": "Testing WebGPU data layouts with Facet"
+  },
   "49884119": {
     "probability": 0.782,
     "title": "Pacing the Frontier is not the actual goal for AI labs"
@@ -161227,9 +161239,21 @@
     "probability": 0.472,
     "title": "Tank Body Problem"
   },
+  "49886535": {
+    "probability": 0.546,
+    "title": "Built Dental Scope"
+  },
   "49887337": {
     "probability": 0.25,
     "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982"
+  },
+  "49887343": {
+    "probability": 0.498,
+    "title": "Solving Factorio Quality"
+  },
+  "49888182": {
+    "probability": 0.301,
+    "title": "When oil prices spike, where does the money go?"
   },
   "49889275": {
     "probability": 0.188,
@@ -161255,9 +161279,17 @@
     "probability": 0.696,
     "title": "Show HN: Raven – The harness of harnesses, built for RSI"
   },
+  "49890733": {
+    "probability": 0.461,
+    "title": "NASA asked several former SR-71A staffers to help secret restart"
+  },
   "49890829": {
     "probability": 0.578,
     "title": "New Cyber-OSINT model released"
+  },
+  "49891203": {
+    "probability": 0.87,
+    "title": "Language models for text classification: From bag-of-words to Jev"
   },
   "49891290": {
     "probability": 0.882,
@@ -161335,6 +161367,10 @@
     "probability": 0.376,
     "title": "PS5 Relapse Exploit"
   },
+  "49895864": {
+    "probability": 0.458,
+    "title": "Needed 1+1, built a functional programming language"
+  },
   "49896050": {
     "probability": 0.705,
     "title": "DraftKings is using AI to behaviorally target chronic gamblers"
@@ -161355,6 +161391,10 @@
     "probability": 0.452,
     "title": "Tcl/Tk 9.1"
   },
+  "49896757": {
+    "probability": 0.802,
+    "title": "Show HN: A working 3D model of an Enigma machine"
+  },
   "49896975": {
     "probability": 0.551,
     "title": "ChatGPT Pro 500"
@@ -161367,9 +161407,25 @@
     "probability": 0.369,
     "title": "The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging"
   },
+  "49897993": {
+    "probability": 0.399,
+    "title": "Vermont replacing power plants with home batteries"
+  },
+  "49898050": {
+    "probability": 0.423,
+    "title": "We’re forgetting what darkness feels like"
+  },
+  "49898778": {
+    "probability": 0.448,
+    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites"
+  },
   "49898877": {
     "probability": 0.436,
     "title": "Nicholas Polson has authored 258 academic papers in 2026 so far"
+  },
+  "49898931": {
+    "probability": 0.852,
+    "title": "Show HN: TurboGPT: train 22KiB transformer in 13s"
   },
   "49898952": {
     "probability": 0.433,
@@ -161382,5 +161438,69 @@
   "49899090": {
     "probability": 0.215,
     "title": "U.S. postal inspectors shut down website selling counterfeit postage labels"
+  },
+  "49899453": {
+    "probability": 0.76,
+    "title": "McDonald's push to have AI price your Big Mac"
+  },
+  "49901149": {
+    "probability": 0.257,
+    "title": "Deser: Rethinking Rust Serialization"
+  },
+  "49901736": {
+    "probability": 0.627,
+    "title": "Livenerf: Has Opus 5.5 been nerfed yet?"
+  },
+  "49901973": {
+    "probability": 0.388,
+    "title": "How our vibe coded website looks like a designer made it"
+  },
+  "49902019": {
+    "probability": 0.335,
+    "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor"
+  },
+  "49903712": {
+    "probability": 0.484,
+    "title": "Ballmer Peak"
+  },
+  "49903713": {
+    "probability": 0.886,
+    "title": "Responsible Release of AI-Generated Mathematics"
+  },
+  "49903862": {
+    "probability": 0.38,
+    "title": "RSS Feeds for Last.fm"
+  },
+  "49903993": {
+    "probability": 0.694,
+    "title": "PSSA: A non-transformer language model written from scratch in Rust"
+  },
+  "49904314": {
+    "probability": 0.716,
+    "title": "LinkedIn Larpmaxxing"
+  },
+  "49904408": {
+    "probability": 0.418,
+    "title": "Tesla takes on $30B in credit as it approaches unprofitability"
+  },
+  "49905487": {
+    "probability": 0.225,
+    "title": "September 2026: The world today, as seen by one Polish guy"
+  },
+  "49905633": {
+    "probability": 0.686,
+    "title": "Why Is Sam Altman a Free Man?"
+  },
+  "49906637": {
+    "probability": 0.563,
+    "title": "Pi.dev: You Said No MCP"
+  },
+  "49906669": {
+    "probability": 0.657,
+    "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence"
+  },
+  "49907057": {
+    "probability": 0.254,
+    "title": "Most data centers refusing to say how much water, electricity they use"
   }
 }

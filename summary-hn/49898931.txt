@@ -1,0 +1,6 @@
+Show HN: TurboGPT: train 22KiB transformer in 13s  (52 pts, 9 comments)
+https://news.ycombinator.com/item?id=49898931
+
+The Hacker News discussion revolves around a project called TurboGPT, which allows users to train a 22KiB transformer model in just 13 seconds. The project is inspired by minGPT and is intended for home experiments, though it currently requires CUDA 13.4 and has a build script that is Windows-only. The creator, lostmsu, emphasizes the utility of TurboGPT for scaling experiments more quickly than existing models.
+
+In the comments, there is a mix of curiosity and skepticism regarding the motivation behind such projects. Some users question the value of creating yet another model, suggesting that many of these projects may not offer significant learning opportunities compared to established ones like Karpathy's minGPT. Others speculate that developers might be motivated by the desire to enhance their resumes or simply for the fun of coding. Lostmsu defends the project by highlighting its speed and potential for home experimentation, indicating that it serves a niche need for those looking to explore transformer architectures more efficiently.
