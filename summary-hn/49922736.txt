@@ -1,0 +1,8 @@
+Identity Management for Agentic AI [pdf] (2025)  (66 pts, 22 comments)
+https://news.ycombinator.com/item?id=49922736
+
+The Hacker News discussion revolves around a white paper titled "Identity Management for Agentic AI," which addresses the challenges of authentication, authorization, and identity management in the context of increasingly autonomous AI agents. The paper emphasizes the need for clarified best practices and protocols as AI agents become more prevalent.
+
+In the comments, there is a mix of agreement and debate regarding the terminology used in identity management, particularly the distinction between authentication (proving identity) and authorization (granting permissions). Some commenters express concern about the implications of "agent-native identity," suggesting it could lead to unaccountability. Others highlight the importance of having a human in the loop to authorize actions taken by AI agents, emphasizing that agents should not be treated as independent identities.
+
+Notable insights include discussions on the complexities of integrating AI agents into existing identity management frameworks and the potential for new standards to emerge. Commenters also share their experiences and projects related to identity management for AI, indicating a growing interest in establishing robust protocols in this evolving field.

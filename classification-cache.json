@@ -161395,6 +161395,10 @@
     "probability": 0.394,
     "title": "America.gov"
   },
+  "49893519": {
+    "probability": 0.359,
+    "title": "Adding Floating-Point Decimals for Fun and Profit"
+  },
   "49893653": {
     "probability": 0.336,
     "title": "Google ending ChromeOS support two years early"
@@ -161414,6 +161418,10 @@
   "49894351": {
     "probability": 0.558,
     "title": "Show HN: NSL – WSL for Linux"
+  },
+  "49894430": {
+    "probability": 0.449,
+    "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns"
   },
   "49895304": {
     "probability": 0.376,
@@ -161595,6 +161603,10 @@
     "probability": 0.579,
     "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering"
   },
+  "49909005": {
+    "probability": 0.546,
+    "title": "Los Alamos bets on ENIAC: Nuclear Monte Carlo simulations, 1947–1948 (2014) [pdf]"
+  },
   "49909056": {
     "probability": 0.841,
     "title": "What TLA+ can and can't check"
@@ -161607,6 +161619,14 @@
     "probability": 0.3,
     "title": "SDF Public Access Unix System ... est. 1987"
   },
+  "49909648": {
+    "probability": 0.912,
+    "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose"
+  },
+  "49909908": {
+    "probability": 0.555,
+    "title": "Coltrane's Tone Circle"
+  },
   "49910553": {
     "probability": 0.638,
     "title": "The AI Race Just Got Awkward"
@@ -161614,6 +161634,10 @@
   "49910613": {
     "probability": 0.515,
     "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management"
+  },
+  "49911500": {
+    "probability": 0.834,
+    "title": "Show HN: Open-source model routing for coding agents at Astra-level performance"
   },
   "49911534": {
     "probability": 0.529,
@@ -161679,6 +161703,10 @@
     "probability": 0.358,
     "title": "Reddit is putting more limits on old.reddit.com"
   },
+  "49913604": {
+    "probability": 0.604,
+    "title": "Functional Ultrasound Imaging (fUSI) from scratch"
+  },
   "49913731": {
     "probability": 0.359,
     "title": "Denying Insulin and Meds: Disturbing Pictures of Neglect in ICE Mortality Report"
@@ -161694,6 +161722,10 @@
   "49914236": {
     "probability": 0.693,
     "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis"
+  },
+  "49915060": {
+    "probability": 0.338,
+    "title": "IANA's email about why example.com changed"
   },
   "49915082": {
     "probability": 0.468,
@@ -161735,6 +161767,10 @@
     "probability": 0.416,
     "title": "Returning from vacation? The government can search your phone without a warrant"
   },
+  "49920896": {
+    "probability": 0.255,
+    "title": "How to speed up the Rust compiler in September 2026"
+  },
   "49920932": {
     "probability": 0.35,
     "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026"
@@ -161742,5 +161778,117 @@
   "49920997": {
     "probability": 0.335,
     "title": "Google breaks promise to provide 10 years of updates to Chromebooks"
+  },
+  "49921050": {
+    "probability": 0.862,
+    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks"
+  },
+  "49921051": {
+    "probability": 0.606,
+    "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism"
+  },
+  "49921118": {
+    "probability": 0.549,
+    "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes"
+  },
+  "49921923": {
+    "probability": 0.292,
+    "title": "Cloudflare K2: serverless event streams"
+  },
+  "49922212": {
+    "probability": 0.566,
+    "title": "How to set up SPF, DKIM, and DMARC for your sending domain"
+  },
+  "49922278": {
+    "probability": 0.45,
+    "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones"
+  },
+  "49922437": {
+    "probability": 0.931,
+    "title": "Context Language Models"
+  },
+  "49922515": {
+    "probability": 0.443,
+    "title": "RacketCon Is Saturday"
+  },
+  "49922568": {
+    "probability": 0.729,
+    "title": "Ask HN: Who wants to be hired? (October 2026)"
+  },
+  "49922569": {
+    "probability": 0.671,
+    "title": "Ask HN: Who is hiring? (October 2026)"
+  },
+  "49922674": {
+    "probability": 0.513,
+    "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers"
+  },
+  "49922729": {
+    "probability": 0.625,
+    "title": "Figma restricts MCP access to whitelisted clients, excluding Pi"
+  },
+  "49922736": {
+    "probability": 0.913,
+    "title": "Identity Management for Agentic AI [pdf] (2025)"
+  },
+  "49923056": {
+    "probability": 0.315,
+    "title": "Red Hat being phased out of existence?"
+  },
+  "49923466": {
+    "probability": 0.452,
+    "title": "RIP, vector database"
+  },
+  "49923575": {
+    "probability": 0.295,
+    "title": "Canada fast-tracks Pacific oil pipeline to reduce US dependence"
+  },
+  "49923638": {
+    "probability": 0.641,
+    "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes"
+  },
+  "49923692": {
+    "probability": 0.936,
+    "title": "Clef: Open-source decision models, and new RL fine-tuning platform"
+  },
+  "49924179": {
+    "probability": 0.298,
+    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake"
+  },
+  "49924275": {
+    "probability": 0.449,
+    "title": "ParadeDB Search Performance Improvements"
+  },
+  "49924354": {
+    "probability": 0.363,
+    "title": "SlutCon"
+  },
+  "49924618": {
+    "probability": 0.85,
+    "title": "Vote on which of Hacker News' challenges for AI have been met"
+  },
+  "49925036": {
+    "probability": 0.486,
+    "title": "Bez: Generating a browser engine from specs and tests"
+  },
+  "49925742": {
+    "probability": 0.258,
+    "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life"
+  },
+  "49925969": {
+    "probability": 0.419,
+    "title": "Pi Durable"
+  },
+  "49926069": {
+    "probability": 0.411,
+    "title": "Pi 1.0"
+  },
+  "49926628": {
+    "probability": 0.722,
+    "title": "Automatic Transmission – a data-privacy study of connected vehicles"
+  },
+  "49927100": {
+    "probability": 0.176,
+    "title": "The death of web development education"
   }
 }

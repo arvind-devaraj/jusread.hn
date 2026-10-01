@@ -1,0 +1,8 @@
+Show HN: Open-source model routing for coding agents at Astra-level performance  (70 pts, 20 comments)
+https://news.ycombinator.com/item?id=49911500
+
+The Hacker News discussion revolves around the announcement of Weave Router 2.0, an open-source model routing system designed to optimize coding agents' performance by intelligently switching between different large language models (LLMs). The creators claim that their ensemble approach outperforms individual models like GPT-6 Astra in terms of cost and speed, achieving significant improvements through a new architecture, a larger training dataset, and smarter cache-eviction strategies.
+
+In the comments, users express interest in the technical details of the router, comparing it to existing solutions like Cursor's auto mode and Copilot's routing capabilities. There is a debate about how effectively the router can handle model selection and the implications of using labeled data from frontier models. Some users question whether the router can exceed the performance of these models beyond cost efficiency, while others highlight the importance of its ability to adapt to different coding tasks.
+
+Notable insights include the recognition of the complexity involved in routing decisions and the potential for the Weave Router to improve coding efficiency significantly. The developers emphasize their commitment to continuous improvement and the open-source nature of their project, inviting further experimentation and collaboration from the community.
