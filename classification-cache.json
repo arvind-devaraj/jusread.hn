@@ -161167,6 +161167,10 @@
     "probability": 0.365,
     "title": "GrapheneOS – When an app is slow"
   },
+  "49882419": {
+    "probability": 0.432,
+    "title": "Reducing undefined behavior in the C language"
+  },
   "49882754": {
     "probability": 0.348,
     "title": "Burning Man death rates – A short lesson in statistics"
@@ -161275,6 +161279,10 @@
     "probability": 0.301,
     "title": "When oil prices spike, where does the money go?"
   },
+  "49889140": {
+    "probability": 0.489,
+    "title": "Mathematical Origami"
+  },
   "49889275": {
     "probability": 0.188,
     "title": "US Forces Exit Iraq"
@@ -161282,6 +161290,10 @@
   "49889306": {
     "probability": 0.759,
     "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription"
+  },
+  "49889780": {
+    "probability": 0.854,
+    "title": "Meta's new AI agent built lists of people in vulnerable groups on request"
   },
   "49889934": {
     "probability": 0.291,
@@ -161302,6 +161314,10 @@
   "49890707": {
     "probability": 0.706,
     "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot"
+  },
+  "49890732": {
+    "probability": 0.094,
+    "title": "Why the Bronze Age Collapsed"
   },
   "49890733": {
     "probability": 0.461,
@@ -161495,6 +161511,18 @@
     "probability": 0.335,
     "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor"
   },
+  "49902093": {
+    "probability": 0.49,
+    "title": "Floppy Emu Hardware Failure Analysis Results"
+  },
+  "49902382": {
+    "probability": 0.585,
+    "title": "Show HN: Ledge.sh – Runnable Markdown Notes"
+  },
+  "49903383": {
+    "probability": 0.376,
+    "title": "Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)"
+  },
   "49903712": {
     "probability": 0.484,
     "title": "Ballmer Peak"
@@ -161526,6 +161554,18 @@
   "49905633": {
     "probability": 0.686,
     "title": "Why Is Sam Altman a Free Man?"
+  },
+  "49905644": {
+    "probability": 0.753,
+    "title": "Doing a Machine Learning PhD While Working in Japan"
+  },
+  "49905979": {
+    "probability": 0.329,
+    "title": "Pentagon Influencer Called Liberal Women 'Pestilence' Who Will End Civilization"
+  },
+  "49906100": {
+    "probability": 0.761,
+    "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network"
   },
   "49906432": {
     "probability": 0.519,
@@ -161575,6 +161615,10 @@
     "probability": 0.515,
     "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management"
   },
+  "49911534": {
+    "probability": 0.529,
+    "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")"
+  },
   "49911757": {
     "probability": 0.778,
     "title": "Commit description as a thinking tool"
@@ -161591,9 +161635,17 @@
     "probability": 0.902,
     "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents"
   },
+  "49912048": {
+    "probability": 0.528,
+    "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)"
+  },
   "49912444": {
     "probability": 0.375,
     "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs"
+  },
+  "49912792": {
+    "probability": 0.323,
+    "title": "Before pixels: Modular industrial dashboards"
   },
   "49912955": {
     "probability": 0.435,
@@ -161607,8 +161659,88 @@
     "probability": 0.372,
     "title": "America.gov goes crazy on \"play Minecraft\""
   },
+  "49913350": {
+    "probability": 0.692,
+    "title": "Halfspace experimental IDE for solid modeling with distance fields"
+  },
+  "49913364": {
+    "probability": 0.39,
+    "title": "Dear Software Makers"
+  },
+  "49913458": {
+    "probability": 0.712,
+    "title": "CS240 AI Cheating Retrospective"
+  },
   "49913571": {
     "probability": 0.519,
     "title": "Gemini 4 Argon"
+  },
+  "49913588": {
+    "probability": 0.358,
+    "title": "Reddit is putting more limits on old.reddit.com"
+  },
+  "49913731": {
+    "probability": 0.359,
+    "title": "Denying Insulin and Meds: Disturbing Pictures of Neglect in ICE Mortality Report"
+  },
+  "49913975": {
+    "probability": 0.501,
+    "title": "Gitea 28.0"
+  },
+  "49914149": {
+    "probability": 0.608,
+    "title": "Anthropic's IPO Prospectus Is a Fucking Doozy"
+  },
+  "49914236": {
+    "probability": 0.693,
+    "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis"
+  },
+  "49915082": {
+    "probability": 0.468,
+    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)"
+  },
+  "49915126": {
+    "probability": 0.23,
+    "title": "56k.rip – the 1996 dial-up internet experience"
+  },
+  "49916668": {
+    "probability": 0.323,
+    "title": "10-year Treasury yield climbs above 5.3% to a level not seen in 24 years"
+  },
+  "49916955": {
+    "probability": 0.366,
+    "title": "Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program"
+  },
+  "49917089": {
+    "probability": 0.37,
+    "title": "California bans child marriage, a practice still legal in 32 US states"
+  },
+  "49917761": {
+    "probability": 0.479,
+    "title": "Fuck Android Developer Verification Program"
+  },
+  "49918161": {
+    "probability": 0.549,
+    "title": "Suits Are Better Tech Than Modern Clothes"
+  },
+  "49919910": {
+    "probability": 0.587,
+    "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design"
+  },
+  "49920160": {
+    "probability": 0.328,
+    "title": "StreetComplete on iOS is now in public beta"
+  },
+  "49920234": {
+    "probability": 0.416,
+    "title": "Returning from vacation? The government can search your phone without a warrant"
+  },
+  "49920932": {
+    "probability": 0.35,
+    "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026"
+  },
+  "49920997": {
+    "probability": 0.335,
+    "title": "Google breaks promise to provide 10 years of updates to Chromebooks"
   }
 }
