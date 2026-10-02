@@ -161795,6 +161795,10 @@
     "probability": 0.549,
     "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes"
   },
+  "49921798": {
+    "probability": 0.529,
+    "title": "Turbo Haskell"
+  },
   "49921923": {
     "probability": 0.292,
     "title": "Cloudflare K2: serverless event streams"
@@ -161883,6 +161887,18 @@
     "probability": 0.486,
     "title": "Bez: Generating a browser engine from specs and tests"
   },
+  "49925184": {
+    "probability": 0.248,
+    "title": "Mike Tomlin spent 12 years building a Minecraft city"
+  },
+  "49925602": {
+    "probability": 0.604,
+    "title": "Anatomy of a Lean proof for software engineers"
+  },
+  "49925653": {
+    "probability": 0.568,
+    "title": "Giving friends custom text buzzes based on Morse code"
+  },
   "49925742": {
     "probability": 0.258,
     "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life"
@@ -161895,9 +161911,17 @@
     "probability": 0.419,
     "title": "Pi Durable"
   },
+  "49925974": {
+    "probability": 0.624,
+    "title": "FLUX 3 Image"
+  },
   "49926069": {
     "probability": 0.411,
     "title": "Pi 1.0"
+  },
+  "49926411": {
+    "probability": 0.476,
+    "title": "Loss of cell identity drives human aging: Two new papers"
   },
   "49926512": {
     "probability": 0.418,
@@ -161931,6 +161955,14 @@
     "probability": 0.289,
     "title": "CSS Bed: Classless CSS themes to use as starting points in web development"
   },
+  "49927747": {
+    "probability": 0.624,
+    "title": "Sites in ChatGPT"
+  },
+  "49927754": {
+    "probability": 0.512,
+    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility"
+  },
   "49927760": {
     "probability": 0.599,
     "title": "Frog and Toad and the Increasingly Capable Machines"
@@ -161947,9 +161979,21 @@
     "probability": 0.208,
     "title": "A fifth of Swiss Alpine ice has vanished in five years"
   },
+  "49928566": {
+    "probability": 0.672,
+    "title": "Show HN: Giving Opus 5.5 a simulated paint canvas"
+  },
+  "49928963": {
+    "probability": 0.26,
+    "title": "Nazi Germany had no hope of making an atomic bomb, uranium cubes reveal"
+  },
   "49929113": {
     "probability": 0.416,
     "title": "How Singapore's government-run dating service works"
+  },
+  "49929391": {
+    "probability": 0.74,
+    "title": "Greg Kroah-Hartman – Security in the LLM Age [video]"
   },
   "49929489": {
     "probability": 0.632,
@@ -161967,6 +162011,10 @@
     "probability": 0.321,
     "title": "US tells France and Germany to release diesel stocks or face US export ban"
   },
+  "49931031": {
+    "probability": 0.765,
+    "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor"
+  },
   "49931926": {
     "probability": 0.354,
     "title": "Alarm Grows over 'Clearly Illegal' US Election Meddling in Brazil"
@@ -161974,5 +162022,105 @@
   "49932048": {
     "probability": 0.314,
     "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl"
+  },
+  "49932147": {
+    "probability": 0.261,
+    "title": "A 12-year sequence of telescope images of a star and four planets orbiting"
+  },
+  "49932383": {
+    "probability": 0.227,
+    "title": "European payments groups join forces to challenge US dominance"
+  },
+  "49932402": {
+    "probability": 0.671,
+    "title": "On social reality in China"
+  },
+  "49932610": {
+    "probability": 0.402,
+    "title": "Redditor buys used CPU, turns out it was banned on Valorant and they are SoL"
+  },
+  "49933230": {
+    "probability": 0.15,
+    "title": "Venice’s failed war against Constantinople led to the first bond market"
+  },
+  "49933235": {
+    "probability": 0.681,
+    "title": "The Legend of von Neumann (1973) [pdf]"
+  },
+  "49933251": {
+    "probability": 0.523,
+    "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow"
+  },
+  "49933459": {
+    "probability": 0.85,
+    "title": "Don't be fooled–LLMs don't reason"
+  },
+  "49933740": {
+    "probability": 0.66,
+    "title": "With most information hidden, the game Stratego had stumped AI until now"
+  },
+  "49933958": {
+    "probability": 0.357,
+    "title": "Amazon seeks to offload $8B of Nvidia chips to investors"
+  },
+  "49934228": {
+    "probability": 0.227,
+    "title": "Big Tech ruined the cloud, so we're renaming ours"
+  },
+  "49934487": {
+    "probability": 0.746,
+    "title": "AI Makes Me Sad"
+  },
+  "49934511": {
+    "probability": 0.748,
+    "title": "The Four Horsemen of Agentic Coding"
+  },
+  "49934620": {
+    "probability": 0.624,
+    "title": "One month coding with GLM 5.3 Flash"
+  },
+  "49934784": {
+    "probability": 0.333,
+    "title": "Supabase is acquiring Turso"
+  },
+  "49935751": {
+    "probability": 0.491,
+    "title": "Dutch computer museums (2022)"
+  },
+  "49935867": {
+    "probability": 0.483,
+    "title": "ICC judge on what U.S. sanctions mean for her and global courts"
+  },
+  "49936575": {
+    "probability": 0.64,
+    "title": "From the creator of Redis; run LLM locally with ds4"
+  },
+  "49936725": {
+    "probability": 0.502,
+    "title": "Crypto Capture of Foreign Aid"
+  },
+  "49937276": {
+    "probability": 0.428,
+    "title": "Apple Pass Designer"
+  },
+  "49937504": {
+    "probability": 0.69,
+    "title": "Muse Gadgets"
+  },
+  "49937631": {
+    "probability": 0.528,
+    "title": "Updates to Full Disk Access in macOS"
+  },
+  "49937718": {
+    "probability": 0.552,
+    "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression"
+  },
+  "49938047": {
+    "probability": 0.196,
+    "title": "Everyone's Packing Up"
+  },
+  "49938521": {
+    "probability": 0.569,
+    "title": "Zig v0.17.0"
   }
 }

@@ -1,0 +1,8 @@
+Don't be fooled–LLMs don't reason  (62 pts, 140 comments)
+https://news.ycombinator.com/item?id=49933459
+
+The Hacker News discussion revolves around an article titled "Don't be fooled–LLMs don't reason," which argues that large language models (LLMs) do not possess true reasoning capabilities, despite their ability to produce seemingly intelligent outputs. The article suggests that the mechanisms behind LLMs differ fundamentally from human reasoning, leading to a debate about the nature of intelligence and reasoning in machines.
+
+In the comments, there is a mix of agreement and disagreement regarding the article's claims. Some users argue that comparing LLMs to human reasoning is misleading, emphasizing that different mechanisms can still yield similar results. Others contend that LLMs, while effective, lack genuine understanding or reasoning, likening their outputs to mere statistical predictions rather than thoughtful responses. Notably, some commenters express skepticism about the human-like qualities attributed to LLMs, suggesting that people are often fooled by their outputs due to cognitive biases.
+
+Overall, the discussion highlights a broader debate about the definitions of reasoning and intelligence, the limitations of LLMs, and the implications of labeling these systems as "AI." Many participants advocate for a clearer understanding of what LLMs are and caution against anthropomorphizing their capabilities.
