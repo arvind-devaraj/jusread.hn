@@ -161755,6 +161755,10 @@
     "probability": 0.549,
     "title": "Suits Are Better Tech Than Modern Clothes"
   },
+  "49919676": {
+    "probability": 0.491,
+    "title": "To grieve, or not to grieve?"
+  },
   "49919910": {
     "probability": 0.587,
     "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design"
@@ -161819,6 +161823,10 @@
     "probability": 0.671,
     "title": "Ask HN: Who is hiring? (October 2026)"
   },
+  "49922594": {
+    "probability": 0.704,
+    "title": "Polyedergarten: Garden of Paper Polyhedron Models"
+  },
   "49922674": {
     "probability": 0.513,
     "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers"
@@ -161863,6 +161871,10 @@
     "probability": 0.363,
     "title": "SlutCon"
   },
+  "49924387": {
+    "probability": 0.427,
+    "title": "macOS 27 is so buggy"
+  },
   "49924618": {
     "probability": 0.85,
     "title": "Vote on which of Hacker News' challenges for AI have been met"
@@ -161875,6 +161887,10 @@
     "probability": 0.258,
     "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life"
   },
+  "49925812": {
+    "probability": 0.482,
+    "title": "Effect 4.0"
+  },
   "49925969": {
     "probability": 0.419,
     "title": "Pi Durable"
@@ -161883,12 +161899,80 @@
     "probability": 0.411,
     "title": "Pi 1.0"
   },
+  "49926512": {
+    "probability": 0.418,
+    "title": "ArXiv's Updated Rate Limit Policy"
+  },
+  "49926536": {
+    "probability": 0.379,
+    "title": "SvelteKit 3"
+  },
   "49926628": {
     "probability": 0.722,
     "title": "Automatic Transmission – a data-privacy study of connected vehicles"
   },
+  "49926726": {
+    "probability": 0.512,
+    "title": "Show HN: Rhun, an open-source code editor written in assembly"
+  },
+  "49926773": {
+    "probability": 0.708,
+    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia"
+  },
+  "49926917": {
+    "probability": 0.512,
+    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo"
+  },
   "49927100": {
     "probability": 0.176,
     "title": "The death of web development education"
+  },
+  "49927212": {
+    "probability": 0.289,
+    "title": "CSS Bed: Classless CSS themes to use as starting points in web development"
+  },
+  "49927760": {
+    "probability": 0.599,
+    "title": "Frog and Toad and the Increasingly Capable Machines"
+  },
+  "49928121": {
+    "probability": 0.33,
+    "title": "Several vulnerabilities have been discovered in the Linux kernel"
+  },
+  "49928152": {
+    "probability": 0.496,
+    "title": "Butterflies use optical illusions to dodge predators"
+  },
+  "49928218": {
+    "probability": 0.208,
+    "title": "A fifth of Swiss Alpine ice has vanished in five years"
+  },
+  "49929113": {
+    "probability": 0.416,
+    "title": "How Singapore's government-run dating service works"
+  },
+  "49929489": {
+    "probability": 0.632,
+    "title": "DeepSeek Harness Desktop for macOS and Windows"
+  },
+  "49929970": {
+    "probability": 0.628,
+    "title": "Meta's Muse is fantastic for web scraping"
+  },
+  "49930047": {
+    "probability": 0.338,
+    "title": "Shimano Bicycle Museum Review"
+  },
+  "49930086": {
+    "probability": 0.321,
+    "title": "US tells France and Germany to release diesel stocks or face US export ban"
+  },
+  "49931926": {
+    "probability": 0.354,
+    "title": "Alarm Grows over 'Clearly Illegal' US Election Meddling in Brazil"
+  },
+  "49932048": {
+    "probability": 0.314,
+    "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl"
   }
 }
