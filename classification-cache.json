@@ -161747,6 +161747,10 @@
     "probability": 0.37,
     "title": "California bans child marriage, a practice still legal in 32 US states"
   },
+  "49917378": {
+    "probability": 0.64,
+    "title": "Is sandboxing sufficient to contain rogue agents?"
+  },
   "49917761": {
     "probability": 0.479,
     "title": "Fuck Android Developer Verification Program"
@@ -161891,6 +161895,10 @@
     "probability": 0.248,
     "title": "Mike Tomlin spent 12 years building a Minecraft city"
   },
+  "49925261": {
+    "probability": 0.564,
+    "title": "Sudo – A dedicated music player designed around listening to music"
+  },
   "49925602": {
     "probability": 0.604,
     "title": "Anatomy of a Lean proof for software engineers"
@@ -161930,6 +161938,10 @@
   "49926536": {
     "probability": 0.379,
     "title": "SvelteKit 3"
+  },
+  "49926609": {
+    "probability": 0.281,
+    "title": "Now That's an Impurity Story"
   },
   "49926628": {
     "probability": 0.722,
@@ -161974,6 +161986,14 @@
   "49928152": {
     "probability": 0.496,
     "title": "Butterflies use optical illusions to dodge predators"
+  },
+  "49928192": {
+    "probability": 0.414,
+    "title": "Tiny Brutalism"
+  },
+  "49928215": {
+    "probability": 0.605,
+    "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors"
   },
   "49928218": {
     "probability": 0.208,
@@ -162023,9 +162043,21 @@
     "probability": 0.314,
     "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl"
   },
+  "49932079": {
+    "probability": 0.258,
+    "title": "F.02 Decommission"
+  },
   "49932147": {
     "probability": 0.261,
     "title": "A 12-year sequence of telescope images of a star and four planets orbiting"
+  },
+  "49932191": {
+    "probability": 0.41,
+    "title": "Our Project Suncatcher prototype satellite is in orbit"
+  },
+  "49932340": {
+    "probability": 0.495,
+    "title": "Blogging with Gleam, Org-Mode and Pandoc"
   },
   "49932383": {
     "probability": 0.227,
@@ -162038,6 +162070,10 @@
   "49932610": {
     "probability": 0.402,
     "title": "Redditor buys used CPU, turns out it was banned on Valorant and they are SoL"
+  },
+  "49932911": {
+    "probability": 0.46,
+    "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's"
   },
   "49933230": {
     "probability": 0.15,
@@ -162059,6 +162095,10 @@
     "probability": 0.66,
     "title": "With most information hidden, the game Stratego had stumped AI until now"
   },
+  "49933869": {
+    "probability": 0.661,
+    "title": "The Forgetful CPU (Linux on M4)"
+  },
   "49933958": {
     "probability": 0.357,
     "title": "Amazon seeks to offload $8B of Nvidia chips to investors"
@@ -162066,6 +162106,10 @@
   "49934228": {
     "probability": 0.227,
     "title": "Big Tech ruined the cloud, so we're renaming ours"
+  },
+  "49934399": {
+    "probability": 0.583,
+    "title": "How accurately calibrated is Jev?"
   },
   "49934487": {
     "probability": 0.746,
@@ -162107,6 +162151,10 @@
     "probability": 0.69,
     "title": "Muse Gadgets"
   },
+  "49937540": {
+    "probability": 0.621,
+    "title": "Make Tmux the OS"
+  },
   "49937631": {
     "probability": 0.528,
     "title": "Updates to Full Disk Access in macOS"
@@ -162115,12 +162163,56 @@
     "probability": 0.552,
     "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression"
   },
+  "49937916": {
+    "probability": 0.927,
+    "title": "Show HN: Made an open-source Lego AI generator"
+  },
   "49938047": {
     "probability": 0.196,
     "title": "Everyone's Packing Up"
   },
+  "49938306": {
+    "probability": 0.194,
+    "title": "Barcodes are about to go extinct"
+  },
+  "49938477": {
+    "probability": 0.521,
+    "title": "ICE Has Been Dumping Protester Photos into a Palantir Database"
+  },
   "49938521": {
     "probability": 0.569,
     "title": "Zig v0.17.0"
+  },
+  "49938616": {
+    "probability": 0.605,
+    "title": "Every SaaS business will become a harness around a model"
+  },
+  "49939773": {
+    "probability": 0.43,
+    "title": "<input type=\"password\" maxlength=\"20\"> prevents me from logging into Vanguard"
+  },
+  "49940219": {
+    "probability": 0.33,
+    "title": "Things that apparently cause cancer"
+  },
+  "49940394": {
+    "probability": 0.379,
+    "title": "Newgrounds.com – A community of games, music, and art"
+  },
+  "49940505": {
+    "probability": 0.225,
+    "title": "Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble"
+  },
+  "49941091": {
+    "probability": 0.532,
+    "title": "Cloudflare OHTTP gateway"
+  },
+  "49941114": {
+    "probability": 0.657,
+    "title": "Extra Big Ass Intelligence"
+  },
+  "49941447": {
+    "probability": 0.393,
+    "title": "An Update on Orion for Linux and Windows"
   }
 }
