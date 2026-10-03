@@ -161663,6 +161663,10 @@
     "probability": 0.528,
     "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)"
   },
+  "49912091": {
+    "probability": 0.399,
+    "title": "Billions of triangles redux"
+  },
   "49912444": {
     "probability": 0.375,
     "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs"
@@ -161751,6 +161755,10 @@
     "probability": 0.64,
     "title": "Is sandboxing sufficient to contain rogue agents?"
   },
+  "49917536": {
+    "probability": 0.464,
+    "title": "What is going on with ceiling fans"
+  },
   "49917761": {
     "probability": 0.479,
     "title": "Fuck Android Developer Verification Program"
@@ -161802,6 +161810,10 @@
   "49921798": {
     "probability": 0.529,
     "title": "Turbo Haskell"
+  },
+  "49921825": {
+    "probability": 0.353,
+    "title": "OKI Develops 124-Layer PCB Technology"
   },
   "49921923": {
     "probability": 0.292,
@@ -161866,6 +161878,10 @@
   "49923692": {
     "probability": 0.936,
     "title": "Clef: Open-source decision models, and new RL fine-tuning platform"
+  },
+  "49923873": {
+    "probability": 0.4,
+    "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager"
   },
   "49924179": {
     "probability": 0.298,
@@ -161999,6 +162015,10 @@
     "probability": 0.208,
     "title": "A fifth of Swiss Alpine ice has vanished in five years"
   },
+  "49928361": {
+    "probability": 0.476,
+    "title": "C++ Insights – See your source code with the eyes of a Compiler"
+  },
   "49928566": {
     "probability": 0.672,
     "title": "Show HN: Giving Opus 5.5 a simulated paint canvas"
@@ -162038,6 +162058,10 @@
   "49931926": {
     "probability": 0.354,
     "title": "Alarm Grows over 'Clearly Illegal' US Election Meddling in Brazil"
+  },
+  "49931993": {
+    "probability": 0.554,
+    "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux"
   },
   "49932048": {
     "probability": 0.314,
@@ -162119,6 +162143,10 @@
     "probability": 0.748,
     "title": "The Four Horsemen of Agentic Coding"
   },
+  "49934569": {
+    "probability": 0.376,
+    "title": "Power approval set to delay Oracle's Wisconsin AI datacenter"
+  },
   "49934620": {
     "probability": 0.624,
     "title": "One month coding with GLM 5.3 Flash"
@@ -162143,9 +162171,17 @@
     "probability": 0.502,
     "title": "Crypto Capture of Foreign Aid"
   },
+  "49937146": {
+    "probability": 0.406,
+    "title": "The Nintendo 64 Partner-N64 Development Kit"
+  },
   "49937276": {
     "probability": 0.428,
     "title": "Apple Pass Designer"
+  },
+  "49937304": {
+    "probability": 0.498,
+    "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server"
   },
   "49937504": {
     "probability": 0.69,
@@ -162175,6 +162211,10 @@
     "probability": 0.194,
     "title": "Barcodes are about to go extinct"
   },
+  "49938399": {
+    "probability": 0.426,
+    "title": "Woking Electrical Control Room (2016)"
+  },
   "49938477": {
     "probability": 0.521,
     "title": "ICE Has Been Dumping Protester Photos into a Palantir Database"
@@ -162187,9 +162227,17 @@
     "probability": 0.605,
     "title": "Every SaaS business will become a harness around a model"
   },
+  "49938815": {
+    "probability": 0.493,
+    "title": "Federal Judge Rules a Flock Search Was Unconstitutional"
+  },
   "49939773": {
     "probability": 0.43,
     "title": "<input type=\"password\" maxlength=\"20\"> prevents me from logging into Vanguard"
+  },
+  "49939788": {
+    "probability": 0.298,
+    "title": "Shut up and take our money: Amazon plows $1B into quashing datacenter dissent"
   },
   "49940219": {
     "probability": 0.33,
@@ -162214,5 +162262,77 @@
   "49941447": {
     "probability": 0.393,
     "title": "An Update on Orion for Linux and Windows"
+  },
+  "49942211": {
+    "probability": 0.501,
+    "title": "Why should I have to pay more for buses if I don't use a smartphone?"
+  },
+  "49942434": {
+    "probability": 0.733,
+    "title": "Show HN: Offrun – manage every coding agent from one workspace"
+  },
+  "49942592": {
+    "probability": 0.602,
+    "title": "Gemini ending free use of Flash and Pro models"
+  },
+  "49942706": {
+    "probability": 0.598,
+    "title": "Kolibri: A Sovereign Open-Weight Model"
+  },
+  "49942818": {
+    "probability": 0.404,
+    "title": "GitHub's new dashboard experience now the default"
+  },
+  "49943034": {
+    "probability": 0.785,
+    "title": "Aleph Alpha Kolibri: How the sovereign German LLM works"
+  },
+  "49943451": {
+    "probability": 0.217,
+    "title": "The Escalation of War in Ethiopia"
+  },
+  "49944127": {
+    "probability": 0.736,
+    "title": "US killer's sentence quashed because of AI video of victim shown in court"
+  },
+  "49944227": {
+    "probability": 0.696,
+    "title": "I Quit OpenAI Because Its Culture Is Broken"
+  },
+  "49944912": {
+    "probability": 0.403,
+    "title": "FTL: A new operating system for clouds"
+  },
+  "49945323": {
+    "probability": 0.438,
+    "title": "City building games have a Soul Problem pt.2"
+  },
+  "49946069": {
+    "probability": 0.335,
+    "title": "Kolibri – Tech Report [pdf]"
+  },
+  "49946321": {
+    "probability": 0.728,
+    "title": "Pop!_OS bans AI-generated code from much of its codebase"
+  },
+  "49946393": {
+    "probability": 0.496,
+    "title": "Hole Punch: Sling your spaceship around gravitational fields"
+  },
+  "49946403": {
+    "probability": 0.755,
+    "title": "ADHD, autism or complex trauma? [pdf]"
+  },
+  "49946567": {
+    "probability": 0.633,
+    "title": "Getting the most out of Opus 5.5 in Claude and Claude Code"
+  },
+  "49946873": {
+    "probability": 0.751,
+    "title": "Our AI Midwife"
+  },
+  "49947051": {
+    "probability": 0.291,
+    "title": "We want you to build the next Git platform on Cloudflare"
   }
 }
