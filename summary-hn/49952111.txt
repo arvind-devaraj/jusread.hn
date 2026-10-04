@@ -1,0 +1,8 @@
+Show HN: AI search for every photo and every frame of video on macOS  (127 pts, 60 comments)
+https://news.ycombinator.com/item?id=49952111
+
+The Hacker News discussion revolves around a project titled "AI search for every photo and every frame of video on macOS," which aims to enhance the search capabilities for media files on Mac computers using AI. The project is hosted on GitHub and is designed to help users efficiently find specific images or video frames within large libraries.
+
+In the comments, users express both interest and concerns about the tool's performance, particularly regarding the time required for processing extensive video libraries, with one user mentioning they have 12,000 videos. There is a debate about the effectiveness of different sampling methods, such as frame sampling and scene detection, with suggestions for optimizing processing times. Some users also compare this tool to existing solutions like Apple Photos and Immich, discussing their experiences and preferences.
+
+Notable insights include the recognition of the growing need for efficient media management tools, especially as high-resolution cameras become more accessible. Additionally, there are discussions about copyright issues related to software functionality and the choice of programming languages for development, with some users advocating for alternatives to JavaScript and Electron for better performance. Overall, the conversation highlights both the excitement for innovative AI applications in media management and the practical challenges users face.

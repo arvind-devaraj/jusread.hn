@@ -161595,6 +161595,10 @@
     "probability": 0.339,
     "title": "The last time my family was replaced by technology"
   },
+  "49908570": {
+    "probability": 0.658,
+    "title": "Your body of work thinks back at you"
+  },
   "49908757": {
     "probability": 0.336,
     "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available"
@@ -161630,6 +161634,10 @@
   "49910462": {
     "probability": 0.48,
     "title": "So you think you could be an electrician?"
+  },
+  "49910465": {
+    "probability": 0.585,
+    "title": "cp: -r or -R?"
   },
   "49910553": {
     "probability": 0.638,
@@ -162055,6 +162063,10 @@
     "probability": 0.321,
     "title": "US tells France and Germany to release diesel stocks or face US export ban"
   },
+  "49930439": {
+    "probability": 0.529,
+    "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash"
+  },
   "49931031": {
     "probability": 0.765,
     "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor"
@@ -162119,6 +162131,10 @@
     "probability": 0.85,
     "title": "Don't be fooled–LLMs don't reason"
   },
+  "49933461": {
+    "probability": 0.391,
+    "title": "A map of every lighthouse"
+  },
   "49933740": {
     "probability": 0.66,
     "title": "With most information hidden, the game Stratego had stumped AI until now"
@@ -162130,6 +162146,10 @@
   "49933958": {
     "probability": 0.357,
     "title": "Amazon seeks to offload $8B of Nvidia chips to investors"
+  },
+  "49934078": {
+    "probability": 0.348,
+    "title": "Results from the ASIC puzzle"
   },
   "49934228": {
     "probability": 0.227,
@@ -162163,6 +162183,14 @@
     "probability": 0.333,
     "title": "Supabase is acquiring Turso"
   },
+  "49935038": {
+    "probability": 0.628,
+    "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs"
+  },
+  "49935097": {
+    "probability": 0.634,
+    "title": "gpuvis: GPU Trace Visualizer"
+  },
   "49935751": {
     "probability": 0.491,
     "title": "Dutch computer museums (2022)"
@@ -162170,6 +162198,10 @@
   "49935867": {
     "probability": 0.483,
     "title": "ICC judge on what U.S. sanctions mean for her and global courts"
+  },
+  "49936017": {
+    "probability": 0.439,
+    "title": "Dirty Optimization Secrets (C for Playdate)"
   },
   "49936575": {
     "probability": 0.64,
@@ -162242,6 +162274,10 @@
   "49938815": {
     "probability": 0.493,
     "title": "Federal Judge Rules a Flock Search Was Unconstitutional"
+  },
+  "49939637": {
+    "probability": 0.638,
+    "title": "The Heilbronn Problem"
   },
   "49939773": {
     "probability": 0.43,
@@ -162379,6 +162415,10 @@
     "probability": 0.633,
     "title": "Getting the most out of Opus 5.5 in Claude and Claude Code"
   },
+  "49946707": {
+    "probability": 0.539,
+    "title": "How to hack time, with C2PA"
+  },
   "49946827": {
     "probability": 0.305,
     "title": "Two American Airlines Flights End Up with the Same Flight Numbers"
@@ -162455,8 +162495,48 @@
     "probability": 0.522,
     "title": "UK Government Body Kept Files on People Criticizing Prevent Program"
   },
+  "49951218": {
+    "probability": 0.415,
+    "title": "Emitting metadata early makes building/checking Rust up to twice as fast"
+  },
+  "49951641": {
+    "probability": 0.9,
+    "title": "What's the future for pure math research in the age of AI?"
+  },
   "49951881": {
     "probability": 0.255,
     "title": "In Ukraine, distributed renewables foil Russia's assaults"
+  },
+  "49952029": {
+    "probability": 0.294,
+    "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next"
+  },
+  "49952111": {
+    "probability": 0.885,
+    "title": "Show HN: AI search for every photo and every frame of video on macOS"
+  },
+  "49953116": {
+    "probability": 0.761,
+    "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children"
+  },
+  "49953495": {
+    "probability": 0.434,
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s"
+  },
+  "49954882": {
+    "probability": 0.62,
+    "title": "Car is a smartphone on wheels. Here's who's listening"
+  },
+  "49955297": {
+    "probability": 0.742,
+    "title": "Blindsight (Watts Novel)"
+  },
+  "49957068": {
+    "probability": 0.281,
+    "title": "Improper redaction reveals Google Data Center water and electricity usage"
+  },
+  "49957116": {
+    "probability": 0.609,
+    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back"
   }
 }
