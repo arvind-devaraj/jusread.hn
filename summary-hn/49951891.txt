@@ -1,0 +1,8 @@
+How to scale intent, quality, and artistry with AI [video]  (95 pts, 38 comments)
+https://news.ycombinator.com/item?id=49951891
+
+The Hacker News discussion revolves around a video titled "How to scale intent, quality, and artistry with AI," which explores the challenges and strategies of integrating AI into creative processes without compromising artistic integrity. The video emphasizes the importance of being intentional and thoughtful when using AI tools, rather than succumbing to the temptation of producing low-quality, rapid outputs.
+
+In the comments, there is a mix of agreement and debate regarding the video's premise. Some users appreciate the video's insights on avoiding "AI slop" and the need for intentionality in design, while others express skepticism about the idea of "scaling" artistry, arguing that true quality and creativity cannot be mass-produced. A recurring theme is the tension between the efficiency of AI-generated content and the value of human creativity, with some commenters noting that the market may increasingly favor low-effort AI outputs over more deliberate, high-quality work.
+
+Notable insights include the recognition that while AI can enhance productivity, it may also lead to a dilution of quality in creative fields. Some commenters argue that the rise of AI-generated content could create a "race to the bottom," where the expectation for quality diminishes as consumers become accustomed to cheaper, faster outputs. Others maintain that genuine artistry will always find a way to stand out, suggesting that the discerning audience will ultimately reject inferior AI-generated work in favor of authentic human creativity.

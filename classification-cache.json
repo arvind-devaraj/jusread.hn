@@ -161755,6 +161755,10 @@
     "probability": 0.323,
     "title": "10-year Treasury yield climbs above 5.3% to a level not seen in 24 years"
   },
+  "49916753": {
+    "probability": 0.441,
+    "title": "Page Table Memory Consumption"
+  },
   "49916955": {
     "probability": 0.366,
     "title": "Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program"
@@ -161775,6 +161779,10 @@
     "probability": 0.479,
     "title": "Fuck Android Developer Verification Program"
   },
+  "49917900": {
+    "probability": 0.699,
+    "title": "Differences Between `Foldl` and `Foldr`"
+  },
   "49918161": {
     "probability": 0.549,
     "title": "Suits Are Better Tech Than Modern Clothes"
@@ -161794,6 +161802,10 @@
   "49920234": {
     "probability": 0.416,
     "title": "Returning from vacation? The government can search your phone without a warrant"
+  },
+  "49920332": {
+    "probability": 0.524,
+    "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia"
   },
   "49920896": {
     "probability": 0.255,
@@ -161830,6 +161842,10 @@
   "49921923": {
     "probability": 0.292,
     "title": "Cloudflare K2: serverless event streams"
+  },
+  "49922074": {
+    "probability": 0.374,
+    "title": "Amazon introduces a redesigned Kindle family"
   },
   "49922212": {
     "probability": 0.566,
@@ -162067,6 +162083,10 @@
     "probability": 0.529,
     "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash"
   },
+  "49930690": {
+    "probability": 0.711,
+    "title": "Quantitative Finance with OCaml"
+  },
   "49931031": {
     "probability": 0.765,
     "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor"
@@ -162094,6 +162114,10 @@
   "49932191": {
     "probability": 0.41,
     "title": "Our Project Suncatcher prototype satellite is in orbit"
+  },
+  "49932236": {
+    "probability": 0.565,
+    "title": "The Tao of Backup"
   },
   "49932340": {
     "probability": 0.495,
@@ -162134,6 +162158,10 @@
   "49933461": {
     "probability": 0.391,
     "title": "A map of every lighthouse"
+  },
+  "49933476": {
+    "probability": 0.886,
+    "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers"
   },
   "49933740": {
     "probability": 0.66,
@@ -162275,6 +162303,10 @@
     "probability": 0.493,
     "title": "Federal Judge Rules a Flock Search Was Unconstitutional"
   },
+  "49939308": {
+    "probability": 0.434,
+    "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex"
+  },
   "49939637": {
     "probability": 0.638,
     "title": "The Heilbronn Problem"
@@ -162286,6 +162318,14 @@
   "49939788": {
     "probability": 0.298,
     "title": "Shut up and take our money: Amazon plows $1B into quashing datacenter dissent"
+  },
+  "49940044": {
+    "probability": 0.592,
+    "title": "Demystifying Tufte's data-ink ratio"
+  },
+  "49940152": {
+    "probability": 0.348,
+    "title": "Cloudflare opens more Enterprise-only features to all customers"
   },
   "49940219": {
     "probability": 0.33,
@@ -162359,6 +162399,18 @@
     "probability": 0.217,
     "title": "The Escalation of War in Ethiopia"
   },
+  "49943479": {
+    "probability": 0.503,
+    "title": "Type Safe Generic Data Structures in C"
+  },
+  "49943637": {
+    "probability": 0.385,
+    "title": "Infidel goes wild"
+  },
+  "49943685": {
+    "probability": 0.499,
+    "title": "Watson Jr. memo about CDC 6600 (1963)"
+  },
   "49944127": {
     "probability": 0.736,
     "title": "US killer's sentence quashed because of AI video of victim shown in court"
@@ -162386,6 +162438,10 @@
   "49946076": {
     "probability": 0.531,
     "title": "Vx – One Language, Every Chip"
+  },
+  "49946148": {
+    "probability": 0.495,
+    "title": "Automating my 35mm film scanning pipeline"
   },
   "49946228": {
     "probability": 0.858,
@@ -162451,6 +162507,10 @@
     "probability": 0.499,
     "title": "Surely you have ultra-wideband radios on your bins too?"
   },
+  "49947565": {
+    "probability": 0.442,
+    "title": "'Neanderthals Among Us' review"
+  },
   "49947631": {
     "probability": 0.418,
     "title": "Reasons I didn't become an EMT, ranked"
@@ -162458,6 +162518,10 @@
   "49948254": {
     "probability": 0.651,
     "title": "Federal judge calls Flock 'indiscriminate mass surveillance'"
+  },
+  "49948300": {
+    "probability": 0.237,
+    "title": "We ported the original Doom to SQL"
   },
   "49948332": {
     "probability": 0.72,
@@ -162507,6 +162571,10 @@
     "probability": 0.255,
     "title": "In Ukraine, distributed renewables foil Russia's assaults"
   },
+  "49951891": {
+    "probability": 0.9,
+    "title": "How to scale intent, quality, and artistry with AI [video]"
+  },
   "49952029": {
     "probability": 0.294,
     "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next"
@@ -162519,9 +162587,17 @@
     "probability": 0.761,
     "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children"
   },
+  "49953288": {
+    "probability": 0.419,
+    "title": "Bill Draper has died"
+  },
   "49953495": {
     "probability": 0.434,
     "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s"
+  },
+  "49953777": {
+    "probability": 0.591,
+    "title": "The evolution of effective altruism"
   },
   "49954882": {
     "probability": 0.62,
@@ -162531,6 +162607,22 @@
     "probability": 0.742,
     "title": "Blindsight (Watts Novel)"
   },
+  "49956003": {
+    "probability": 0.311,
+    "title": "Xray-core concealed a certificate verification bypass vulnerability"
+  },
+  "49956035": {
+    "probability": 0.673,
+    "title": "Incentives in Academic Research"
+  },
+  "49956092": {
+    "probability": 0.384,
+    "title": "All I wanted was a custom domain email"
+  },
+  "49956681": {
+    "probability": 0.315,
+    "title": "A browser-native classic Visual Basic VB6 IDE"
+  },
   "49957068": {
     "probability": 0.281,
     "title": "Improper redaction reveals Google Data Center water and electricity usage"
@@ -162538,5 +162630,73 @@
   "49957116": {
     "probability": 0.609,
     "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back"
+  },
+  "49957117": {
+    "probability": 0.58,
+    "title": "Homa: The end of TCP for AI clusters [video]"
+  },
+  "49957812": {
+    "probability": 0.335,
+    "title": "In the wake of Tippett Studios’ closure, a digital archive appears online"
+  },
+  "49958569": {
+    "probability": 0.419,
+    "title": "Self-hosted HTTP tunnels with SSH and Nginx"
+  },
+  "49958850": {
+    "probability": 0.498,
+    "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust"
+  },
+  "49959654": {
+    "probability": 0.446,
+    "title": "A 40ms Go garbage collector pause caused by swap"
+  },
+  "49959869": {
+    "probability": 0.292,
+    "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch"
+  },
+  "49960084": {
+    "probability": 0.252,
+    "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague"
+  },
+  "49960901": {
+    "probability": 0.333,
+    "title": "Replacement of petroleum based products with plant-based materials (2025)"
+  },
+  "49961057": {
+    "probability": 0.542,
+    "title": "Anthropic reported diary entry to police, woman faces felony charge"
+  },
+  "49961861": {
+    "probability": 0.537,
+    "title": "Huawei and Qualcomm Announce Broad Patent License Agreement"
+  },
+  "49961890": {
+    "probability": 0.343,
+    "title": "Sales of sub-€25,000 electric car models set to rise sevenfold"
+  },
+  "49962012": {
+    "probability": 0.31,
+    "title": "Denmark Data Breach Exposes 8.8M People's Personal Data"
+  },
+  "49962857": {
+    "probability": 0.509,
+    "title": "Apple and a Hacker's Future"
+  },
+  "49963094": {
+    "probability": 0.354,
+    "title": "Press Release: Nobel Prize in Physiology or Medicine 2026"
+  },
+  "49963171": {
+    "probability": 0.492,
+    "title": "Web Search API"
+  },
+  "49963366": {
+    "probability": 0.402,
+    "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation"
+  },
+  "49964303": {
+    "probability": 0.487,
+    "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped"
   }
 }
