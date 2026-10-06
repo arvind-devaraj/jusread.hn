@@ -1,0 +1,8 @@
+Accept 'bad things' in return for benefits of AI, says Sam Altman  (58 pts, 113 comments)
+https://news.ycombinator.com/item?id=49964248
+
+The Hacker News discussion revolves around a statement made by Sam Altman, CEO of OpenAI, suggesting that society may need to accept certain "bad things" as a trade-off for the benefits of artificial intelligence (AI). The article highlights the potential risks associated with AI advancements, prompting a debate among commenters about what these "bad things" might entail.
+
+In the comments, there is a mix of agreement and disagreement regarding the implications of Altman's statement. Some users express concern about the potential for increased violence and societal harm, particularly towards AI executives, while others argue that the benefits of AI should not justify accepting negative consequences. A recurring theme is the notion of trade-offs in technology, with some commenters emphasizing that progress does not have to come at the expense of societal well-being.
+
+Notable insights include the idea that the acceptance of bad outcomes could lead to a normalization of violence and injustice, while others contend that trade-offs are an inherent part of technological advancement. Overall, the discussion reflects a deep concern about the ethical implications of AI and the responsibilities of its developers and society at large.

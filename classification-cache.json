@@ -161591,6 +161591,10 @@
     "probability": 0.254,
     "title": "Most data centers refusing to say how much water, electricity they use"
   },
+  "49908055": {
+    "probability": 0.505,
+    "title": "Lace and Labor: Lessons from the actual Luddites"
+  },
   "49908394": {
     "probability": 0.339,
     "title": "The last time my family was replaced by technology"
@@ -161807,6 +161811,10 @@
     "probability": 0.524,
     "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia"
   },
+  "49920785": {
+    "probability": 0.522,
+    "title": "The first fully implanted cochlear implant reaches patients"
+  },
   "49920896": {
     "probability": 0.255,
     "title": "How to speed up the Rust compiler in September 2026"
@@ -161891,6 +161899,10 @@
     "probability": 0.315,
     "title": "Red Hat being phased out of existence?"
   },
+  "49923125": {
+    "probability": 0.589,
+    "title": "Safe Optimistic Lock Coupling"
+  },
   "49923466": {
     "probability": 0.452,
     "title": "RIP, vector database"
@@ -161930,6 +161942,10 @@
   "49924618": {
     "probability": 0.85,
     "title": "Vote on which of Hacker News' challenges for AI have been met"
+  },
+  "49924795": {
+    "probability": 0.555,
+    "title": "ExplainDB: A Database System Built for Understandability"
   },
   "49925036": {
     "probability": 0.486,
@@ -162087,6 +162103,10 @@
     "probability": 0.711,
     "title": "Quantitative Finance with OCaml"
   },
+  "49930872": {
+    "probability": 0.603,
+    "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news"
+  },
   "49931031": {
     "probability": 0.765,
     "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor"
@@ -162130,6 +162150,10 @@
   "49932402": {
     "probability": 0.671,
     "title": "On social reality in China"
+  },
+  "49932606": {
+    "probability": 0.665,
+    "title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude"
   },
   "49932610": {
     "probability": 0.402,
@@ -162279,6 +162303,10 @@
     "probability": 0.196,
     "title": "Everyone's Packing Up"
   },
+  "49938270": {
+    "probability": 0.485,
+    "title": "How to save a life without knowing CPR"
+  },
   "49938306": {
     "probability": 0.194,
     "title": "Barcodes are about to go extinct"
@@ -162363,6 +162391,10 @@
     "probability": 0.472,
     "title": "Memory-Safe WebP Decoding"
   },
+  "49942002": {
+    "probability": 0.893,
+    "title": "Understanding Frontier Artificial Intelligence"
+  },
   "49942103": {
     "probability": 0.522,
     "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?"
@@ -162391,6 +162423,10 @@
     "probability": 0.404,
     "title": "GitHub's new dashboard experience now the default"
   },
+  "49942865": {
+    "probability": 0.807,
+    "title": "An AI agent emailed researchers for help. It told us why"
+  },
   "49943034": {
     "probability": 0.785,
     "title": "Aleph Alpha Kolibri: How the sovereign German LLM works"
@@ -162411,6 +162447,10 @@
     "probability": 0.499,
     "title": "Watson Jr. memo about CDC 6600 (1963)"
   },
+  "49944049": {
+    "probability": 0.504,
+    "title": "Competitive Programmer's Handbook (2018) [pdf]"
+  },
   "49944127": {
     "probability": 0.736,
     "title": "US killer's sentence quashed because of AI video of victim shown in court"
@@ -162426,6 +162466,10 @@
   "49945323": {
     "probability": 0.438,
     "title": "City building games have a Soul Problem pt.2"
+  },
+  "49945352": {
+    "probability": 0.383,
+    "title": "Docker has always used microVMs (well since 2016)"
   },
   "49945933": {
     "probability": 0.825,
@@ -162583,6 +162627,10 @@
     "probability": 0.885,
     "title": "Show HN: AI search for every photo and every frame of video on macOS"
   },
+  "49952148": {
+    "probability": 0.675,
+    "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear"
+  },
   "49953116": {
     "probability": 0.761,
     "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children"
@@ -162618,6 +162666,10 @@
   "49956092": {
     "probability": 0.384,
     "title": "All I wanted was a custom domain email"
+  },
+  "49956290": {
+    "probability": 0.293,
+    "title": "The technology to eradicate mosquito-borne disease exists"
   },
   "49956681": {
     "probability": 0.315,
@@ -162679,6 +162731,10 @@
     "probability": 0.31,
     "title": "Denmark Data Breach Exposes 8.8M People's Personal Data"
   },
+  "49962572": {
+    "probability": 0.464,
+    "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel"
+  },
   "49962857": {
     "probability": 0.509,
     "title": "Apple and a Hacker's Future"
@@ -162695,8 +162751,132 @@
     "probability": 0.402,
     "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation"
   },
+  "49963385": {
+    "probability": 0.379,
+    "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust"
+  },
+  "49964018": {
+    "probability": 0.385,
+    "title": "The era of software quality, or the era of ostriches?"
+  },
+  "49964045": {
+    "probability": 0.492,
+    "title": "Tell HN: Uceprotect is extorting website owners"
+  },
+  "49964248": {
+    "probability": 0.907,
+    "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman"
+  },
+  "49964265": {
+    "probability": 0.529,
+    "title": "Gitframes"
+  },
   "49964303": {
     "probability": 0.487,
     "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped"
+  },
+  "49964537": {
+    "probability": 0.694,
+    "title": "Spending on AI is becoming almost impossible for businesses to budget"
+  },
+  "49965047": {
+    "probability": 0.571,
+    "title": "Picard 3.0"
+  },
+  "49965118": {
+    "probability": 0.159,
+    "title": "Linux containers in 500 lines of code (2016)"
+  },
+  "49965152": {
+    "probability": 0.561,
+    "title": "The lamps in my house"
+  },
+  "49965308": {
+    "probability": 0.567,
+    "title": "Making a GTK application in Haskell, part 1"
+  },
+  "49965497": {
+    "probability": 0.299,
+    "title": "\"I'm Embarrassed on Behalf of the Tech Industry\""
+  },
+  "49965894": {
+    "probability": 0.385,
+    "title": "Borland Turbo Basic"
+  },
+  "49966163": {
+    "probability": 0.285,
+    "title": "The future of independence is interdependence"
+  },
+  "49966293": {
+    "probability": 0.598,
+    "title": "Our approach to EU text provenance rules"
+  },
+  "49967444": {
+    "probability": 0.386,
+    "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia"
+  },
+  "49968105": {
+    "probability": 0.902,
+    "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects"
+  },
+  "49968402": {
+    "probability": 0.595,
+    "title": "Norway Eyes Partial Ban of Smart Glasses"
+  },
+  "49968708": {
+    "probability": 0.264,
+    "title": "Greenvolt begins building 600 MW/2.4 GWh BESS in Poland"
+  },
+  "49968906": {
+    "probability": 0.38,
+    "title": "Plain text is still one of the best technologies we have"
+  },
+  "49969070": {
+    "probability": 0.335,
+    "title": "One person can now be a quorum at the SEC"
+  },
+  "49969183": {
+    "probability": 0.603,
+    "title": "Beam: Reflection's 501B open-weight model"
+  },
+  "49969256": {
+    "probability": 0.48,
+    "title": "The Future of Mathematics"
+  },
+  "49969369": {
+    "probability": 0.413,
+    "title": "AI Companies Are Parasites"
+  },
+  "49969375": {
+    "probability": 0.183,
+    "title": "After bankruptcy, he was banned from betting sites. Then he discovered Kalshi"
+  },
+  "49969933": {
+    "probability": 0.239,
+    "title": "The mental health of young men is declining. Experts warn it could get worse"
+  },
+  "49969961": {
+    "probability": 0.801,
+    "title": "Incident with Actions"
+  },
+  "49970667": {
+    "probability": 0.55,
+    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates"
+  },
+  "49970871": {
+    "probability": 0.95,
+    "title": "Dust: Pretraining Transformers Without Backpropagation"
+  },
+  "49971230": {
+    "probability": 0.5,
+    "title": "Find the flattest route between any two points in SF"
+  },
+  "49971523": {
+    "probability": 0.419,
+    "title": "Texas city demands $2M for public records on Flock usage"
+  },
+  "49971846": {
+    "probability": 0.657,
+    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons"
   }
 }
