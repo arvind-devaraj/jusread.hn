@@ -161783,6 +161783,10 @@
     "probability": 0.479,
     "title": "Fuck Android Developer Verification Program"
   },
+  "49917784": {
+    "probability": 0.261,
+    "title": "Beating the compiler (2024)"
+  },
   "49917900": {
     "probability": 0.699,
     "title": "Differences Between `Foldl` and `Foldr`"
@@ -162067,6 +162071,10 @@
     "probability": 0.672,
     "title": "Show HN: Giving Opus 5.5 a simulated paint canvas"
   },
+  "49928862": {
+    "probability": 0.471,
+    "title": "Martian chaos terrain"
+  },
   "49928963": {
     "probability": 0.26,
     "title": "Nazi Germany had no hope of making an atomic bomb, uranium cubes reveal"
@@ -162250,6 +162258,10 @@
   "49935867": {
     "probability": 0.483,
     "title": "ICC judge on what U.S. sanctions mean for her and global courts"
+  },
+  "49935872": {
+    "probability": 0.622,
+    "title": "Mystery Function"
   },
   "49936017": {
     "probability": 0.439,
@@ -162455,9 +162467,21 @@
     "probability": 0.736,
     "title": "US killer's sentence quashed because of AI video of victim shown in court"
   },
+  "49944196": {
+    "probability": 0.665,
+    "title": "Show HN: Photoc – Command-line tools for photographers"
+  },
   "49944227": {
     "probability": 0.696,
     "title": "I Quit OpenAI Because Its Culture Is Broken"
+  },
+  "49944369": {
+    "probability": 0.753,
+    "title": "Direct retinal projection display for smart glasses using a meta-optic mirror"
+  },
+  "49944392": {
+    "probability": 0.385,
+    "title": "The era of software quality, or the era of ostriches?"
   },
   "49944912": {
     "probability": 0.403,
@@ -162470,6 +162494,10 @@
   "49945352": {
     "probability": 0.383,
     "title": "Docker has always used microVMs (well since 2016)"
+  },
+  "49945588": {
+    "probability": 0.363,
+    "title": "An algorithmic failure beneath the secret ballot"
   },
   "49945933": {
     "probability": 0.825,
@@ -162599,9 +162627,17 @@
     "probability": 0.411,
     "title": "Why don't more developers “use the platform”?"
   },
+  "49950653": {
+    "probability": 0.451,
+    "title": "Testing 12 different Zigbee temperature/humidity sensors"
+  },
   "49951139": {
     "probability": 0.522,
     "title": "UK Government Body Kept Files on People Criticizing Prevent Program"
+  },
+  "49951155": {
+    "probability": 0.59,
+    "title": "Accountability mechanisms can be joyful (2024)"
   },
   "49951218": {
     "probability": 0.415,
@@ -162610,6 +162646,10 @@
   "49951641": {
     "probability": 0.9,
     "title": "What's the future for pure math research in the age of AI?"
+  },
+  "49951693": {
+    "probability": 0.484,
+    "title": "Using Blu-ray M-Disk as backup of last resort"
   },
   "49951881": {
     "probability": 0.255,
@@ -162631,9 +162671,17 @@
     "probability": 0.675,
     "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear"
   },
+  "49952464": {
+    "probability": 0.746,
+    "title": "Using A.I. and machine learning to decode communication of sperm whales"
+  },
   "49953116": {
     "probability": 0.761,
     "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children"
+  },
+  "49953195": {
+    "probability": 0.735,
+    "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit"
   },
   "49953288": {
     "probability": 0.419,
@@ -162871,12 +162919,104 @@
     "probability": 0.5,
     "title": "Find the flattest route between any two points in SF"
   },
+  "49971473": {
+    "probability": 0.591,
+    "title": "Engineer says Claude Code has made his job \"soul-sucking\""
+  },
   "49971523": {
     "probability": 0.419,
     "title": "Texas city demands $2M for public records on Flock usage"
   },
+  "49971719": {
+    "probability": 0.292,
+    "title": "Friendship ended with Deno, now Node is my best friend"
+  },
+  "49971782": {
+    "probability": 0.419,
+    "title": "Global Solar Atlas: summary of solar power potential globally"
+  },
   "49971846": {
     "probability": 0.657,
     "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons"
+  },
+  "49971921": {
+    "probability": 0.224,
+    "title": "Example.com just launched the biggest redesign in decades"
+  },
+  "49971952": {
+    "probability": 0.437,
+    "title": "Worth Building"
+  },
+  "49972008": {
+    "probability": 0.378,
+    "title": "Ephemeral Testing"
+  },
+  "49972027": {
+    "probability": 0.327,
+    "title": "Whistleblower who flagged Lutnick's links to Epstein dies"
+  },
+  "49972211": {
+    "probability": 0.613,
+    "title": "Samon: Designing a Zen Garden Raking Puzzle"
+  },
+  "49972419": {
+    "probability": 0.79,
+    "title": "AI tutoring with Khanmigo in a two-year school experiment"
+  },
+  "49972607": {
+    "probability": 0.148,
+    "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days"
+  },
+  "49972730": {
+    "probability": 0.457,
+    "title": "Photopea creator weighs in on Photosuite project"
+  },
+  "49973598": {
+    "probability": 0.376,
+    "title": "Why Common Lisp is now the best programming language"
+  },
+  "49973839": {
+    "probability": 0.198,
+    "title": "Open Source as We Know It Is Dead"
+  },
+  "49973878": {
+    "probability": 0.545,
+    "title": "Resurrecting iChat Audio and Video Conferencing"
+  },
+  "49975083": {
+    "probability": 0.377,
+    "title": "We are going to kill \"unalive\""
+  },
+  "49975345": {
+    "probability": 0.832,
+    "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI"
+  },
+  "49975619": {
+    "probability": 0.484,
+    "title": "Gleam doesn't compile to Erlang source anymore"
+  },
+  "49976265": {
+    "probability": 0.451,
+    "title": "Nobel Prize in Physics goes to Francis Halzen"
+  },
+  "49976468": {
+    "probability": 0.356,
+    "title": "ASOS app users receive push notifications apparently sent by hackers"
+  },
+  "49976823": {
+    "probability": 0.314,
+    "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated"
+  },
+  "49977072": {
+    "probability": 0.201,
+    "title": "JetBrains reported a net financial loss first time in its tracked history"
+  },
+  "49977177": {
+    "probability": 0.385,
+    "title": "Release of Polars 2.0"
+  },
+  "49977979": {
+    "probability": 0.62,
+    "title": "Mistral Large 4"
   }
 }
