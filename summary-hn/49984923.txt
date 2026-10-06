@@ -1,0 +1,8 @@
+Sharing AI Progress in Mathematics  (62 pts, 13 comments)
+https://news.ycombinator.com/item?id=49984923
+
+The Hacker News discussion revolves around OpenAI's recent initiative to share its advancements in mathematics, specifically through a GitHub repository. The post highlights the significance of this move, as it allows for open access to mathematical research, contrasting with traditional, gatekept academic journals.
+
+In the comments, there is a mix of approval and criticism. Many users express satisfaction that OpenAI is engaging with the mathematical community and sharing results without the constraints of paid journals. However, some commenters lament that it took public pressure for OpenAI to take this step, indicating a concern about gatekeeping in academia. There are also discussions about the implications for current PhD students, who may need to adjust their research focus in light of OpenAI's findings.
+
+Notably, commenters emphasize the importance of the results shared, including advancements related to the Unique Games Conjecture and other significant mathematical theories. Overall, the discussion reflects a blend of excitement for open scientific progress and apprehension about the impact on existing academic structures.

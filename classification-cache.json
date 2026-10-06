@@ -162687,6 +162687,10 @@
     "probability": 0.419,
     "title": "Bill Draper has died"
   },
+  "49953344": {
+    "probability": 0.699,
+    "title": "The complement of true is true, except when it's false"
+  },
   "49953495": {
     "probability": 0.434,
     "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s"
@@ -162847,9 +162851,17 @@
     "probability": 0.299,
     "title": "\"I'm Embarrassed on Behalf of the Tech Industry\""
   },
+  "49965833": {
+    "probability": 0.608,
+    "title": "People are asking ChatGPT to help them decide how to vote in the midterms"
+  },
   "49965894": {
     "probability": 0.385,
     "title": "Borland Turbo Basic"
+  },
+  "49965895": {
+    "probability": 0.722,
+    "title": "Florida woman arrested for allegedly making threats in an AI chat"
   },
   "49966163": {
     "probability": 0.285,
@@ -162858,6 +162870,10 @@
   "49966293": {
     "probability": 0.598,
     "title": "Our approach to EU text provenance rules"
+  },
+  "49967427": {
+    "probability": 0.328,
+    "title": "Benchmark in Milliseconds"
   },
   "49967444": {
     "probability": 0.386,
@@ -162931,6 +162947,10 @@
     "probability": 0.292,
     "title": "Friendship ended with Deno, now Node is my best friend"
   },
+  "49971726": {
+    "probability": 0.86,
+    "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning"
+  },
   "49971782": {
     "probability": 0.419,
     "title": "Global Solar Atlas: summary of solar power potential globally"
@@ -162995,6 +163015,10 @@
     "probability": 0.484,
     "title": "Gleam doesn't compile to Erlang source anymore"
   },
+  "49975688": {
+    "probability": 0.472,
+    "title": "Germany: Ex-spy chief arrested for espionage"
+  },
   "49976265": {
     "probability": 0.451,
     "title": "Nobel Prize in Physics goes to Francis Halzen"
@@ -163003,9 +163027,17 @@
     "probability": 0.356,
     "title": "ASOS app users receive push notifications apparently sent by hackers"
   },
+  "49976751": {
+    "probability": 0.67,
+    "title": "I'm the AGI that's wiping out humanity"
+  },
   "49976823": {
     "probability": 0.314,
     "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated"
+  },
+  "49976993": {
+    "probability": 0.244,
+    "title": "First enhanced geothermal power plant completed in just 23 months"
   },
   "49977072": {
     "probability": 0.201,
@@ -163015,8 +163047,100 @@
     "probability": 0.385,
     "title": "Release of Polars 2.0"
   },
+  "49977385": {
+    "probability": 0.744,
+    "title": "Show HN: MailAccess – the true Email OSINT framework"
+  },
+  "49977437": {
+    "probability": 0.541,
+    "title": "Subquadratic 3SUM and Subcubic APSP"
+  },
+  "49977531": {
+    "probability": 0.268,
+    "title": "What's Earth's dominant species by mass?"
+  },
+  "49977588": {
+    "probability": 0.617,
+    "title": "Meta’s Muse is an adorable privacy and security dumpster fire"
+  },
+  "49977689": {
+    "probability": 0.613,
+    "title": "Erdosproblems.com Succumbs to the AI Onslaught"
+  },
+  "49977819": {
+    "probability": 0.428,
+    "title": "Mathematics of Geothermal Energy"
+  },
+  "49977844": {
+    "probability": 0.62,
+    "title": "Mistral Large 4"
+  },
   "49977979": {
     "probability": 0.62,
     "title": "Mistral Large 4"
+  },
+  "49978116": {
+    "probability": 0.58,
+    "title": "Mistral Large 4: \"Le Chonk\""
+  },
+  "49978171": {
+    "probability": 0.587,
+    "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min"
+  },
+  "49978563": {
+    "probability": 0.592,
+    "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol"
+  },
+  "49978595": {
+    "probability": 0.542,
+    "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer"
+  },
+  "49979306": {
+    "probability": 0.564,
+    "title": "Vibecoding isn't as fun as writing code by hand"
+  },
+  "49979845": {
+    "probability": 0.426,
+    "title": "The Early History of Smalltalk (1993)"
+  },
+  "49980487": {
+    "probability": 0.917,
+    "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model"
+  },
+  "49980715": {
+    "probability": 0.862,
+    "title": "OpenTPU – An open-source AI accelerator, developed by AI"
+  },
+  "49981063": {
+    "probability": 0.505,
+    "title": "Former German spy chief arrested for attempted treason"
+  },
+  "49981449": {
+    "probability": 0.373,
+    "title": "Adobe Creative Suite Cleanroom Port to Rust"
+  },
+  "49982471": {
+    "probability": 0.415,
+    "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill"
+  },
+  "49982921": {
+    "probability": 0.178,
+    "title": "A sustainable web career, for when all this blows over"
+  },
+  "49983226": {
+    "probability": 0.376,
+    "title": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage"
+  },
+  "49983703": {
+    "probability": 0.267,
+    "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery"
+  },
+  "49983791": {
+    "probability": 0.383,
+    "title": "OpenSSH 10.6"
+  },
+  "49984923": {
+    "probability": 0.875,
+    "title": "Sharing AI Progress in Mathematics"
   }
 }
