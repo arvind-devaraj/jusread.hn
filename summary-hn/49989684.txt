@@ -1,0 +1,8 @@
+Forever junior: Skills AI can't develop for you  (64 pts, 56 comments)
+https://news.ycombinator.com/item?id=49989684
+
+The blog post titled "Forever junior: Skills AI can't develop for you" discusses the limitations of AI in developing essential skills for junior engineers, emphasizing that certain foundational skills, such as problem-solving and critical thinking, cannot be replaced by AI tools. The author argues that while AI can assist in coding and other tasks, it cannot replicate the experiential learning that comes from tackling challenges independently.
+
+In the comments, there is a lively debate about the value of writing custom libraries versus relying on third-party libraries. Some users advocate for creating bespoke solutions to avoid the complexities and vulnerabilities of existing libraries, while others caution against the technical debt and maintenance burdens that custom solutions can impose on teams. Notable insights include the recognition of "productive struggle" as a valuable part of the learning process and the idea that AI can assist in design discussions but cannot replace the deep understanding gained through experience.
+
+Overall, the discussion highlights a tension between leveraging AI for efficiency and the necessity of developing core engineering skills through hands-on experience and problem-solving.

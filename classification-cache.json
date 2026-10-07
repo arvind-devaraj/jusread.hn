@@ -162619,6 +162619,10 @@
     "probability": 0.154,
     "title": "We're working on a new RuneScape MMO"
   },
+  "49949680": {
+    "probability": 0.538,
+    "title": "Rust's derive often implies inline"
+  },
   "49950052": {
     "probability": 0.647,
     "title": "Religious scholars met with Anthropic"
@@ -162702,6 +162706,10 @@
   "49953777": {
     "probability": 0.591,
     "title": "The evolution of effective altruism"
+  },
+  "49954015": {
+    "probability": 0.719,
+    "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens"
   },
   "49954882": {
     "probability": 0.62,
@@ -162927,6 +162935,10 @@
     "probability": 0.801,
     "title": "Incident with Actions"
   },
+  "49970459": {
+    "probability": 0.456,
+    "title": "3D-printing platform rapidly produces complex electric machines"
+  },
   "49970667": {
     "probability": 0.55,
     "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates"
@@ -163123,6 +163135,10 @@
     "probability": 0.917,
     "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model"
   },
+  "49980626": {
+    "probability": 0.892,
+    "title": "How machines learned precision"
+  },
   "49980715": {
     "probability": 0.862,
     "title": "OpenTPU – An open-source AI accelerator, developed by AI"
@@ -163247,6 +163263,10 @@
     "probability": 0.377,
     "title": "La Cueva BBS in Mexico in 1993 (session replay)"
   },
+  "49987765": {
+    "probability": 0.898,
+    "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer"
+  },
   "49987858": {
     "probability": 0.257,
     "title": "The art of defusing a second world war bomb"
@@ -163259,6 +163279,18 @@
     "probability": 0.39,
     "title": "Hackers obtain counterfeit TLS certificates for Google and other large services"
   },
+  "49988709": {
+    "probability": 0.31,
+    "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer"
+  },
+  "49989684": {
+    "probability": 0.83,
+    "title": "Forever junior: Skills AI can't develop for you"
+  },
+  "49990204": {
+    "probability": 0.827,
+    "title": "Reasons to Dislike AI Coding"
+  },
   "49990224": {
     "probability": 0.359,
     "title": "A font recreated from photographs of classic Commodore 64 keycaps"
@@ -163267,8 +163299,128 @@
     "probability": 0.341,
     "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai"
   },
+  "49990763": {
+    "probability": 0.19,
+    "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace"
+  },
+  "49991132": {
+    "probability": 0.682,
+    "title": "It may soon be possible to create \"mirror life\""
+  },
   "49991227": {
     "probability": 0.36,
     "title": "Shipping JPEG XL in Chrome"
+  },
+  "49991243": {
+    "probability": 0.196,
+    "title": "God of War on PSP, recompiled to WebAssembly and running in the browser"
+  },
+  "49991580": {
+    "probability": 0.654,
+    "title": "Write Like It's 1866: LLMs Relearn Telegraphese"
+  },
+  "49991823": {
+    "probability": 0.473,
+    "title": "Google Playground: Create and play custom games"
+  },
+  "49992057": {
+    "probability": 0.686,
+    "title": "Show HN: A walkable 3D art history museum built from Wikipedia"
+  },
+  "49992125": {
+    "probability": 0.337,
+    "title": "House with 15m underground tunnels for sale for 300k"
+  },
+  "49992257": {
+    "probability": 0.432,
+    "title": "Anti-patterns in software blogging"
+  },
+  "49992774": {
+    "probability": 0.548,
+    "title": "Google Playground"
+  },
+  "49993121": {
+    "probability": 0.58,
+    "title": "AI-assisted proof of optimal packing for 11 squares"
+  },
+  "49993188": {
+    "probability": 0.668,
+    "title": "SynthID Detector"
+  },
+  "49993857": {
+    "probability": 0.32,
+    "title": "Animated ASCII Art for Web Pages"
+  },
+  "49993908": {
+    "probability": 0.408,
+    "title": "Why were Victorian elites so effective?"
+  },
+  "49993914": {
+    "probability": 0.397,
+    "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees"
+  },
+  "49993997": {
+    "probability": 0.278,
+    "title": "ShinyHunters Extorted Boeing Spin-Off Prior to Arrests"
+  },
+  "49994027": {
+    "probability": 0.617,
+    "title": "Incident with Git Operations, Pull Requests and Actions – Resolved"
+  },
+  "49994065": {
+    "probability": 0.615,
+    "title": "Reverse Engineering of the M-VAVE FM-1 Pocket Synthesizer Firmware"
+  },
+  "49994122": {
+    "probability": 0.439,
+    "title": "Across the Globe, People Increasingly Say Social Media Is Harming Democracy"
+  },
+  "49994145": {
+    "probability": 0.515,
+    "title": "Navier–Stokes Lost in Translation"
+  },
+  "49994443": {
+    "probability": 0.644,
+    "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app"
+  },
+  "49994746": {
+    "probability": 0.782,
+    "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth"
+  },
+  "49995495": {
+    "probability": 0.341,
+    "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days"
+  },
+  "49996259": {
+    "probability": 0.531,
+    "title": "Docker Agent"
+  },
+  "49996425": {
+    "probability": 0.681,
+    "title": "GPT‑6 and Intelligent UI for everyone"
+  },
+  "49996437": {
+    "probability": 0.749,
+    "title": "Claude Haiku 5.5"
+  },
+  "49997073": {
+    "probability": 0.514,
+    "title": "Push ifs up and fors down: The idiom, its algebra, and its limits"
+  },
+  "49997161": {
+    "probability": 0.818,
+    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI"
+  },
+  "49997718": {
+    "probability": 0.202,
+    "title": "The Mathocalypse"
+  },
+  "49998006": {
+    "probability": 0.666,
+    "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first"
+  },
+  "49998895": {
+    "probability": 0.375,
+    "title": "Margaret Hamilton, who led software development for the Apollo program, has died"
   }
 }

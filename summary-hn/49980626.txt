@@ -1,0 +1,8 @@
+How machines learned precision  (81 pts, 39 comments)
+https://news.ycombinator.com/item?id=49980626
+
+The Hacker News discussion revolves around an article titled "How machines learned precision," which explores the advancements in precision engineering during the Industrial Revolution, particularly focusing on the challenges faced by inventors like James Watt in achieving accurate cylinder bores for steam engines. The author, glinscott, shares insights into the techniques developed for measuring and manufacturing precise parts, supported by animations and interactive figures.
+
+In the comments, there is a mix of curiosity and technical discussion. Users inquire about historical measurement systems used by metalworkers, the role of AI in the article's creation, and the challenges of early steam engines, such as the limitations of piston rings made from iron. Some commenters express interest in the historical context of precision engineering, with suggestions for further reading and related projects. Notably, there is a mention of the book "The Perfectionists" by Simon Winchester, which some found insightful while others criticized for lacking coherence.
+
+Overall, the discussion highlights a shared appreciation for the history of precision engineering and its impact on modern manufacturing, alongside a desire for more accessible resources and narratives that capture the evolution of these technologies.
