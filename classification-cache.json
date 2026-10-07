@@ -162631,6 +162631,10 @@
     "probability": 0.451,
     "title": "Testing 12 different Zigbee temperature/humidity sensors"
   },
+  "49950865": {
+    "probability": 0.306,
+    "title": "The cost of lies: A Mineserver story"
+  },
   "49951139": {
     "probability": 0.522,
     "title": "UK Government Body Kept Files on People Criticizing Prevent Program"
@@ -162995,6 +162999,10 @@
     "probability": 0.376,
     "title": "Why Common Lisp is now the best programming language"
   },
+  "49973644": {
+    "probability": 0.702,
+    "title": "LLMs may have helped my RSI"
+  },
   "49973839": {
     "probability": 0.198,
     "title": "Open Source as We Know It Is Dead"
@@ -163071,6 +163079,10 @@
     "probability": 0.428,
     "title": "Mathematics of Geothermal Energy"
   },
+  "49977832": {
+    "probability": 0.32,
+    "title": "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl"
+  },
   "49977844": {
     "probability": 0.62,
     "title": "Mistral Large 4"
@@ -163086,6 +163098,10 @@
   "49978171": {
     "probability": 0.587,
     "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min"
+  },
+  "49978333": {
+    "probability": 0.366,
+    "title": "What is Codemode"
   },
   "49978563": {
     "probability": 0.592,
@@ -163115,13 +163131,33 @@
     "probability": 0.505,
     "title": "Former German spy chief arrested for attempted treason"
   },
+  "49981186": {
+    "probability": 0.4,
+    "title": "California closed the Montana license plate loophole"
+  },
+  "49981197": {
+    "probability": 0.735,
+    "title": "Utah to let AI examine patients and prescribe medication without human oversight"
+  },
   "49981449": {
     "probability": 0.373,
     "title": "Adobe Creative Suite Cleanroom Port to Rust"
   },
+  "49981905": {
+    "probability": 0.847,
+    "title": "Claude Code’s suggested message feature: I think the real customer is the model"
+  },
   "49982471": {
     "probability": 0.415,
     "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill"
+  },
+  "49982498": {
+    "probability": 0.511,
+    "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month"
+  },
+  "49982735": {
+    "probability": 0.43,
+    "title": "Berthd"
   },
   "49982921": {
     "probability": 0.178,
@@ -163131,16 +163167,108 @@
     "probability": 0.376,
     "title": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage"
   },
+  "49983404": {
+    "probability": 0.64,
+    "title": "When random is not actually random enough"
+  },
+  "49983647": {
+    "probability": 0.549,
+    "title": "System-level ad-blocking in Android"
+  },
   "49983703": {
     "probability": 0.267,
     "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery"
+  },
+  "49983780": {
+    "probability": 0.702,
+    "title": "Vibecoding Photoshop: Time and pressure"
   },
   "49983791": {
     "probability": 0.383,
     "title": "OpenSSH 10.6"
   },
+  "49984025": {
+    "probability": 0.536,
+    "title": "Decisions API is in public beta"
+  },
+  "49984652": {
+    "probability": 0.445,
+    "title": "How Fast is Python 3.15?"
+  },
+  "49984716": {
+    "probability": 0.678,
+    "title": "Penguin Mail – open-source Rust email client for Linux with AI"
+  },
   "49984923": {
     "probability": 0.875,
     "title": "Sharing AI Progress in Mathematics"
+  },
+  "49985524": {
+    "probability": 0.468,
+    "title": "Integer multiplication below n log n"
+  },
+  "49985643": {
+    "probability": 0.147,
+    "title": "State of Devs 2026"
+  },
+  "49985664": {
+    "probability": 0.365,
+    "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)"
+  },
+  "49985861": {
+    "probability": 0.604,
+    "title": "South Korea says AI agents appear to have been used to hack the country's banks"
+  },
+  "49985905": {
+    "probability": 0.217,
+    "title": "Stanford scientists found a way to regrow cartilage and stop arthritis"
+  },
+  "49986223": {
+    "probability": 0.428,
+    "title": "Account bans on Reddit"
+  },
+  "49986862": {
+    "probability": 0.47,
+    "title": "ESP32-C3 Adblock"
+  },
+  "49986882": {
+    "probability": 0.738,
+    "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard"
+  },
+  "49986892": {
+    "probability": 0.419,
+    "title": "Couple was swatted 55 times in 2 years over a post about Norm Macdonald"
+  },
+  "49987076": {
+    "probability": 0.727,
+    "title": "Strands Decider 2B: a small, open-source, decision model"
+  },
+  "49987675": {
+    "probability": 0.377,
+    "title": "La Cueva BBS in Mexico in 1993 (session replay)"
+  },
+  "49987858": {
+    "probability": 0.257,
+    "title": "The art of defusing a second world war bomb"
+  },
+  "49988142": {
+    "probability": 0.17,
+    "title": "Calling It Quits on ServerFault"
+  },
+  "49988230": {
+    "probability": 0.39,
+    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services"
+  },
+  "49990224": {
+    "probability": 0.359,
+    "title": "A font recreated from photographs of classic Commodore 64 keycaps"
+  },
+  "49990470": {
+    "probability": 0.341,
+    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai"
+  },
+  "49991227": {
+    "probability": 0.36,
+    "title": "Shipping JPEG XL in Chrome"
   }
 }

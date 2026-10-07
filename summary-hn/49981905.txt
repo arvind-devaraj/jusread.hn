@@ -1,0 +1,8 @@
+Claude Code’s suggested message feature: I think the real customer is the model  (235 pts, 135 comments)
+https://news.ycombinator.com/item?id=49981905
+
+The Hacker News discussion revolves around a blog post analyzing the suggested message feature in Claude Code, an AI model. The author argues that the real customer of this feature is the model itself, as it aims to influence user interactions and improve its predictive capabilities.
+
+In the comments, there is a mix of agreement and skepticism regarding the utility of the suggested messages. Some users find the feature helpful, especially in mobile contexts, while others express frustration, stating it disrupts their flow or feels intrusive. A few commenters highlight that the feature has been around for months, with some even noting its potential use for A/B testing and feedback collection.
+
+Notable insights include a strong aversion to AI-generated suggestions in personal communication, with users sharing their dislike for intrusive interfaces that mimic human interaction. The discussion reflects broader concerns about the impact of AI on communication and the balance between efficiency and maintaining genuine human connections.
