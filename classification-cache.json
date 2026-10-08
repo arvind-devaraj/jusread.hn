@@ -162759,6 +162759,10 @@
     "probability": 0.335,
     "title": "In the wake of Tippett Studios’ closure, a digital archive appears online"
   },
+  "49958194": {
+    "probability": 0.53,
+    "title": "Time Travel in Braid (2015)"
+  },
   "49958569": {
     "probability": 0.419,
     "title": "Self-hosted HTTP tunnels with SSH and Nginx"
@@ -162858,6 +162862,10 @@
   "49965047": {
     "probability": 0.571,
     "title": "Picard 3.0"
+  },
+  "49965117": {
+    "probability": 0.573,
+    "title": "Float and integer arithmetic follow two different paradigms"
   },
   "49965118": {
     "probability": 0.159,
@@ -163139,6 +163147,10 @@
     "probability": 0.62,
     "title": "Mistral Large 4"
   },
+  "49978010": {
+    "probability": 0.075,
+    "title": "'The eels were climbing out of the water to die'"
+  },
   "49978116": {
     "probability": 0.58,
     "title": "Mistral Large 4: \"Le Chonk\""
@@ -163255,6 +163267,10 @@
     "probability": 0.536,
     "title": "Decisions API is in public beta"
   },
+  "49984159": {
+    "probability": 0.316,
+    "title": "A Terminal Protocol for Program Status (OSC 7501)"
+  },
   "49984652": {
     "probability": 0.445,
     "title": "How Fast is Python 3.15?"
@@ -163267,9 +163283,17 @@
     "probability": 0.875,
     "title": "Sharing AI Progress in Mathematics"
   },
+  "49984984": {
+    "probability": 0.461,
+    "title": "VECOS – A windows-like operating system for the Vectrex for the UVMC2 [video]"
+  },
   "49985524": {
     "probability": 0.468,
     "title": "Integer multiplication below n log n"
+  },
+  "49985548": {
+    "probability": 0.536,
+    "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?"
   },
   "49985643": {
     "probability": 0.147,
@@ -163395,6 +163419,10 @@
     "probability": 0.548,
     "title": "Google Playground"
   },
+  "49992994": {
+    "probability": 0.518,
+    "title": "ETH-68: Ethernet Audio Interface for Linux"
+  },
   "49993121": {
     "probability": 0.58,
     "title": "AI-assisted proof of optimal packing for 11 squares"
@@ -163459,6 +163487,10 @@
     "probability": 0.882,
     "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools"
   },
+  "49996149": {
+    "probability": 0.486,
+    "title": "DuckDB Ducklake"
+  },
   "49996259": {
     "probability": 0.531,
     "title": "Docker Agent"
@@ -163475,6 +163507,10 @@
     "probability": 0.749,
     "title": "Claude Haiku 5.5"
   },
+  "49996639": {
+    "probability": 0.182,
+    "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone"
+  },
   "49997073": {
     "probability": 0.514,
     "title": "Push ifs up and fors down: The idiom, its algebra, and its limits"
@@ -163484,6 +163520,10 @@
     "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI"
   },
   "49997718": {
+    "probability": 0.202,
+    "title": "The Mathocalypse"
+  },
+  "49997831": {
     "probability": 0.202,
     "title": "The Mathocalypse"
   },
@@ -163498,6 +163538,10 @@
   "49998895": {
     "probability": 0.375,
     "title": "Margaret Hamilton, who led software development for the Apollo program, has died"
+  },
+  "49998992": {
+    "probability": 0.361,
+    "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age"
   },
   "50000676": {
     "probability": 0.449,
@@ -163519,6 +163563,10 @@
     "probability": 0.235,
     "title": "The people holding up the internet"
   },
+  "50002505": {
+    "probability": 0.402,
+    "title": "Dat-ecosystem: high level applications built on top of P2P protocols"
+  },
   "50002650": {
     "probability": 0.789,
     "title": "OpenAI withdraws three mathematical results"
@@ -163531,6 +163579,14 @@
     "probability": 0.792,
     "title": "OpenAI Withdraws 3 Math Papers"
   },
+  "50003796": {
+    "probability": 0.478,
+    "title": "Yes, and"
+  },
+  "50004115": {
+    "probability": 0.402,
+    "title": "OLED burn-in test: 30-month update"
+  },
   "50004777": {
     "probability": 0.512,
     "title": "Anne Carson wins Nobel Prize in literature 2026"
@@ -163538,5 +163594,93 @@
   "50004790": {
     "probability": 0.569,
     "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities"
+  },
+  "50005017": {
+    "probability": 0.369,
+    "title": "Telnet BBS Guide"
+  },
+  "50005527": {
+    "probability": 0.405,
+    "title": "Beauty in DVD Menus"
+  },
+  "50005608": {
+    "probability": 0.868,
+    "title": "Sub-1-Bit LLM Compression via Latent Factorization"
+  },
+  "50005643": {
+    "probability": 0.338,
+    "title": "2027 Web Platform Feature Ranking"
+  },
+  "50006012": {
+    "probability": 0.384,
+    "title": "Orkut.com"
+  },
+  "50006366": {
+    "probability": 0.58,
+    "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years"
+  },
+  "50006832": {
+    "probability": 0.33,
+    "title": "Trump administration is suspending Microsoft from a green card program"
+  },
+  "50006948": {
+    "probability": 0.261,
+    "title": "US suspends Microsoft, major IT firms from key green card program"
+  },
+  "50007353": {
+    "probability": 0.492,
+    "title": "New gTLD Application for .lan"
+  },
+  "50007519": {
+    "probability": 0.424,
+    "title": "4-hour battery storage is cheaper to install than gas turbines all across globe"
+  },
+  "50007764": {
+    "probability": 0.878,
+    "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter"
+  },
+  "50008047": {
+    "probability": 0.496,
+    "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments"
+  },
+  "50008187": {
+    "probability": 0.647,
+    "title": "OpenAI annualised revenues $20B less than previously signalled"
+  },
+  "50008427": {
+    "probability": 0.627,
+    "title": "Whistle: Speech to Text in 16.9 MB"
+  },
+  "50008565": {
+    "probability": 0.844,
+    "title": "Anthropic bans 'abusive or cruel behavior' towards Claude"
+  },
+  "50009295": {
+    "probability": 0.303,
+    "title": "Theranos.world"
+  },
+  "50009654": {
+    "probability": 0.28,
+    "title": "Serverless Horrors $10,811.41"
+  },
+  "50009904": {
+    "probability": 0.353,
+    "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)"
+  },
+  "50010470": {
+    "probability": 0.46,
+    "title": "The value of not getting to the point (2015)"
+  },
+  "50010656": {
+    "probability": 0.685,
+    "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances"
+  },
+  "50011928": {
+    "probability": 0.694,
+    "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)"
+  },
+  "50012043": {
+    "probability": 0.355,
+    "title": "I think we might lose public key cryptography"
   }
 }

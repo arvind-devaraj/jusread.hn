@@ -1,0 +1,8 @@
+Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter  (76 pts, 23 comments)
+https://news.ycombinator.com/item?id=50007764
+
+The Hacker News discussion revolves around the release of Step 5 Preview, a new model from StepFun that features a 1 million context MoE (Mixture of Experts) architecture, now available on OpenRouter. The post has sparked a variety of reactions, primarily focused on the model's performance and competitiveness compared to existing models.
+
+In the comments, there is a mix of skepticism and curiosity. Some users question the model's capabilities, citing concerns about its speed and intelligence compared to other models like GLM 5.3 and Gemini 3.8 Flash. Others express frustration with low-effort comments referencing "pelicans," a recurring joke on Hacker News, which detracts from the discussion's quality. Notably, some commenters highlight the importance of innovation in LLM architectures, suggesting that the field has stagnated and calling for more groundbreaking developments.
+
+Overall, while there is interest in Step 5 Preview, the conversation reflects a broader desire for significant advancements in AI models rather than incremental improvements.
