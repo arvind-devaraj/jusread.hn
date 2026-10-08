@@ -162731,6 +162731,10 @@
     "probability": 0.384,
     "title": "All I wanted was a custom domain email"
   },
+  "49956219": {
+    "probability": 0.439,
+    "title": "Gallery of Processor Cache Effects (2010)"
+  },
   "49956290": {
     "probability": 0.293,
     "title": "The technology to eradicate mosquito-borne disease exists"
@@ -162762,6 +162766,10 @@
   "49958850": {
     "probability": 0.498,
     "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust"
+  },
+  "49959280": {
+    "probability": 0.18,
+    "title": "The 15-year search for a band that charted once and vanished"
   },
   "49959654": {
     "probability": 0.446,
@@ -162818,6 +162826,10 @@
   "49963385": {
     "probability": 0.379,
     "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust"
+  },
+  "49963568": {
+    "probability": 0.322,
+    "title": "A new write and space optimized storage engine for MySQL is here"
   },
   "49964018": {
     "probability": 0.385,
@@ -162911,6 +162923,10 @@
     "probability": 0.335,
     "title": "One person can now be a quorum at the SEC"
   },
+  "49969073": {
+    "probability": 0.583,
+    "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't"
+  },
   "49969183": {
     "probability": 0.603,
     "title": "Beam: Reflection's 501B open-weight model"
@@ -162942,6 +162958,10 @@
   "49970667": {
     "probability": 0.55,
     "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates"
+  },
+  "49970767": {
+    "probability": 0.378,
+    "title": "Living off-grid: Hundred Rabbits"
   },
   "49970871": {
     "probability": 0.95,
@@ -163015,6 +163035,10 @@
     "probability": 0.702,
     "title": "LLMs may have helped my RSI"
   },
+  "49973822": {
+    "probability": 0.69,
+    "title": "Mallet Head Angle (2011)"
+  },
   "49973839": {
     "probability": 0.198,
     "title": "Open Source as We Know It Is Dead"
@@ -163022,6 +163046,10 @@
   "49973878": {
     "probability": 0.545,
     "title": "Resurrecting iChat Audio and Video Conferencing"
+  },
+  "49974173": {
+    "probability": 0.487,
+    "title": "Wood Tape (2004)"
   },
   "49975083": {
     "probability": 0.377,
@@ -163051,6 +163079,10 @@
     "probability": 0.67,
     "title": "I'm the AGI that's wiping out humanity"
   },
+  "49976818": {
+    "probability": 0.45,
+    "title": "Brownian Motion"
+  },
   "49976823": {
     "probability": 0.314,
     "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated"
@@ -163066,6 +163098,10 @@
   "49977177": {
     "probability": 0.385,
     "title": "Release of Polars 2.0"
+  },
+  "49977351": {
+    "probability": 0.413,
+    "title": "A minimal kernel in Swift, running in QEMU"
   },
   "49977385": {
     "probability": 0.744,
@@ -163111,6 +163147,10 @@
     "probability": 0.587,
     "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min"
   },
+  "49978315": {
+    "probability": 0.478,
+    "title": "If somebody tries to hot-patch an already-hot-patched function"
+  },
   "49978333": {
     "probability": 0.366,
     "title": "What is Codemode"
@@ -163130,6 +163170,10 @@
   "49979845": {
     "probability": 0.426,
     "title": "The Early History of Smalltalk (1993)"
+  },
+  "49980346": {
+    "probability": 0.293,
+    "title": "The Slow Formation of Durable Software"
   },
   "49980487": {
     "probability": 0.917,
@@ -163162,6 +163206,10 @@
   "49981905": {
     "probability": 0.847,
     "title": "Claude Code’s suggested message feature: I think the real customer is the model"
+  },
+  "49982445": {
+    "probability": 0.545,
+    "title": "Cleo (Mathematician)"
   },
   "49982471": {
     "probability": 0.415,
@@ -163243,6 +163291,10 @@
     "probability": 0.428,
     "title": "Account bans on Reddit"
   },
+  "49986765": {
+    "probability": 0.559,
+    "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed"
+  },
   "49986862": {
     "probability": 0.47,
     "title": "ESP32-C3 Adblock"
@@ -163323,6 +163375,10 @@
     "probability": 0.473,
     "title": "Google Playground: Create and play custom games"
   },
+  "49991986": {
+    "probability": 0.446,
+    "title": "Show HN: Procinsh – A 3D Linux process inspector"
+  },
   "49992057": {
     "probability": 0.686,
     "title": "Show HN: A walkable 3D art history museum built from Wikipedia"
@@ -163383,17 +163439,33 @@
     "probability": 0.644,
     "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app"
   },
+  "49994481": {
+    "probability": 0.586,
+    "title": "Open source 160 sound visualization experiments"
+  },
   "49994746": {
     "probability": 0.782,
     "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth"
+  },
+  "49994797": {
+    "probability": 0.182,
+    "title": "Paramount, Warner Bros Formally Merge, Form Giant Mountain of Disastrous Debt"
   },
   "49995495": {
     "probability": 0.341,
     "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days"
   },
+  "49995539": {
+    "probability": 0.882,
+    "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools"
+  },
   "49996259": {
     "probability": 0.531,
     "title": "Docker Agent"
+  },
+  "49996406": {
+    "probability": 0.315,
+    "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick"
   },
   "49996425": {
     "probability": 0.681,
@@ -163419,8 +163491,52 @@
     "probability": 0.666,
     "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first"
   },
+  "49998066": {
+    "probability": 0.296,
+    "title": "'Jonathan' is the oldest land animal on Earth"
+  },
   "49998895": {
     "probability": 0.375,
     "title": "Margaret Hamilton, who led software development for the Apollo program, has died"
+  },
+  "50000676": {
+    "probability": 0.449,
+    "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM"
+  },
+  "50001580": {
+    "probability": 0.27,
+    "title": "A 100x faster* alternative to homebrew"
+  },
+  "50002008": {
+    "probability": 0.579,
+    "title": "“Math 2.0” will need to value mathematical progress more holistically"
+  },
+  "50002426": {
+    "probability": 0.243,
+    "title": "Classic PC demoscene productions running natively in the browser"
+  },
+  "50002494": {
+    "probability": 0.235,
+    "title": "The people holding up the internet"
+  },
+  "50002650": {
+    "probability": 0.789,
+    "title": "OpenAI withdraws three mathematical results"
+  },
+  "50002665": {
+    "probability": 0.408,
+    "title": "I think I found a planet nobody knew existed. I used Claude Code to find it"
+  },
+  "50003107": {
+    "probability": 0.792,
+    "title": "OpenAI Withdraws 3 Math Papers"
+  },
+  "50004777": {
+    "probability": 0.512,
+    "title": "Anne Carson wins Nobel Prize in literature 2026"
+  },
+  "50004790": {
+    "probability": 0.569,
+    "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities"
   }
 }
