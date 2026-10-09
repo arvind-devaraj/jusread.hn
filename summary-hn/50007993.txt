@@ -1,0 +1,8 @@
+Show HN: Jevman – AI decision models play Pac-Man  (65 pts, 17 comments)
+https://news.ycombinator.com/item?id=50007993
+
+The Hacker News discussion revolves around a project called Jevman, which benchmarks various AI decision models by having them play Pac-Man against bot ghosts. The creator, Opper, tested several models, including Jev, Kev, and Clef, and published a leaderboard based on their performance. Users can also play Pac-Man themselves, with the AI models acting as the ghosts. The game costs about 2 cents per play, and free credits are provided for users to try it out. The project is open-sourced, allowing others to run their own models and join the ranking.
+
+In the comments, users express enthusiasm for the project, with some suggesting improvements, such as making mobile controls easier. There is a discussion about the potential for a shared credit system for users to fund their own AI experiments. Some commenters also mention the possibility of testing local models and express interest in contributing their own models to the benchmark. Notably, there is a debate about the efficiency of running cloud-based AI inference versus local models, with some arguing that local models could outperform cloud solutions due to reduced latency.
+
+Overall, the discussion highlights excitement for AI applications in gaming, the collaborative potential of open-source projects, and varying opinions on the best approaches to model deployment and performance optimization.

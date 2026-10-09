@@ -163187,6 +163187,10 @@
     "probability": 0.293,
     "title": "The Slow Formation of Durable Software"
   },
+  "49980399": {
+    "probability": 0.72,
+    "title": "Show HN: Durable Actors – OSS Durable Objects with configurable compute"
+  },
   "49980487": {
     "probability": 0.917,
     "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model"
@@ -163355,6 +163359,10 @@
     "probability": 0.39,
     "title": "Hackers obtain counterfeit TLS certificates for Google and other large services"
   },
+  "49988516": {
+    "probability": 0.827,
+    "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU"
+  },
   "49988709": {
     "probability": 0.31,
     "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer"
@@ -163471,6 +163479,10 @@
     "probability": 0.586,
     "title": "Open source 160 sound visualization experiments"
   },
+  "49994663": {
+    "probability": 0.341,
+    "title": "The dawn of the age of the exoskeleton"
+  },
   "49994746": {
     "probability": 0.782,
     "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth"
@@ -163543,9 +163555,17 @@
     "probability": 0.361,
     "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age"
   },
+  "50000488": {
+    "probability": 0.426,
+    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?"
+  },
   "50000676": {
     "probability": 0.449,
     "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM"
+  },
+  "50000985": {
+    "probability": 0.42,
+    "title": "US man given prison sentence for bot-farming music streams"
   },
   "50001580": {
     "probability": 0.27,
@@ -163554,6 +163574,10 @@
   "50002008": {
     "probability": 0.579,
     "title": "“Math 2.0” will need to value mathematical progress more holistically"
+  },
+  "50002249": {
+    "probability": 0.41,
+    "title": "Let's Encrypt: 64-Day Certificate Lifetimes Coming Feb 2027"
   },
   "50002426": {
     "probability": 0.243,
@@ -163599,6 +163623,10 @@
     "probability": 0.369,
     "title": "Telnet BBS Guide"
   },
+  "50005424": {
+    "probability": 0.463,
+    "title": "New CRAM method offers giant boost to compressed memory reads"
+  },
   "50005527": {
     "probability": 0.405,
     "title": "Beauty in DVD Menus"
@@ -163639,6 +163667,10 @@
     "probability": 0.878,
     "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter"
   },
+  "50007993": {
+    "probability": 0.888,
+    "title": "Show HN: Jevman – AI decision models play Pac-Man"
+  },
   "50008047": {
     "probability": 0.496,
     "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments"
@@ -163646,6 +163678,10 @@
   "50008187": {
     "probability": 0.647,
     "title": "OpenAI annualised revenues $20B less than previously signalled"
+  },
+  "50008272": {
+    "probability": 0.748,
+    "title": "Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\""
   },
   "50008427": {
     "probability": 0.627,
@@ -163667,6 +163703,10 @@
     "probability": 0.353,
     "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)"
   },
+  "50009965": {
+    "probability": 0.467,
+    "title": "Cloudflare Keeps 1.1.1.1 Out of Piracy Blocking, Escapes Penalties in France"
+  },
   "50010470": {
     "probability": 0.46,
     "title": "The value of not getting to the point (2015)"
@@ -163679,8 +163719,80 @@
     "probability": 0.694,
     "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)"
   },
+  "50011999": {
+    "probability": 0.594,
+    "title": "AI-ready biological data: $1.8B global commitment"
+  },
   "50012043": {
     "probability": 0.355,
     "title": "I think we might lose public key cryptography"
+  },
+  "50013610": {
+    "probability": 0.462,
+    "title": "Bevy 0.20"
+  },
+  "50013637": {
+    "probability": 0.441,
+    "title": "Fort Hood attacker's execution by firing squad will be livestreamed"
+  },
+  "50013902": {
+    "probability": 0.891,
+    "title": "OpenAI, the Partition Principle, and Mathematics"
+  },
+  "50015074": {
+    "probability": 0.432,
+    "title": "Reducing undefined behavior in the C language"
+  },
+  "50015236": {
+    "probability": 0.496,
+    "title": "What should we tell our students?"
+  },
+  "50015486": {
+    "probability": 0.451,
+    "title": "Anger as man sentenced to death for Facebook comment"
+  },
+  "50015515": {
+    "probability": 0.622,
+    "title": "Keyboard differences between Windows and Macs"
+  },
+  "50016312": {
+    "probability": 0.374,
+    "title": "Show HN: Quake ported to safe Rust, playable in browser"
+  },
+  "50016489": {
+    "probability": 0.363,
+    "title": "MXC - a sandboxed code execution system"
+  },
+  "50016974": {
+    "probability": 0.439,
+    "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack"
+  },
+  "50017357": {
+    "probability": 0.486,
+    "title": "Programming Isn't Special"
+  },
+  "50018088": {
+    "probability": 0.51,
+    "title": "I'm in a Meeting"
+  },
+  "50018350": {
+    "probability": 0.734,
+    "title": "OpenAI fires three safety researchers for \"mishandling research information\""
+  },
+  "50018420": {
+    "probability": 0.404,
+    "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay"
+  },
+  "50018817": {
+    "probability": 0.782,
+    "title": "Let your AI agents paint big arrows, boxes and text on your screen"
+  },
+  "50019090": {
+    "probability": 0.469,
+    "title": "US proposes $100k charge for international students to do post-graduate work"
+  },
+  "50019911": {
+    "probability": 0.334,
+    "title": "Deno Is Joining Cloudflare"
   }
 }
