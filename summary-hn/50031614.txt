@@ -1,0 +1,8 @@
+Talorys – A self-hosted personal AI agent on Cloudflare's free tier  (52 pts, 21 comments)
+https://news.ycombinator.com/item?id=50031614
+
+The Hacker News discussion revolves around Talorys, an open-source personal AI agent that users can run on their own Cloudflare accounts. The creator, rociiu, designed Talorys to provide a personal AI assistant that users can control without incurring monthly subscription fees or relying on external hosted services.
+
+The comments highlight a debate over the definition of "self-hosted." Some users argue that using Cloudflare's services still constitutes reliance on a third-party platform, while others suggest that as long as users can run the software independently, it qualifies as self-hosted. There are also concerns about the potential costs associated with Cloudflare's free tier, with some users sharing experiences of unexpected billing and inadequate customer support.
+
+Notable insights include skepticism about the true independence of using Cloudflare for hosting, with some commenters emphasizing that "self-hosted" implies complete control over the hardware and software. Others appreciate the project as a fun and accessible way to experiment with AI, despite the complexities involved in using Cloudflare's infrastructure.

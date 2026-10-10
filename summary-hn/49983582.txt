@@ -1,0 +1,8 @@
+Training Text-to-Image Models Without a VAE  (52 pts, 19 comments)
+https://news.ycombinator.com/item?id=49983582
+
+The Hacker News discussion revolves around a post by a two-person lab, Linum, that is exploring the training of text-to-image models without using a Variational Autoencoder (VAE). The authors aim to develop controllable animation tools and highlight that the primary challenge in their text-to-video model is the high computational cost associated with attention mechanisms due to the dense tokenization of video data.
+
+In the comments, there is a debate about the effectiveness of local attention mechanisms versus traditional methods. Users suggest that applying pixel-wise local attention could enhance image quality and efficiency, with references to existing models like Natten that utilize sliding window attention. The conversation also touches on the potential benefits of optimizing VAEs and the challenges of scaling models to higher resolutions. Notably, the author acknowledges the insights shared and expresses interest in experimenting with the proposed techniques.
+
+Overall, the discussion reflects a collaborative spirit, with participants sharing ideas and resources while exploring the complexities of generative models and their training efficiencies. The exchange highlights the ongoing evolution in the field, particularly regarding the balance between model architecture and computational efficiency.
