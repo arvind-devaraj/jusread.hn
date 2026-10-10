@@ -162911,6 +162911,10 @@
     "probability": 0.386,
     "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia"
   },
+  "49967579": {
+    "probability": 0.206,
+    "title": "DigitalOcean Ends Open Source Credits Program"
+  },
   "49968105": {
     "probability": 0.902,
     "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects"
@@ -163203,6 +163207,10 @@
     "probability": 0.862,
     "title": "OpenTPU – An open-source AI accelerator, developed by AI"
   },
+  "49980880": {
+    "probability": 0.515,
+    "title": "Grieving the loss of details"
+  },
   "49981063": {
     "probability": 0.505,
     "title": "Former German spy chief arrested for attempted treason"
@@ -163215,9 +163223,17 @@
     "probability": 0.735,
     "title": "Utah to let AI examine patients and prescribe medication without human oversight"
   },
+  "49981264": {
+    "probability": 0.695,
+    "title": "How to head into VR without wearing a headset"
+  },
   "49981449": {
     "probability": 0.373,
     "title": "Adobe Creative Suite Cleanroom Port to Rust"
+  },
+  "49981508": {
+    "probability": 0.468,
+    "title": "Noto means \"no tofu\": fixing dotted circles in Myanmar text"
   },
   "49981905": {
     "probability": 0.847,
@@ -163278,6 +163294,10 @@
   "49984159": {
     "probability": 0.316,
     "title": "A Terminal Protocol for Program Status (OSC 7501)"
+  },
+  "49984349": {
+    "probability": 0.511,
+    "title": "OpenSCAD the Programmers Solid 3D CAD Modeller"
   },
   "49984652": {
     "probability": 0.445,
@@ -163342,6 +163362,10 @@
   "49986892": {
     "probability": 0.419,
     "title": "Couple was swatted 55 times in 2 years over a post about Norm Macdonald"
+  },
+  "49986919": {
+    "probability": 0.187,
+    "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years"
   },
   "49987076": {
     "probability": 0.727,
@@ -163414,6 +163438,10 @@
   "49991823": {
     "probability": 0.473,
     "title": "Google Playground: Create and play custom games"
+  },
+  "49991852": {
+    "probability": 0.538,
+    "title": "2D Vehicles"
   },
   "49991986": {
     "probability": 0.446,
@@ -163667,6 +163695,10 @@
     "probability": 0.338,
     "title": "2027 Web Platform Feature Ranking"
   },
+  "50005743": {
+    "probability": 0.372,
+    "title": "C for Rust programmers"
+  },
   "50006012": {
     "probability": 0.384,
     "title": "Orkut.com"
@@ -163751,6 +163783,10 @@
     "probability": 0.685,
     "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances"
   },
+  "50010986": {
+    "probability": 0.332,
+    "title": "Cube Type – Isometric Typography Generator"
+  },
   "50011928": {
     "probability": 0.694,
     "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)"
@@ -163799,9 +163835,17 @@
     "probability": 0.363,
     "title": "MXC - a sandboxed code execution system"
   },
+  "50016956": {
+    "probability": 0.376,
+    "title": "Mxc: Microsoft Execution Containers version 1.0.0"
+  },
   "50016974": {
     "probability": 0.439,
     "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack"
+  },
+  "50017247": {
+    "probability": 0.419,
+    "title": "Nix wrote half of my debugger"
   },
   "50017301": {
     "probability": 0.423,
@@ -163935,6 +163979,10 @@
     "probability": 0.909,
     "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI"
   },
+  "50024242": {
+    "probability": 0.559,
+    "title": "Rampart: Browser native on-device PII radaction"
+  },
   "50024499": {
     "probability": 0.514,
     "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded"
@@ -163983,6 +164031,10 @@
     "probability": 0.226,
     "title": "Japan's most famous tuna buyer says he turned Somali pirates into fishermen"
   },
+  "50027234": {
+    "probability": 0.289,
+    "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025"
+  },
   "50027252": {
     "probability": 0.536,
     "title": "In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology"
@@ -164015,6 +164067,14 @@
     "probability": 0.431,
     "title": "Telegram Desktop vulnerability allowed any user's file to be stolen"
   },
+  "50029452": {
+    "probability": 0.177,
+    "title": "Data Center Darling's $30B IPO Dream Crushed in 48 Hours"
+  },
+  "50029487": {
+    "probability": 0.514,
+    "title": "The Lightbulb Computer"
+  },
   "50029630": {
     "probability": 0.641,
     "title": "Lobbying"
@@ -164027,6 +164087,10 @@
     "probability": 0.581,
     "title": "Computers Cannot Make Decisions"
   },
+  "50031156": {
+    "probability": 0.304,
+    "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks"
+  },
   "50031269": {
     "probability": 0.328,
     "title": "`123456' password used in Danish CPR data breach"
@@ -164038,5 +164102,57 @@
   "50031653": {
     "probability": 0.279,
     "title": "Apple/macOS silently removed from official Unix registry"
+  },
+  "50032556": {
+    "probability": 0.507,
+    "title": "Lobbying is corruption"
+  },
+  "50032758": {
+    "probability": 0.365,
+    "title": "I would like the value of my home to rise, while my property taxes fall"
+  },
+  "50033357": {
+    "probability": 0.28,
+    "title": "Unikernels were hard. key word: were"
+  },
+  "50033407": {
+    "probability": 0.61,
+    "title": "Bitwarden Dual License Model"
+  },
+  "50033517": {
+    "probability": 0.725,
+    "title": "My personal AI agent posted my bank details on company Slack"
+  },
+  "50033638": {
+    "probability": 0.313,
+    "title": "FDA may allow some toxic chemicals to be added to food without safety review"
+  },
+  "50033678": {
+    "probability": 0.424,
+    "title": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal"
+  },
+  "50033721": {
+    "probability": 0.413,
+    "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial"
+  },
+  "50034081": {
+    "probability": 0.613,
+    "title": "Knuth reward check"
+  },
+  "50035530": {
+    "probability": 0.468,
+    "title": "Why DuckDB 2.0 is faster"
+  },
+  "50035561": {
+    "probability": 0.386,
+    "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well"
+  },
+  "50035886": {
+    "probability": 0.856,
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI"
+  },
+  "50036119": {
+    "probability": 0.457,
+    "title": "Takeshi's Castle"
   }
 }
