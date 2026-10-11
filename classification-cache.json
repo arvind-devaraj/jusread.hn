@@ -163619,6 +163619,10 @@
     "probability": 0.42,
     "title": "US man given prison sentence for bot-farming music streams"
   },
+  "50001234": {
+    "probability": 0.84,
+    "title": "Retrofitting language models to operate over bytes"
+  },
   "50001580": {
     "probability": 0.27,
     "title": "A 100x faster* alternative to homebrew"
@@ -163710,6 +163714,10 @@
   "50006832": {
     "probability": 0.33,
     "title": "Trump administration is suspending Microsoft from a green card program"
+  },
+  "50006930": {
+    "probability": 0.776,
+    "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support"
   },
   "50006948": {
     "probability": 0.261,
@@ -163827,6 +163835,10 @@
     "probability": 0.622,
     "title": "Keyboard differences between Windows and Macs"
   },
+  "50015833": {
+    "probability": 0.855,
+    "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes"
+  },
   "50016312": {
     "probability": 0.374,
     "title": "Show HN: Quake ported to safe Rust, playable in browser"
@@ -163834,6 +163846,10 @@
   "50016489": {
     "probability": 0.363,
     "title": "MXC - a sandboxed code execution system"
+  },
+  "50016696": {
+    "probability": 0.468,
+    "title": "Whooping Cranes Learned to Migrate by Following Costumed Pilots"
   },
   "50016956": {
     "probability": 0.376,
@@ -163854,6 +163870,10 @@
   "50017357": {
     "probability": 0.486,
     "title": "Programming Isn't Special"
+  },
+  "50017548": {
+    "probability": 0.446,
+    "title": "How big is a Git commit?"
   },
   "50018088": {
     "probability": 0.51,
@@ -163915,6 +163935,10 @@
     "probability": 0.691,
     "title": "Court throws out killer's sentence after judge said he loved AI video of victim"
   },
+  "50020901": {
+    "probability": 0.362,
+    "title": "Getting old Macromedia Director Games to run on modern Hardware"
+  },
   "50020927": {
     "probability": 0.205,
     "title": "Yandex Takes a Second Data Center Hit in 48 Hours"
@@ -163946,6 +163970,10 @@
   "50021763": {
     "probability": 0.855,
     "title": "The super intelligence shit is a humiliation ritual for OpenAI"
+  },
+  "50021899": {
+    "probability": 0.394,
+    "title": "Five months treating bugs like patients and coding agents like a medical team"
   },
   "50022266": {
     "probability": 0.496,
@@ -164039,6 +164067,10 @@
     "probability": 0.536,
     "title": "In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology"
   },
+  "50027257": {
+    "probability": 0.892,
+    "title": "Recent AI models struggled to match a human algorithmic innovation"
+  },
   "50027590": {
     "probability": 0.386,
     "title": "Atari Falcon"
@@ -164059,9 +164091,17 @@
     "probability": 0.294,
     "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People"
   },
+  "50028162": {
+    "probability": 0.656,
+    "title": "How strong is the strong interaction?"
+  },
   "50028275": {
     "probability": 0.627,
     "title": "REA Reverse – Engineer Anything"
+  },
+  "50028647": {
+    "probability": 0.322,
+    "title": "Decade-old RAM is making a comeback"
   },
   "50029123": {
     "probability": 0.431,
@@ -164135,9 +164175,17 @@
     "probability": 0.413,
     "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial"
   },
+  "50034008": {
+    "probability": 0.255,
+    "title": "How Protein Took over the World"
+  },
   "50034081": {
     "probability": 0.613,
     "title": "Knuth reward check"
+  },
+  "50034123": {
+    "probability": 0.528,
+    "title": "MrBeast 'spends millions reverse engineering the algorithms on each platform'"
   },
   "50035530": {
     "probability": 0.468,
@@ -164154,5 +164202,69 @@
   "50036119": {
     "probability": 0.457,
     "title": "Takeshi's Castle"
+  },
+  "50036864": {
+    "probability": 0.438,
+    "title": "A city-building game in which the city would prefer you didn't"
+  },
+  "50037949": {
+    "probability": 0.817,
+    "title": "Build your own decision model"
+  },
+  "50038383": {
+    "probability": 0.824,
+    "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects"
+  },
+  "50038623": {
+    "probability": 0.374,
+    "title": "PSPi 6 – Raspberry Pi in a PSP"
+  },
+  "50038634": {
+    "probability": 0.415,
+    "title": "Show HN: WallHop – 12ft.io is gone, so I built a replacement"
+  },
+  "50038865": {
+    "probability": 0.817,
+    "title": "Anthropic asks users to stop being mean to Claude"
+  },
+  "50039063": {
+    "probability": 0.469,
+    "title": "European Alternatives"
+  },
+  "50039092": {
+    "probability": 0.794,
+    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter"
+  },
+  "50039536": {
+    "probability": 0.42,
+    "title": "GameBoy on E-Paper ESP32 at 30FPS [video]"
+  },
+  "50040276": {
+    "probability": 0.363,
+    "title": "LineageOS 24.0"
+  },
+  "50040547": {
+    "probability": 0.185,
+    "title": "3rd Yandex Cloud Data Center Was Hit"
+  },
+  "50040625": {
+    "probability": 0.532,
+    "title": "I wish you the best in the Offline"
+  },
+  "50041540": {
+    "probability": 0.688,
+    "title": "IRCv3"
+  },
+  "50041619": {
+    "probability": 0.271,
+    "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter"
+  },
+  "50041682": {
+    "probability": 0.498,
+    "title": "Nitter: Update Oct 10th seeking funding and legal help"
+  },
+  "50042219": {
+    "probability": 0.506,
+    "title": "I paid people to try and follow my README"
   }
 }

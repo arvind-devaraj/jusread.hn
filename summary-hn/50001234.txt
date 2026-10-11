@@ -1,0 +1,8 @@
+Retrofitting language models to operate over bytes  (79 pts, 13 comments)
+https://news.ycombinator.com/item?id=50001234
+
+The Hacker News discussion revolves around a paper published in *Nature* that explores retrofitting language models to operate over bytes instead of traditional tokens. The paper has sparked debate regarding its significance and the appropriateness of its publication venue, as many commenters feel it lacks the groundbreaking nature typically associated with *Nature*.
+
+In the comments, there is a consensus that the paper is not particularly innovative, with some suggesting it would be better suited for conferences like NeurIPS or ICML rather than a high-profile journal. Critics argue that *Nature* has a reputation for sensationalism and may be overreaching in its acceptance of machine learning papers. There are also technical discussions about the implications of using byte-level processing, with some commenters noting that while models can handle individual bytes, the goal of the paper is to eliminate traditional tokenization issues altogether.
+
+Notable insights include the idea that increasing granularity in language models could lead to higher computational demands, and the recognition that while token-free models have been explored, the field still predominantly relies on token-based systems. Overall, the discussion reflects a mix of skepticism about the paper's contributions and a deeper examination of the challenges and nuances in language model design.
