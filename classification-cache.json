@@ -163895,6 +163895,10 @@
     "probability": 0.782,
     "title": "Let your AI agents paint big arrows, boxes and text on your screen"
   },
+  "50018929": {
+    "probability": 0.394,
+    "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R"
+  },
   "50019056": {
     "probability": 0.492,
     "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more"
@@ -164095,6 +164099,10 @@
     "probability": 0.656,
     "title": "How strong is the strong interaction?"
   },
+  "50028264": {
+    "probability": 0.405,
+    "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis"
+  },
   "50028275": {
     "probability": 0.627,
     "title": "REA Reverse – Engineer Anything"
@@ -164127,6 +164135,10 @@
     "probability": 0.581,
     "title": "Computers Cannot Make Decisions"
   },
+  "50030470": {
+    "probability": 0.64,
+    "title": "Rat's Register Allocator"
+  },
   "50031156": {
     "probability": 0.304,
     "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks"
@@ -164146,6 +164158,10 @@
   "50032556": {
     "probability": 0.507,
     "title": "Lobbying is corruption"
+  },
+  "50032590": {
+    "probability": 0.233,
+    "title": "Software developers are not okay"
   },
   "50032758": {
     "probability": 0.365,
@@ -164215,6 +164231,10 @@
     "probability": 0.824,
     "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects"
   },
+  "50038458": {
+    "probability": 0.575,
+    "title": "Ask HN: Why aren't Americans rising up against tipping?"
+  },
   "50038623": {
     "probability": 0.374,
     "title": "PSPi 6 – Raspberry Pi in a PSP"
@@ -164234,6 +164254,10 @@
   "50039092": {
     "probability": 0.794,
     "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter"
+  },
+  "50039504": {
+    "probability": 0.411,
+    "title": "CIA World Factbook is dead – Here is an attempt at recreation"
   },
   "50039536": {
     "probability": 0.42,
@@ -164263,8 +164287,104 @@
     "probability": 0.498,
     "title": "Nitter: Update Oct 10th seeking funding and legal help"
   },
+  "50041765": {
+    "probability": 0.852,
+    "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things"
+  },
+  "50041873": {
+    "probability": 0.71,
+    "title": "Nicolas Cage says he won't work with Amazon again over AI dispute"
+  },
+  "50042107": {
+    "probability": 0.83,
+    "title": "AI is creating a 'human premium' for art created by people"
+  },
   "50042219": {
     "probability": 0.506,
     "title": "I paid people to try and follow my README"
+  },
+  "50042333": {
+    "probability": 0.811,
+    "title": "Show HN: BetterWispr – Free, open-source dictation for Mac"
+  },
+  "50042362": {
+    "probability": 0.739,
+    "title": "Valen's Memory Safety: A New Kind of Borrow Checking"
+  },
+  "50042370": {
+    "probability": 0.224,
+    "title": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests"
+  },
+  "50042425": {
+    "probability": 0.432,
+    "title": "The tilde in your PATH may not be your HOME"
+  },
+  "50043026": {
+    "probability": 0.695,
+    "title": "Terence Tao: Math 2.0 [pdf]"
+  },
+  "50043110": {
+    "probability": 0.48,
+    "title": "Open-source Microsoft Excel, PowerPoint, and Word replications"
+  },
+  "50043682": {
+    "probability": 0.399,
+    "title": "Documents add to evidence in climate deception case against ExxonMobil"
+  },
+  "50043689": {
+    "probability": 0.702,
+    "title": "I'm sorry, but you still have to think"
+  },
+  "50044272": {
+    "probability": 0.707,
+    "title": "How I reverse engineered a commercial spatial audio effect"
+  },
+  "50044715": {
+    "probability": 0.418,
+    "title": "How to Build Wealth as a Career Person"
+  },
+  "50044733": {
+    "probability": 0.471,
+    "title": "The Corporate Happiness Treadmill and the Case for Doing Less"
+  },
+  "50045735": {
+    "probability": 0.57,
+    "title": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit"
+  },
+  "50045895": {
+    "probability": 0.366,
+    "title": "We're unlocking the biggest mysteries of the clitoris"
+  },
+  "50045946": {
+    "probability": 0.419,
+    "title": "NYC's \"Click to Cancel\" rule is now in effect"
+  },
+  "50045984": {
+    "probability": 0.417,
+    "title": "Total Annihilation, rebuilt for modern computers"
+  },
+  "50046241": {
+    "probability": 0.648,
+    "title": "Chapter 1 of Ways of Seeing by John Berger"
+  },
+  "50047055": {
+    "probability": 0.388,
+    "title": "So, You’d Like To Sell Your Print Issues Of The Onion?"
+  },
+  "50047071": {
+    "probability": 0.575,
+    "title": "Artificial Insanity"
+  },
+  "50047091": {
+    "probability": 0.379,
+    "title": "Cartographers of North Korea"
+  },
+  "50047422": {
+    "probability": 0.807,
+    "title": "The gap in shared understanding of LLM capability is widening"
+  },
+  "50047825": {
+    "probability": 0.358,
+    "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her"
   }
 }
