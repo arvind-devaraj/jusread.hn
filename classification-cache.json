@@ -163759,6 +163759,10 @@
     "probability": 0.844,
     "title": "Anthropic bans 'abusive or cruel behavior' towards Claude"
   },
+  "50008566": {
+    "probability": 0.371,
+    "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs"
+  },
   "50009066": {
     "probability": 0.423,
     "title": "Scaling and benchmarking a critical message bus using a new indexing strategy"
@@ -163979,6 +163983,10 @@
     "probability": 0.394,
     "title": "Five months treating bugs like patients and coding agents like a medical team"
   },
+  "50021989": {
+    "probability": 0.378,
+    "title": "I guess I'm using WebP now?"
+  },
   "50022266": {
     "probability": 0.496,
     "title": "A statement on the Tor Project's relationship with Mullvad"
@@ -164010,6 +164018,10 @@
   "50024090": {
     "probability": 0.909,
     "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI"
+  },
+  "50024108": {
+    "probability": 0.481,
+    "title": "I'm still around.. I'm just not writing here"
   },
   "50024242": {
     "probability": 0.559,
@@ -164179,6 +164191,10 @@
     "probability": 0.725,
     "title": "My personal AI agent posted my bank details on company Slack"
   },
+  "50033601": {
+    "probability": 0.415,
+    "title": "Safe SIMD in Rust, even on the inside"
+  },
   "50033638": {
     "probability": 0.313,
     "title": "FDA may allow some toxic chemicals to be added to food without safety review"
@@ -164191,6 +164207,10 @@
     "probability": 0.413,
     "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial"
   },
+  "50034001": {
+    "probability": 0.44,
+    "title": "No portable way to detect string-to-float conversion errors in standard C"
+  },
   "50034008": {
     "probability": 0.255,
     "title": "How Protein Took over the World"
@@ -164202,6 +164222,14 @@
   "50034123": {
     "probability": 0.528,
     "title": "MrBeast 'spends millions reverse engineering the algorithms on each platform'"
+  },
+  "50034206": {
+    "probability": 0.502,
+    "title": "Calculus with Julia"
+  },
+  "50034950": {
+    "probability": 0.847,
+    "title": "Bag of Decisions Reranker"
   },
   "50035530": {
     "probability": 0.468,
@@ -164219,9 +164247,17 @@
     "probability": 0.457,
     "title": "Takeshi's Castle"
   },
+  "50036287": {
+    "probability": 0.415,
+    "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)"
+  },
   "50036864": {
     "probability": 0.438,
     "title": "A city-building game in which the city would prefer you didn't"
+  },
+  "50037711": {
+    "probability": 0.271,
+    "title": "Secret of Orange Cats Revealed After 60-Year Search"
   },
   "50037949": {
     "probability": 0.817,
@@ -164255,6 +164291,10 @@
     "probability": 0.794,
     "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter"
   },
+  "50039291": {
+    "probability": 0.788,
+    "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?"
+  },
   "50039504": {
     "probability": 0.411,
     "title": "CIA World Factbook is dead – Here is an attempt at recreation"
@@ -164262,6 +164302,10 @@
   "50039536": {
     "probability": 0.42,
     "title": "GameBoy on E-Paper ESP32 at 30FPS [video]"
+  },
+  "50039608": {
+    "probability": 0.552,
+    "title": "Vectorized CLZ and CTZ"
   },
   "50040276": {
     "probability": 0.363,
@@ -164275,13 +164319,25 @@
     "probability": 0.532,
     "title": "I wish you the best in the Offline"
   },
+  "50041252": {
+    "probability": 0.429,
+    "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos"
+  },
   "50041540": {
     "probability": 0.688,
     "title": "IRCv3"
   },
+  "50041573": {
+    "probability": 0.475,
+    "title": "Running the unmodified Linux amdgpu driver on an iPad"
+  },
   "50041619": {
     "probability": 0.271,
     "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter"
+  },
+  "50041667": {
+    "probability": 0.764,
+    "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot"
   },
   "50041682": {
     "probability": 0.498,
@@ -164298,6 +164354,10 @@
   "50042107": {
     "probability": 0.83,
     "title": "AI is creating a 'human premium' for art created by people"
+  },
+  "50042149": {
+    "probability": 0.331,
+    "title": "What driving across Europe costs in tolls, vignettes, bridges and fuel"
   },
   "50042219": {
     "probability": 0.506,
@@ -164347,6 +164407,14 @@
     "probability": 0.471,
     "title": "The Corporate Happiness Treadmill and the Case for Doing Less"
   },
+  "50044989": {
+    "probability": 0.547,
+    "title": "Playgrnd – tiny tools for making weird, beautiful things"
+  },
+  "50045273": {
+    "probability": 0.52,
+    "title": "apsw: Another Python SQLite Wrapper"
+  },
   "50045735": {
     "probability": 0.57,
     "title": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit"
@@ -164367,6 +164435,14 @@
     "probability": 0.648,
     "title": "Chapter 1 of Ways of Seeing by John Berger"
   },
+  "50046864": {
+    "probability": 0.456,
+    "title": "The Unreasonable Effectiveness of Vex in NixOS"
+  },
+  "50047005": {
+    "probability": 0.404,
+    "title": "British PM says it is 'clear' Russia interfered with Brexit vote"
+  },
   "50047055": {
     "probability": 0.388,
     "title": "So, You’d Like To Sell Your Print Issues Of The Onion?"
@@ -164383,8 +164459,132 @@
     "probability": 0.807,
     "title": "The gap in shared understanding of LLM capability is widening"
   },
+  "50047802": {
+    "probability": 0.597,
+    "title": "Tattoos you can turn on and off"
+  },
   "50047825": {
     "probability": 0.358,
     "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her"
+  },
+  "50048312": {
+    "probability": 0.651,
+    "title": "Passkeys are a trap"
+  },
+  "50048522": {
+    "probability": 0.627,
+    "title": "Recursive self-improvement through collective intelligence"
+  },
+  "50048638": {
+    "probability": 0.371,
+    "title": "Google told to halt work on datacentres in Finland over environmental concerns"
+  },
+  "50048642": {
+    "probability": 0.315,
+    "title": "Fingerprints are the new cookies"
+  },
+  "50048768": {
+    "probability": 0.348,
+    "title": "Google Data Centers around the world"
+  },
+  "50049133": {
+    "probability": 0.662,
+    "title": "Illustration Beyond Proof"
+  },
+  "50049302": {
+    "probability": 0.356,
+    "title": "Governments are mishandling the affordability crisis"
+  },
+  "50049411": {
+    "probability": 0.59,
+    "title": "Whatever became of holography? (2011)"
+  },
+  "50049498": {
+    "probability": 0.498,
+    "title": "HashiCorp archives the Boundary open source repo"
+  },
+  "50049508": {
+    "probability": 0.647,
+    "title": "Local Indexing to reduce tool calling and token usage"
+  },
+  "50049872": {
+    "probability": 0.583,
+    "title": "Doory – Open-Source Canva"
+  },
+  "50050370": {
+    "probability": 0.559,
+    "title": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
+  },
+  "50051172": {
+    "probability": 0.455,
+    "title": "X Is Bad, Though"
+  },
+  "50051530": {
+    "probability": 0.364,
+    "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?"
+  },
+  "50051532": {
+    "probability": 0.308,
+    "title": "Yandex bot traffic down 99% after data center attack"
+  },
+  "50051573": {
+    "probability": 0.448,
+    "title": "Type-safe HTML templating in Zig"
+  },
+  "50051583": {
+    "probability": 0.434,
+    "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'"
+  },
+  "50052156": {
+    "probability": 0.41,
+    "title": "Attack of the Vibe Coded Photoshop Clones"
+  },
+  "50052163": {
+    "probability": 0.35,
+    "title": "Postgres isn't slow, your storage is"
+  },
+  "50052251": {
+    "probability": 0.298,
+    "title": "Show HN: PS2 games statically recompiled to WebAssembly"
+  },
+  "50052814": {
+    "probability": 0.206,
+    "title": "Zod 4.6.6 compromised by malware?"
+  },
+  "50053216": {
+    "probability": 0.394,
+    "title": "Fable Took My Job"
+  },
+  "50054092": {
+    "probability": 0.283,
+    "title": "Ledger confirms hidden chip in crypto wallet amid $92M theft claims"
+  },
+  "50054207": {
+    "probability": 0.183,
+    "title": "Deloitte falsified documents to evade tax on Abramovich's wealth"
+  },
+  "50054751": {
+    "probability": 0.814,
+    "title": "QGIS bans AI assisted contributions"
+  },
+  "50055220": {
+    "probability": 0.497,
+    "title": "Citroen revives the 2CV for an electric age"
+  },
+  "50055304": {
+    "probability": 0.398,
+    "title": "Hackers activate automatic defrosting accross European supermarket fridges"
+  },
+  "50055375": {
+    "probability": 0.748,
+    "title": "Incident with Actions, Pull Requests and Issues"
+  },
+  "50056822": {
+    "probability": 0.342,
+    "title": "Solar Panels That Plug into Your Wall"
+  },
+  "50057278": {
+    "probability": 0.774,
+    "title": "Why aren't AI companies being charged for hacking?"
   }
 }
