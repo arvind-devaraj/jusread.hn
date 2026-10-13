@@ -164287,6 +164287,10 @@
     "probability": 0.817,
     "title": "Anthropic asks users to stop being mean to Claude"
   },
+  "50039062": {
+    "probability": 0.374,
+    "title": "A plastic once thought harmless may be fueling fatty liver disease"
+  },
   "50039063": {
     "probability": 0.469,
     "title": "European Alternatives"
@@ -164350,6 +164354,10 @@
   "50041765": {
     "probability": 0.852,
     "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things"
+  },
+  "50041866": {
+    "probability": 0.43,
+    "title": "The baffling intelligence of a single cell (2024)"
   },
   "50041873": {
     "probability": 0.71,
@@ -164466,6 +164474,10 @@
   "50047422": {
     "probability": 0.807,
     "title": "The gap in shared understanding of LLM capability is widening"
+  },
+  "50047664": {
+    "probability": 0.618,
+    "title": "Auto Research: Integer multiplication below n log n"
   },
   "50047802": {
     "probability": 0.597,
@@ -164699,6 +164711,10 @@
     "probability": 0.524,
     "title": "OpenFatigue™ – Open is the new closed"
   },
+  "50061497": {
+    "probability": 0.523,
+    "title": "RimWorld 1.7 moves from Unity to Ludeon's in-house Waylith engine"
+  },
   "50061603": {
     "probability": 0.848,
     "title": "AI models may be capable of self-replicating without access to a datacenter"
@@ -164715,9 +164731,17 @@
     "probability": 0.624,
     "title": "Epic Games tells employees to use AI to get Disney game done"
   },
+  "50063042": {
+    "probability": 0.45,
+    "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser"
+  },
   "50063138": {
     "probability": 0.598,
     "title": "Who Is Vfmaddrnd231pd?"
+  },
+  "50063365": {
+    "probability": 0.606,
+    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X"
   },
   "50063417": {
     "probability": 0.436,
@@ -164727,6 +164751,10 @@
     "probability": 0.886,
     "title": "AI is a tool and using it well takes skill"
   },
+  "50063717": {
+    "probability": 0.569,
+    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD"
+  },
   "50063831": {
     "probability": 0.252,
     "title": "Breaking Bad star RJ Mitte dies aged 34"
@@ -164735,8 +164763,104 @@
     "probability": 0.417,
     "title": "GPT-6 Astra Helped Me Jailbreak My Kindle"
   },
+  "50064438": {
+    "probability": 0.8,
+    "title": "Show HN: An experimental pattern-first DAW that supports MCP"
+  },
   "50064536": {
     "probability": 0.405,
     "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20"
+  },
+  "50064840": {
+    "probability": 0.605,
+    "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)"
+  },
+  "50065692": {
+    "probability": 0.944,
+    "title": "AI models can provably hide arbitrary capabilities"
+  },
+  "50065713": {
+    "probability": 0.313,
+    "title": "The Dock on Mac, from OS 10 to macOS 27"
+  },
+  "50065805": {
+    "probability": 0.356,
+    "title": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024"
+  },
+  "50065892": {
+    "probability": 0.353,
+    "title": "Leaving Tech"
+  },
+  "50065932": {
+    "probability": 0.831,
+    "title": "A look at the math that OpenAI claims computes faster Fourier transforms"
+  },
+  "50065972": {
+    "probability": 0.384,
+    "title": "NAZA: Netanyahu orders identification and prosecution of film's interviewees"
+  },
+  "50067356": {
+    "probability": 0.524,
+    "title": "Threat of AI share crash puts world financial stability at risk, says IMF"
+  },
+  "50067414": {
+    "probability": 0.407,
+    "title": "Hittite royal archive found in Turkey"
+  },
+  "50067570": {
+    "probability": 0.426,
+    "title": "Denmark set to allow return of 'physical force' in school"
+  },
+  "50068036": {
+    "probability": 0.725,
+    "title": "Character.ai files for Chapter 11 bankruptcy"
+  },
+  "50068437": {
+    "probability": 0.576,
+    "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?"
+  },
+  "50068508": {
+    "probability": 0.319,
+    "title": "Crypto thieves sell hardware wallets with secret eSIM"
+  },
+  "50068946": {
+    "probability": 0.341,
+    "title": "Were Software Engineers blue-collar workers all along?"
+  },
+  "50069318": {
+    "probability": 0.445,
+    "title": "AWS Lambda Web Functions"
+  },
+  "50069329": {
+    "probability": 0.342,
+    "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades"
+  },
+  "50069337": {
+    "probability": 0.893,
+    "title": "Show HN: Use your OpenAI subscription to create audiobooks"
+  },
+  "50069499": {
+    "probability": 0.467,
+    "title": "11 year old unsoundness bugs found in Rust borrow checker"
+  },
+  "50069942": {
+    "probability": 0.696,
+    "title": "Character.ai Files for Bankruptcy"
+  },
+  "50069971": {
+    "probability": 0.677,
+    "title": "An hour of audio transcribed in about 13s on MacBook Air"
+  },
+  "50070302": {
+    "probability": 0.245,
+    "title": "Mozilla Introduces Firefox Enterprise"
+  },
+  "50070593": {
+    "probability": 0.597,
+    "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs"
+  },
+  "50071017": {
+    "probability": 0.674,
+    "title": "Apple HomeView"
   }
 }

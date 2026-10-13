@@ -1,0 +1,8 @@
+Show HN: Use your OpenAI subscription to create audiobooks  (100 pts, 54 comments)
+https://news.ycombinator.com/item?id=50069337
+
+The Hacker News discussion revolves around a project that allows users to create audiobooks using their OpenAI subscription. The post claims that users can leverage their subscription to process documents, while a separate API key is required for text-to-speech (TTS) generation, which has led to confusion among commenters regarding the title's implication that only the OpenAI subscription is needed.
+
+The main points of debate include the misleading nature of the title, as many users expected a seamless integration without needing an additional API key. Commenters shared their own experiences with similar projects, discussing various TTS solutions and methods for automating audiobook creation, such as using RSS feeds and cloud storage. There were also concerns about security when sharing API keys and suggestions for local alternatives to avoid potential risks.
+
+Notable insights include the variety of TTS options available, with some users expressing dissatisfaction with OpenAI's offerings compared to others like ElevenLabs. Additionally, several commenters highlighted the importance of ensuring security when using API keys and shared tips for managing them effectively. Overall, the discussion reflects a mix of enthusiasm for the project and skepticism about its implementation and security practices.
