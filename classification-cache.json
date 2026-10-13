@@ -164587,6 +164587,10 @@
     "probability": 0.394,
     "title": "Fable Took My Job"
   },
+  "50053765": {
+    "probability": 0.209,
+    "title": "A decade after Stardew Valley, Eric Barone is still going it alone"
+  },
   "50054092": {
     "probability": 0.283,
     "title": "Ledger confirms hidden chip in crypto wallet amid $92M theft claims"
@@ -164719,6 +164723,10 @@
     "probability": 0.848,
     "title": "AI models may be capable of self-replicating without access to a datacenter"
   },
+  "50061659": {
+    "probability": 0.561,
+    "title": "MIT class project turns into an FDA-cleared treatment for tremors"
+  },
   "50061791": {
     "probability": 0.454,
     "title": "Making big downloads resumable in Firefox"
@@ -164823,6 +164831,10 @@
     "probability": 0.319,
     "title": "Crypto thieves sell hardware wallets with secret eSIM"
   },
+  "50068510": {
+    "probability": 0.379,
+    "title": "Where is all the new, good software?"
+  },
   "50068946": {
     "probability": 0.341,
     "title": "Were Software Engineers blue-collar workers all along?"
@@ -164851,16 +164863,92 @@
     "probability": 0.677,
     "title": "An hour of audio transcribed in about 13s on MacBook Air"
   },
+  "50070287": {
+    "probability": 0.503,
+    "title": "A Visual Intro to Complex Numbers"
+  },
   "50070302": {
     "probability": 0.245,
     "title": "Mozilla Introduces Firefox Enterprise"
+  },
+  "50070554": {
+    "probability": 0.496,
+    "title": "Worlds more habitable than Earth?"
   },
   "50070593": {
     "probability": 0.597,
     "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs"
   },
+  "50070741": {
+    "probability": 0.449,
+    "title": "BB(10) > Graham's Number"
+  },
   "50071017": {
     "probability": 0.674,
     "title": "Apple HomeView"
+  },
+  "50071310": {
+    "probability": 0.458,
+    "title": "New Apple TV 4K"
+  },
+  "50072120": {
+    "probability": 0.906,
+    "title": "How to engineer an AI harness for game development"
+  },
+  "50072286": {
+    "probability": 0.249,
+    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome"
+  },
+  "50072913": {
+    "probability": 0.469,
+    "title": "Thunderbird for iOS"
+  },
+  "50072994": {
+    "probability": 0.265,
+    "title": "The United Kingdom generates less electricity per person than in the 1970s"
+  },
+  "50073221": {
+    "probability": 0.727,
+    "title": "I posted to HN, and then my website was flooded with AI bot traffic"
+  },
+  "50073633": {
+    "probability": 0.454,
+    "title": "Redesigning source control at Anthropic"
+  },
+  "50073879": {
+    "probability": 0.519,
+    "title": "Gemini 4 Argon"
+  },
+  "50074091": {
+    "probability": 0.432,
+    "title": "Ukraine Is Successfully Bombing the Heart of Russia's Disinformation Machine"
+  },
+  "50074289": {
+    "probability": 0.252,
+    "title": "Cyberattack halts construction of tunnel between Denmark and Germany"
+  },
+  "50074869": {
+    "probability": 0.661,
+    "title": "Gemini 4 Argon for Robotics"
+  },
+  "50074909": {
+    "probability": 0.764,
+    "title": "Show HN: How Random Are You?"
+  },
+  "50076048": {
+    "probability": 0.513,
+    "title": "A plea not to use uv-build"
+  },
+  "50077020": {
+    "probability": 0.736,
+    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard"
+  },
+  "50077703": {
+    "probability": 0.831,
+    "title": "OpenAI finds recording device in one of their offices"
+  },
+  "50078141": {
+    "probability": 0.756,
+    "title": "OpenAI engineer arrested in bugging of executive conference room"
   }
 }
