@@ -164187,6 +164187,10 @@
     "probability": 0.61,
     "title": "Bitwarden Dual License Model"
   },
+  "50033486": {
+    "probability": 0.48,
+    "title": "FlowCE: Calculus on your TI-84 Plus CE"
+  },
   "50033517": {
     "probability": 0.725,
     "title": "My personal AI agent posted my bank details on company Slack"
@@ -164379,6 +164383,10 @@
     "probability": 0.432,
     "title": "The tilde in your PATH may not be your HOME"
   },
+  "50042936": {
+    "probability": 0.417,
+    "title": "Choreographic Programming in Rust"
+  },
   "50043026": {
     "probability": 0.695,
     "title": "Terence Tao: Math 2.0 [pdf]"
@@ -164487,6 +164495,10 @@
     "probability": 0.348,
     "title": "Google Data Centers around the world"
   },
+  "50048861": {
+    "probability": 0.417,
+    "title": "A Chicago-area college told Flock to remove its cameras. The company refused"
+  },
   "50049133": {
     "probability": 0.662,
     "title": "Illustration Beyond Proof"
@@ -164506,6 +164518,10 @@
   "50049508": {
     "probability": 0.647,
     "title": "Local Indexing to reduce tool calling and token usage"
+  },
+  "50049588": {
+    "probability": 0.926,
+    "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p"
   },
   "50049872": {
     "probability": 0.583,
@@ -164547,6 +164563,10 @@
     "probability": 0.298,
     "title": "Show HN: PS2 games statically recompiled to WebAssembly"
   },
+  "50052638": {
+    "probability": 0.286,
+    "title": "I Found a $90k Remote Code Execution Vulnerability in Google"
+  },
   "50052814": {
     "probability": 0.206,
     "title": "Zod 4.6.6 compromised by malware?"
@@ -164562,6 +164582,10 @@
   "50054207": {
     "probability": 0.183,
     "title": "Deloitte falsified documents to evade tax on Abramovich's wealth"
+  },
+  "50054474": {
+    "probability": 0.362,
+    "title": "Living in the Weimar Era of Ruby"
   },
   "50054751": {
     "probability": 0.814,
@@ -164579,12 +164603,140 @@
     "probability": 0.748,
     "title": "Incident with Actions, Pull Requests and Issues"
   },
+  "50055409": {
+    "probability": 0.695,
+    "title": "(Post-Quantum) Cryptographic Right Answers"
+  },
+  "50055593": {
+    "probability": 0.548,
+    "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver"
+  },
+  "50055654": {
+    "probability": 0.608,
+    "title": "AI less regulated than milk, Microsoft president says in warning over safety"
+  },
+  "50056063": {
+    "probability": 0.765,
+    "title": "\"Just Ask Claude\" Is a Rare and Valuable Skill"
+  },
   "50056822": {
     "probability": 0.342,
     "title": "Solar Panels That Plug into Your Wall"
   },
+  "50057030": {
+    "probability": 0.555,
+    "title": "An Unmade Film Shaped Hayao Miyazaki"
+  },
   "50057278": {
     "probability": 0.774,
     "title": "Why aren't AI companies being charged for hacking?"
+  },
+  "50057551": {
+    "probability": 0.427,
+    "title": "Fridges in French supermarkets hit by cyber attack"
+  },
+  "50057668": {
+    "probability": 0.763,
+    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later"
+  },
+  "50057956": {
+    "probability": 0.32,
+    "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack"
+  },
+  "50058507": {
+    "probability": 0.772,
+    "title": "GLM-Legal"
+  },
+  "50058528": {
+    "probability": 0.233,
+    "title": "A Modern Web App in C"
+  },
+  "50058850": {
+    "probability": 0.704,
+    "title": "Reverse engineer anything with agents, from app behavior down to native binaries"
+  },
+  "50059096": {
+    "probability": 0.673,
+    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents"
+  },
+  "50059115": {
+    "probability": 0.689,
+    "title": "Muse Wonder"
+  },
+  "50059204": {
+    "probability": 0.651,
+    "title": "Thinking will become a hobby"
+  },
+  "50059446": {
+    "probability": 0.543,
+    "title": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer"
+  },
+  "50059523": {
+    "probability": 0.642,
+    "title": "AI coding agents generate more code, but not more software"
+  },
+  "50060269": {
+    "probability": 0.884,
+    "title": "'AI' Is Not a Tool by Rich Hickey"
+  },
+  "50060296": {
+    "probability": 0.592,
+    "title": "My Reddit AMA on the Law of Web Scraping"
+  },
+  "50060500": {
+    "probability": 0.875,
+    "title": "Just say no to OpenAI and Anthropic"
+  },
+  "50060674": {
+    "probability": 0.216,
+    "title": "Publishers Killed the Paperback, Then Blamed Readers"
+  },
+  "50060694": {
+    "probability": 0.484,
+    "title": "Codex CLI installs a persistent, self-updating background daemon by default"
+  },
+  "50061278": {
+    "probability": 0.524,
+    "title": "OpenFatigue™ – Open is the new closed"
+  },
+  "50061603": {
+    "probability": 0.848,
+    "title": "AI models may be capable of self-replicating without access to a datacenter"
+  },
+  "50061791": {
+    "probability": 0.454,
+    "title": "Making big downloads resumable in Firefox"
+  },
+  "50061859": {
+    "probability": 0.299,
+    "title": "Writing a Demoscene Intro for the ZX Spectrum"
+  },
+  "50062237": {
+    "probability": 0.624,
+    "title": "Epic Games tells employees to use AI to get Disney game done"
+  },
+  "50063138": {
+    "probability": 0.598,
+    "title": "Who Is Vfmaddrnd231pd?"
+  },
+  "50063417": {
+    "probability": 0.436,
+    "title": "Phreak.ing – Internet Phone Switch"
+  },
+  "50063427": {
+    "probability": 0.886,
+    "title": "AI is a tool and using it well takes skill"
+  },
+  "50063831": {
+    "probability": 0.252,
+    "title": "Breaking Bad star RJ Mitte dies aged 34"
+  },
+  "50064318": {
+    "probability": 0.417,
+    "title": "GPT-6 Astra Helped Me Jailbreak My Kindle"
+  },
+  "50064536": {
+    "probability": 0.405,
+    "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20"
   }
 }

@@ -1,0 +1,8 @@
+'AI' Is Not a Tool by Rich Hickey  (203 pts, 95 comments)
+https://news.ycombinator.com/item?id=50060269
+
+The Hacker News discussion revolves around Rich Hickey's article titled "AI Is Not a Tool," where he argues that AI, particularly large language models (LLMs), should not be classified as mere tools but rather as entities that exist on a spectrum between tools and agents. Hickey defines tools as requiring control, intention, and expertise, while he sees LLMs as leaning more towards automation, which lacks these qualities.
+
+In the comments, there is significant debate about the definitions of "tool" and "automation." Some users agree with Hickey's perspective, suggesting that LLMs can act more like agents than traditional tools, while others argue that many software applications, including LLMs, can still be considered tools in a conventional sense. Notable insights include the idea that the relationship between humans and AI can shift, with concerns that users might become "tools" of the AI if they rely too heavily on it without critical engagement.
+
+Overall, the discussion highlights the complexity of categorizing AI technologies and the implications of their use in various contexts, reflecting differing opinions on the nature of agency and automation in the digital age.

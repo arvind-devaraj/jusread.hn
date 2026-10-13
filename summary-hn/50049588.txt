@@ -1,0 +1,8 @@
+Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p  (62 pts, 9 comments)
+https://news.ycombinator.com/item?id=50049588
+
+The post introduces Atticus, a voice assistant for macOS developed by a 9th grader named Saarth. Atticus allows users to perform tasks by holding down a key combination and speaking or typing commands. Simple tasks are processed locally for speed, while more complex requests are sent to the AI model Claude, minimizing costs. Atticus learns from user interactions to improve efficiency and personalization, and it includes safety features to confirm actions before executing them.
+
+In the comments, users express enthusiasm for Atticus, with some asking about potential Windows compatibility and the possibility of local AI options to address privacy concerns. There is a general agreement on the assistant's impressive functionality, with one user even creating a Windows fork. Concerns about sending private information to external servers are raised, highlighting the need for local processing capabilities.
+
+Overall, the discussion reflects a positive reception of Atticus, with constructive feedback on enhancing privacy and expanding compatibility, as well as interest in further development and features.

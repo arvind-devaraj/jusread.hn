@@ -1,0 +1,8 @@
+Just say no to OpenAI and Anthropic  (153 pts, 144 comments)
+https://news.ycombinator.com/item?id=50060500
+
+The Hacker News discussion revolves around the article titled "Just say no to OpenAI and Anthropic," which critiques the influence of major AI companies on society and expresses concerns about their monopolistic tendencies and the potential negative consequences of their technologies. The author argues for a more cautious approach to engaging with these companies, emphasizing the need for awareness and skepticism.
+
+In the comments, there is a notable divide among participants regarding the role of big tech and AI in society. Some commenters express skepticism about the motives of tech leaders and the media, suggesting that the current political and economic systems are failing to address issues like wealth inequality and corruption. Others argue that the advancements in AI could lead to positive outcomes and that the past 50 years have been the best in human history. There is also a discussion about the community's historical skepticism towards companies like Uber and Airbnb, with some feeling that the sentiment has shifted over time.
+
+Notable insights include concerns about the potential regression of society due to increasing wealth inequality and environmental degradation, as well as the idea that many people may not fully understand the implications of using closed AI models. The conversation reflects a broader anxiety about the future of technology and its impact on democracy and individual rights.
