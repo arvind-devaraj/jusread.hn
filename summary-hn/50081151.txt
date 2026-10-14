@@ -1,0 +1,8 @@
+Show HN: I built a tool to track what AI leaders say and how their views change  (104 pts, 69 comments)
+https://news.ycombinator.com/item?id=50081151
+
+The Hacker News discussion centers around a tool created by Gaurav, designed to track the statements of influential AI leaders and how their views evolve over time. The tool aims to provide searchable transcripts of their public statements, allowing users to analyze shifts in opinion, particularly in the context of significant events and regulatory discussions.
+
+In the comments, there is a mix of support and skepticism regarding the tool's utility. Some users appreciate the concept, suggesting it could reveal trends in thought leadership and the influence of political events on these leaders' views. Others express concern that tracking AI leaders may not be as impactful as monitoring actual politicians, arguing that the latter have more direct influence on societal outcomes. Notably, there is a debate about the relationship between money and politics, with some commenters highlighting the power dynamics at play between wealthy individuals and elected officials.
+
+Overall, the discussion reflects a broader interest in understanding the implications of AI leadership on society, while also critiquing the potential limitations of focusing solely on these figures rather than on elected political leaders.

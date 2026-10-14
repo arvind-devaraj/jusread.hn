@@ -164427,6 +164427,10 @@
     "probability": 0.547,
     "title": "Playgrnd – tiny tools for making weird, beautiful things"
   },
+  "50045147": {
+    "probability": 0.4,
+    "title": "Sound – Bartosz Ciechanowski (2022)"
+  },
   "50045273": {
     "probability": 0.52,
     "title": "apsw: Another Python SQLite Wrapper"
@@ -164446,6 +164450,10 @@
   "50045984": {
     "probability": 0.417,
     "title": "Total Annihilation, rebuilt for modern computers"
+  },
+  "50046022": {
+    "probability": 0.406,
+    "title": "Arena Allocators in C"
   },
   "50046241": {
     "probability": 0.648,
@@ -164587,6 +164595,10 @@
     "probability": 0.394,
     "title": "Fable Took My Job"
   },
+  "50053487": {
+    "probability": 0.437,
+    "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)"
+  },
   "50053765": {
     "probability": 0.209,
     "title": "A decade after Stardew Valley, Eric Barone is still going it alone"
@@ -164690,6 +164702,10 @@
   "50059523": {
     "probability": 0.642,
     "title": "AI coding agents generate more code, but not more software"
+  },
+  "50059542": {
+    "probability": 0.277,
+    "title": "Hiking the world in search of rare cheeses"
   },
   "50060269": {
     "probability": 0.884,
@@ -164807,6 +164823,10 @@
     "probability": 0.384,
     "title": "NAZA: Netanyahu orders identification and prosecution of film's interviewees"
   },
+  "50067098": {
+    "probability": 0.555,
+    "title": "Vi Hart's Big Navier-Stokes Post"
+  },
   "50067356": {
     "probability": 0.524,
     "title": "Threat of AI share crash puts world financial stability at risk, says IMF"
@@ -164862,6 +164882,10 @@
   "50069971": {
     "probability": 0.677,
     "title": "An hour of audio transcribed in about 13s on MacBook Air"
+  },
+  "50070010": {
+    "probability": 0.542,
+    "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits"
   },
   "50070287": {
     "probability": 0.503,
@@ -164935,6 +164959,10 @@
     "probability": 0.764,
     "title": "Show HN: How Random Are You?"
   },
+  "50075665": {
+    "probability": 0.599,
+    "title": "Show HN: XY Music Notation"
+  },
   "50076048": {
     "probability": 0.513,
     "title": "A plea not to use uv-build"
@@ -164943,6 +164971,14 @@
     "probability": 0.736,
     "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard"
   },
+  "50077096": {
+    "probability": 0.618,
+    "title": "The Four Colour Theorem: The first time machines mogged mathematicians"
+  },
+  "50077619": {
+    "probability": 0.903,
+    "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add"
+  },
   "50077703": {
     "probability": 0.831,
     "title": "OpenAI finds recording device in one of their offices"
@@ -164950,5 +164986,77 @@
   "50078141": {
     "probability": 0.756,
     "title": "OpenAI engineer arrested in bugging of executive conference room"
+  },
+  "50078691": {
+    "probability": 0.276,
+    "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout and turn to open source"
+  },
+  "50079437": {
+    "probability": 0.889,
+    "title": "Physical Intelligence API Beta: Frontier Models for Every Robot"
+  },
+  "50079464": {
+    "probability": 0.685,
+    "title": "AlphaNIST"
+  },
+  "50079865": {
+    "probability": 0.427,
+    "title": "Recreational Programming"
+  },
+  "50080007": {
+    "probability": 0.303,
+    "title": "Grace Hopper Celebration Cancelled"
+  },
+  "50080275": {
+    "probability": 0.844,
+    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine"
+  },
+  "50081054": {
+    "probability": 0.281,
+    "title": "Topgolf saved over $11.3M after leaving VMware"
+  },
+  "50081092": {
+    "probability": 0.552,
+    "title": "Do Frameworks Matter Anymore?"
+  },
+  "50081151": {
+    "probability": 0.921,
+    "title": "Show HN: I built a tool to track what AI leaders say and how their views change"
+  },
+  "50081930": {
+    "probability": 0.892,
+    "title": "Is 'Attention' the Essence of Intelligence?"
+  },
+  "50082470": {
+    "probability": 0.492,
+    "title": "Felix Rieseberg Homepage"
+  },
+  "50082962": {
+    "probability": 0.853,
+    "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse"
+  },
+  "50083028": {
+    "probability": 0.721,
+    "title": "Why is every rationalist blog post way too long?"
+  },
+  "50083130": {
+    "probability": 0.377,
+    "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs"
+  },
+  "50083766": {
+    "probability": 0.214,
+    "title": "Why Sweden is abandoning its cashless society"
+  },
+  "50084240": {
+    "probability": 0.348,
+    "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font"
+  },
+  "50084622": {
+    "probability": 0.326,
+    "title": "Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX"
+  },
+  "50084757": {
+    "probability": 0.285,
+    "title": "Amazon pushes up prices across the Internet"
   }
 }

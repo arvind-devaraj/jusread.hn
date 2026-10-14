@@ -1,0 +1,6 @@
+Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine  (107 pts, 68 comments)
+https://news.ycombinator.com/item?id=50080275
+
+The Hacker News discussion centers around Pulse Local, a new Mac budgeting app developed by Niz that operates entirely on the user's machine, ensuring privacy by not sending data or analytics externally. The app allows users to import bank transaction data via CSV and utilizes AI models to answer spending-related questions. It offers a local mode that requires no account and an optional connected mode for syncing with US banks through Plaid.
+
+In the comments, users express both support and skepticism. Some appreciate the focus on local data processing and privacy, while others raise concerns about the cumbersome process of importing data from multiple banks and the app's reliance on large model downloads. Suggestions for improving connectivity and user experience, such as integrating with existing financial APIs, are also discussed. Notably, some users question the effectiveness of AI models for budgeting tasks, arguing that traditional reports and charts may suffice for their needs. Overall, the conversation highlights a mix of enthusiasm for privacy-focused applications and practical concerns about usability and data management.
