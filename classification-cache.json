@@ -164551,6 +164551,10 @@
     "probability": 0.559,
     "title": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
   },
+  "50050553": {
+    "probability": 0.656,
+    "title": "Do dentists know what they're doing?"
+  },
   "50051172": {
     "probability": 0.455,
     "title": "X Is Bad, Though"
@@ -164611,6 +164615,10 @@
     "probability": 0.183,
     "title": "Deloitte falsified documents to evade tax on Abramovich's wealth"
   },
+  "50054465": {
+    "probability": 0.23,
+    "title": "Phloem: Git history grown like a slime mold"
+  },
   "50054474": {
     "probability": 0.362,
     "title": "Living in the Weimar Era of Ruby"
@@ -164639,6 +164647,10 @@
     "probability": 0.548,
     "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver"
   },
+  "50055632": {
+    "probability": 0.442,
+    "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)"
+  },
   "50055654": {
     "probability": 0.608,
     "title": "AI less regulated than milk, Microsoft president says in warning over safety"
@@ -164654,6 +164666,10 @@
   "50057030": {
     "probability": 0.555,
     "title": "An Unmade Film Shaped Hayao Miyazaki"
+  },
+  "50057119": {
+    "probability": 0.396,
+    "title": "Maybe a better way to track the release history of a Git repo"
   },
   "50057278": {
     "probability": 0.774,
@@ -164758,6 +164774,10 @@
   "50063042": {
     "probability": 0.45,
     "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser"
+  },
+  "50063104": {
+    "probability": 0.379,
+    "title": "Kcgi – minimal CGI and FastCGI library for C/C++"
   },
   "50063138": {
     "probability": 0.598,
@@ -164907,6 +164927,10 @@
     "probability": 0.449,
     "title": "BB(10) > Graham's Number"
   },
+  "50070918": {
+    "probability": 0.267,
+    "title": "Grace Hopper Celebration (GHC) 2026 Cancelled"
+  },
   "50071017": {
     "probability": 0.674,
     "title": "Apple HomeView"
@@ -164915,9 +164939,17 @@
     "probability": 0.458,
     "title": "New Apple TV 4K"
   },
+  "50071466": {
+    "probability": 0.435,
+    "title": "Same Job, Two Engines: InnoDB and Iceberg Internals"
+  },
   "50072120": {
     "probability": 0.906,
     "title": "How to engineer an AI harness for game development"
+  },
+  "50072229": {
+    "probability": 0.319,
+    "title": "A Book That Will Never Be Read"
   },
   "50072286": {
     "probability": 0.249,
@@ -165051,6 +165083,10 @@
     "probability": 0.348,
     "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font"
   },
+  "50084416": {
+    "probability": 0.677,
+    "title": "What agents mean for Rust (and vice versa)"
+  },
   "50084622": {
     "probability": 0.326,
     "title": "Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX"
@@ -165058,5 +165094,177 @@
   "50084757": {
     "probability": 0.285,
     "title": "Amazon pushes up prices across the Internet"
+  },
+  "50084838": {
+    "probability": 0.424,
+    "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?"
+  },
+  "50085022": {
+    "probability": 0.752,
+    "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code"
+  },
+  "50085259": {
+    "probability": 0.256,
+    "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\""
+  },
+  "50085306": {
+    "probability": 0.517,
+    "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)"
+  },
+  "50085323": {
+    "probability": 0.637,
+    "title": "TV4 postpones show after AI agent erases edited material"
+  },
+  "50086165": {
+    "probability": 0.689,
+    "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW"
+  },
+  "50086313": {
+    "probability": 0.462,
+    "title": "Smart people don't think others are stupid (2012)"
+  },
+  "50086363": {
+    "probability": 0.42,
+    "title": "Nvidia's first GPU: GeForce 256"
+  },
+  "50086794": {
+    "probability": 0.33,
+    "title": "CPI-U rises 7.2% annualized in September (3.7% YoY)"
+  },
+  "50087044": {
+    "probability": 0.303,
+    "title": "RIP Eric Binnion"
+  },
+  "50087328": {
+    "probability": 0.561,
+    "title": "Switzerland proposes banning profiling-based ads to minors"
+  },
+  "50087336": {
+    "probability": 0.269,
+    "title": "Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff"
+  },
+  "50087524": {
+    "probability": 0.631,
+    "title": "Apple Keynote now showing ads in its UI"
+  },
+  "50088430": {
+    "probability": 0.545,
+    "title": "ASML's strong orders ease fears AI spending boom is running out of steam"
+  },
+  "50088501": {
+    "probability": 0.297,
+    "title": "Ukraine says new Starlink restrictions disrupt their military"
+  },
+  "50088534": {
+    "probability": 0.56,
+    "title": "AI is mass decompiling games. That's both awesome and scary"
+  },
+  "50088643": {
+    "probability": 0.44,
+    "title": "Running Windows desktop tests from Linux with disposable VMs"
+  },
+  "50088935": {
+    "probability": 0.686,
+    "title": "Passkeys are not a trap"
+  },
+  "50089229": {
+    "probability": 0.22,
+    "title": "Submarine cable resilience"
+  },
+  "50089395": {
+    "probability": 0.717,
+    "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work"
+  },
+  "50089921": {
+    "probability": 0.261,
+    "title": "Americans' social activity has steeply declined in the past 30 years"
+  },
+  "50090084": {
+    "probability": 0.465,
+    "title": "Amsterdam police confiscates server left-wing ISP A/I at American request"
+  },
+  "50090246": {
+    "probability": 0.419,
+    "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program"
+  },
+  "50090349": {
+    "probability": 0.52,
+    "title": "Google is silently linking your phone number across all signed-in accounts"
+  },
+  "50090369": {
+    "probability": 0.382,
+    "title": "Better HTTP/1 connection reuse in Go 1.27"
+  },
+  "50090443": {
+    "probability": 0.667,
+    "title": "Why do LLM pelicans look like this?"
+  },
+  "50090662": {
+    "probability": 0.724,
+    "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges"
+  },
+  "50090799": {
+    "probability": 0.886,
+    "title": "Has AI tells"
+  },
+  "50090842": {
+    "probability": 0.573,
+    "title": "Linus Torvalds's first LLM-assisted patch series"
+  },
+  "50090932": {
+    "probability": 0.7,
+    "title": "Show HN: I wrote an email app that accepts only one sender per inbox"
+  },
+  "50091788": {
+    "probability": 0.755,
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts"
+  },
+  "50091794": {
+    "probability": 0.469,
+    "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent"
+  },
+  "50091875": {
+    "probability": 0.189,
+    "title": "America didn't lose its rare earth industry, it sold it"
+  },
+  "50092415": {
+    "probability": 0.252,
+    "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks"
+  },
+  "50092470": {
+    "probability": 0.588,
+    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free"
+  },
+  "50092664": {
+    "probability": 0.486,
+    "title": "Banks are now trying to offload the AI data center debt they just underwrote"
+  },
+  "50092730": {
+    "probability": 0.197,
+    "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland"
+  },
+  "50092847": {
+    "probability": 0.355,
+    "title": "How the Military Will Hack the Election"
+  },
+  "50093180": {
+    "probability": 0.235,
+    "title": "Suicide rates highest ever among middle-aged men"
+  },
+  "50093568": {
+    "probability": 0.272,
+    "title": "Things to know when you get cancer – 2026 Edition"
+  },
+  "50094673": {
+    "probability": 0.333,
+    "title": "Yandex outage: data shows that instead of going dark, malicious bots moved"
+  },
+  "50094694": {
+    "probability": 0.766,
+    "title": "Anthropic's Scion is heavily inspired by Mononoke"
+  },
+  "50094994": {
+    "probability": 0.509,
+    "title": "OpenCode 2.0"
   }
 }
