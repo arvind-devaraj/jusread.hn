@@ -1,0 +1,8 @@
+Siri is so bad at everything  (112 pts, 100 comments)
+https://news.ycombinator.com/item?id=50104465
+
+The Hacker News discussion revolves around frustrations with Siri's performance and reliability as a voice assistant. Many users express dissatisfaction with Siri's inability to perform basic tasks efficiently, such as setting timers or making calls, often citing errors and delays that hinder usability. 
+
+Commenters generally agree that Siri has become less effective, with some suggesting that newer AI voice assistants, like ChatGPT's Voice Mode and Grok, outperform Siri in terms of responsiveness and functionality. There is a notable debate about the integration of these newer assistants with existing devices, with some users lamenting that while they may be more capable, they lack the seamless integration that Siri offers with Apple products.
+
+Several users highlight specific issues, such as Siri's inconsistent command recognition and slow response times, which have led them to consider alternatives or abandon Siri altogether. Insights shared include the idea that Siri's transition to a more AI-driven model may have complicated its performance, making it less reliable for straightforward tasks. Overall, the discussion reflects a broader sentiment of disappointment with Siri's current state and a desire for improvements in voice assistant technology.

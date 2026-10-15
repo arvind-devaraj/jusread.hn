@@ -164483,6 +164483,10 @@
     "probability": 0.807,
     "title": "The gap in shared understanding of LLM capability is widening"
   },
+  "50047576": {
+    "probability": 0.443,
+    "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl"
+  },
   "50047664": {
     "probability": 0.618,
     "title": "Auto Research: Integer multiplication below n log n"
@@ -164699,6 +164703,10 @@
     "probability": 0.233,
     "title": "A Modern Web App in C"
   },
+  "50058531": {
+    "probability": 0.412,
+    "title": "The Haunted Toys R Us"
+  },
   "50058850": {
     "probability": 0.704,
     "title": "Reverse engineer anything with agents, from app behavior down to native binaries"
@@ -164750,6 +164758,10 @@
   "50060694": {
     "probability": 0.484,
     "title": "Codex CLI installs a persistent, self-updating background daemon by default"
+  },
+  "50060923": {
+    "probability": 0.67,
+    "title": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface"
   },
   "50061278": {
     "probability": 0.524,
@@ -164943,6 +164955,14 @@
     "probability": 0.597,
     "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs"
   },
+  "50070625": {
+    "probability": 0.303,
+    "title": "Wanted to download an ISO, ended up writing a kernel exploit"
+  },
+  "50070661": {
+    "probability": 0.207,
+    "title": "It took me nine years to hack my Xbox 360"
+  },
   "50070741": {
     "probability": 0.449,
     "title": "BB(10) > Graham's Number"
@@ -164955,6 +164975,10 @@
     "probability": 0.674,
     "title": "Apple HomeView"
   },
+  "50071068": {
+    "probability": 0.533,
+    "title": "Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster"
+  },
   "50071310": {
     "probability": 0.458,
     "title": "New Apple TV 4K"
@@ -164962,6 +164986,10 @@
   "50071466": {
     "probability": 0.435,
     "title": "Same Job, Two Engines: InnoDB and Iceberg Internals"
+  },
+  "50071546": {
+    "probability": 0.363,
+    "title": "Your C is not standard C"
   },
   "50072120": {
     "probability": 0.906,
@@ -165127,6 +165155,10 @@
     "probability": 0.326,
     "title": "Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX"
   },
+  "50084674": {
+    "probability": 0.586,
+    "title": "Why I Wrote PGP (1991, revised 1999)"
+  },
   "50084757": {
     "probability": 0.285,
     "title": "Amazon pushes up prices across the Internet"
@@ -165183,9 +165215,17 @@
     "probability": 0.269,
     "title": "Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff"
   },
+  "50087337": {
+    "probability": 0.525,
+    "title": "Scientists are teaching birds to sing lost songs"
+  },
   "50087524": {
     "probability": 0.631,
     "title": "Apple Keynote now showing ads in its UI"
+  },
+  "50088166": {
+    "probability": 0.412,
+    "title": "Gaming on Linux without cheating"
   },
   "50088430": {
     "probability": 0.545,
@@ -165354,5 +165394,137 @@
   "50100791": {
     "probability": 0.785,
     "title": "AI was great until it was not"
+  },
+  "50101813": {
+    "probability": 0.632,
+    "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware"
+  },
+  "50102247": {
+    "probability": 0.662,
+    "title": "Show HN: Unfenced – Land for sale that borders public land"
+  },
+  "50102423": {
+    "probability": 0.276,
+    "title": "Ubuntu 26.10 (Stonking Stingray) released"
+  },
+  "50102854": {
+    "probability": 0.284,
+    "title": "X purges 13,000 accounts linked to suspected meddling ahead of US midterms"
+  },
+  "50102923": {
+    "probability": 0.401,
+    "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support"
+  },
+  "50103000": {
+    "probability": 0.451,
+    "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say"
+  },
+  "50103164": {
+    "probability": 0.625,
+    "title": "C++26 Contracts: Introduction to Preconditions and Postconditions"
+  },
+  "50103338": {
+    "probability": 0.55,
+    "title": "Wayland desktop for Linux with skeuomorphic design"
+  },
+  "50103630": {
+    "probability": 0.255,
+    "title": "I know why the mathematicians weep"
+  },
+  "50104299": {
+    "probability": 0.905,
+    "title": "Using AI to reverse engineer hardware"
+  },
+  "50104310": {
+    "probability": 0.392,
+    "title": "Prompt injection in HTTP headers: what 217M web responses show"
+  },
+  "50104465": {
+    "probability": 0.82,
+    "title": "Siri is so bad at everything"
+  },
+  "50104654": {
+    "probability": 0.782,
+    "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era"
+  },
+  "50104726": {
+    "probability": 0.301,
+    "title": "Celebrating 70 Years of Fortran"
+  },
+  "50105344": {
+    "probability": 0.402,
+    "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one"
+  },
+  "50105467": {
+    "probability": 0.502,
+    "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering"
+  },
+  "50105635": {
+    "probability": 0.371,
+    "title": "Steam Client is now faster than Epic's new vibe coded launcher"
+  },
+  "50105647": {
+    "probability": 0.828,
+    "title": "Neural networks are clean"
+  },
+  "50105648": {
+    "probability": 0.746,
+    "title": "Krea 3 – An image model built for editing at scale"
+  },
+  "50105701": {
+    "probability": 0.276,
+    "title": "Israeli Firms Placed Spyware at Al Jazeera via Ads, Report Says"
+  },
+  "50105777": {
+    "probability": 0.361,
+    "title": "The technical actions needed to ensure the continuity of UTC"
+  },
+  "50105900": {
+    "probability": 0.36,
+    "title": "Market selloff, rising rates test AI data centre deal boom"
+  },
+  "50106023": {
+    "probability": 0.62,
+    "title": "Jev meets the Trolley Problem"
+  },
+  "50106620": {
+    "probability": 0.616,
+    "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date"
+  },
+  "50106676": {
+    "probability": 0.331,
+    "title": "An Israeli firm is sending zero-click spyware through online ads"
+  },
+  "50106738": {
+    "probability": 0.714,
+    "title": "More on Anthropic's Scion ripping off Mononoke"
+  },
+  "50107379": {
+    "probability": 0.622,
+    "title": "Muse Spark Open"
+  },
+  "50108131": {
+    "probability": 0.758,
+    "title": "Why We're Banning AI"
+  },
+  "50108229": {
+    "probability": 0.39,
+    "title": "E Ink Kaleido 4"
+  },
+  "50108491": {
+    "probability": 0.279,
+    "title": "We are entering a period of overlapping crises"
+  },
+  "50108872": {
+    "probability": 0.408,
+    "title": "Someone on Torrent Sites Kept Fucking with My Sonarr"
+  },
+  "50109375": {
+    "probability": 0.334,
+    "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing"
+  },
+  "50109707": {
+    "probability": 0.381,
+    "title": "Why are we even doing all this?"
   }
 }

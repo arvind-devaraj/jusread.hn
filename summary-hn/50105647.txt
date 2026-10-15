@@ -1,0 +1,8 @@
+Neural networks are clean  (377 pts, 121 comments)
+https://news.ycombinator.com/item?id=50105647
+
+The Hacker News discussion revolves around an article titled "Neural networks are clean," which argues that modern neural networks (NNs) are more interpretable than their predecessors. The term "clean" is debated, with some commenters suggesting it implies that each neuron in a network encodes a distinct concept, making it easier to understand the model's behavior.
+
+In the comments, there is significant debate about the validity of the article's claims. Some users, like "lucrbvi," agree that modern NNs are more interpretable, while others, such as "jsrozner," challenge the reliability of techniques like Sparse Autoencoders, arguing that they do not provide true interpretability. The discussion also touches on the complexity of understanding neural activations and the limitations of post-hoc explanations versus mechanistic interpretability.
+
+Notable insights include the distinction between neurons encoding single concepts versus overlapping representations, with some commenters arguing that the assumption of clean separability may oversimplify the nature of neural representations. Overall, the conversation highlights a mix of skepticism and support for the article's optimistic view on neural network interpretability, reflecting ongoing debates in the field of AI research.
