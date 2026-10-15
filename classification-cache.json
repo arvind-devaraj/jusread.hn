@@ -164599,6 +164599,10 @@
     "probability": 0.394,
     "title": "Fable Took My Job"
   },
+  "50053384": {
+    "probability": 0.539,
+    "title": "Catch a Bird – I made it for my own sanity"
+  },
   "50053487": {
     "probability": 0.437,
     "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)"
@@ -164735,6 +164739,10 @@
     "probability": 0.875,
     "title": "Just say no to OpenAI and Anthropic"
   },
+  "50060547": {
+    "probability": 0.475,
+    "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction"
+  },
   "50060674": {
     "probability": 0.216,
     "title": "Publishers Killed the Paperback, Then Blamed Readers"
@@ -164815,9 +164823,17 @@
     "probability": 0.405,
     "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20"
   },
+  "50064673": {
+    "probability": 0.389,
+    "title": "The Origin Story of Kid Pix"
+  },
   "50064840": {
     "probability": 0.605,
     "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)"
+  },
+  "50065572": {
+    "probability": 0.532,
+    "title": "LittleJS is 2D and 3D now"
   },
   "50065692": {
     "probability": 0.944,
@@ -164846,6 +164862,10 @@
   "50067098": {
     "probability": 0.555,
     "title": "Vi Hart's Big Navier-Stokes Post"
+  },
+  "50067325": {
+    "probability": 0.892,
+    "title": "Ask HN: CAD for wood working with LLM support?"
   },
   "50067356": {
     "probability": 0.524,
@@ -165015,6 +165035,10 @@
     "probability": 0.831,
     "title": "OpenAI finds recording device in one of their offices"
   },
+  "50077709": {
+    "probability": 0.523,
+    "title": "Donaldson Futuro House in Idyllwild, California, USA"
+  },
   "50078141": {
     "probability": 0.756,
     "title": "OpenAI engineer arrested in bugging of executive conference room"
@@ -165022,6 +165046,10 @@
   "50078691": {
     "probability": 0.276,
     "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout and turn to open source"
+  },
+  "50078757": {
+    "probability": 0.247,
+    "title": "Marshall Islands Stick Chart"
   },
   "50079437": {
     "probability": 0.889,
@@ -165051,6 +165079,10 @@
     "probability": 0.552,
     "title": "Do Frameworks Matter Anymore?"
   },
+  "50081133": {
+    "probability": 0.233,
+    "title": "High-speed video reveals how honey bee stingers pump venom"
+  },
   "50081151": {
     "probability": 0.921,
     "title": "Show HN: I built a tool to track what AI leaders say and how their views change"
@@ -165058,6 +165090,10 @@
   "50081930": {
     "probability": 0.892,
     "title": "Is 'Attention' the Essence of Intelligence?"
+  },
+  "50082021": {
+    "probability": 0.43,
+    "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord"
   },
   "50082470": {
     "probability": 0.492,
@@ -165106,6 +165142,10 @@
   "50085259": {
     "probability": 0.256,
     "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\""
+  },
+  "50085296": {
+    "probability": 0.669,
+    "title": "I let an AI run my startup for a week"
   },
   "50085306": {
     "probability": 0.517,
@@ -165231,6 +165271,10 @@
     "probability": 0.252,
     "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks"
   },
+  "50092423": {
+    "probability": 0.483,
+    "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack"
+  },
   "50092470": {
     "probability": 0.588,
     "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free"
@@ -165255,6 +165299,10 @@
     "probability": 0.272,
     "title": "Things to know when you get cancer – 2026 Edition"
   },
+  "50093612": {
+    "probability": 0.385,
+    "title": "Fancy Curl Sites"
+  },
   "50094673": {
     "probability": 0.333,
     "title": "Yandex outage: data shows that instead of going dark, malicious bots moved"
@@ -165266,5 +165314,45 @@
   "50094994": {
     "probability": 0.509,
     "title": "OpenCode 2.0"
+  },
+  "50095034": {
+    "probability": 0.336,
+    "title": "Sally Rooney can no longer sell books in UK due to Palestine Action support"
+  },
+  "50095353": {
+    "probability": 0.535,
+    "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers"
+  },
+  "50096142": {
+    "probability": 0.454,
+    "title": "Tiny Little Office"
+  },
+  "50097369": {
+    "probability": 0.793,
+    "title": "LFM2.5-24B-A2B: Built for fast on-device agents"
+  },
+  "50097880": {
+    "probability": 0.45,
+    "title": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive"
+  },
+  "50098274": {
+    "probability": 0.519,
+    "title": "The Double Headed Stack Allocator"
+  },
+  "50098570": {
+    "probability": 0.402,
+    "title": "One in ten people are older than 65. Three in four live under a leader who is"
+  },
+  "50099121": {
+    "probability": 0.409,
+    "title": "An Apology"
+  },
+  "50099136": {
+    "probability": 0.671,
+    "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing"
+  },
+  "50100791": {
+    "probability": 0.785,
+    "title": "AI was great until it was not"
   }
 }

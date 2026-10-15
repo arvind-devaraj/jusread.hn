@@ -1,0 +1,8 @@
+Ask HN: CAD for wood working with LLM support?  (85 pts, 78 comments)
+https://news.ycombinator.com/item?id=50067325
+
+The Hacker News discussion revolves around a hobbyist woodworker seeking advice on using AI, specifically large language models (LLMs), to enhance the design process for 3D models in woodworking. The original poster expresses a desire to find tools that can streamline their manual design efforts in Shapr3D.
+
+In the comments, several users share their experiences with various CAD tools that incorporate AI. Notable mentions include FluidCAD, developed by a commenter, which allows integration with LLMs and is designed for woodworking projects. Another tool, ShopSpec, is highlighted for its focus on parametric furniture building. Users express enthusiasm for these tools, while also pointing out limitations, such as the need for metric support and the absence of certain design features like curved edges. 
+
+Overall, the discussion showcases a growing interest in leveraging AI for woodworking design, with users sharing insights on different tools and their capabilities. There is a consensus on the potential of AI to improve the design process, but also a recognition of the current limitations and the need for further development in these tools.
