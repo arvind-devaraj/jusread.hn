@@ -164275,6 +164275,10 @@
     "probability": 0.575,
     "title": "Ask HN: Why aren't Americans rising up against tipping?"
   },
+  "50038473": {
+    "probability": 0.581,
+    "title": "Veda: The First Agentic Hobby Operating System"
+  },
   "50038623": {
     "probability": 0.374,
     "title": "PSPi 6 – Raspberry Pi in a PSP"
@@ -164831,6 +164835,10 @@
     "probability": 0.8,
     "title": "Show HN: An experimental pattern-first DAW that supports MCP"
   },
+  "50064470": {
+    "probability": 0.497,
+    "title": "Show HN: Indigene – Native plants for where you stand"
+  },
   "50064536": {
     "probability": 0.405,
     "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20"
@@ -164858,6 +164866,10 @@
   "50065805": {
     "probability": 0.356,
     "title": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024"
+  },
+  "50065859": {
+    "probability": 0.564,
+    "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]"
   },
   "50065892": {
     "probability": 0.353,
@@ -164895,6 +164907,10 @@
     "probability": 0.725,
     "title": "Character.ai files for Chapter 11 bankruptcy"
   },
+  "50068203": {
+    "probability": 0.455,
+    "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat"
+  },
   "50068437": {
     "probability": 0.576,
     "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?"
@@ -164922,6 +164938,10 @@
   "50069337": {
     "probability": 0.893,
     "title": "Show HN: Use your OpenAI subscription to create audiobooks"
+  },
+  "50069439": {
+    "probability": 0.446,
+    "title": "Major ICQ security hole (1998)"
   },
   "50069499": {
     "probability": 0.467,
@@ -164991,6 +165011,10 @@
     "probability": 0.363,
     "title": "Your C is not standard C"
   },
+  "50072119": {
+    "probability": 0.296,
+    "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds"
+  },
   "50072120": {
     "probability": 0.906,
     "title": "How to engineer an AI harness for game development"
@@ -165039,6 +165063,10 @@
     "probability": 0.764,
     "title": "Show HN: How Random Are You?"
   },
+  "50075392": {
+    "probability": 0.425,
+    "title": "The largest eagle hunted unlike any other bird of prey (2021)"
+  },
   "50075665": {
     "probability": 0.599,
     "title": "Show HN: XY Music Notation"
@@ -165054,6 +165082,10 @@
   "50077096": {
     "probability": 0.618,
     "title": "The Four Colour Theorem: The first time machines mogged mathematicians"
+  },
+  "50077225": {
+    "probability": 0.429,
+    "title": "Yet another way to invoke functions without parentheses"
   },
   "50077619": {
     "probability": 0.903,
@@ -165087,6 +165119,10 @@
     "probability": 0.685,
     "title": "AlphaNIST"
   },
+  "50079701": {
+    "probability": 0.461,
+    "title": "The First Social Network: In rural Argentina residents send messages w AM radio"
+  },
   "50079865": {
     "probability": 0.427,
     "title": "Recreational Programming"
@@ -165095,9 +165131,17 @@
     "probability": 0.303,
     "title": "Grace Hopper Celebration Cancelled"
   },
+  "50080155": {
+    "probability": 0.278,
+    "title": "Delta’s Biscoff cookies were supposed to be temporary"
+  },
   "50080275": {
     "probability": 0.844,
     "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine"
+  },
+  "50081045": {
+    "probability": 0.58,
+    "title": "Creating a Garmin \"MCP\""
   },
   "50081054": {
     "probability": 0.281,
@@ -165126,6 +165170,10 @@
   "50082470": {
     "probability": 0.492,
     "title": "Felix Rieseberg Homepage"
+  },
+  "50082637": {
+    "probability": 0.253,
+    "title": "The 8-mile hole in a Hawaii national park that no one can explain"
   },
   "50082962": {
     "probability": 0.853,
@@ -165170,6 +165218,10 @@
   "50085022": {
     "probability": 0.752,
     "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code"
+  },
+  "50085171": {
+    "probability": 0.606,
+    "title": "Game of Life – But Multiplayer, Hypermedia and Python"
   },
   "50085259": {
     "probability": 0.256,
@@ -165367,9 +165419,17 @@
     "probability": 0.454,
     "title": "Tiny Little Office"
   },
+  "50096300": {
+    "probability": 0.67,
+    "title": "Show HN: Ito – Build Terminal UIs in Lua"
+  },
   "50097369": {
     "probability": 0.793,
     "title": "LFM2.5-24B-A2B: Built for fast on-device agents"
+  },
+  "50097843": {
+    "probability": 0.497,
+    "title": "The engineering that allows articulated buses to bend"
   },
   "50097880": {
     "probability": 0.45,
@@ -165503,6 +165563,10 @@
     "probability": 0.622,
     "title": "Muse Spark Open"
   },
+  "50108080": {
+    "probability": 0.396,
+    "title": "ICE's Lies About a Man Officer Ran over Undone by Footage from CCTV Camera"
+  },
   "50108131": {
     "probability": 0.758,
     "title": "Why We're Banning AI"
@@ -165526,5 +165590,61 @@
   "50109707": {
     "probability": 0.381,
     "title": "Why are we even doing all this?"
+  },
+  "50109715": {
+    "probability": 0.415,
+    "title": "What I self-host"
+  },
+  "50111742": {
+    "probability": 0.508,
+    "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox"
+  },
+  "50111852": {
+    "probability": 0.41,
+    "title": "Meta’s new commercial terms will allow the scraping of news sites: experts"
+  },
+  "50112227": {
+    "probability": 0.342,
+    "title": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans"
+  },
+  "50112330": {
+    "probability": 0.428,
+    "title": "RPKI now protects 70% of internet routes"
+  },
+  "50112331": {
+    "probability": 0.418,
+    "title": "Thank You, Deno"
+  },
+  "50112657": {
+    "probability": 0.563,
+    "title": "Tesla Roadster"
+  },
+  "50112739": {
+    "probability": 0.57,
+    "title": "Any window from your Mac, on your iPhone and iPad"
+  },
+  "50112887": {
+    "probability": 0.316,
+    "title": "Comparing Chromium Development at Google and Igalia"
+  },
+  "50112963": {
+    "probability": 0.588,
+    "title": "Woman arrested after blocking delivery robot in Center City Philadelphia"
+  },
+  "50114077": {
+    "probability": 0.693,
+    "title": "Tesla makes cars that fly? [video]"
+  },
+  "50114342": {
+    "probability": 0.517,
+    "title": "The Folders Programming Language"
+  },
+  "50114359": {
+    "probability": 0.179,
+    "title": "Last rites for Gentoo's Chromium package"
+  },
+  "50115144": {
+    "probability": 0.388,
+    "title": "The insider trading you're allowed to do"
   }
 }
